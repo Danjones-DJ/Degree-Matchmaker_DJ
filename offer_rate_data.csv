@@ -1,0 +1,413 @@
+kiscourseid,url,university,offer_rate_clean
+UBAHISSANC18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/ancient-history-ba,University College London,58
+UBALNGSANA18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/ancient-languages-ba,University College London,78.5
+UBSANTSING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/anthropology-bsc,University College London,64
+UBSMEDSAPP18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/applied-medical-sciences-bsc,University College London,76
+UBAARLAANT18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/archaeology-and-anthropology-ba,University College London,84
+UBAARLSABR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/archaeology-ba,University College London,51.33
+UBSARLSING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/archaeology-bsc,University College London,77
+UBSARCSAIA18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/architectural-and-interdisciplinary-studies-bsc,University College London,9.5
+UBSARCSING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/architecture-bsc,University College London,11
+UMSARCSING19,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/architecture-msci,University College London,15
+UBAARTATEC18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/art-and-technology-ba,University College London,Data Not Available
+UBBASCSING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/arts-and-sciences-basc,University College London,69
+UBBASCSABR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/arts-and-sciences-study-abroad-basc,University College London,69
+UBSASTSPHY18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/astrophysics-bsc,University College London,34
+UMSASTSPHY18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/astrophysics-msci,University College London,41
+UBSAUDSING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/audiology-bsc,University College London,57
+UBLLAWSHKD18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bachelor-laws-ucl-and-bachelor-laws-hku-llb,University College London,Data Not Available
+UBNBENSING22,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/biochemical-engineering-beng,University College London,77
+UMNBENSING22,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/biochemical-engineering-meng,University College London,87
+UBSBOCSING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/biochemistry-bsc,University College London,37
+UMSBOCSING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/biochemistry-msci,University College London,39
+UBSBOLSING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/biological-sciences-bsc,University College London,34
+UMSBOLSING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/biological-sciences-msci,University College London,46
+UBNBMDSING22,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/biomedical-engineering-beng,University College London,42
+UMNBMDSING22,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/biomedical-engineering-meng,University College London,50
+UBSBMDSSCI18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/biomedical-sciences-bsc,University College London,29
+UBSBIPSMBM18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bioprocessing-new-medicines-business-and-management-bsc,University College London,Data Not Available
+UBABULACZE18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bulgarian-and-czech-ba,University College London,63
+UBABULADAN18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bulgarian-and-danish-ba,University College London,Data Not Available
+UBABULADUT18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bulgarian-and-dutch-ba,University College London,Data Not Available
+UBABULAEES18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bulgarian-and-east-european-studies-ba,University College London,63
+UBABULAFIN18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bulgarian-and-finnish-ba,University College London,Data Not Available
+UBABULAFRE18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bulgarian-and-french-ba,University College London,Data Not Available
+UBABULAGER18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bulgarian-and-german-ba,University College London,63
+UBABULAHEB18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bulgarian-and-hebrew-ba,University College London,Data Not Available
+UBABULAHUN18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bulgarian-and-hungarian-ba,University College London,63
+UBABULAITA18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bulgarian-and-italian-ba,University College London,Data Not Available
+UBABULANOR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bulgarian-and-norwegian-ba,University College London,Data Not Available
+UBABULAPOL18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bulgarian-and-polish-ba,University College London,63
+UBABULAPOR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bulgarian-and-portuguese-ba,University College London,Data Not Available
+UBABULAROM18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bulgarian-and-romanian-ba,University College London,Data Not Available
+UBABULARUS18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bulgarian-and-russian-ba,University College London,63
+UBABULASRB18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bulgarian-and-serbian-croatian-ba,University College London,Data Not Available
+UBABULASPA18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bulgarian-and-spanish-ba,University College London,Data Not Available
+UBABULASWE18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bulgarian-and-swedish-ba,University College London,Data Not Available
+UBABULAUKR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bulgarian-and-ukrainian-ba,University College London,Data Not Available
+UBABULAYID18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bulgarian-and-yiddish-ba,University College London,Data Not Available
+UBSBUSAHEA01,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/business-and-health-bsc,University College London,Data Not Available
+UMSBUSAHEA01,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/business-and-health-msci,University College London,Data Not Available
+UBSCANSBMD18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/cancer-biomedicine-bsc,University College London,68
+UBNCENSING22,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemical-engineering-beng,University College London,25
+UMNCENSING22,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemical-engineering-meng,University College London,41
+UBSCHESING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-bsc,University College London,51
+UMSCHESINT18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-international-programme-msci,University College London,69
+UBSCHEWMAN18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-management-studies-bsc,University College London,28
+UMSCHEWMAN18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-management-studies-msci,University College London,48
+UBSCHEWMAT18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc,University College London,47
+UMSCHEWMAT18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-msci,University College London,66
+UMSCHESING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-msci,University College London,69
+UBNCIVSING22,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/civil-engineering-beng,University College London,43
+UMNCIVSING22,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/civil-engineering-meng,University College London,60
+UBACLAACLC18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/classical-archaeology-and-classical-civilisation-ba,University College London,83
+UBACLASANC18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/classics-and-ancient-world-ba,University College London,89
+UBACAWWABR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/classics-and-ancient-world-study-abroad-ba,University College London,89
+UBACOMSING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/communications-ba,University College London,Data Not Available
+UBACLTSABR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/comparative-literature-ba,University College London,85
+UBSCOMSING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/computer-science-bsc,University College London,6
+UMNCOMSING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/computer-science-meng,University College London,12
+UMSCPMSING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/construction-project-management-msci,University College London,61
+UBACREAHUM18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/creative-arts-and-humanities-ba,University College London,73
+UBSCSSSING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/crime-and-security-science-bsc,University College London,64
+UBACZEADAN18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/czech-and-danish-ba,University College London,Data Not Available
+UBACZEADUT18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/czech-and-dutch-ba,University College London,Data Not Available
+UBACZEAFIN18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/czech-and-finnish-ba,University College London,Data Not Available
+UBACZEAFRE18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/czech-and-french-ba,University College London,63
+UBACZEAGER18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/czech-and-german-ba,University College London,Data Not Available
+UBACZEAHEB18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/czech-and-hebrew-ba,University College London,63
+UBACZEAHUN18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/czech-and-hungarian-ba,University College London,63
+UBACZEAITA18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/czech-and-italian-ba,University College London,Data Not Available
+UBACZEANOR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/czech-and-norwegian-ba,University College London,Data Not Available
+UBACZEAPOL18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/czech-and-polish-ba,University College London,Data Not Available
+UBACZEAPOR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/czech-and-portuguese-ba,University College London,Data Not Available
+UBACZEAROM18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/czech-and-romanian-ba,University College London,63
+UBACZEARUS18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/czech-and-russian-ba,University College London,63
+UBACZEASRB18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/czech-and-serbian-croatian-ba,University College London,Data Not Available
+UBACZEASPA18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/czech-and-spanish-ba,University College London,63
+UBACZEASWE18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/czech-and-swedish-ba,University College London,Data Not Available
+UBACZEAUKR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/czech-and-ukrainian-ba,University College London,Data Not Available
+UBACZEAYID18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/czech-and-yiddish-ba,University College London,Data Not Available
+UBACZEAEES18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/czech-slovak-and-east-european-studies-ba,University College London,63
+UBADANADUT18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/danish-and-dutch-ba,University College London,60
+UBADANAFIN18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/danish-and-finnish-ba,University College London,Data Not Available
+UBADANAFRE18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/danish-and-french-ba,University College London,63
+UBADANAGER18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/danish-and-german-ba,University College London,63
+UBADANAHEB18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/danish-and-hebrew-ba,University College London,Data Not Available
+UBADANAHUN18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/danish-and-hungarian-ba,University College London,Data Not Available
+UBADANAITA18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/danish-and-italian-ba,University College London,Data Not Available
+UBADANAPOL18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/danish-and-polish-ba,University College London,63
+UBADANAPOR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/danish-and-portuguese-ba,University College London,63
+UBADANAROM18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/danish-and-romanian-ba,University College London,Data Not Available
+UBADANARUS18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/danish-and-russian-ba,University College London,Data Not Available
+UBADANASRB18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/danish-and-serbian-croatian-ba,University College London,Data Not Available
+UBADANASPA18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/danish-and-spanish-ba,University College London,63
+UBADANAUKR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/danish-and-ukrainian-ba,University College London,Data Not Available
+UBADANAYID18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/danish-and-yiddish-ba,University College London,Data Not Available
+UBSDATSING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/data-science-bsc,University College London,12
+UBADUTAENG18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-and-english-ba,University College London,60
+UBADUTAFIN18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-and-finnish-ba,University College London,Data Not Available
+UBADUTAFRE18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-and-french-ba,University College London,63
+UBADUTAGER18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-and-german-ba,University College London,63
+UBADUTAHEB18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-and-hebrew-ba,University College London,Data Not Available
+UBADUTAHAR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-and-history-art-ba,University College London,63
+UBADUTAHUN18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-and-hungarian-ba,University College London,Data Not Available
+UBADUTAITA18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-and-italian-ba,University College London,Data Not Available
+UBADUTALAT18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-and-latin-ba,University College London,Data Not Available
+UBADUTAMAN18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-and-management-studies-ba,University College London,57
+UBADUTANOR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-and-norwegian-ba,University College London,Data Not Available
+UBADUTAPHI18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-and-philosophy-ba,University College London,63
+UBADUTAPOL18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-and-polish-ba,University College London,63
+UBADUTAPOR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-and-portuguese-ba,University College London,Data Not Available
+UBADUTAROM18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-and-romanian-ba,University College London,Data Not Available
+UBADUTARUS18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-and-russian-ba,University College London,60
+UBADUTASRB18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-and-serbian-croatian-ba,University College London,Data Not Available
+UBADUTASPA18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-and-spanish-ba,University College London,63
+UBADUTASWE18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-and-swedish-ba,University College London,Data Not Available
+UBADUTAUKR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-and-ukrainian-ba,University College London,Data Not Available
+UBADUTAYID18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-and-yiddish-ba,University College London,Data Not Available
+UBADUTSING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-ba,University College London,63
+UBADUTWFLM18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-film-studies-ba,University College London,63
+UBADUTWMAN18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-management-studies-ba,University College London,75
+UBAECHSEDU18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/early-childhood-education-ba,University College London,49
+UBSEARSING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc,University College London,51
+UMSEARSINT18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-international-programme-msci,University College London,91
+UMSEARSING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-msci,University College London,91
+UBAEBSWEEA18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/economics-and-business-east-european-studies-ba,University College London,37
+UBEECOASTA18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/economics-and-statistics-bsc-econ,University College London,20
+UBEECOSABR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/economics-bsc-econ,University College London,32
+UBAEDUACUL18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/education-society-and-culture-ba,University College London,53
+UBNEENSEEE22,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/electronic-and-electrical-engineering-beng,University College London,19
+UMNEENSEEE22,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/electronic-and-electrical-engineering-meng,University College London,27
+UMNENGAARD18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/engineering-and-architectural-design-meng,University College London,55
+UBAENGSING05,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/english-ba,University College London,48
+UBSEARSEGS18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/environmental-geoscience-bsc,University College London,39
+UMSEARSEGS18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/environmental-geoscience-msci,University College London,67
+UBAESPSSTU18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/european-social-and-political-studies-ba,University College London,44
+UBAESPSDUA18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/european-social-and-political-studies-dual-degree-ba,University College London,44
+UBSLINSEXP21,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/experimental-linguistics-bsc,University College London,80
+UBSLINSINT18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/experimental-linguistics-international-programme-bsc,University College London,80
+UBAFINSING05,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/fine-art-ba,University College London,3
+UBAFSHAEES18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/finnish-and-east-european-studies-ba,University College London,63
+UBAFINAFRE18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/finnish-and-french-ba,University College London,60
+UBAFINAGER18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/finnish-and-german-ba,University College London,60
+UBAFINAHEB18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/finnish-and-hebrew-ba,University College London,Data Not Available
+UBAFINAHUN18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/finnish-and-hungarian-ba,University College London,Data Not Available
+UBAFINAITA18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/finnish-and-italian-ba,University College London,Data Not Available
+UBAFINANOR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/finnish-and-norwegian-ba,University College London,Data Not Available
+UBAFINAPOL18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/finnish-and-polish-ba,University College London,63
+UBAFINAPOR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/finnish-and-portuguese-ba,University College London,60
+UBAFINAROM18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/finnish-and-romanian-ba,University College London,Data Not Available
+UBAFINARUS18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/finnish-and-russian-ba,University College London,63
+UBAFINASRB18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/finnish-and-serbian-croatian-ba,University College London,Data Not Available
+UBAFINASPA18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/finnish-and-spanish-ba,University College London,63
+UBAFINASWE18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/finnish-and-swedish-ba,University College London,63
+UBAFINAUKR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/finnish-and-ukrainian-ba,University College London,Data Not Available
+UBAFINAYID18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/finnish-and-yiddish-ba,University College London,Data Not Available
+UBAFREAENG18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-and-english-ba,University College London,76
+UBAFREAGER18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-and-german-ba,University College London,70
+UBAFREAHEB18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-and-hebrew-ba,University College London,63
+UBAFREAHAR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-and-history-art-ba,University College London,47
+UBAFREAHUN18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-and-hungarian-ba,University College London,Data Not Available
+UBAFREAITA18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-and-italian-ba,University College London,83
+UBAFREALAT18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-and-latin-ba,University College London,63
+UBAFREANOR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-and-norwegian-ba,University College London,63
+UBAFREAPHI18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-and-philosophy-ba,University College London,85
+UBAFREAPOL18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-and-polish-ba,University College London,63
+UBAFREAPOR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-and-portuguese-ba,University College London,63
+UBAFREAROM18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-and-romanian-ba,University College London,60
+UBAFREARUS18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-and-russian-ba,University College London,94
+UBAFREASRB18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-and-serbian-croatian-ba,University College London,63
+UBAFREASPA18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-and-spanish-ba,University College London,89
+UBAFREASWE18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-and-swedish-ba,University College London,63
+UBAFREAUKR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-and-ukrainian-ba,University College London,Data Not Available
+UBAFREAYID18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-and-yiddish-ba,University College London,Data Not Available
+UBAFRESING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-ba,University College London,88
+UBAFREWFLM18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-film-studies-ba,University College London,52
+UBAFREWMAN18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-management-studies-ba,University College London,59
+UBSGEOAECO18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/geography-and-economics-bsc,University College London,46
+UBAGEOSING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/geography-ba,University College London,78
+UBSGEOSING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/geography-bsc,University College London,77
+UBAGEOSINT18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/geography-international-programme-ba,University College London,78
+UBSGEOSINT18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/geography-international-programme-bsc,University College London,77
+UBSEARSGEL18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/geology-bsc,University College London,60
+UMSEARSGEL18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/geology-msci,University College London,64
+UBSEARSPHY18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/geophysics-bsc,University College London,53
+UMSEARSPHY18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/geophysics-msci,University College London,87
+UBAGERAENG18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/german-and-english-ba,University College London,36
+UBAGERAHEB18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/german-and-hebrew-ba,University College London,60
+UBAGERAHAR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/german-and-history-art-ba,University College London,63
+UBAGERAHUN18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/german-and-hungarian-ba,University College London,63
+UBAGERAITA18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/german-and-italian-ba,University College London,82
+UBAGERALAT18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/german-and-latin-ba,University College London,63
+UBAGERANOR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/german-and-norwegian-ba,University College London,63
+UBAGERAPHI18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/german-and-philosophy-ba,University College London,75
+UBAGERAPOL18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/german-and-polish-ba,University College London,63
+UBAGERAPOR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/german-and-portuguese-ba,University College London,63
+UBAGERAROM18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/german-and-romanian-ba,University College London,60
+UBAGERARUS18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/german-and-russian-ba,University College London,79
+UBAGERASRB18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/german-and-serbian-croatian-ba,University College London,60
+UBAGERASPA18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/german-and-spanish-ba,University College London,88
+UBAGERASWE18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/german-and-swedish-ba,University College London,63
+UBAGERAUKR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/german-and-ukrainian-ba,University College London,63
+UBAGERAYID18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/german-and-yiddish-ba,University College London,Data Not Available
+UBAGERSING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/german-ba,University College London,86
+UBAGERWFLM18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/german-film-studies-ba,University College London,25
+UBAGERWMAN18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/german-management-studies-ba,University College London,82
+UBSGLOSHST18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/global-humanitarian-studies-bsc,University College London,54
+UBAHEBAHUN18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hebrew-and-hungarian-ba,University College London,63
+UBAHEBAITA18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hebrew-and-italian-ba,University College London,63
+UBAHEBAJEW18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hebrew-and-jewish-studies-ba,University College London,90
+UBAHEBANOR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hebrew-and-norwegian-ba,University College London,60
+UBAHEBAPOL18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hebrew-and-polish-ba,University College London,60
+UBAHEBAROM18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hebrew-and-romanian-ba,University College London,Data Not Available
+UBAHEBASRB18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hebrew-and-serbian-croatian-ba,University College London,Data Not Available
+UBAHEBASPA18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hebrew-and-spanish-ba,University College London,63
+UBAHEBASWE18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hebrew-and-swedish-ba,University College London,Data Not Available
+UBAHEBAUKR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hebrew-and-ukrainian-ba,University College London,Data Not Available
+UBSHPSSING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/history-and-philosophy-science-bsc,University College London,71
+UBAHPASING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/history-and-politics-americas-ba,University College London,76.5
+UBAHPAWABR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/history-and-politics-americas-year-abroad-ba,University College London,76.5
+UBAHARSING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/history-art-ba,University College London,81
+UBAHISSING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/history-ba,University College London,82
+UBAHSEAJEW19,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/history-central-and-east-european-and-jewish-studies-year-abroad-ba,University College London,Data Not Available
+UBAHPESING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/history-politics-and-economics-ba,University College London,45
+UBAHISWABR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/history-year-abroad-ba,University College London,82
+UBSHNESING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/human-neuroscience-bsc,University College London,25
+UMSHUMSEVL18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/human-sciences-and-evolution-msci,University College London,43
+UBSHSCSING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/human-sciences-bsc,University College London,67
+UBAHUNAEES18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hungarian-and-east-european-studies-ba,University College London,63
+UBAHUNAITA18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hungarian-and-italian-ba,University College London,60
+UBAHUNANOR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hungarian-and-norwegian-ba,University College London,63
+UBAHUNAPOL18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hungarian-and-polish-ba,University College London,63
+UBAHUNAPOR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hungarian-and-portuguese-ba,University College London,Data Not Available
+UBAHUNAROM18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hungarian-and-romanian-ba,University College London,Data Not Available
+UBAHUNARUS18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hungarian-and-russian-ba,University College London,60
+UBAHUNASRB18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hungarian-and-serbian-croatian-ba,University College London,Data Not Available
+UBAHUNASPA18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hungarian-and-spanish-ba,University College London,63
+UBAHUNASWE18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hungarian-and-swedish-ba,University College London,Data Not Available
+UBAHUNAUKR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hungarian-and-ukrainian-ba,University College London,Data Not Available
+UBAHUNAYID18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hungarian-and-yiddish-ba,University College London,Data Not Available
+UBASCASICE18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/icelandic-ba,University College London,63
+UBSIFCAIMM18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/infection-and-immunity-bsc,University College London,71
+UBSINFSBUS18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/information-management-business-bsc,University College London,18
+UBSINFSING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/information-society-bsc,University College London,45
+UBAINTSSPS18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/international-social-and-political-studies-ba,University College London,64
+UBAITAAHAR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/italian-and-history-art-ba,University College London,62
+UBAITAALAT18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/italian-and-latin-ba,University College London,63
+UBAITAAMAN18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/italian-and-management-studies-ba,University College London,80
+UBAITAANOR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/italian-and-norwegian-ba,University College London,60
+UBAITAAPHI18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/italian-and-philosophy-ba,University College London,88
+UBAITAAPOL18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/italian-and-polish-ba,University College London,63
+UBAITAAPOR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/italian-and-portuguese-ba,University College London,63
+UBAITAAROM18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/italian-and-romanian-ba,University College London,Data Not Available
+UBAITAARUS18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/italian-and-russian-ba,University College London,63
+UBAITAASRB18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/italian-and-serbian-croatian-ba,University College London,Data Not Available
+UBAITAASPA18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/italian-and-spanish-ba,University College London,89
+UBAITAASWE18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/italian-and-swedish-ba,University College London,63
+UBAITAAUKR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/italian-and-ukrainian-ba,University College London,63
+UBAITAAYID18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/italian-and-yiddish-ba,University College London,Data Not Available
+UBAITASING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/italian-ba,University College London,70
+UBAITAWFLM18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/italian-film-studies-ba,University College London,31
+UBAITASDUA18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/italian-studies-ucl-venice-double-degree-ba,University College London,Data Not Available
+UBALNGSCLT18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/language-and-culture-ba,University College London,76
+UBALATAENG18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/latin-and-english-ba,University College London,67
+UBLLAWSFRL18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/law-french-law-llb,University College London,20
+UBLLAWSGRL18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/law-german-law-llb,University College London,35
+UBLLAWSHSL18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/law-hispanic-law-llb,University College London,11
+UBLLAWSING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/law-llb,University College London,13
+UBALINSING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/linguistics-ba,University College London,70.5
+UBALINSINT18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/linguistics-international-programme-ba,University College London,70.5
+UBSMANSING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/management-science-bsc,University College London,22
+UMSMANSING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/management-science-msci,University College London,23
+UMNCOMSMAT18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mathematical-computation-meng,University College London,13
+UBSMATAPHY18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mathematics-and-physics-bsc,University College London,33
+UMSMATAPHY18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mathematics-and-physics-msci,University College London,39
+UBSMATASTA18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mathematics-and-statistical-science-bsc,University College London,28
+UMSMATASTA18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mathematics-and-statistical-science-msci,University College London,30
+UBSMATSING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mathematics-bsc,University College London,45
+UBSMATWECO18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mathematics-economics-bsc,University College London,25
+UMSMATWECO18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mathematics-economics-msci,University College London,24
+UBSMATWMAN18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mathematics-management-studies-bsc,University College London,29
+UMSMATWMAN18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mathematics-management-studies-msci,University College London,31
+UBSMATWMPH18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mathematics-mathematical-physics-bsc,University College London,59
+UMSMATWMPH18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mathematics-mathematical-physics-msci,University College London,42
+UBSMATWLAN18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mathematics-modern-languages-bsc,University College London,46
+UMSMATWLAN18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mathematics-modern-languages-msci,University College London,53
+UMSMATSING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mathematics-msci,University College London,61
+UBNMECSING22,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mechanical-engineering-beng,University College London,19
+UMNMECWBFN22,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mechanical-engineering-business-finance-meng,University College London,13
+UMNMECSING22,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mechanical-engineering-meng,University College London,25
+UBAMEDUCCM20,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/media-ba,University College London,30
+UBSMEDSIAE18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/medical-innovation-and-enterprise-bsc,University College London,74
+UMSMEDSIAE18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/medical-innovation-and-enterprise-msci,University College London,75
+UMSMPHSING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/medical-physics-msci,University College London,71
+UBMMEDSING01,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/medicine-mbbs-bsc,University College London,Data Not Available
+UBSNATSING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/natural-sciences-bsc,University College London,50
+UMSNATSING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/natural-sciences-msci,University College London,73
+UBSANASNEU18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/neuroscience-bsc,University College London,44
+UMSANASNEU18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/neuroscience-msci,University College London,46
+UBANORAPOL18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/norwegian-and-polish-ba,University College London,Data Not Available
+UBANORAPOR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/norwegian-and-portuguese-ba,University College London,Data Not Available
+UBANORAROM18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/norwegian-and-romanian-ba,University College London,Data Not Available
+UBANORARUS18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/norwegian-and-russian-ba,University College London,63
+UBANORASRB18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/norwegian-and-serbian-croatian-ba,University College London,Data Not Available
+UBANORASPA18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/norwegian-and-spanish-ba,University College London,63
+UBANORAUKR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/norwegian-and-ukrainian-ba,University College London,63
+UBANORAYID18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/norwegian-and-yiddish-ba,University College London,63
+UBSNMSSING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/nutrition-and-medical-sciences-bsc,University College London,53
+UBSPHASING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/pharmacology-bsc,University College London,24
+UMSPHASING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/pharmacology-msci,University College London,35
+UMPPHMSING01,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/pharmacy-mpharm,University College London,26
+UBAPHIACOM18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/philosophy-and-computer-science-ba,University College London,Data Not Available
+UBAPHIAECO18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/philosophy-and-economics-ba,University College London,51
+UBAPHIAHAR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/philosophy-and-history-art-ba,University College London,48
+UBAPHISING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/philosophy-ba,University College London,69
+UBSPPESING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/philosophy-politics-and-economics-bsc,University College London,16
+UBSPHYSING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/physics-bsc,University College London,48
+UBSPHYWMPH18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/physics-medical-physics-bsc,University College London,90
+UMSPHYSING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/physics-msci,University College London,65
+UBAPSHAEES18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/polish-and-east-european-studies-ba,University College London,42
+UBAPOLAPOR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/polish-and-portuguese-ba,University College London,Data Not Available
+UBAPOLAROM18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/polish-and-romanian-ba,University College London,63
+UBAPOLARUS18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/polish-and-russian-ba,University College London,63
+UBAPOLASRB18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/polish-and-serbian-croatian-ba,University College London,63
+UBAPOLASPA18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/polish-and-spanish-ba,University College London,63
+UBAPOLASWE18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/polish-and-swedish-ba,University College London,Data Not Available
+UBAPOLAUKR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/polish-and-ukrainian-ba,University College London,63
+UBAPOLAYID18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/polish-and-yiddish-ba,University College London,Data Not Available
+UBSPOLAINT18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/politics-and-international-relations-bsc,University College London,34
+UBAPLSAEEA18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/politics-sociology-and-east-european-studies-ba,University College London,85
+UBSPOPSING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/population-health-sciences-bsc,University College London,85
+UBSPSYALAN18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/psychology-and-language-sciences-bsc,University College London,60
+UMSPSYALAN18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/psychology-and-language-sciences-msci,University College London,45
+UBSPSYSING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/psychology-bsc,University College London,17
+UBSPSYWEDU18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/psychology-education-bsc,University College London,Data Not Available
+UMSPSYSING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/psychology-msci,University College London,23
+UMNCOMSRAI18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/robotics-and-artificial-intelligence-meng,University College London,34
+UBAROMAEES18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/romanian-and-east-european-studies-ba,University College London,63
+UBAROMAPOR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/romanian-and-portuguese-ba,University College London,Data Not Available
+UBAROMARUS18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/romanian-and-russian-ba,University College London,63
+UBAROMASRB18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/romanian-and-serbian-croatian-ba,University College London,Data Not Available
+UBAROMASPA18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/romanian-and-spanish-ba,University College London,63
+UBAROMASWE18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/romanian-and-swedish-ba,University College London,Data Not Available
+UBAROMAUKR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/romanian-and-ukrainian-ba,University College London,63
+UBAROMAYID18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/romanian-and-yiddish-ba,University College London,Data Not Available
+UBARUSAHSE18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/russian-and-history-ba,University College London,90
+UBARUSAPOR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/russian-and-portuguese-ba,University College London,63
+UBARUSASRB18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/russian-and-serbian-croatian-ba,University College London,60
+UBARUSASPA18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/russian-and-spanish-ba,University College London,88
+UBARUSASWE18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/russian-and-swedish-ba,University College London,60
+UBARUSAUKR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/russian-and-ukrainian-ba,University College London,63
+UBARUSAYID18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/russian-and-yiddish-ba,University College London,60
+UBARUSWEEL18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/russian-east-european-language-ba,University College London,63
+UBARUSSING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/russian-studies-ba,University College London,68
+UBASCAAENG18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/scandinavian-studies-and-english-ba,University College London,63
+UBASCAAHAR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/scandinavian-studies-and-history-art-ba,University College London,63
+UBASCAALAT18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/scandinavian-studies-and-latin-ba,University College London,Data Not Available
+UBASCAAPHI18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/scandinavian-studies-and-philosophy-ba,University College London,63
+UBASCASING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/scandinavian-studies-ba,University College London,63
+UBASCAWFLM18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/scandinavian-studies-film-studies-ba,University College London,63
+UBASCAWMAN18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/scandinavian-studies-management-studies-ba,University College London,36
+UBSSCESSOC18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/science-and-engineering-social-change-bsc,University College London,46
+UBASERAEES18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/serbian-croatian-and-east-european-studies-ba,University College London,63
+UBASRBAPOR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/serbian-croatian-and-portuguese-ba,University College London,Data Not Available
+UBASRBASPA18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/serbian-croatian-and-spanish-ba,University College London,60
+UBASRBASWE18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/serbian-croatian-and-swedish-ba,University College London,Data Not Available
+UBASRBAUKR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/serbian-croatian-and-ukrainian-ba,University College London,Data Not Available
+UBASRBAYID18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/serbian-croatian-and-yiddish-ba,University College London,Data Not Available
+UBSSSCSING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/social-sciences-bsc,University College London,39
+UBSSSCSQME18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/social-sciences-data-science-bsc,University College London,51
+UBSSPOSSCI18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/sociology-and-politics-science-bsc,University College London,77
+UBSSOCSING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/sociology-bsc,University College London,32
+UBASPAAHAR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/spanish-and-history-art-ba,University College London,63
+UBASPAALAS18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/spanish-and-latin-american-studies-ba,University College London,89
+UBASPAALAT18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/spanish-and-latin-ba,University College London,63
+UBASPAAPHI18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/spanish-and-philosophy-ba,University College London,89
+UBASPAAPOR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/spanish-and-portuguese-ba,University College London,82
+UBASPAASWE18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/spanish-and-swedish-ba,University College London,63
+UBASPAAUKR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/spanish-and-ukrainian-ba,University College London,63
+UBASPAAYID18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/spanish-and-yiddish-ba,University College London,Data Not Available
+UBASPAWFLM18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/spanish-film-studies-ba,University College London,25
+UBASPAWMAN18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/spanish-management-studies-ba,University College London,70
+UBSMEDSSAE18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/sport-and-exercise-medical-sciences-bsc,University College London,43
+UMSSTASINT18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/statistical-science-international-programme-msci,University College London,35
+UBSSTAAMAB18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/statistics-and-management-business-bsc,University College London,7
+UBSSTASING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/statistics-bsc,University College London,24
+UBSSTASSEF18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/statistics-economics-and-finance-bsc,University College London,12
+UBSSTASSEL18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/statistics-economics-and-language-bsc,University College London,18
+UBSSBESING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/sustainable-built-environments-energy-and-resources-bsc,University College London,48
+UMNSBESING18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/sustainable-built-environments-energy-and-resources-meng,University College London,56
+UBASWEAPOR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/swedish-and-portuguese-ba,University College London,Data Not Available
+UBASWEAYID18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/swedish-and-yiddish-ba,University College London,Data Not Available
+UBSPHYSTPH18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/theoretical-physics-bsc,University College London,50
+UMSPHYSTPH18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/theoretical-physics-msci,University College London,64
+UBAUKRAEES18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/ukrainian-and-east-european-studies-ba,University College London,63
+UBAUKRAPOR18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/ukrainian-and-portuguese-ba,University College London,63
+UBAUKRASWE18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/ukrainian-and-swedish-ba,University College London,Data Not Available
+UBAUKRAYID18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/ukrainian-and-yiddish-ba,University College London,Data Not Available
+UBSPLNAREE19,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/urban-planning-and-real-estate-bsc,University College London,26
+UBSARCSUDM18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/urban-planning-design-and-management-bsc,University College London,36
+UBSARCSURB18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/urban-studies-bsc,University College London,42
+UBASCASVON18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/viking-and-old-norse-studies-ba,University College London,75
+UBAYTHASTF18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/youth-society-and-sustainable-futures-ba,University College London,Data Not Available
