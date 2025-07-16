@@ -1,13 +1,105 @@
 library(shiny)
 
-# Load the full UCL dataset from GitHub
-ucl_data <- read.csv("https://raw.githubusercontent.com/Danjones-DJ/Degree-Matchmaker_DJ/refs/heads/main/ucl_pcm_degree_v3.csv", 
+# Load the upgraded UCL dataset from GitHub (v5 with university and offer_rate_clean columns)
+ucl_data <- read.csv("https://raw.githubusercontent.com/Danjones-DJ/Degree-Matchmaker_DJ/refs/heads/main/ucl_pcm_degrees_v5.csv", 
                      stringsAsFactors = FALSE)
 
 # Clean and prepare the data
 ucl_data$median_salary <- as.numeric(ucl_data$median_salary)
 ucl_data$lower_quartile_salary <- as.numeric(ucl_data$lower_quartile_salary)
 ucl_data$upper_quartile_salary <- as.numeric(ucl_data$upper_quartile_salary)
+
+# Get dynamic degree types from the actual data
+degree_types <- sort(unique(ucl_data$degree_type))
+
+# Load A-Level subjects from GitHub CSV
+subjects_data <- read.csv("https://raw.githubusercontent.com/Danjones-DJ/Degree-Matchmaker_DJ/refs/heads/main/alevel_subjects.csv", 
+                          stringsAsFactors = FALSE)
+all_subjects <- sort(subjects_data$a_level_subjects)
+
+# Subject synonym mapping for smart matching
+create_subject_synonyms <- function() {
+  list(
+    "Mathematics" = c("Mathematics", "Maths", "Math", "Mathematical", "Further Mathematics", "Statistics"),
+    "Physics" = c("Physics", "Physical", "Physical Sciences"),
+    "Chemistry" = c("Chemistry", "Chemical", "Chemical Sciences"),
+    "Biology" = c("Biology", "Biological", "Biological Sciences", "Life Sciences", "Life and Health Sciences"),
+    "English Literature" = c("English Literature", "English", "Literature", "English Language and Literature"),
+    "English Language" = c("English Language", "English", "Language", "English Language and Literature"),
+    "History" = c("History", "Historical", "Ancient History"),
+    "Geography" = c("Geography", "Geographical", "Environmental Geography"),
+    "Computer Science" = c("Computer Science", "Computing", "ICT", "Information Technology", "Software Systems Development"),
+    "Economics" = c("Economics", "Economic", "Business Economics"),
+    "Psychology" = c("Psychology", "Psychological"),
+    "Art and Design" = c("Art and Design", "Art", "Design", "Fine Art", "Visual Arts"),
+    "Business" = c("Business", "Business Studies", "Commerce"),
+    "French" = c("French", "French Language", "French Studies"),
+    "German" = c("German", "German Language", "German Studies"),
+    "Spanish" = c("Spanish", "Spanish Language", "Spanish Studies"),
+    "Politics" = c("Politics", "Political Science", "Government", "Government and Politics"),
+    "Philosophy" = c("Philosophy", "Philosophical"),
+    "Sociology" = c("Sociology", "Social Sciences", "Sociological"),
+    "Drama" = c("Drama", "Theatre", "Drama and Theatre", "Performing Arts"),
+    "Music" = c("Music", "Musical", "Music Technology"),
+    "Physical Education" = c("Physical Education", "PE", "Sports", "Sports Science"),
+    "Religious Studies" = c("Religious Studies", "Religion", "Theology", "Islamic Studies", "Biblical Studies"),
+    "Media Studies" = c("Media Studies", "Media", "Film Studies", "Digital Media and Design"),
+    "Law" = c("Law", "Legal Studies", "Jurisprudence")
+  )
+}
+
+# Function to match subjects with requirements using synonyms
+match_subjects_with_requirements <- function(selected_subjects, course_requirements) {
+  if(is.null(selected_subjects) || length(selected_subjects) == 0 || 
+     is.null(course_requirements) || is.na(course_requirements) || course_requirements == "") {
+    return(FALSE)
+  }
+  
+  synonyms <- create_subject_synonyms()
+  
+  # Create expanded list of all possible subject variations
+  all_variations <- c()
+  for(subject in selected_subjects) {
+    if(subject %in% names(synonyms)) {
+      all_variations <- c(all_variations, synonyms[[subject]])
+    } else {
+      all_variations <- c(all_variations, subject)
+    }
+  }
+  
+  # Check if any variation appears in the requirements
+  any(sapply(all_variations, function(var) {
+    grepl(var, course_requirements, ignore.case = TRUE)
+  }))
+}
+
+# User's working matching function - implemented exactly as provided
+find_matched_subjects <- function(a_levels, subject_requirements_example) {
+  # Handle null/empty inputs
+  if(is.null(a_levels) || length(a_levels) == 0 || 
+     is.null(subject_requirements_example) || is.na(subject_requirements_example) || 
+     subject_requirements_example == "") {
+    return(character(0))
+  }
+  
+  matched_subjects <- c()
+  
+  for (subject in a_levels) {
+    if (grepl(subject, subject_requirements_example, ignore.case = TRUE)) {
+      matched_subjects <- c(matched_subjects, subject)
+      cat("match", subject, "\n")
+    }
+  }
+  
+  return(matched_subjects)
+}
+
+# Function to get student's selected subjects
+get_selected_subjects <- function(subject1, subject2, subject3, subject4) {
+  subjects <- c(subject1, subject2, subject3, subject4)
+  subjects <- subjects[!is.null(subjects) & subjects != ""]
+  return(subjects)
+}
 
 # Grade scoring function - UPDATED VALUES
 grade_to_score <- function(grade) {
@@ -41,48 +133,155 @@ convert_grade_requirement <- function(grade_req) {
   return(sum(scores))
 }
 
-# Function to find similar courses based on subject categories
+# Simple similar courses finder - back to basics with your requirements
 find_similar_courses <- function(current_course, all_courses, limit = 3) {
-  # Get the subject category of the current course
-  current_categories <- c()
+  # Remove the current course itself from consideration
+  all_courses <- all_courses[all_courses$title != current_course$title, ]
   
-  # Check which categories the current course belongs to
-  categories <- c("Natural Sciences", "Humanities", "Architecture", "Computational & Mathematical Sciences",
-                  "Social Sciences", "Management", "Medicine", "Sustainability", "Engineering", 
-                  "Languages", "Arts", "Education", "Technology", "Law")
+  if(nrow(all_courses) == 0) return(data.frame())
   
-  for(category in categories) {
-    category_courses <- get_subject_category_courses(category, all_courses)
-    if(current_course$title %in% category_courses$title) {
-      current_categories <- c(current_categories, category)
-    }
+  # OVERARCHING FILTER: Only courses with same or lower grade requirements
+  if(!is.na(current_course$grade_score)) {
+    all_courses <- all_courses[is.na(all_courses$grade_score) | all_courses$grade_score <= current_course$grade_score, ]
+    cat("After grade filtering (same or lower):", nrow(all_courses), "courses remaining\n")
   }
   
-  # Find courses in the same categories
+  if(nrow(all_courses) == 0) return(data.frame())
+  
   similar_courses <- data.frame()
   
-  for(category in current_categories) {
-    category_courses <- get_subject_category_courses(category, all_courses)
-    # Remove the current course itself
-    category_courses <- category_courses[category_courses$title != current_course$title, ]
-    similar_courses <- rbind(similar_courses, category_courses)
-  }
+  # FILTER 1: Name similarity including compound terms
+  cat("FILTER 1: Checking name similarity for:", current_course$title, "\n")
   
-  # Remove duplicates and limit results
-  similar_courses <- similar_courses[!duplicated(similar_courses$title), ]
-  
-  # Sort by grade requirement (closest to current course first)
-  if(nrow(similar_courses) > 0) {
-    current_score <- current_course$grade_score
-    if(!is.na(current_score)) {
-      similar_courses$score_diff <- abs(similar_courses$grade_score - current_score)
-      similar_courses <- similar_courses[order(similar_courses$score_diff), ]
+  name_similar <- data.frame()
+  for(i in 1:nrow(all_courses)) {
+    course_title <- tolower(all_courses$title[i])
+    current_title <- tolower(current_course$title)
+    
+    # Check for compound science terms first
+    compound_matches <- FALSE
+    science_compounds <- c("data science", "social sciences", "computer science", "political science", 
+                           "life sciences", "physical sciences", "natural sciences", "environmental sciences")
+    
+    for(compound in science_compounds) {
+      if(grepl(compound, current_title) && grepl(compound, course_title)) {
+        compound_matches <- TRUE
+        cat("Compound match found:", all_courses$title[i], "- compound:", compound, "\n")
+        break
+      }
     }
     
-    return(head(similar_courses, limit))
+    # Check for individual word matches (excluding standalone "science")
+    word_matches <- FALSE
+    if(!compound_matches) {
+      current_words <- strsplit(gsub("[^a-z ]", " ", current_title), "\\s+")[[1]]
+      current_words <- current_words[!current_words %in% c("", "and", "with", "the", "of", "in", "for", "to", "bsc", "ba", "msc", "ma", "meng", "beng", "science", "sciences")]
+      current_words <- current_words[nchar(current_words) > 2]
+      
+      course_words <- strsplit(gsub("[^a-z ]", " ", course_title), "\\s+")[[1]]
+      course_words <- course_words[!course_words %in% c("", "and", "with", "the", "of", "in", "for", "to", "bsc", "ba", "msc", "ma", "meng", "beng", "science", "sciences")]
+      course_words <- course_words[nchar(course_words) > 2]
+      
+      overlap <- intersect(current_words, course_words)
+      if(length(overlap) >= 1) {
+        word_matches <- TRUE
+        cat("Word match found:", all_courses$title[i], "- words:", paste(overlap, collapse = ", "), "\n")
+      }
+    }
+    
+    if(compound_matches || word_matches) {
+      name_similar <- rbind(name_similar, all_courses[i, ])
+    }
   }
   
-  return(data.frame()) # Return empty if no similar courses found
+  # Add name similar courses to results (up to limit)
+  if(nrow(name_similar) > 0) {
+    # Sort by grade requirement similarity
+    if(!is.na(current_course$grade_score)) {
+      name_similar$score_diff <- abs(name_similar$grade_score - current_course$grade_score)
+      name_similar <- name_similar[order(name_similar$score_diff), ]
+      name_similar$score_diff <- NULL
+    }
+    
+    to_add <- min(nrow(name_similar), limit - nrow(similar_courses))
+    similar_courses <- rbind(similar_courses, head(name_similar, to_add))
+    cat("Added", to_add, "courses from Filter 1\n")
+  }
+  
+  # FILTER 2: Exact same category tags (only if we need more)
+  if(nrow(similar_courses) < limit) {
+    cat("FILTER 2: Checking exact category matches\n")
+    
+    # Get categories for current course
+    current_categories <- c()
+    categories <- c("Natural Sciences", "Humanities", "Architecture", "Computational & Mathematical Sciences",
+                    "Social Sciences", "Management", "Medicine", "Sustainability", "Engineering", 
+                    "Languages", "Arts", "Education", "Technology", "Law")
+    
+    for(category in categories) {
+      category_courses <- get_subject_category_courses(category, all_courses)
+      if(current_course$title %in% c(category_courses$title, current_course$title)) {
+        current_categories <- c(current_categories, category)
+      }
+    }
+    
+    if(length(current_categories) > 0) {
+      exact_category_matches <- data.frame()
+      
+      for(i in 1:nrow(all_courses)) {
+        # Skip if already added
+        if(all_courses$title[i] %in% similar_courses$title) next
+        
+        # Check if this course matches ALL categories
+        course_categories <- c()
+        for(category in categories) {
+          category_courses <- get_subject_category_courses(category, all_courses)
+          if(all_courses$title[i] %in% category_courses$title) {
+            course_categories <- c(course_categories, category)
+          }
+        }
+        
+        # Must match ALL categories exactly
+        if(length(course_categories) == length(current_categories) && 
+           all(current_categories %in% course_categories)) {
+          exact_category_matches <- rbind(exact_category_matches, all_courses[i, ])
+          cat("Exact category match found:", all_courses$title[i], "\n")
+        }
+      }
+      
+      # Add exact category matches
+      if(nrow(exact_category_matches) > 0) {
+        if(!is.na(current_course$grade_score)) {
+          exact_category_matches$score_diff <- abs(exact_category_matches$grade_score - current_course$grade_score)
+          exact_category_matches <- exact_category_matches[order(exact_category_matches$score_diff), ]
+          exact_category_matches$score_diff <- NULL
+        }
+        
+        to_add <- min(nrow(exact_category_matches), limit - nrow(similar_courses))
+        similar_courses <- rbind(similar_courses, head(exact_category_matches, to_add))
+        cat("Added", to_add, "courses from Filter 2\n")
+      }
+    }
+  }
+  
+  # FILTER 3: Randomization (only if we still need more)
+  if(nrow(similar_courses) < limit) {
+    cat("FILTER 3: Using randomization to fill remaining slots\n")
+    
+    remaining_courses <- all_courses[!all_courses$title %in% similar_courses$title, ]
+    
+    if(nrow(remaining_courses) > 0) {
+      needed <- limit - nrow(similar_courses)
+      random_indices <- sample(1:nrow(remaining_courses), min(needed, nrow(remaining_courses)))
+      random_courses <- remaining_courses[random_indices, ]
+      
+      similar_courses <- rbind(similar_courses, random_courses)
+      cat("Added", nrow(random_courses), "courses from Filter 3 (random)\n")
+    }
+  }
+  
+  cat("Final similar courses count:", nrow(similar_courses), "\n")
+  return(head(similar_courses, limit))
 }
 calculate_student_score <- function(grades) {
   # Remove empty grades
@@ -226,10 +425,6 @@ get_subject_category_courses <- function(category, data) {
   return(data)
 }
 
-# Core subjects for dropdown (simplified)
-core_subjects <- c("Mathematics", "Physics", "Chemistry", "Biology", 
-                   "English Literature", "History", "Geography")
-
 # UI
 ui <- fluidPage(
   tags$head(
@@ -279,9 +474,9 @@ ui <- fluidPage(
       }
       
       .section-title {
-        font-size: 28px;
+        font-size: 24px;
         font-weight: bold;
-        margin-bottom: 20px;
+        margin-bottom: 12px;
         color: white;
       }
       
@@ -345,19 +540,129 @@ ui <- fluidPage(
         color: white;
       }
       
-      /* UPDATED: Subject Interest Card Styles */
+      /* NEW: Subject-Grade Pair Styling - FIXED INTERFERENCE */
+      .subject-grade-pair {
+        transition: all 0.3s ease;
+        position: relative;
+        z-index: 1;
+      }
+      
+      .subject-grade-pair:hover {
+        transform: translateY(-1px);
+        z-index: 10;
+      }
+      
+      .subject-card select, .grade-card select {
+        background: transparent !important;
+        border: none !important;
+        color: white !important;
+        font-size: 12px !important;
+        font-weight: 600 !important;
+        width: 100% !important;
+        text-align: center !important;
+        outline: none !important;
+        padding: 4px !important;
+        border-radius: 6px !important;
+        height: 28px !important;
+        position: relative !important;
+        z-index: 100 !important;
+      }
+      
+      /* Fix select dropdown z-index issues and prevent interference */
+      .subject-card select:focus, .grade-card select:focus {
+        z-index: 1000 !important;
+        position: relative !important;
+        background: rgba(45, 45, 45, 0.95) !important;
+      }
+      
+      .subject-card select, .grade-card select {
+        background: transparent !important;
+        border: none !important;
+        color: white !important;
+        font-size: 12px !important;
+        font-weight: 600 !important;
+        width: 100% !important;
+        text-align: center !important;
+        outline: none !important;
+        padding: 4px !important;
+        border-radius: 6px !important;
+        height: 28px !important;
+        position: relative !important;
+        z-index: 100 !important;
+      }
+      
+      /* Prevent hover interference between select elements */
+      .subject-card:hover select, .grade-card:hover select {
+        background: rgba(157, 197, 220, 0.1) !important;
+      }
+      
+      /* Ensure select options have proper styling */
+      .subject-card select option, .grade-card select option {
+        background: #1a1a1a !important;
+        color: white !important;
+        padding: 6px !important;
+        font-size: 12px !important;
+        z-index: 1000 !important;
+        border: none !important;
+        outline: none !important;
+      }
+      
+      .subject-card select:focus, .grade-card select:focus {
+        box-shadow: 0 0 0 2px rgba(157, 197, 220, 0.3) !important;
+        background: rgba(45, 45, 45, 0.95) !important;
+      }
+      
+      /* Subject card specific styling */
+      .subject-card {
+        transition: all 0.3s ease;
+        position: relative;
+        z-index: 1;
+      }
+      
+      .subject-card:hover {
+        transform: translateY(-1px);
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3) !important;
+        z-index: 10;
+      }
+      
+      /* Grade card specific styling */
+      .grade-card {
+        transition: all 0.3s ease;
+        position: relative;
+        z-index: 1;
+      }
+      
+      .grade-card:hover {
+        transform: translateY(-1px);
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3) !important;
+        z-index: 10;
+      }
+      
+      /* Add subtle animations */
+      .grade-card select {
+        transition: all 0.2s ease;
+      }
+      
+      .grade-card select:hover {
+        background: rgba(157, 197, 220, 0.1) !important;
+      }
+      
+      /* FIXED: Subject Interest Card Styles - Prevent click-through */
       .subject-interest-card {
         background: linear-gradient(135deg, #2d2d2d 0%, #3a3a3a 100%);
         border-radius: 8px;
-        padding: 6px;
+        padding: 8px;
         text-align: center;
-        font-size: 10px;
-        min-height: 20px;
+        font-size: 12px;
+        min-height: 35px;
         cursor: pointer;
         transition: all 0.3s ease;
         user-select: none;
         border: 1px solid #444;
         box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+        position: relative;
+        z-index: 10;
+        pointer-events: auto;
       }
       
       .subject-interest-card:hover {
@@ -372,18 +677,38 @@ ui <- fluidPage(
         box-shadow: 0 4px 15px rgba(157, 197, 220, 0.4);
       }
       
-      /* UPDATED: Degree Type Card Styles */
+      /* FIXED: Degree Type Card Styles - Consistent with old design */
       .degree-type-card {
         background: linear-gradient(135deg, #2d2d2d 0%, #3a3a3a 100%);
         color: white;
-        border-radius: 6px;
-        padding: 2px;
+        border-radius: 8px;
+        padding: 8px 4px;
         text-align: center;
-        font-size: 9px;
+        font-size: 11px;
+        min-height: 30px;
         cursor: pointer;
         transition: all 0.3s ease;
         user-select: none;
         border: 1px solid #444;
+        position: relative;
+        z-index: 10;
+        pointer-events: auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: 500;
+      }
+      
+      .degree-type-card:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 4px 15px rgba(157, 197, 220, 0.2);
+      }
+      
+      .degree-type-card.selected {
+        background: linear-gradient(135deg, #9dc5dc 0%, #7ab8d3 100%) !important;
+        color: #1a1a1a !important;
+        font-weight: 600;
+        box-shadow: 0 4px 15px rgba(157, 197, 220, 0.4);
       }
       
       .degree-type-card:hover {
@@ -902,8 +1227,253 @@ ui <- fluidPage(
         margin: 0 !important;
       }
       
-      .col-sm-6 {
+     .col-sm-6 {
         padding: 10px !important;
+      }
+      
+      /* IMPROVED TOP SECTION STYLING - HARMONIZED DESIGN */
+      
+      /* Main container with better spacing and visual separation */
+      .top-section-container {
+        padding: 40px 60px;
+        background: linear-gradient(135deg, #3a3a3a 0%, #454545 100%);
+        margin: 30px 40px;
+        border-radius: 25px;
+        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+        border: 1px solid #555;
+      }
+      
+      /* Column styling with better spacing */
+      .section-column {
+        padding: 0 20px;
+      }
+      
+      /* Section titles - more prominent and consistent */
+      .section-title-enhanced {
+        font-size: 22px;
+        font-weight: 700;
+        margin-bottom: 15px;
+        color: #9dc5dc;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        text-align: center;
+        padding-bottom: 10px;
+        border-bottom: 2px solid rgba(157, 197, 220, 0.3);
+      }
+      
+      /* GRADES & SUBJECTS SECTION - Enhanced subject-grade pairs */
+      .enhanced-subject-grade-container {
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+        max-width: 380px;
+        margin: 0 auto;
+      }
+      
+      .enhanced-subject-grade-pair {
+        display: flex;
+        gap: 12px;
+        transition: all 0.3s ease;
+        position: relative;
+        z-index: 1;
+      }
+      
+      .enhanced-subject-grade-pair:hover {
+        transform: translateY(-2px);
+        z-index: 10;
+      }
+      
+      /* Enhanced subject card - wider and more prominent */
+      .enhanced-subject-card {
+        flex: 2.5;
+        background: linear-gradient(135deg, #2d2d2d 0%, #3a3a3a 100%);
+        border-radius: 12px;
+        padding: 12px 16px;
+        border: 1px solid #555;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+        transition: all 0.3s ease;
+        min-height: 60px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+      
+      .enhanced-subject-card:hover {
+        border-color: #9dc5dc;
+        box-shadow: 0 6px 20px rgba(157, 197, 220, 0.2);
+      }
+      
+      /* Enhanced grade card - consistent with subject cards */
+      .enhanced-grade-card {
+        flex: 1;
+        background: linear-gradient(135deg, #2d2d2d 0%, #3a3a3a 100%);
+        border-radius: 12px;
+        padding: 12px 16px;
+        border: 1px solid #555;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+        transition: all 0.3s ease;
+        min-height: 60px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+      
+      .enhanced-grade-card:hover {
+        border-color: #9dc5dc;
+        box-shadow: 0 6px 20px rgba(157, 197, 220, 0.2);
+      }
+      
+      /* Enhanced labels */
+      .enhanced-field-label {
+        color: #9dc5dc;
+        font-size: 10px;
+        font-weight: 700;
+        margin-bottom: 6px;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+      }
+      
+      /* Enhanced select inputs */
+      .enhanced-subject-card select,
+      .enhanced-grade-card select {
+        background: transparent !important;
+        border: none !important;
+        color: white !important;
+        font-size: 14px !important;
+        font-weight: 600 !important;
+        width: 100% !important;
+        text-align: center !important;
+        outline: none !important;
+        padding: 6px !important;
+        border-radius: 8px !important;
+        height: auto !important;
+        position: relative !important;
+        z-index: 100 !important;
+      }
+      
+      .enhanced-subject-card select:focus,
+      .enhanced-grade-card select:focus {
+        background: rgba(157, 197, 220, 0.1) !important;
+        box-shadow: 0 0 0 2px rgba(157, 197, 220, 0.3) !important;
+      }
+      
+      /* Optional field styling */
+      .optional-field {
+        opacity: 0.75;
+      }
+      
+      .optional-field .enhanced-subject-card,
+      .optional-field .enhanced-grade-card {
+        background: linear-gradient(135deg, #252525 0%, #323232 100%);
+        border-color: #666;
+      }
+      
+      .optional-field .enhanced-field-label {
+        color: #8db4c9;
+      }
+      
+      /* SUBJECTS OF INTEREST SECTION - Enhanced cards */
+      .enhanced-interest-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 12px;
+        max-width: 480px;
+        margin: 0 auto;
+      }
+      
+      .enhanced-interest-card {
+        background: linear-gradient(135deg, #2d2d2d 0%, #3a3a3a 100%);
+        border-radius: 12px;
+        padding: 16px 12px;
+        text-align: center;
+        font-size: 13px;
+        font-weight: 600;
+        min-height: 60px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        user-select: none;
+        border: 1px solid #555;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+        position: relative;
+        z-index: 10;
+        pointer-events: auto;
+        line-height: 1.3;
+      }
+      
+      .enhanced-interest-card:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 8px 20px rgba(157, 197, 220, 0.2);
+        border-color: #9dc5dc;
+      }
+      
+      .enhanced-interest-card.selected {
+        background: linear-gradient(135deg, #9dc5dc 0%, #7ab8d3 100%) !important;
+        color: #1a1a1a !important;
+        font-weight: 700;
+        box-shadow: 0 8px 25px rgba(157, 197, 220, 0.4);
+        border-color: #9dc5dc;
+      }
+      
+      /* DEGREE TYPES SECTION - Significantly enhanced */
+      .enhanced-degree-grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 12px;
+        max-width: 320px;
+        margin: 0 auto;
+      }
+      
+      .enhanced-degree-card {
+        background: linear-gradient(135deg, #2d2d2d 0%, #3a3a3a 100%);
+        color: white;
+        border-radius: 12px;
+        padding: 16px 8px;
+        text-align: center;
+        font-size: 13px;
+        font-weight: 600;
+        min-height: 60px;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        user-select: none;
+        border: 1px solid #555;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+        position: relative;
+        z-index: 10;
+        pointer-events: auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        line-height: 1.2;
+      }
+      
+      .enhanced-degree-card:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 8px 20px rgba(157, 197, 220, 0.2);
+        border-color: #9dc5dc;
+      }
+      
+      .enhanced-degree-card.selected {
+        background: linear-gradient(135deg, #9dc5dc 0%, #7ab8d3 100%) !important;
+        color: #1a1a1a !important;
+        font-weight: 700;
+        box-shadow: 0 8px 25px rgba(157, 197, 220, 0.4);
+        border-color: #9dc5dc;
+      }
+      
+      /* Small text for longer degree names */
+      .enhanced-degree-card.small-text {
+        font-size: 11px;
+        padding: 12px 6px;
+      }
+      
+      /* Visual separators between columns */
+      .column-separator {
+        width: 1px;
+        background: linear-gradient(to bottom, transparent, rgba(157, 197, 220, 0.3), transparent);
+        margin: 20px 0;
       }
     "))
   ),
@@ -913,126 +1483,152 @@ ui <- fluidPage(
   
   # Main content wrapper
   div(class = "content-wrapper",
-      # Top section with grades, interests, and degree types - 3 COLUMN STRUCTURE
-      div(style = "padding: 50px 100px; background-color: #3a3a3a; margin: 30px 80px; border-radius: 20px;",
-          fluidRow(
-            # Column 1: Your Grades (IMPROVED FORMATTING)
-            column(4,
-                   div(class = "section-title", "Your Grades"),
-                   div(class = "grade-section-vertical",
-                       # Grade pair 1
-                       div(class = "grade-pair",
-                           div(class = "grade-card-left", style = "border-radius: 20px; padding: 8px 12px;",
-                               selectInput("subject1", NULL, 
-                                           choices = c("Select Subject" = "", core_subjects),
-                                           width = "100%")
-                           ),
-                           div(class = "grade-card-right", style = "border-radius: 20px; padding: 8px 12px;",
-                               selectInput("grade1", NULL,
-                                           choices = c("Grade" = "", "A*", "A", "B", "C", "D", "E"),
-                                           width = "100%")
-                           )
-                       ),
-                       # Grade pair 2  
-                       div(class = "grade-pair",
-                           div(class = "grade-card-left", style = "border-radius: 20px; padding: 8px 12px;",
-                               selectInput("subject2", NULL,
-                                           choices = c("Select Subject" = "", core_subjects),
-                                           width = "100%")
-                           ),
-                           div(class = "grade-card-right", style = "border-radius: 20px; padding: 8px 12px;",
-                               selectInput("grade2", NULL,
-                                           choices = c("Grade" = "", "A*", "A", "B", "C", "D", "E"),
-                                           width = "100%")
-                           )
-                       ),
-                       # Grade pair 3
-                       div(class = "grade-pair",
-                           div(class = "grade-card-left", style = "border-radius: 20px; padding: 8px 12px;",
-                               selectInput("subject3", NULL,
-                                           choices = c("Select Subject" = "", core_subjects),
-                                           width = "100%")
-                           ),
-                           div(class = "grade-card-right", style = "border-radius: 20px; padding: 8px 12px;",
-                               selectInput("grade3", NULL,
-                                           choices = c("Grade" = "", "A*", "A", "B", "C", "D", "E"),
-                                           width = "100%")
-                           )
-                       ),
-                       # Grade pair 4 (Optional - only if first 3 are filled)
-                       div(class = "grade-pair",
-                           div(class = "grade-card-left", style = "border-radius: 20px; padding: 8px 12px;",
-                               selectInput("subject4", NULL,
-                                           choices = c("Select Subject (Optional)" = "", core_subjects),
-                                           width = "100%")
-                           ),
-                           div(class = "grade-card-right", style = "border-radius: 20px; padding: 8px 12px;",
-                               selectInput("grade4", NULL,
-                                           choices = c("Grade" = "", "A*", "A", "B", "C", "D", "E"),
-                                           width = "100%")
-                           )
-                       )
-                   )
-            ),
-            
-            # Column 2: Subjects of Interest (BETTER FORMATTED GRID) - FIXED WITH PROPER CLASSES
-            column(5,
-                   div(class = "section-title", style = "font-size: 24px;", "Subjects of Interest"),
-                   div(style = "display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; max-width: 450px;",
-                       # All 14 categories as cards with full labels
-                       div(class = "subject-interest-card", style = "font-size: 12px; padding: 8px; min-height: 35px; display: flex; align-items: center; justify-content: center;",
-                           id = "interest_natural_sciences", onclick = "toggleInterest('natural_sciences')", "Natural Sciences"),
-                       div(class = "subject-interest-card", style = "font-size: 12px; padding: 8px; min-height: 35px; display: flex; align-items: center; justify-content: center;",
-                           id = "interest_humanities", onclick = "toggleInterest('humanities')", "Humanities"),
-                       div(class = "subject-interest-card", style = "font-size: 12px; padding: 8px; min-height: 35px; display: flex; align-items: center; justify-content: center;",
-                           id = "interest_architecture", onclick = "toggleInterest('architecture')", "Architecture"),
-                       div(class = "subject-interest-card", style = "font-size: 11px; padding: 8px; min-height: 35px; display: flex; align-items: center; justify-content: center; text-align: center;",
-                           id = "interest_computational", onclick = "toggleInterest('computational')", "Computational & Mathematical Sciences"),
-                       div(class = "subject-interest-card", style = "font-size: 12px; padding: 8px; min-height: 35px; display: flex; align-items: center; justify-content: center;",
-                           id = "interest_social_sciences", onclick = "toggleInterest('social_sciences')", "Social Sciences"),
-                       div(class = "subject-interest-card", style = "font-size: 12px; padding: 8px; min-height: 35px; display: flex; align-items: center; justify-content: center;",
-                           id = "interest_management", onclick = "toggleInterest('management')", "Management"),
-                       div(class = "subject-interest-card", style = "font-size: 12px; padding: 8px; min-height: 35px; display: flex; align-items: center; justify-content: center;",
-                           id = "interest_medicine", onclick = "toggleInterest('medicine')", "Medicine"),
-                       div(class = "subject-interest-card", style = "font-size: 12px; padding: 8px; min-height: 35px; display: flex; align-items: center; justify-content: center;",
-                           id = "interest_sustainability", onclick = "toggleInterest('sustainability')", "Sustainability"),
-                       div(class = "subject-interest-card", style = "font-size: 12px; padding: 8px; min-height: 35px; display: flex; align-items: center; justify-content: center;",
-                           id = "interest_engineering", onclick = "toggleInterest('engineering')", "Engineering"),
-                       div(class = "subject-interest-card", style = "font-size: 12px; padding: 8px; min-height: 35px; display: flex; align-items: center; justify-content: center;",
-                           id = "interest_languages", onclick = "toggleInterest('languages')", "Languages"),
-                       div(class = "subject-interest-card", style = "font-size: 12px; padding: 8px; min-height: 35px; display: flex; align-items: center; justify-content: center;",
-                           id = "interest_arts", onclick = "toggleInterest('arts')", "Arts"),
-                       div(class = "subject-interest-card", style = "font-size: 12px; padding: 8px; min-height: 35px; display: flex; align-items: center; justify-content: center;",
-                           id = "interest_education", onclick = "toggleInterest('education')", "Education"),
-                       div(class = "subject-interest-card", style = "font-size: 12px; padding: 8px; min-height: 35px; display: flex; align-items: center; justify-content: center;",
-                           id = "interest_technology", onclick = "toggleInterest('technology')", "Technology"),
-                       div(class = "subject-interest-card", style = "font-size: 12px; padding: 8px; min-height: 35px; display: flex; align-items: center; justify-content: center;",
-                           id = "interest_law", onclick = "toggleInterest('law')", "Law")
-                   )
-            ),
-            
-            # Column 3: Degree Types (IMPROVED FORMATTING) - FIXED WITH PROPER CLASSES
-            column(3,
-                   div(class = "section-title", style = "text-align: right; margin-bottom: 15px; font-size: 24px;", "Degree Types"),
+      # Enhanced Top section with harmonized design
+      div(class = "top-section-container",
+          fluidRow(style = "align-items: flex-start; margin: 0;",
                    
-                   div(style = "display: flex; flex-direction: column; align-items: flex-end;",
-                       # Degree Types as buttons in 3x2 grid with updated degrees
-                       div(style = "display: grid; grid-template-columns: repeat(3, 55px); grid-template-rows: repeat(2, 30px); gap: 6px;",
-                           div(class = "degree-type-card", style = "font-size: 11px; padding: 4px;",
-                               id = "interest_bsc", onclick = "toggleInterest('bsc')", "BSc"),
-                           div(class = "degree-type-card", style = "font-size: 11px; padding: 4px;",
-                               id = "interest_msci", onclick = "toggleInterest('msci')", "MSci"),
-                           div(class = "degree-type-card", style = "font-size: 11px; padding: 4px;",
-                               id = "interest_ba", onclick = "toggleInterest('ba')", "BA"),
-                           div(class = "degree-type-card", style = "font-size: 11px; padding: 4px;",
-                               id = "interest_meng", onclick = "toggleInterest('meng')", "MEng"),
-                           div(class = "degree-type-card", style = "font-size: 11px; padding: 4px;",
-                               id = "interest_beng", onclick = "toggleInterest('beng')", "BEng"),
-                           div(class = "degree-type-card", style = "font-size: 11px; padding: 4px;",
-                               id = "interest_llb", onclick = "toggleInterest('llb')", "LLB")
-                       )
+                   # Column 1: Your Grades & Subjects (Enhanced)
+                   column(4, class = "section-column",
+                          div(class = "section-title-enhanced", "Your Grades & Subjects"),
+                          div(style = "color: #8db4c9; font-size: 12px; margin-bottom: 20px; text-align: center; font-weight: 500;", 
+                              "Select your A-Level subjects and grades (3 required)"),
+                          
+                          div(class = "enhanced-subject-grade-container",
+                              # Enhanced Subject-Grade Pair 1
+                              div(class = "enhanced-subject-grade-pair",
+                                  div(class = "enhanced-subject-card",
+                                      div(class = "enhanced-field-label", "Subject 1 (Required)"),
+                                      selectInput("subject1", NULL,
+                                                  choices = c("Select Subject" = "", all_subjects),
+                                                  width = "100%")
+                                  ),
+                                  div(class = "enhanced-grade-card",
+                                      div(class = "enhanced-field-label", "Grade"),
+                                      selectInput("grade1", NULL,
+                                                  choices = c("Grade" = "", "A*", "A", "B", "C", "D", "E"),
+                                                  width = "100%")
+                                  )
+                              ),
+                              
+                              # Enhanced Subject-Grade Pair 2
+                              div(class = "enhanced-subject-grade-pair",
+                                  div(class = "enhanced-subject-card",
+                                      div(class = "enhanced-field-label", "Subject 2 (Required)"),
+                                      selectInput("subject2", NULL,
+                                                  choices = c("Select Subject" = "", all_subjects),
+                                                  width = "100%")
+                                  ),
+                                  div(class = "enhanced-grade-card",
+                                      div(class = "enhanced-field-label", "Grade"),
+                                      selectInput("grade2", NULL,
+                                                  choices = c("Grade" = "", "A*", "A", "B", "C", "D", "E"),
+                                                  width = "100%")
+                                  )
+                              ),
+                              
+                              # Enhanced Subject-Grade Pair 3
+                              div(class = "enhanced-subject-grade-pair",
+                                  div(class = "enhanced-subject-card",
+                                      div(class = "enhanced-field-label", "Subject 3 (Required)"),
+                                      selectInput("subject3", NULL,
+                                                  choices = c("Select Subject" = "", all_subjects),
+                                                  width = "100%")
+                                  ),
+                                  div(class = "enhanced-grade-card",
+                                      div(class = "enhanced-field-label", "Grade"),
+                                      selectInput("grade3", NULL,
+                                                  choices = c("Grade" = "", "A*", "A", "B", "C", "D", "E"),
+                                                  width = "100%")
+                                  )
+                              ),
+                              
+                              # Enhanced Subject-Grade Pair 4 (Optional)
+                              div(class = "enhanced-subject-grade-pair optional-field",
+                                  div(class = "enhanced-subject-card",
+                                      div(class = "enhanced-field-label", "Subject 4 (Optional)"),
+                                      selectInput("subject4", NULL,
+                                                  choices = c("Select Subject" = "", all_subjects),
+                                                  width = "100%")
+                                  ),
+                                  div(class = "enhanced-grade-card",
+                                      div(class = "enhanced-field-label", "Grade"),
+                                      selectInput("grade4", NULL,
+                                                  choices = c("Grade" = "", "A*", "A", "B", "C", "D", "E"),
+                                                  width = "100%")
+                                  )
+                              )
+                          )
+                   ),
+                   
+                   # Column 2: Subjects of Interest (Enhanced)
+                   column(5, class = "section-column",
+                          div(class = "section-title-enhanced", "Subjects of Interest"),
+                          div(style = "color: #8db4c9; font-size: 12px; margin-bottom: 20px; text-align: center; font-weight: 500;", 
+                              "Choose areas that interest you"),
+                          
+                          div(class = "enhanced-interest-grid",
+                              # All 14 categories as enhanced cards
+                              div(class = "enhanced-interest-card",
+                                  id = "interest_natural_sciences", onclick = "toggleInterest('natural_sciences', event)", "Natural Sciences"),
+                              div(class = "enhanced-interest-card",
+                                  id = "interest_humanities", onclick = "toggleInterest('humanities', event)", "Humanities"),
+                              div(class = "enhanced-interest-card",
+                                  id = "interest_architecture", onclick = "toggleInterest('architecture', event)", "Architecture"),
+                              div(class = "enhanced-interest-card",
+                                  id = "interest_computational", onclick = "toggleInterest('computational', event)", "Computational & Mathematical Sciences"),
+                              div(class = "enhanced-interest-card",
+                                  id = "interest_social_sciences", onclick = "toggleInterest('social_sciences', event)", "Social Sciences"),
+                              div(class = "enhanced-interest-card",
+                                  id = "interest_management", onclick = "toggleInterest('management', event)", "Management"),
+                              div(class = "enhanced-interest-card",
+                                  id = "interest_medicine", onclick = "toggleInterest('medicine', event)", "Medicine"),
+                              div(class = "enhanced-interest-card",
+                                  id = "interest_sustainability", onclick = "toggleInterest('sustainability', event)", "Sustainability"),
+                              div(class = "enhanced-interest-card",
+                                  id = "interest_engineering", onclick = "toggleInterest('engineering', event)", "Engineering"),
+                              div(class = "enhanced-interest-card",
+                                  id = "interest_languages", onclick = "toggleInterest('languages', event)", "Languages"),
+                              div(class = "enhanced-interest-card",
+                                  id = "interest_arts", onclick = "toggleInterest('arts', event)", "Arts"),
+                              div(class = "enhanced-interest-card",
+                                  id = "interest_education", onclick = "toggleInterest('education', event)", "Education"),
+                              div(class = "enhanced-interest-card",
+                                  id = "interest_technology", onclick = "toggleInterest('technology', event)", "Technology"),
+                              div(class = "enhanced-interest-card",
+                                  id = "interest_law", onclick = "toggleInterest('law', event)", "Law")
+                          )
+                   ),
+                   
+                   # Column 3: Degree Types (Significantly Enhanced)
+                   column(3, class = "section-column",
+                          div(class = "section-title-enhanced", "Degree Types"),
+                          div(style = "color: #8db4c9; font-size: 12px; margin-bottom: 20px; text-align: center; font-weight: 500;", 
+                              "Filter by qualification type"),
+                          
+                          div(class = "enhanced-degree-grid",
+                              # Enhanced degree type cards - much bigger and more prominent
+                              div(class = "enhanced-degree-card",
+                                  id = "interest_ba", onclick = "toggleInterest('ba', event)", "BA"),
+                              div(class = "enhanced-degree-card",
+                                  id = "interest_bsc", onclick = "toggleInterest('bsc', event)", "BSc"),
+                              div(class = "enhanced-degree-card",
+                                  id = "interest_msci", onclick = "toggleInterest('msci', event)", "MSci"),
+                              div(class = "enhanced-degree-card",
+                                  id = "interest_basc", onclick = "toggleInterest('basc', event)", "BASc"),
+                              div(class = "enhanced-degree-card",
+                                  id = "interest_llb", onclick = "toggleInterest('llb', event)", "LLB"),
+                              div(class = "enhanced-degree-card",
+                                  id = "interest_beng", onclick = "toggleInterest('beng', event)", "BEng"),
+                              div(class = "enhanced-degree-card",
+                                  id = "interest_meng", onclick = "toggleInterest('meng', event)", "MEng"),
+                              div(class = "enhanced-degree-card small-text",
+                                  id = "interest_bscecon", onclick = "toggleInterest('bscecon', event)", "BSc (Econ)"),
+                              div(class = "enhanced-degree-card small-text",
+                                  id = "interest_mbbsbsc", onclick = "toggleInterest('mbbsbsc', event)", "MBBS BSc"),
+                              div(class = "enhanced-degree-card",
+                                  id = "interest_mpharm", onclick = "toggleInterest('mpharm', event)", "MPharm")
+                          )
                    )
-            )
           )
       ),
       
@@ -1122,27 +1718,29 @@ ui <- fluidPage(
           # Back button
           tags$button("← Go Back", class = "go-back-btn", onclick = "closeModal()"),
           
-          # Single row header with course info + grade match
+          # Single row header with course info + grade match + subject requirements
           div(class = "course-detail-header",
               div(class = "header-item", id = "modal_degree_type", "BSc"),
               div(class = "header-title", id = "modal_subject_title", "Subject Title"),
-              div(class = "header-item", "UCL"),
+              div(class = "header-item", id = "modal_university_name", "UCL"),
               div(class = "header-item", id = "modal_grade_req", "Grade Req: A"),
-              div(style = "flex: 1; display: flex; justify-content: center; align-items: center;",
+              div(style = "flex: 1; display: flex; justify-content: center; align-items: center; gap: 8px;",
                   div(style = "background: #4CAF50; color: white; padding: 8px 16px; border-radius: 8px; font-size: 12px; font-weight: 600;", 
-                      id = "modal_match_badge", "Exact Match")
+                      id = "modal_match_badge", "Exact Match"),
+                  div(style = "background: #2196F3; color: white; padding: 8px 16px; border-radius: 8px; font-size: 12px; font-weight: 600; display: none;", 
+                      id = "modal_subject_badge", "Subject Requirements Met")
               )
           ),
           
-          # Stats row
+          # Stats row (updated with offer rate)
           div(class = "stats-row",
               div(class = "stat-card",
                   div(class = "stat-label", "Median Salary"),
                   div(class = "stat-value", id = "modal_salary", "£30,000")
               ),
               div(class = "stat-card",
-                  div(class = "stat-label", "Acceptance Rate"),
-                  div(class = "stat-value", "TBD")
+                  div(class = "stat-label", "Offer Rate"),
+                  div(class = "stat-value", id = "modal_offer_rate", "Data Not Available")
               ),
               div(class = "stat-card",
                   div(class = "stat-label", "Course Duration"),
@@ -1150,12 +1748,17 @@ ui <- fluidPage(
               )
           ),
           
-          # NEW: Requirements textbox (full width, above features)
+          # Requirements textbox with matched subjects indicator
           div(style = "margin-bottom: 25px;",
               div(style = "width: 100%; background: linear-gradient(135deg, #2d2d2d 0%, #3a3a3a 100%); border-radius: 12px; padding: 20px; border: 1px solid #444;",
                   div(style = "color: #9dc5dc; font-size: 14px; font-weight: 600; margin-bottom: 10px; text-transform: uppercase;", "Requirements & Options"),
-                  div(style = "color: #ccc; font-size: 14px; line-height: 1.5;", id = "modal_requirements", 
-                      "A-Level Subjects: Mathematics, Physics or Chemistry required. Year abroad available. Sandwich placement year optional.")
+                  div(style = "color: #ccc; font-size: 14px; line-height: 1.5; margin-bottom: 15px;", id = "modal_requirements", 
+                      "A-Level Subjects: Mathematics, Physics or Chemistry required. Year abroad available. Sandwich placement year optional."),
+                  # Subject comparison indicator
+                  div(style = "margin-top: 15px; padding-top: 15px; border-top: 1px solid #555;", id = "matched_subjects_indicator",
+                      div(style = "color: #9dc5dc; font-size: 12px; font-weight: 600; margin-bottom: 8px; text-transform: uppercase;", "How Your Subjects Compare"),
+                      div(style = "color: #ccc; font-size: 14px; font-weight: bold;", id = "matched_subjects_list", "Select subjects to see comparison")
+                  )
               )
           ),
           
@@ -1232,23 +1835,31 @@ ui <- fluidPage(
       Shiny.setInputValue('current_tab', tabName);
     }
     
-    // Toggle interest subjects
-    function toggleInterest(subject) {
+    // Toggle interest subjects - FIXED to prevent click-through
+    function toggleInterest(subject, event) {
+      if (event) {
+        event.stopPropagation();
+        event.preventDefault();
+      }
       var element = document.getElementById('interest_' + subject);
-      element.classList.toggle('selected');
-      Shiny.setInputValue('interest_' + subject, element.classList.contains('selected'));
+      if (element) {
+        element.classList.toggle('selected');
+        Shiny.setInputValue('interest_' + subject, element.classList.contains('selected'));
+      }
     }
     
-    // Update modal content
+    // Update modal content - FIXED VERSION with matched subjects
     Shiny.addCustomMessageHandler('updateModal', function(data) {
       document.getElementById('modal_degree_type').innerText = data.degree_type;
       document.getElementById('modal_subject_title').innerText = data.title;
+      document.getElementById('modal_university_name').innerText = data.university;
       document.getElementById('modal_grade_req').innerText = data.grade_req;
       document.getElementById('modal_salary').innerText = data.salary;
-      
+      document.getElementById('modal_offer_rate').innerText = data.offer_rate;
+
       // Update requirements text with real data
       document.getElementById('modal_requirements').innerText = data.requirements;
-      
+
       // Update match badge with proper color
       var matchBadge = document.getElementById('modal_match_badge');
       var matchColor = '#666666'; // default
@@ -1260,12 +1871,33 @@ ui <- fluidPage(
       }
       matchBadge.style.backgroundColor = matchColor;
       matchBadge.innerText = data.match_type;
+
+      // *** FIXED: Update subject comparison display ***
+      var matchedSubjectsContainer = document.getElementById('matched_subjects_indicator');
+      var matchedSubjectsList = document.getElementById('matched_subjects_list');
       
+      // Always show the section
+      matchedSubjectsContainer.style.display = 'block';
+      
+      if (!data.has_subject_selection) {
+        // User hasn't selected any subjects yet
+        matchedSubjectsList.innerText = 'Select subjects to see comparison';
+        matchedSubjectsList.style.color = '#ccc'; // Neutral gray
+      } else if (data.matched_subjects && data.matched_subjects.length > 0) {
+        // User has selected subjects and found matches
+        matchedSubjectsList.innerText = data.matched_subjects.join(', ');
+        matchedSubjectsList.style.color = '#4CAF50'; // Green for matches
+      } else {
+        // User has selected subjects but no matches found
+        matchedSubjectsList.innerText = 'No matching A-Level subjects found';
+        matchedSubjectsList.style.color = '#f44336'; // Red for no matches
+      }
+
       // Update university website button
       document.getElementById('university_website_btn').onclick = function() {
         window.open(data.url, '_blank');
       };
-      
+
       // Update similar degrees
       var similarContainer = document.getElementById('similar_degrees_container');
       if(data.similar_courses && data.similar_courses.length > 0) {
@@ -1274,15 +1906,72 @@ ui <- fluidPage(
           similarHTML += '<div class=\"similar-degree-card\">' +
             '<div class=\"similar-degree-info\">' +
               '<div class=\"similar-degree-title\">' + course.title + '</div>' +
-              '<div class=\"similar-degree-details\">UCL ' + course.degree_type + ' Grade Req: ' + course.grade_req + '</div>' +
+              '<div class=\"similar-degree-details\">' + course.university + ' ' + course.degree_type + ' Grade Req: ' + course.grade_req + '</div>' +
             '</div>' +
             '<button class=\"similar-degree-btn\" onclick=\"window.open(\\'' + course.url + '\\', \\'_blank\\')\">Course URL</button>' +
             '<button class=\"similar-degree-btn\" onclick=\"openModal(' + (index + 1000) + ')\">Learn More</button>' +
           '</div>';
         });
+    
+    // Update just the subject comparison section when subjects change
+    Shiny.addCustomMessageHandler('updateSubjectComparison', function(data) {
+      console.log('Updating subject comparison with:', data);
+      
+      var matchedSubjectsContainer = document.getElementById('matched_subjects_indicator');
+      var matchedSubjectsList = document.getElementById('matched_subjects_list');
+      
+      if (!matchedSubjectsContainer || !matchedSubjectsList) {
+        console.log('Modal elements not found');
+        return;
+      }
+      
+      // Always show the section
+      matchedSubjectsContainer.style.display = 'block';
+      
+      if (!data.has_subject_selection) {
+        // User hasn't selected any subjects yet
+        matchedSubjectsList.innerText = 'Select subjects to see comparison';
+        matchedSubjectsList.style.color = '#ccc'; // Neutral gray
+        console.log('No subjects selected');
+      } else if (data.matched_subjects && data.matched_subjects.length > 0) {
+        // User has selected subjects and found matches
+        matchedSubjectsList.innerText = data.matched_subjects.join(', ');
+        matchedSubjectsList.style.color = '#4CAF50'; // Green for matches
+        console.log('Matches found:', data.matched_subjects);
+      } else {
+        // User has selected subjects but no matches found
+        matchedSubjectsList.innerText = 'No matching A-Level subjects found';
+        matchedSubjectsList.style.color = '#f44336'; // Red for no matches
+        console.log('No matches found');
+      }
+    });
         similarContainer.innerHTML = similarHTML;
       } else {
         similarContainer.innerHTML = '<div style=\"text-align: center; color: #ccc; padding: 20px;\">No similar courses found</div>';
+      }
+    });
+    
+    // Add visual feedback for grade selection
+    function updateGradeCardStyle(gradeInputId) {
+      const gradeInput = document.getElementById(gradeInputId);
+      const gradeCard = gradeInput.closest('.grade-card');
+      
+      if (gradeInput.value !== '') {
+        gradeCard.style.borderColor = '#9dc5dc';
+        gradeCard.style.boxShadow = '0 4px 15px rgba(157, 197, 220, 0.2)';
+      } else {
+        gradeCard.style.borderColor = '#444';
+        gradeCard.style.boxShadow = '0 4px 15px rgba(0, 0, 0, 0.2)';
+      }
+    }
+    
+    // Monitor grade input changes
+    ['grade1', 'grade2', 'grade3', 'grade4'].forEach(function(gradeId) {
+      const element = document.getElementById(gradeId);
+      if (element) {
+        element.addEventListener('change', function() {
+          updateGradeCardStyle(gradeId);
+        });
       }
     });
   "))
@@ -1291,9 +1980,22 @@ ui <- fluidPage(
 # Server
 server <- function(input, output, session) {
   
+  # Reactive function to get current selected subjects (updates dynamically)
+  current_selected_subjects <- reactive({
+    get_selected_subjects(input$subject1, input$subject2, input$subject3, input$subject4)
+  })
+  
   # Main filtering logic (triggered by submit button)
   filtered_courses <- eventReactive(input$submit_filters, {
     data <- ucl_data
+    
+    # Get selected subjects - LOG WHEN FIND MY COURSES IS CLICKED
+    student_subjects <- get_selected_subjects(input$subject1, input$subject2, input$subject3, input$subject4)
+    
+    # Log selected subjects for debugging (optional)
+    if(length(student_subjects) > 0) {
+      cat("Selected subjects:", paste(student_subjects, collapse = ", "), "\n")
+    }
     
     # Calculate student's score from their grades - FIXED DEFAULT HANDLING
     student_grades <- c(input$grade1, input$grade2, input$grade3, input$grade4)
@@ -1318,19 +2020,41 @@ server <- function(input, output, session) {
       student_score <- NA
     }
     
+    # Add subject requirements matching
+    if(length(student_subjects) > 0) {
+      data$subject_requirements_met <- sapply(1:nrow(data), function(i) {
+        course_requirements <- if(!is.null(data$a_level_subjects[i]) && !is.na(data$a_level_subjects[i])) {
+          data$a_level_subjects[i]
+        } else {
+          ""
+        }
+        match_subjects_with_requirements(student_subjects, course_requirements)
+      })
+      
+      # Store selected subjects for later use in modal
+      data$selected_subjects <- list(student_subjects)
+    } else {
+      data$subject_requirements_met <- FALSE
+      data$selected_subjects <- list(character(0))
+    }
+    
     # Store student score for later use
     data$student_score <- student_score
     
     # ALL SELECTIONS USE THE SAME "interest_" SYSTEM
     
-    # 1. Filter by degree types (using interest_ system) - EXACT DATASET MATCHING
+    # 1. Filter by degree types (using correct degree type names)
     selected_degrees <- c()
+    if(!is.null(input$interest_ba) && input$interest_ba) selected_degrees <- c(selected_degrees, "BA")
     if(!is.null(input$interest_bsc) && input$interest_bsc) selected_degrees <- c(selected_degrees, "BSc")
     if(!is.null(input$interest_msci) && input$interest_msci) selected_degrees <- c(selected_degrees, "MSCi")
-    if(!is.null(input$interest_ba) && input$interest_ba) selected_degrees <- c(selected_degrees, "BA")
-    if(!is.null(input$interest_meng) && input$interest_meng) selected_degrees <- c(selected_degrees, "MEng")
-    if(!is.null(input$interest_beng) && input$interest_beng) selected_degrees <- c(selected_degrees, "BEng")
+    if(!is.null(input$interest_basc) && input$interest_basc) selected_degrees <- c(selected_degrees, "BASc")
     if(!is.null(input$interest_llb) && input$interest_llb) selected_degrees <- c(selected_degrees, "LLB")
+    if(!is.null(input$interest_beng) && input$interest_beng) selected_degrees <- c(selected_degrees, "BEng")
+    if(!is.null(input$interest_meng) && input$interest_meng) selected_degrees <- c(selected_degrees, "MEng")
+    if(!is.null(input$interest_bscecon) && input$interest_bscecon) selected_degrees <- c(selected_degrees, "BSc (Econ)")
+    if(!is.null(input$interest_mbbsbsc) && input$interest_mbbsbsc) selected_degrees <- c(selected_degrees, "MBBS BSc")
+    if(!is.null(input$interest_mpharm) && input$interest_mpharm) selected_degrees <- c(selected_degrees, "MPharm")
     
     # 2. Filter by subject interests (ALL 14 CATEGORIES) - CHANGED TO "OR" LOGIC
     selected_subjects <- c()
@@ -1402,33 +2126,14 @@ server <- function(input, output, session) {
     return(data)
   }, ignoreNULL = FALSE)
   
-  # Debug: Add a reactive to show what's happening
-  output$debug_info <- renderText({
-    if(input$submit_filters > 0) {
-      student_grades <- c(input$grade1, input$grade2, input$grade3, input$grade4)
-      student_grades <- student_grades[!is.null(student_grades) & student_grades != ""]
-      
-      if(length(student_grades) >= 3) {
-        student_score <- calculate_student_score(student_grades)
-        
-        # Find some example courses
-        sample_courses <- head(ucl_data, 10)
-        examples <- sapply(1:nrow(sample_courses), function(i) {
-          course <- sample_courses[i, ]
-          match_type <- get_match_type(student_score, course$grade_score)
-          paste0(course$a_level, " (", course$grade_score, ") -> ", match_type)
-        })
-        
-        paste0("Student: ", paste(student_grades, collapse=""), " (", student_score, ")\n",
-               "Examples:\n", paste(examples, collapse="\n"))
-      }
-    }
-  })
-  output$course_cards <- renderUI({
+  # Store the currently displayed courses for modal access
+  displayed_courses <- reactive({
     # Use filtered data if submit has been pressed, otherwise show all courses
     if(input$submit_filters == 0) {
       filtered_data <- ucl_data
       filtered_data$match_type <- "No Data"
+      filtered_data$subject_requirements_met <- FALSE
+      filtered_data$selected_subjects <- list(character(0))
     } else {
       filtered_data <- filtered_courses()
     }
@@ -1467,13 +2172,21 @@ server <- function(input, output, session) {
     }
     
     if(nrow(filtered_data) == 0) {
+      return(data.frame()) # Return empty dataframe
+    }
+    
+    # Return the courses that will be displayed
+    return(head(filtered_data, num_to_show))
+  })
+  output$course_cards <- renderUI({
+    # Get the courses that should be displayed
+    courses_to_show <- displayed_courses()
+    
+    if(nrow(courses_to_show) == 0) {
       return(div(style = "text-align: center; color: white; padding: 50px;",
                  h3("No courses match your criteria"),
                  p("Try adjusting your filters or selections")))
     }
-    
-    # Get the courses to display
-    courses_to_show <- head(filtered_data, num_to_show)
     
     course_cards <- lapply(1:nrow(courses_to_show), function(i) {
       course <- courses_to_show[i, ]
@@ -1487,6 +2200,13 @@ server <- function(input, output, session) {
                             "#666666"                       # Default gray
       )
       
+      # Use actual university name from data instead of hardcoded "UCL"
+      university_name <- if(!is.null(course$university) && !is.na(course$university) && course$university != "") {
+        course$university
+      } else {
+        "University" # fallback if university data is missing
+      }
+      
       div(class = "course-card",
           # Add match type indicator (only if grades have been entered)
           if(!is.null(course$match_type) && course$match_type != "No Data") {
@@ -1497,7 +2217,7 @@ server <- function(input, output, session) {
               onclick = paste0("openModal(", i, ")"),
               course$title),
           div(class = "course-details", 
-              paste("UCL •", course$degree_type, "• Grade Req:", course$a_level)),
+              paste(university_name, "•", course$degree_type, "• Grade Req:", course$a_level)),
           div(
             tags$button("Course URL", class = "course-btn", 
                         onclick = paste0("window.open('", course$url, "', '_blank')")),
@@ -1511,45 +2231,43 @@ server <- function(input, output, session) {
     div(class = "courses-grid", course_cards)
   })
   
-  # Validation: Disable Grade 4 unless Grades 1-3 are filled
+  # Prevent duplicate subject selection across dropdowns - FIXED APPROACH
+  observeEvent(c(input$subject1, input$subject2, input$subject3), {
+    # Get currently selected subjects
+    selected_subjects <- c(input$subject1, input$subject2, input$subject3)
+    selected_subjects <- selected_subjects[!is.null(selected_subjects) & selected_subjects != ""]
+    
+    # Only update subject4 choices to exclude already selected subjects
+    available_for_subject4 <- all_subjects[!all_subjects %in% selected_subjects]
+    updateSelectInput(session, "subject4", 
+                      choices = c("Select Subject" = "", available_for_subject4))
+  }, ignoreInit = TRUE)
+  
+  # Validation: Enable Grade/Subject 4 when first 3 are filled
   observe({
+    subjects_123_filled <- !is.null(input$subject1) && input$subject1 != "" &&
+      !is.null(input$subject2) && input$subject2 != "" &&
+      !is.null(input$subject3) && input$subject3 != ""
+    
     grades_123_filled <- !is.null(input$grade1) && input$grade1 != "" &&
       !is.null(input$grade2) && input$grade2 != "" &&
       !is.null(input$grade3) && input$grade3 != ""
     
-    if(!grades_123_filled) {
-      updateSelectInput(session, "grade4", choices = c("Fill Grades 1-3 first" = ""))
-      updateSelectInput(session, "subject4", choices = c("Fill Grades 1-3 first" = ""))
+    if(!subjects_123_filled || !grades_123_filled) {
+      updateSelectInput(session, "grade4", choices = c("Complete first 3 subjects & grades" = ""))
     } else {
-      updateSelectInput(session, "grade4", choices = c("Grade (Optional)" = "", "A*", "A", "B", "C", "D", "E"))
-      updateSelectInput(session, "subject4", choices = c("Select Subject (Optional)" = "", core_subjects))
+      updateSelectInput(session, "grade4", choices = c("Select Grade" = "", "A*", "A", "B", "C", "D", "E"))
     }
   })
-  observe({
-    grades_123_filled <- !is.null(input$grade1) && input$grade1 != "" &&
-      !is.null(input$grade2) && input$grade2 != "" &&
-      !is.null(input$grade3) && input$grade3 != ""
-    
-    if(!grades_123_filled) {
-      updateSelectInput(session, "grade4", choices = c("Fill Grades 1-3 first" = ""))
-      updateSelectInput(session, "subject4", choices = c("Fill Grades 1-3 first" = ""))
-    } else {
-      updateSelectInput(session, "grade4", choices = c("Grade (Optional)" = "", "A*", "A", "B", "C", "D", "E"))
-      updateSelectInput(session, "subject4", choices = c("Select Subject (Optional)" = "", core_subjects))
-    }
-  })
+  
   observeEvent(input$selected_course_index, {
     if(!is.null(input$selected_course_index) && input$selected_course_index > 0) {
-      # Determine which dataset to use
-      if(input$submit_filters == 0) {
-        current_data <- ucl_data
-      } else {
-        current_data <- filtered_courses()
-      }
+      # Use the same dataset that was used to display the course cards
+      current_data <- displayed_courses()
       
       # Make sure the selected index is within range
       if(input$selected_course_index <= nrow(current_data)) {
-        # Get course from the current dataset
+        # Get course from the displayed dataset
         course <- current_data[input$selected_course_index, ]
         
         # Format salary with proper handling of NA values
@@ -1559,8 +2277,151 @@ server <- function(input, output, session) {
           "N/A"
         }
         
-        # Get match type
+        # Format offer rate with percentage sign
+        offer_rate_text <- if(!is.null(course$offer_rate_clean) && !is.na(course$offer_rate_clean) && course$offer_rate_clean != "") {
+          if(course$offer_rate_clean == "Data Not Available") {
+            "Data Not Available"
+          } else {
+            # Add percentage sign to numeric values
+            paste0(course$offer_rate_clean, "%")
+          }
+        } else {
+          "Data Not Available"
+        }
+        
+        # Get university name
+        university_name <- if(!is.null(course$university) && !is.na(course$university) && course$university != "") {
+          course$university
+        } else {
+          "University"
+        }
+        
+        # Get match type and subject requirements
         match_type <- if(!is.null(course$match_type)) course$match_type else "No Data"
+        subject_requirements_met <- if(!is.null(course$subject_requirements_met)) course$subject_requirements_met else FALSE
+        
+        # Get selected subjects for highlighting - USE CURRENT REACTIVE SUBJECTS
+        selected_subjects <- current_selected_subjects()
+        
+        # Check if user has selected any subjects
+        has_subject_selection <- length(selected_subjects) > 0
+        
+        # Build requirements text from real data - CLEAN, NO HTML + DEBUG
+        requirements_text <- ""
+        
+        # Add A-level subjects (main requirement)
+        if(!is.null(course$a_level_subjects) && !is.na(course$a_level_subjects) && course$a_level_subjects != "") {
+          requirements_text <- course$a_level_subjects
+          cat("Found a_level_subjects:", course$a_level_subjects, "\n")
+        } else {
+          cat("No a_level_subjects found for course:", course$title, "\n")
+        }
+        
+        # Add placement year info if available
+        placement_text <- ""
+        if(!is.null(course$sandwich) && !is.na(course$sandwich)) {
+          if(course$sandwich == "Yes") {
+            placement_text <- "Placement year available."
+          }
+        }
+        
+        # Add year abroad info if available  
+        abroad_text <- ""
+        if(!is.null(course$yearabroad) && !is.na(course$yearabroad)) {
+          if(course$yearabroad == "Yes") {
+            abroad_text <- "Year abroad available."
+          }
+        }
+        
+        # Combine all requirements text
+        additional_options <- c(placement_text, abroad_text)
+        additional_options <- additional_options[additional_options != ""]
+        
+        if(length(additional_options) > 0) {
+          if(requirements_text != "") {
+            requirements_text <- paste(requirements_text, paste(additional_options, collapse = " "), sep = " ")
+          } else {
+            requirements_text <- paste(additional_options, collapse = " ")
+          }
+        }
+        
+        # Fallback if no requirements data
+        if(requirements_text == "") {
+          requirements_text <- "Requirements information not available."
+        }
+        
+        cat("Final requirements text:", requirements_text, "\n")
+        
+        # Find matched subjects using YOUR working logic
+        matched_subjects_list <- if(has_subject_selection && requirements_text != "") {
+          find_matched_subjects(selected_subjects, requirements_text)
+        } else {
+          character(0)
+        }
+        
+        # Find similar courses from the full dataset (not just displayed courses)
+        full_dataset <- if(input$submit_filters == 0) ucl_data else filtered_courses()
+        similar_courses <- find_similar_courses(course, full_dataset, limit = 3)
+        
+        # Update modal content with CLEAN requirements and SIMPLE matching
+        session$sendCustomMessage("updateModal", list(
+          degree_type = course$degree_type,
+          title = course$title,
+          university = university_name,
+          grade_req = paste("Grade Req:", course$a_level),
+          salary = salary_text,
+          offer_rate = offer_rate_text,
+          url = course$url,
+          match_type = match_type,
+          subject_requirements_met = subject_requirements_met,
+          has_subject_selection = has_subject_selection,
+          requirements = requirements_text,  # CLEAN TEXT
+          selected_subjects = selected_subjects,
+          matched_subjects = if(length(matched_subjects_list) > 0) matched_subjects_list else NULL,
+          similar_courses = if(nrow(similar_courses) > 0) {
+            lapply(1:nrow(similar_courses), function(i) {
+              sim_course <- similar_courses[i, ]
+              sim_university <- if(!is.null(sim_course$university) && !is.na(sim_course$university) && sim_course$university != "") {
+                sim_course$university
+              } else {
+                "University"
+              }
+              list(
+                title = sim_course$title,
+                degree_type = sim_course$degree_type,
+                university = sim_university,
+                grade_req = sim_course$a_level,
+                url = sim_course$url
+              )
+            })
+          } else {
+            list()
+          }
+        ))
+        
+      }
+    }
+  })
+  
+  # Update modal when subjects change (if modal is open)
+  observeEvent(current_selected_subjects(), {
+    cat("Subjects changed to:", paste(current_selected_subjects(), collapse = ", "), "\n")
+    
+    # Check if a modal is currently open and re-trigger the modal update
+    if(!is.null(input$selected_course_index) && input$selected_course_index > 0) {
+      cat("Modal is open, updating subject comparison\n")
+      
+      # Get current modal course data
+      current_data <- displayed_courses()
+      if(input$selected_course_index <= nrow(current_data)) {
+        # Re-trigger the modal update with new subject matching
+        course <- current_data[input$selected_course_index, ]
+        
+        # Get current selected subjects
+        selected_subjects <- current_selected_subjects()
+        has_subject_selection <- length(selected_subjects) > 0
+        
+        cat("Current subjects:", paste(selected_subjects, collapse = ", "), "\n")
         
         # Build requirements text from real data
         requirements_text <- ""
@@ -1603,35 +2464,26 @@ server <- function(input, output, session) {
           requirements_text <- "Requirements information not available."
         }
         
-        # Find similar courses
-        similar_courses <- find_similar_courses(course, current_data, limit = 3)
+        cat("Requirements text:", requirements_text, "\n")
         
-        # Update modal content
-        session$sendCustomMessage("updateModal", list(
-          degree_type = course$degree_type,
-          title = course$title,
-          grade_req = paste("Grade Req:", course$a_level),
-          salary = salary_text,
-          url = course$url,
-          match_type = match_type,
-          requirements = requirements_text,
-          similar_courses = if(nrow(similar_courses) > 0) {
-            lapply(1:nrow(similar_courses), function(i) {
-              sim_course <- similar_courses[i, ]
-              list(
-                title = sim_course$title,
-                degree_type = sim_course$degree_type,
-                grade_req = sim_course$a_level,
-                url = sim_course$url
-              )
-            })
-          } else {
-            list()
-          }
+        # Find matched subjects using YOUR working logic
+        matched_subjects_list <- if(has_subject_selection && requirements_text != "") {
+          find_matched_subjects(selected_subjects, requirements_text)
+        } else {
+          character(0)
+        }
+        
+        cat("Matched subjects:", paste(matched_subjects_list, collapse = ", "), "\n")
+        
+        # Update only the subject comparison part of the modal
+        session$sendCustomMessage("updateSubjectComparison", list(
+          has_subject_selection = has_subject_selection,
+          selected_subjects = selected_subjects,
+          matched_subjects = if(length(matched_subjects_list) > 0) matched_subjects_list else NULL
         ))
       }
     }
-  })
+  }, ignoreInit = TRUE)
 }
 
 # Run the application
