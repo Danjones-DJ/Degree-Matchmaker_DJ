@@ -1689,19 +1689,19 @@ ui <- fluidPage(
           div(class = "recommended-grid",
               div(class = "recommended-card",
                   div(class = "recommended-image"),
-                  div(class = "recommended-title", "UCAS Degree Tool")
+                  div(class = "recommended-title", "This will probably link to another resource")
               ),
               div(class = "recommended-card",
                   div(class = "recommended-image"),
-                  div(class = "recommended-title", "Tracker finance applications")
+                  div(class = "recommended-title", "This will probably link to another resource")
               ),
               div(class = "recommended-card",
                   div(class = "recommended-image"),
-                  div(class = "recommended-title", "other link")
+                  div(class = "recommended-title", "This will probably link to another resource")
               ),
               div(class = "recommended-card",
                   div(class = "recommended-image"),
-                  div(class = "recommended-title", "Franz Ferdinand, Mitski, Artic Monkeys and...")
+                  div(class = "recommended-title", "This will probably link to another resource")
               )
           )
       ),
@@ -2488,3 +2488,6 @@ server <- function(input, output, session) {
 
 # Run the application
 shinyApp(ui = ui, server = server, options = list(height = 1080))
+
+
+
