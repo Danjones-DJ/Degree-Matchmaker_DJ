@@ -1,81 +1,432 @@
 title,crseurl
-Design Engineering,https://www.imperial.ac.uk/study/courses/undergraduate/design-engineering/
-Medicine,https://www.imperial.ac.uk/study/courses/undergraduate/medicine/
-Medicine (Graduate Entry),https://www.imperial.ac.uk/study/courses/undergraduate/medicine-graduate-entry/
-Medical Biosciences,https://www.imperial.ac.uk/study/courses/undergraduate/medical-biosciences/
-Medical Biosciences with Management,https://www.imperial.ac.uk/study/courses/undergraduate/medical-biosciences-management/
-Biomedical Technology Ventures,https://www.imperial.ac.uk/study/courses/undergraduate/biomedical-technology-ventures/
-Biomedical Engineering,https://www.imperial.ac.uk/study/courses/undergraduate/biomedical-engineering/
-Biomaterials and Tissue Engineering,https://www.imperial.ac.uk/study/courses/undergraduate/biomaterials-tissue-engineering-meng/
-Biological Sciences,https://www.imperial.ac.uk/study/courses/undergraduate/biological-sciences/
-Ecology and Environmental Biology,https://www.imperial.ac.uk/study/courses/undergraduate/ecology-environmental-biology/
-Biological Sciences with French for Science,https://www.imperial.ac.uk/study/courses/undergraduate/biological-sciences-language/#OptionA
-Biological Sciences with German for Science,https://www.imperial.ac.uk/study/courses/undergraduate/biological-sciences-language/#OptionB
-Biological Sciences with Spanish for Science,https://www.imperial.ac.uk/study/courses/undergraduate/biological-sciences-language/#OptionC
-Microbiology,https://www.imperial.ac.uk/study/courses/undergraduate/microbiology/
-Biochemistry,https://www.imperial.ac.uk/study/courses/undergraduate/biochemistry-bsc/
-Biochemistry with French for Science,https://www.imperial.ac.uk/study/courses/undergraduate/biochemistry-language/#OptionA
-Biochemistry with German for Science,https://www.imperial.ac.uk/study/courses/undergraduate/biochemistry-language/#OptionB
-Biochemistry with Spanish for Science,https://www.imperial.ac.uk/study/courses/undergraduate/biochemistry-language/#OptionC
-Chemistry,https://www.imperial.ac.uk/study/courses/undergraduate/chemistry-bsc/
-Chemistry with Research Abroad and a Year in Industry,https://www.imperial.ac.uk/study/courses/undergraduate/chemistry-msci/#OptionC
-Chemistry,https://www.imperial.ac.uk/study/courses/undergraduate/chemistry-msci/
-Chemistry with Research Abroad,https://www.imperial.ac.uk/study/courses/undergraduate/chemistry-msci/#OptionB
-Chemistry with a Year in Industry,https://www.imperial.ac.uk/study/courses/undergraduate/chemistry-msci/#OptionA
-Chemistry with Medicinal Chemistry,https://www.imperial.ac.uk/study/courses/undergraduate/chemistry-medicinal/
-Chemistry with Medicinal Chemistry and a Year in Industry,https://www.imperial.ac.uk/study/courses/undergraduate/chemistry-medicinal/#OptionA
-Chemistry with Molecular Physics,https://www.imperial.ac.uk/study/courses/undergraduate/chemistry-molecular-physics/
-Chemistry with Molecular Physics and a Year in Industry,https://www.imperial.ac.uk/study/courses/undergraduate/chemistry-molecular-physics/#OptionA
-Chemistry with Management,https://www.imperial.ac.uk/study/courses/undergraduate/chemistry-management/
-Physics,https://www.imperial.ac.uk/study/courses/undergraduate/physics-bsc/
-Physics,https://www.imperial.ac.uk/study/courses/undergraduate/physics-msci/
-Physics with a Year Abroad,https://www.imperial.ac.uk/study/courses/undergraduate/physics-msci/#OptionA
-Physics with Theoretical Physics,https://www.imperial.ac.uk/study/courses/undergraduate/physics-theoretical-bsc/
-Physics with Theoretical Physics,https://www.imperial.ac.uk/study/courses/undergraduate/physics-theoretical-msci/
-Earth and Planetary Science with a Year Abroad,https://www.imperial.ac.uk/study/courses/undergraduate/earth-planetary-science-msci/#abroad
-Geology,https://www.imperial.ac.uk/study/courses/undergraduate/geology-bsc/
-Geology with a Year Abroad,https://www.imperial.ac.uk/study/courses/undergraduate/geology-msci/#abroad
-Geology,https://www.imperial.ac.uk/study/courses/undergraduate/geology-msci/
-Earth and Planetary Science,https://www.imperial.ac.uk/study/courses/undergraduate/earth-planetary-science-msci/
-Earth and Planetary Science,https://www.imperial.ac.uk/study/courses/undergraduate/earth-planetary-science-bsc/
-Geophysics,https://www.imperial.ac.uk/study/courses/undergraduate/geophysics-msci/
-Geophysics,https://www.imperial.ac.uk/study/courses/undergraduate/geophysics-bsc/
-Geophysics with a Year Abroad,https://www.imperial.ac.uk/study/courses/undergraduate/geophysics-msci/#abroad
-Chemistry with Management and a Year in Industry,https://www.imperial.ac.uk/study/courses/undergraduate/chemistry-management/#OptionA
-Mathematics,https://www.imperial.ac.uk/study/courses/undergraduate/mathematics-bsc/
-Mathematics with Mathematical Computation,https://www.imperial.ac.uk/study/courses/undergraduate/mathematics-computation/
-Mathematics,https://www.imperial.ac.uk/study/courses/undergraduate/mathematics-msci/
-Mathematics with a Year Abroad,https://www.imperial.ac.uk/study/courses/undergraduate/mathematics-msci/#OptionA
-Mathematics (Pure Mathematics),https://www.imperial.ac.uk/study/courses/undergraduate/pure-mathematics-bsc/
-Mathematics with Applied Mathematics/Mathematical Physics,https://www.imperial.ac.uk/study/courses/undergraduate/mathematics-applied-physics/
-Mathematics with Statistics,https://www.imperial.ac.uk/study/courses/undergraduate/mathematics-statistics/
-Mathematics with Statistics for Finance,https://www.imperial.ac.uk/study/courses/undergraduate/mathematics-statistics-finance/
-Computing,https://www.imperial.ac.uk/study/courses/undergraduate/computing-beng/
-Computing,https://www.imperial.ac.uk/study/courses/undergraduate/computing-meng/
-Computing (International Programme of Study),https://www.imperial.ac.uk/study/courses/undergraduate/computing-international-programme-of-study/
-Computing (Management and Finance),https://www.imperial.ac.uk/study/courses/undergraduate/computing-computational-management/
-Computing (Software Engineering),https://www.imperial.ac.uk/study/courses/undergraduate/computing-software-engineering-meng/
-Computing (Security and Reliability),https://www.imperial.ac.uk/study/courses/undergraduate/computing-security-reliability-meng/
-Computing (Artificial Intelligence and Machine Learning),https://www.imperial.ac.uk/study/courses/undergraduate/computing-artificial-intelligence-meng/
-Mathematics and Computer Science,https://www.imperial.ac.uk/study/courses/undergraduate/mathematics-computer-science-beng/
-Mathematics and Computer Science,https://www.imperial.ac.uk/study/courses/undergraduate/mathematics-computer-science-meng/
-Computing (Visual Computing and Robotics),https://www.imperial.ac.uk/study/courses/undergraduate/computing-visual-computing-robotics-meng/
-Electronic and Information Engineering,https://www.imperial.ac.uk/study/courses/undergraduate/electronic-information-meng/
-Molecular Bioengineering,https://www.imperial.ac.uk/study/courses/undergraduate/molecular-bioengineering/
-Civil Engineering,https://www.imperial.ac.uk/study/courses/undergraduate/civil-engineering/
-Civil Engineering with a Year Abroad,https://www.imperial.ac.uk/study/courses/undergraduate/civil-engineering/#OptionA
-Mechanical Engineering,https://www.imperial.ac.uk/study/courses/undergraduate/mechanical-engineering/
-Aeronautical Engineering,https://www.imperial.ac.uk/study/courses/undergraduate/aeronautical-engineering/
-Electrical and Electronic Engineering,https://www.imperial.ac.uk/study/courses/undergraduate/electrical-electronic-engineering-beng/
-Electrical and Electronic Engineering,https://www.imperial.ac.uk/study/courses/undergraduate/electrical-electronic-engineering-meng/
-Electrical and Electronic Engineering with Management,https://www.imperial.ac.uk/study/courses/undergraduate/electrical-electronic-engineering-management/
-Chemical Engineering,https://www.imperial.ac.uk/study/courses/undergraduate/chemical-engineering/
-Electronic and Information Engineering,https://www.imperial.ac.uk/study/courses/undergraduate/electronic-information-beng/
-Materials with Nuclear Engineering,https://www.imperial.ac.uk/study/courses/undergraduate/materials-nuclear-engineering/
-Biotechnology,https://www.imperial.ac.uk/study/courses/undergraduate/biotechnology/
-Biotechnology with French for Science,https://www.imperial.ac.uk/study/courses/undergraduate/biotechnology-language/#OptionA
-Biotechnology with German for Science,https://www.imperial.ac.uk/study/courses/undergraduate/biotechnology-language/#OptionB
-Biotechnology with Spanish for Science,https://www.imperial.ac.uk/study/courses/undergraduate/biotechnology-language/#OptionC
-Materials Science and Engineering,https://www.imperial.ac.uk/study/courses/undergraduate/materials-science-engineering-beng/
-Materials Science and Engineering,https://www.imperial.ac.uk/study/courses/undergraduate/materials-science-engineering-meng/
-"Economics, Finance and Data Science",https://www.imperial.ac.uk/study/courses/undergraduate/economics-finance-data-science/
+Archaeology and Anthropology,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/archaeology-and-anthropology-ba
+Archaeology,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/archaeology-year-abroad-ba
+Archaeology,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/archaeology-ba
+Archaeology with a Placement Year,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/archaeology-placement-year-ba
+Art and Technology,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/art-and-technology-ba
+Bulgarian and Czech,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bulgarian-and-czech-ba
+Bulgarian and Danish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bulgarian-and-danish-ba
+Bulgarian and Dutch,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bulgarian-and-dutch-ba
+Bulgarian and East European Studies,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bulgarian-and-east-european-studies-ba
+Bulgarian and Finnish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bulgarian-and-finnish-ba
+Bulgarian and French,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bulgarian-and-french-ba
+Bulgarian and German,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bulgarian-and-german-ba
+Bulgarian and Hebrew,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bulgarian-and-hebrew-ba
+Bulgarian and Hungarian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bulgarian-and-hungarian-ba
+Bulgarian and Italian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bulgarian-and-italian-ba
+Bulgarian and Norwegian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bulgarian-and-norwegian-ba
+Bulgarian and Polish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bulgarian-and-polish-ba
+Bulgarian and Portuguese,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bulgarian-and-portuguese-ba
+Bulgarian and Romanian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bulgarian-and-romanian-ba
+Bulgarian and Russian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bulgarian-and-russian-ba
+Bulgarian and Spanish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bulgarian-and-spanish-ba
+Bulgarian and Serbian/Croatian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bulgarian-and-serbian-croatian-ba
+Bulgarian and Swedish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bulgarian-and-swedish-ba
+Bulgarian and Ukrainian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bulgarian-and-ukrainian-ba
+Bulgarian and Yiddish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bulgarian-and-yiddish-ba
+Classics and the Ancient World with Study Abroad,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/classics-and-ancient-world-study-abroad-ba
+Classical Archaeology and Classical Civilisation,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/classical-archaeology-and-classical-civilisation-ba
+Classics and the Ancient World,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/classics-and-ancient-world-ba
+Comparative Literature,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/comparative-literature-year-abroad-ba
+Comparative Literature,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/comparative-literature-ba
+Communications,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/communications-ba
+Creative Arts and Humanities,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/creative-arts-and-humanities-ba
+Czech and Danish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/czech-and-danish-ba
+Czech and Dutch,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/czech-and-dutch-ba
+Czech (with Slovak) and East European Studies,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/czech-slovak-and-east-european-studies-ba
+Czech and Finnish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/czech-and-finnish-ba
+Czech and French,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/czech-and-french-ba
+Czech and German,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/czech-and-german-ba
+Czech and Hebrew,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/czech-and-hebrew-ba
+Czech and Hungarian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/czech-and-hungarian-ba
+Czech and Italian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/czech-and-italian-ba
+Czech and Norwegian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/czech-and-norwegian-ba
+Czech and Polish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/czech-and-polish-ba
+Czech and Portuguese,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/czech-and-portuguese-ba
+Czech and Romanian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/czech-and-romanian-ba
+Czech and Russian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/czech-and-russian-ba
+Czech and Spanish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/czech-and-spanish-ba
+Czech and Serbian/Croatian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/czech-and-serbian-croatian-ba
+Czech and Swedish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/czech-and-swedish-ba
+Czech and Ukrainian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/czech-and-ukrainian-ba
+Czech and Yiddish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/czech-and-yiddish-ba
+Danish and Dutch,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/danish-and-dutch-ba
+Danish and Finnish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/danish-and-finnish-ba
+Danish and French,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/danish-and-french-ba
+Danish and German,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/danish-and-german-ba
+Danish and Hebrew,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/danish-and-hebrew-ba
+Danish and Hungarian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/danish-and-hungarian-ba
+Danish and Italian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/danish-and-italian-ba
+Danish and Polish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/danish-and-polish-ba
+Danish and Portuguese,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/danish-and-portuguese-ba
+Danish and Romanian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/danish-and-romanian-ba
+Danish and Russian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/danish-and-russian-ba
+Danish and Spanish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/danish-and-spanish-ba
+Danish and Serbian/Croatian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/danish-and-serbian-croatian-ba
+Danish and Ukrainian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/danish-and-ukrainian-ba
+Danish and Yiddish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/danish-and-yiddish-ba
+Dutch and English,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-and-english-ba
+Dutch and Finnish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-and-finnish-ba
+Dutch and French,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-and-french-ba
+Dutch and German,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-and-german-ba
+Dutch and History of Art,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-and-history-art-ba
+Dutch and Hebrew,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-and-hebrew-ba
+Dutch and Hungarian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-and-hungarian-ba
+Dutch and Italian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-and-italian-ba
+Dutch and Latin,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-and-latin-ba
+Dutch and Management Studies,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-and-management-studies-ba
+Dutch and Norwegian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-and-norwegian-ba
+Dutch and Philosophy,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-and-philosophy-ba
+Dutch and Polish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-and-polish-ba
+Dutch and Portuguese,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-and-portuguese-ba
+Dutch and Romanian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-and-romanian-ba
+Dutch and Russian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-and-russian-ba
+Dutch and Spanish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-and-spanish-ba
+Dutch and Serbian/Croatian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-and-serbian-croatian-ba
+Dutch and Swedish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-and-swedish-ba
+Dutch and Ukrainian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-and-ukrainian-ba
+Dutch and Yiddish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-and-yiddish-ba
+Dutch,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-ba
+Dutch with Film Studies,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-film-studies-ba
+Dutch with Management Studies,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-management-studies-ba
+Economics and Business with East European Studies,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/economics-and-business-east-european-studies-year-abroad-ba
+Economics and Business with East European Studies,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/economics-and-business-east-european-studies-ba
+Early Childhood Education,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/early-childhood-education-ba
+"Education, Society and Culture",https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/education-society-and-culture-ba
+English,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/english-ba
+European Social and Political Studies: Dual Degree,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/european-social-and-political-studies-dual-degree-ba
+European Social and Political Studies,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/european-social-and-political-studies-ba
+Finnish and French,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/finnish-and-french-ba
+Finnish and German,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/finnish-and-german-ba
+Finnish and Hebrew,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/finnish-and-hebrew-ba
+Finnish and Hungarian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/finnish-and-hungarian-ba
+Finnish and Italian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/finnish-and-italian-ba
+Finnish and Norwegian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/finnish-and-norwegian-ba
+Finnish and Polish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/finnish-and-polish-ba
+Finnish and Portuguese,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/finnish-and-portuguese-ba
+Finnish and Romanian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/finnish-and-romanian-ba
+Finnish and Russian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/finnish-and-russian-ba
+Finnish and Spanish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/finnish-and-spanish-ba
+Finnish and Serbian/Croatian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/finnish-and-serbian-croatian-ba
+Finnish and Swedish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/finnish-and-swedish-ba
+Finnish and Ukrainian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/finnish-and-ukrainian-ba
+Finnish and Yiddish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/finnish-and-yiddish-ba
+Fine Art,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/fine-art-ba
+French and an Asian or African Language,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-and-asian-or-african-language-ba
+French and English,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-and-english-ba
+French and German,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-and-german-ba
+French and History of Art,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-and-history-of-art-ba
+French and Hebrew,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-and-hebrew-ba
+French and Hungarian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-and-hungarian-ba
+French and Italian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-and-italian-ba
+French and Latin,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-and-latin-ba
+French and Norwegian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-and-norwegian-ba
+French and Philosophy,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-and-philosophy-ba
+French and Polish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-and-polish-ba
+French and Portuguese,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-and-portuguese-ba
+French and Romanian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-and-romanian-ba
+French and Russian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-and-russian-ba
+French and Spanish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-and-spanish-ba
+French and Serbian/Croatian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-and-serbian-croatian-ba
+French and Swedish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-and-swedish-ba
+French and Ukrainian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-and-ukrainian-ba
+French and Yiddish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-and-yiddish-ba
+French,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-ba
+French with Film Studies,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-film-studies-ba
+French with Management Studies,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-management-studies-ba
+Finnish and East European Studies,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/finnish-and-east-european-studies-ba
+Geography,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/geography-ba
+Geography (International Programme),https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/geography-international-programme-ba
+German and English,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/german-and-english-ba
+German and History of Art,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/german-and-history-of-art-ba
+German and Hebrew,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/german-and-hebrew-ba
+German and History,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/german-and-history-ba
+German and Hungarian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/german-and-hungarian-ba
+German and Italian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/german-and-italian-ba
+German and Jewish Studies,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/german-and-jewish-studies-ba
+German and Latin,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/german-and-latin-ba
+German and Norwegian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/german-and-norwegian-ba
+German and Philosophy,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/german-and-philosophy-ba
+German and Polish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/german-and-polish-ba
+German and Portuguese,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/german-and-portuguese-ba
+German and Romanian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/german-and-romanian-ba
+German and Russian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/german-and-russian-ba
+German and Spanish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/german-and-spanish-ba
+German and Serbian/Croatian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/german-and-serbian-croatian-ba
+German and Swedish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/german-and-swedish-ba
+German and Ukrainian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/german-and-ukrainian-ba
+German and Yiddish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/german-and-yiddish-ba
+German,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/german-ba
+German with Film Studies,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/german-film-studies-ba
+German with Management Studies,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/german-management-studies-ba
+Greek and English,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/greek-and-english-ba
+History of Art,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/history-art-ba
+Hebrew and Hungarian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hebrew-and-hungarian-ba
+Hebrew and Italian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hebrew-and-italian-ba
+Hebrew and Jewish Studies,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hebrew-and-jewish-studies-ba
+Hebrew and Jewish Studies,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hebrew-and-jewish-studies-year-abroad-ba
+Hebrew and Norwegian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hebrew-and-norwegian-ba
+Hebrew and Polish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hebrew-and-polish-ba
+Hebrew and Romanian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hebrew-and-romanian-ba
+Hebrew and Spanish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hebrew-and-spanish-ba
+Hebrew and Serbian/Croatian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hebrew-and-serbian-croatian-ba
+Hebrew and Swedish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hebrew-and-swedish-ba
+Hebrew and Ukrainian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hebrew-and-ukrainian-ba
+Ancient History,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/ancient-history-ba
+History,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/history-ba
+History with a Year Abroad,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/history-year-abroad-ba
+History and Politics of the Americas,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/history-and-politics-americas-ba
+History and Politics of the Americas with a Year Abroad,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/history-and-politics-americas-year-abroad-ba
+"History, Politics and Economics",https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/history-politics-and-economics-ba
+History (Central and East European) and Jewish Studies,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/history-central-and-east-european-and-jewish-studies-year-abroad-ba
+Hungarian and East European Studies,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hungarian-and-east-european-studies-ba
+Hungarian and Italian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hungarian-and-italian-ba
+Hungarian and Norwegian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hungarian-and-norwegian-ba
+Hungarian and Polish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hungarian-and-polish-ba
+Hungarian and Portuguese,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hungarian-and-portuguese-ba
+Hungarian and Romanian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hungarian-and-romanian-ba
+Hungarian and Russian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hungarian-and-russian-ba
+Hungarian and Spanish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hungarian-and-spanish-ba
+Hungarian and Serbian/Croatian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hungarian-and-serbian-croatian-ba
+Hungarian and Swedish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hungarian-and-swedish-ba
+Hungarian and Ukrainian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hungarian-and-ukrainian-ba
+Hungarian and Yiddish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/hungarian-and-yiddish-ba
+International Social and Political Studies,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/international-social-and-political-studies-ba
+Italian and History of Art,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/italian-and-history-of-art-ba
+Italian and Jewish Studies,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/italian-and-jewish-studies-ba
+Italian and Latin,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/italian-and-latin-ba
+Italian and Management Studies,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/italian-and-management-studies-ba
+Italian and Norwegian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/italian-and-norwegian-ba
+Italian and Philosophy,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/italian-and-philosophy-ba
+Italian and Polish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/italian-and-polish-ba
+Italian and Portuguese,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/italian-and-portuguese-ba
+Italian and Romanian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/italian-and-romanian-ba
+Italian and Russian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/italian-and-russian-ba
+Italian and Spanish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/italian-and-spanish-ba
+Italian and Serbian/Croatian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/italian-and-serbian-croatian-ba
+Italian and Swedish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/italian-and-swedish-ba
+Italian and Ukrainian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/italian-and-ukrainian-ba
+Italian and Yiddish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/italian-and-yiddish-ba
+Italian Studies: UCL-Venice Double Degree,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/italian-studies-ucl-venice-double-degree-ba
+Italian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/italian-ba
+Italian with Film Studies,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/italian-film-studies-ba
+Latin and English,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/latin-and-english-ba
+Linguistics,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/linguistics-ba
+Linguistics (International Programme),https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/linguistics-international-programme-ba
+Ancient Languages,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/ancient-languages-year-abroad-ba
+Ancient Languages,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/ancient-languages-ba
+Language and Culture,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/language-and-culture-ba
+Media,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/media-ba
+Norwegian and Polish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/norwegian-and-polish-ba
+Norwegian and Portuguese,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/norwegian-and-portuguese-ba
+Norwegian and Romanian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/norwegian-and-romanian-ba
+Norwegian and Russian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/norwegian-and-russian-ba
+Norwegian and Spanish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/norwegian-and-spanish-ba
+Norwegian and Serbian/Croatian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/norwegian-and-serbian-croatian-ba
+Norwegian and Ukrainian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/norwegian-and-ukrainian-ba
+Norwegian and Yiddish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/norwegian-and-yiddish-ba
+Philosophy and Computer Science,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/philosophy-and-computer-science-ba
+Philosophy and Economics,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/philosophy-and-economics-ba
+Philosophy and History of Art,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/philosophy-and-history-art-ba
+Philosophy,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/philosophy-ba
+"Politics, Sociology and East European Studies",https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/politics-sociology-and-east-european-studies-year-abroad-ba
+"Politics, Sociology and East European Studies",https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/politics-sociology-and-east-european-studies-ba
+Polish and Portuguese,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/polish-and-portuguese-ba
+Polish and Romanian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/polish-and-romanian-ba
+Polish and Russian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/polish-and-russian-ba
+Polish and Spanish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/polish-and-spanish-ba
+Polish and Serbian/Croatian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/polish-and-serbian-croatian-ba
+Polish and Swedish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/polish-and-swedish-ba
+Polish and Ukrainian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/polish-and-ukrainian-ba
+Polish and Yiddish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/polish-and-yiddish-ba
+Polish and East European Studies,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/polish-and-east-european-studies-ba
+Romanian and East European Studies,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/romanian-and-east-european-studies-ba
+Romanian and Portuguese,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/romanian-and-portuguese-ba
+Romanian and Russian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/romanian-and-russian-ba
+Romanian and Spanish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/romanian-and-spanish-ba
+Romanian and Serbian/Croatian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/romanian-and-serbian-croatian-ba
+Romanian and Swedish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/romanian-and-swedish-ba
+Romanian and Ukrainian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/romanian-and-ukrainian-ba
+Romanian and Yiddish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/romanian-and-yiddish-ba
+Russian and History,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/russian-and-history-ba
+Russian and Portuguese,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/russian-and-portuguese-ba
+Russian and Spanish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/russian-and-spanish-ba
+Russian and Serbian/Croatian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/russian-and-serbian-croatian-ba
+Russian and Swedish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/russian-and-swedish-ba
+Russian and Ukrainian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/russian-and-ukrainian-ba
+Russian and Yiddish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/russian-and-yiddish-ba
+Russian Studies,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/russian-studies-ba
+Russian with an East European Language,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/russian-east-european-language-ba
+Scandinavian Studies and English,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/scandinavian-studies-and-english-ba
+Scandinavian Studies and History of Art,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/scandinavian-studies-and-history-of-art-ba
+Scandinavian Studies and Latin,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/scandinavian-studies-and-latin-ba
+Scandinavian Studies and Philosophy,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/scandinavian-studies-and-philosophy-ba
+Icelandic,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/icelandic-ba
+Scandinavian Studies,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/scandinavian-studies-ba
+Viking and Old Norse Studies,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/viking-and-old-norse-studies-ba
+Scandinavian Studies with Film Studies,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/scandinavian-studies-film-studies-ba
+Scandinavian Studies with Management Studies,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/scandinavian-studies-management-studies-ba
+Serbian / Croatian and East European Studies,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/serbian-croatian-and-east-european-studies-ba
+Spanish and History of Art,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/spanish-and-history-of-art-ba
+Spanish and Latin American Studies,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/spanish-and-latin-american-studies-ba
+Spanish and Latin,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/spanish-and-latin-ba
+Spanish and Philosophy,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/spanish-and-philosophy-ba
+Spanish and Portuguese,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/spanish-and-portuguese-ba
+Spanish and Swedish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/spanish-and-swedish-ba
+Spanish and Ukrainian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/spanish-and-ukrainian-ba
+Spanish and Yiddish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/spanish-and-yiddish-ba
+Spanish with Film Studies,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/spanish-film-studies-ba
+Spanish with Management Studies,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/spanish-management-studies-ba
+Serbian/Croatian and Portuguese,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/serbian-croatian-and-portuguese-ba
+Serbian/Croatian and Spanish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/serbian-croatian-and-spanish-ba
+Serbian/Croatian and Swedish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/serbian-croatian-and-swedish-ba
+Serbian/Croatian and Ukrainian,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/serbian-croatian-and-ukrainian-ba
+Serbian/Croatian and Yiddish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/serbian-croatian-and-yiddish-ba
+Swedish and Portuguese,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/swedish-and-portuguese-ba
+Swedish and Yiddish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/swedish-and-yiddish-ba
+Ukrainian and East European Studies,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/ukrainian-and-east-european-studies-ba
+Ukrainian and Portuguese,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/ukrainian-and-portuguese-ba
+Ukrainian and Swedish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/ukrainian-and-swedish-ba
+Ukrainian and Yiddish,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/ukrainian-and-yiddish-ba
+"Youth, Society and Sustainable Futures",https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/youth-society-and-sustainable-futures-ba
+Arts and Sciences with Study Abroad,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/arts-and-sciences-study-abroad-basc
+Arts and Sciences,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/arts-and-sciences-basc
+Economics and Statistics,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/economics-and-statistics-bsc-econ
+Economics,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/economics-year-abroad-bsc-econ
+Economics,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/economics-bsc-econ
+Fine Art,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/fine-art-bfa
+English and German Law,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/english-and-german-law-dual-degree-llb
+Law with French Law,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/law-french-llb
+Law with German Law,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/law-german-llb
+Bachelor of Laws (UCL) and LLB Bachelor of Laws (University of Hong Kong),https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bachelor-laws-ucl-and-bachelor-laws-hku-llb
+Law with Hispanic Law,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/law-hispanic-llb
+Law,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/law-llb
+Medicine,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/medicine-mbbs-bsc
+Biochemical Engineering,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/biochemical-engineering-beng
+Biomedical Engineering,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/biomedical-engineering-beng
+Chemical Engineering,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemical-engineering-beng
+Civil Engineering,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/civil-engineering-beng
+Electronic and Electrical Engineering,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/electronic-and-electrical-engineering-beng
+Mechanical Engineering,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mechanical-engineering-beng
+Neuroscience,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/neuroscience-bsc
+Anthropology,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/anthropology-bsc
+Anthropology,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/anthropology-year-abroad-bsc
+Architectural and Interdisciplinary Studies,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/architectural-and-interdisciplinary-studies-year-abroad-bsc
+Architectural and Interdisciplinary Studies,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/architectural-and-interdisciplinary-studies-bsc
+Architecture,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/architecture-bsc
+"Urban Planning, Design and Management",https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/urban-planning-design-and-management-bsc
+Urban Studies,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/urban-studies-bsc
+Archaeology,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/archaeology-bsc
+Astrophysics,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/astrophysics-bsc
+Audiology,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/audiology-bsc
+Bioprocessing of New Medicines (Business and Management),https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/bioprocessing-new-medicines-business-and-management-bsc
+Biomedical Sciences,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/biomedical-sciences-bsc
+Biochemistry,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/biochemistry-bsc
+Biological Sciences,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/biological-sciences-bsc
+Business and Health,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/business-and-health-bsc
+Cancer Biomedicine,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/cancer-biomedicine-bsc
+Chemistry,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-bsc
+Chemistry with Management Studies,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-management-studies-bsc
+Chemistry with Mathematics,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc
+Computer Science,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/computer-science-bsc
+Crime and Security Science,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/crime-and-security-science-bsc
+Data Science,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/data-science-bsc
+Environmental Geoscience,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/environmental-geoscience-bsc
+Geology,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/geology-bsc
+Earth Sciences,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc
+Geophysics,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/geophysics-bsc
+Geography and Economics,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/geography-and-economics-bsc
+Geography,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/geography-bsc
+Geography (International Programme),https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/geography-international-programme-bsc
+Global Humanitarian Studies,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/global-humanitarian-studies-bsc
+Human Neuroscience,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/human-neuroscience-bsc
+History and Philosophy of Science,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/history-and-philosophy-science-bsc
+Human Sciences,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/human-sciences-bsc
+Infection and Immunity,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/infection-and-immunity-bsc
+Information Management for Business,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/information-management-business-bsc
+Information in Society,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/information-society-bsc
+Experimental Linguistics,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/experimental-linguistics-bsc
+Experimental Linguistics (International Programme),https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/experimental-linguistics-international-programme-bsc
+Management Science,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/management-science-bsc
+Mathematics and Physics,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mathematics-and-physics-bsc
+Mathematics and Statistical Science,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mathematics-and-statistical-science-bsc
+Mathematics,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mathematics-bsc
+Mathematics with Economics,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mathematics-economics-bsc
+Mathematics with Modern Languages,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mathematics-modern-languages-bsc
+Mathematics with Management Studies,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mathematics-management-studies-bsc
+Mathematics with Mathematical Physics,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mathematics-mathematical-physics-bsc
+Applied Medical Sciences,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/applied-medical-sciences-bsc
+Medical Innovation and Enterprise,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/medical-innovation-and-enterprise-bsc
+Sport and Exercise Medical Sciences,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/sport-and-exercise-medical-sciences-bsc
+Natural Sciences,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/natural-sciences-bsc
+Nutrition and Medical Sciences,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/nutrition-and-medical-sciences-bsc
+Pharmacology,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/pharmacology-bsc
+Physics,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/physics-bsc
+Theoretical Physics,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/theoretical-physics-bsc
+Physics with Medical Physics,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/physics-medical-physics-bsc
+Urban Planning and Real Estate,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/urban-planning-and-real-estate-bsc
+Politics and International Relations,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/politics-and-international-relations-bsc
+Population Health Sciences,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/population-health-sciences-bsc
+"Philosophy, Politics and Economics",https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/philosophy-politics-and-economics-bsc
+Psychology and Language Sciences,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/psychology-and-language-sciences-bsc
+Psychology,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/psychology-bsc
+Psychology with Education,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/psychology-education-bsc
+"Sustainable Built Environments, Energy and Resources",https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/sustainable-built-environments-energy-and-resources-bsc
+Science and Engineering for Social Change,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/science-and-engineering-social-change-bsc
+Sociology,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/sociology-bsc
+Sociology and Politics of Science,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/sociology-and-politics-science-bsc
+Social Sciences,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/social-sciences-bsc
+Social Sciences with Data Science,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/social-sciences-data-science-bsc
+Statistics and Management for Business,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/statistics-and-management-business-bsc
+Statistics,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/statistics-bsc
+"Statistics, Economics and Finance",https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/statistics-economics-and-finance-bsc
+"Statistics, Economics and a Language",https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/statistics-economics-and-language-bsc
+Biochemical Engineering with Integrated Foundation Year,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/engineering-foundation-year
+Biochemical Engineering,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/biochemical-engineering-meng
+Biomedical Engineering,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/biomedical-engineering-meng
+Chemical Engineering,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemical-engineering-meng
+Civil Engineering,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/civil-engineering-meng
+Computer Science,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/computer-science-meng
+Mathematical Computation,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mathematical-computation-meng
+Robotics and Artificial Intelligence,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/robotics-and-artificial-intelligence-meng
+Electronic and Electrical Engineering,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/electronic-and-electrical-engineering-meng
+Engineering and Architectural Design,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/engineering-and-architectural-design-meng
+Mechanical Engineering,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mechanical-engineering-meng
+Mechanical Engineering with Business Finance,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mechanical-engineering-business-finance-meng
+"Sustainable Built Environments, Energy and Resources",https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/sustainable-built-environments-energy-and-resources-meng
+Pharmacy,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/pharmacy-mpharm
+Pharmacy with Integrated Pre-registration Training,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/pharmacy-integrated-pre-registration-training-mpharm
+Neuroscience,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/neuroscience-msci
+Architecture,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/architecture-msci
+Astrophysics,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/astrophysics-msci
+Biochemistry,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/biochemistry-msci
+Biological Sciences,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/biological-sciences-msci
+Business and Health,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/business-and-health-msci
+Chemistry,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-msci
+Chemistry (International Programme),https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-international-programme-msci
+Chemistry with Management Studies,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-management-studies-msci
+Chemistry with Mathematics,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-msci
+Construction Project Management,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/construction-project-management-msci
+Environmental Geoscience,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/environmental-geoscience-msci
+Geology,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/geology-msci
+Earth Sciences,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-msci
+Earth Sciences (International Programme),https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-international-programme-msci
+Geophysics,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/geophysics-msci
+Human Sciences and Evolution,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/human-sciences-and-evolution-msci
+Management Science,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/management-science-msci
+Mathematics and Physic,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mathematics-and-physics-msci
+Mathematics and Statistical Science,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mathematics-and-statistical-science-msci
+Mathematics,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mathematics-msci
+Mathematics with Economics,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mathematics-economics-msci
+Mathematics with Modern Languages,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mathematics-modern-languages-msci
+Mathematics with Management Studies,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mathematics-management-studies-msci
+Mathematics with Mathematical Physics,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mathematics-mathematical-physics-msci
+Medical Innovation and Enterprise,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/medical-innovation-and-enterprise-msci
+Medical Physics,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/medical-physics-msci
+Natural Sciences,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/msci-natural-sciences
+Pharmacology,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/pharmacology-msci
+Physics,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/physics-msci
+Theoretical Physics,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/theoretical-physics-msci
+Psychology and Language Sciences,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/psychology-and-language-sciences-msci
+Psychology,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/psychology-msci
+Statistical Science (International Programme),https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/statistical-science-international-programme-msci
