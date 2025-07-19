@@ -1,44 +1,44 @@
-title,crseurl
-Medicine,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/medicine
-Biomedical Sciences,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/biomedical-sciences
-Human Sciences,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/human-sciences
-Biology,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/biology
-Biochemistry (Molecular and Cellular),http://www.ox.ac.uk/admissions/undergraduate/courses-listing/biochemistry-molecular-and-cellular
-Experimental Psychology,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/psychology-experimental
-Psychology and Linguistics,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/psychology-philosophy-and-linguistics
-Chemistry (4 years),https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/chemistry
-Physics (4 years),http://www.ox.ac.uk/admissions/undergraduate/courses-listing/physics
-Geology,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/earth-sciences-geology
-Materials Science (4 years),http://www.ox.ac.uk/admissions/undergraduate/courses-listing/materials-science
-Mathematics/Mathematics and Statistics,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/mathematics-and-statistics
-Computer Science (3 or 4 years),https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/computer-science
-Mathematics and Computer Science (3 or 4 years),http://www.ox.ac.uk/admissions/undergraduate/courses-listing/mathematics-and-computer-science
-Mathematics and Philosophy (4 years),http://www.ox.ac.uk/admissions/undergraduate/courses-listing/mathematics-and-philosophy
-Engineering,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/engineering-science
-Computer Science and Philosophy (3 or 4 years),http://www.ox.ac.uk/admissions/undergraduate/courses-listing/computer-science-and-philosophy
-"Philosophy, Politics and Economics",http://www.ox.ac.uk/admissions/undergraduate/courses-listing/philosophy-politics-and-economics
-Geography,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/geography
-Economics and Management,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/economics-and-management
-History and Economics,https://www.ox.ac.uk/admissions/undergraduate/courses-listing/history-and-economics
-History and Politics,https://www.ox.ac.uk/admissions/undergraduate/courses-listing/history-and-politics
-Archaeology and Anthropology,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/archaeology-and-anthropology
-Jurisprudence,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/law-jurisprudence
-English Language and Literature,https://www.ox.ac.uk/admissions/undergraduate/courses-listing/english-language-and-literature?wssl=1
-Classics,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/classics
-Classics and Asian and Middle Eastern Studies,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/classics-and-asian-and-middle-eastern-studies
-English and Modern Greek,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/english-language-and-literature
-Classics and English,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/classics-and-english
-Modern Greek and Hebrew,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/modern-languages
-English and French,http://www.ox.ac.uk/admissions/undergraduate/courses/english-language-and-literature/english-and-french
-History and Beginners' Italian,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/history-and-modern-languages
-Philosophy and Beginners' Italian,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/philosophy-and-modern-languages
-History,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/history
-Ancient and Modern History,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/history-ancient-and-modern
-History of Art,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/history-art
-Theology and Religion,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/theology-and-religion
-Physics and Philosophy (4 years),http://www.ox.ac.uk/admissions/undergraduate/courses-listing/physics-and-philosophy
-Religion and Asian and Middle Eastern studies,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/religion-and-asian-and-middle-eastern-studies
-Classical Archaeology and Ancient History,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/classical-archaeology-and-ancient-history
-Philosophy and Theology,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/philosophy-and-theology
-Fine Art,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/fine-art
-Music,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/music
+kiscourseid,title,crseurl
+A100,Medicine,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/medicine
+BC98,Biomedical Sciences,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/biomedical-sciences
+BCL0,Human Sciences,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/human-sciences
+C100,Biology,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/biology
+C700,Biochemistry (Molecular and Cellular),http://www.ox.ac.uk/admissions/undergraduate/courses-listing/biochemistry-molecular-and-cellular
+C830,Experimental Psychology,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/psychology-experimental
+CQ81,Psychology and Linguistics,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/psychology-philosophy-and-linguistics
+F100,Chemistry (4 years),https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/chemistry
+F303,Physics (4 years),http://www.ox.ac.uk/admissions/undergraduate/courses-listing/physics
+F642,Geology,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/earth-sciences-geology
+FJ22,Materials Science (4 years),http://www.ox.ac.uk/admissions/undergraduate/courses-listing/materials-science
+G100,Mathematics/Mathematics and Statistics,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/mathematics-and-statistics
+G400,Computer Science (3 or 4 years),https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/computer-science
+GG14,Mathematics and Computer Science (3 or 4 years),http://www.ox.ac.uk/admissions/undergraduate/courses-listing/mathematics-and-computer-science
+GV15,Mathematics and Philosophy (4 years),http://www.ox.ac.uk/admissions/undergraduate/courses-listing/mathematics-and-philosophy
+H100,Engineering,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/engineering-science
+IV15,Computer Science and Philosophy (3 or 4 years),http://www.ox.ac.uk/admissions/undergraduate/courses-listing/computer-science-and-philosophy
+L0V0,"Philosophy, Politics and Economics",http://www.ox.ac.uk/admissions/undergraduate/courses-listing/philosophy-politics-and-economics
+L700,Geography,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/geography
+LN12,Economics and Management,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/economics-and-management
+LV11,History and Economics,https://www.ox.ac.uk/admissions/undergraduate/courses-listing/history-and-economics
+LV21,History and Politics,https://www.ox.ac.uk/admissions/undergraduate/courses-listing/history-and-politics
+LV64,Archaeology and Anthropology,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/archaeology-and-anthropology
+M100,Jurisprudence,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/law-jurisprudence
+Q300,English Language and Literature,https://www.ox.ac.uk/admissions/undergraduate/courses-listing/english-language-and-literature?wssl=1
+Q800,Classics,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/classics
+Q8T9,Classics and Asian and Middle Eastern Studies,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/classics-and-asian-and-middle-eastern-studies
+QQ37,English and Modern Greek,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/english-language-and-literature
+QQ38,Classics and English,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/classics-and-english
+QQ74,Modern Greek and Hebrew,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/modern-languages
+QR31,English and French,http://www.ox.ac.uk/admissions/undergraduate/courses/english-language-and-literature/english-and-french
+RV31,History and Beginners' Italian,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/history-and-modern-languages
+RV35,Philosophy and Beginners' Italian,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/philosophy-and-modern-languages
+V100,History,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/history
+V118,Ancient and Modern History,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/history-ancient-and-modern
+V350,History of Art,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/history-art
+V600,Theology and Religion,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/theology-and-religion
+VF53,Physics and Philosophy (4 years),http://www.ox.ac.uk/admissions/undergraduate/courses-listing/physics-and-philosophy
+VT69,Religion and Asian and Middle Eastern studies,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/religion-and-asian-and-middle-eastern-studies
+VV14,Classical Archaeology and Ancient History,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/classical-archaeology-and-ancient-history
+VV56,Philosophy and Theology,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/philosophy-and-theology
+W100,Fine Art,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/fine-art
+W300,Music,http://www.ox.ac.uk/admissions/undergraduate/courses-listing/music
