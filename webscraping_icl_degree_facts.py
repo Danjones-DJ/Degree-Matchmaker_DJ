@@ -1,11 +1,7 @@
 import requests
 import lxml.html
 import pandas as pd
-import pandas as pd
-import requests
-import lxml.html
-import time
-import re
+
 
 # URL  = "https://www.imperial.ac.uk/study/courses/undergraduate/computing-software-engineering-meng/"
 # html = requests.get(URL, timeout=15).text
