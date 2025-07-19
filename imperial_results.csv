@@ -1,48 +1,51 @@
-url,degree_type,grade_req,offer_rate,subject_reqs
-https://www.imperial.ac.uk/study/courses/undergraduate/design-engineering/,MEng,A*AA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,"A* in Mathematics ; A, A in two further subjects"
-https://www.imperial.ac.uk/study/courses/undergraduate/medicine/,MBBS/BSc,AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,A in Biology ; A in Chemistry
-https://www.imperial.ac.uk/study/courses/undergraduate/medicine-graduate-entry/,MBBS,2:1 (or above),Examples of relevant UK biological or allied health professional subjects as relevant to the academic admissions criteria are:,Anatomy/Anatomical Science ; Biochemistry
-https://www.imperial.ac.uk/study/courses/undergraduate/medical-biosciences/,BSc,AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,"A in Biology or Human Biology ; A in Chemistry, Mathematics, Further Mathematics or Physics"
-https://www.imperial.ac.uk/study/courses/undergraduate/medical-biosciences-management/,BSc,AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,"A in Biology or Human Biology ; A in Chemistry, Mathematics, Further Mathematics or Physics"
-https://www.imperial.ac.uk/study/courses/undergraduate/biomedical-technology-ventures/,BSc,A*AA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,"A* in Mathematics ; A in Biology, Chemistry, or Physics"
-https://www.imperial.ac.uk/study/courses/undergraduate/biomedical-engineering/,MEng,A*AA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,A* in Mathematics ; A in Physics
-https://www.imperial.ac.uk/study/courses/undergraduate/biomaterials-tissue-engineering-meng/,MEng,AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,A in Mathematics ; A in Chemistry or Physics
-https://www.imperial.ac.uk/study/courses/undergraduate/biological-sciences/,BSc,AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,"A in Biology ; A in Chemistry, Mathematics or Physics"
-https://www.imperial.ac.uk/study/courses/undergraduate/ecology-environmental-biology/,BSc,AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,"A in Biology ; A in Chemistry, Mathematics or Physics"
-https://www.imperial.ac.uk/study/courses/undergraduate/biological-sciences-language/#OptionA,BSc,AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,"A in Biology ; A in Chemistry, Mathematics or Physics"
-https://www.imperial.ac.uk/study/courses/undergraduate/biological-sciences-language/#OptionB,BSc,AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,"A in Biology ; A in Chemistry, Mathematics or Physics"
-https://www.imperial.ac.uk/study/courses/undergraduate/biological-sciences-language/#OptionC,BSc,AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,"A in Biology ; A in Chemistry, Mathematics or Physics"
-https://www.imperial.ac.uk/study/courses/undergraduate/microbiology/,BSc,AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,"A in Biology ; A in Chemistry, Mathematics or Physics"
-https://www.imperial.ac.uk/study/courses/undergraduate/biochemistry-bsc/,BSc,AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,"A in Chemistry ; A in Biology, Mathematics or Physics"
-https://www.imperial.ac.uk/study/courses/undergraduate/biochemistry-language/#OptionA,BSc,AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,"A in Chemistry ; A in Biology, Mathematics or Physics"
-https://www.imperial.ac.uk/study/courses/undergraduate/biochemistry-language/#OptionB,BSc,AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,"A in Chemistry ; A in Biology, Mathematics or Physics"
-https://www.imperial.ac.uk/study/courses/undergraduate/biochemistry-language/#OptionC,BSc,AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,"A in Chemistry ; A in Biology, Mathematics or Physics"
-https://www.imperial.ac.uk/study/courses/undergraduate/chemistry-bsc/,BSc,AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,A in Chemistry ; A in Mathematics
-https://www.imperial.ac.uk/study/courses/undergraduate/chemistry-msci/#OptionC,MSci,AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,A in Chemistry ; A in Mathematics
-https://www.imperial.ac.uk/study/courses/undergraduate/chemistry-msci/,MSci,AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,A in Chemistry ; A in Mathematics
-https://www.imperial.ac.uk/study/courses/undergraduate/chemistry-msci/#OptionB,MSci,AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,A in Chemistry ; A in Mathematics
-https://www.imperial.ac.uk/study/courses/undergraduate/chemistry-msci/#OptionA,MSci,AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,A in Chemistry ; A in Mathematics
-https://www.imperial.ac.uk/study/courses/undergraduate/chemistry-medicinal/,MSci,AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,A in Chemistry ; A in Mathematics
-https://www.imperial.ac.uk/study/courses/undergraduate/chemistry-medicinal/#OptionA,MSci,AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,A in Chemistry ; A in Mathematics
-https://www.imperial.ac.uk/study/courses/undergraduate/chemistry-molecular-physics/,MSci,AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,A in Chemistry ; A in Mathematics
-https://www.imperial.ac.uk/study/courses/undergraduate/chemistry-molecular-physics/#OptionA,MSci,AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,A in Chemistry ; A in Mathematics
-https://www.imperial.ac.uk/study/courses/undergraduate/chemistry-management/,BSc,AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,A in Chemistry ; A in Mathematics
+url,degree_type,degree_title,grade_req,subject_reqs
+https://www.imperial.ac.uk/study/courses/undergraduate/design-engineering/,MEng,Design Engineering,A*AA,"A* in Mathematics ; A, A in two further subjects"
+https://www.imperial.ac.uk/study/courses/undergraduate/medicine/,MBBS/BSc,Medicine,AAA,A in Biology ; A in Chemistry
+https://www.imperial.ac.uk/study/courses/undergraduate/medicine-graduate-entry/,MBBS,Medicine (Graduate Entry) (MBBS 4YFT),2:1 (or above),Anatomy/Anatomical Science ; Biochemistry
+https://www.imperial.ac.uk/study/courses/undergraduate/medical-biosciences/,BSc,Medical Biosciences,AAA,"A in Biology or Human Biology ; A in Chemistry, Mathematics, Further Mathematics or Physics"
+https://www.imperial.ac.uk/study/courses/undergraduate/medical-biosciences-management/,BSc,Medical Biosciences with Management,AAA,"A in Biology or Human Biology ; A in Chemistry, Mathematics, Further Mathematics or Physics"
+https://www.imperial.ac.uk/study/courses/undergraduate/biomedical-technology-ventures/,BSc,Biomedical Technology Ventures,A*AA,"A* in Mathematics ; A in Biology, Chemistry, or Physics"
+https://www.imperial.ac.uk/study/courses/undergraduate/biomedical-engineering/,MEng,Biomedical Engineering,A*AA,A* in Mathematics ; A in Physics
+https://www.imperial.ac.uk/study/courses/undergraduate/biomaterials-tissue-engineering-meng/,MEng,"Biomaterials and Tissue Engineering
+",AAA,A in Mathematics ; A in Chemistry or Physics
+https://www.imperial.ac.uk/study/courses/undergraduate/biological-sciences/,BSc,Biological Sciences,AAA,"A in Biology ; A in Chemistry, Mathematics or Physics"
+https://www.imperial.ac.uk/study/courses/undergraduate/ecology-environmental-biology/,BSc,"Ecology and Environmental Biology
+",AAA,"A in Biology ; A in Chemistry, Mathematics or Physics"
+https://www.imperial.ac.uk/study/courses/undergraduate/biological-sciences-language/#OptionA,BSc,Biological Sciences with Language for Science,AAA,"A in Biology ; A in Chemistry, Mathematics or Physics"
+https://www.imperial.ac.uk/study/courses/undergraduate/biological-sciences-language/#OptionB,BSc,Biological Sciences with Language for Science,AAA,"A in Biology ; A in Chemistry, Mathematics or Physics"
+https://www.imperial.ac.uk/study/courses/undergraduate/biological-sciences-language/#OptionC,BSc,Biological Sciences with Language for Science,AAA,"A in Biology ; A in Chemistry, Mathematics or Physics"
+https://www.imperial.ac.uk/study/courses/undergraduate/microbiology/,BSc,"Microbiology
+",AAA,"A in Biology ; A in Chemistry, Mathematics or Physics"
+https://www.imperial.ac.uk/study/courses/undergraduate/biochemistry-bsc/,BSc,Biochemistry,AAA,"A in Chemistry ; A in Biology, Mathematics or Physics"
+https://www.imperial.ac.uk/study/courses/undergraduate/biochemistry-language/#OptionA,BSc,Biochemistry with Language for Science,AAA,"A in Chemistry ; A in Biology, Mathematics or Physics"
+https://www.imperial.ac.uk/study/courses/undergraduate/biochemistry-language/#OptionB,BSc,Biochemistry with Language for Science,AAA,"A in Chemistry ; A in Biology, Mathematics or Physics"
+https://www.imperial.ac.uk/study/courses/undergraduate/biochemistry-language/#OptionC,BSc,Biochemistry with Language for Science,AAA,"A in Chemistry ; A in Biology, Mathematics or Physics"
+https://www.imperial.ac.uk/study/courses/undergraduate/chemistry-bsc/,BSc,Chemistry,AAA,A in Chemistry ; A in Mathematics
+https://www.imperial.ac.uk/study/courses/undergraduate/chemistry-msci/#OptionC,MSci,Chemistry,AAA,A in Chemistry ; A in Mathematics
+https://www.imperial.ac.uk/study/courses/undergraduate/chemistry-msci/,MSci,Chemistry,AAA,A in Chemistry ; A in Mathematics
+https://www.imperial.ac.uk/study/courses/undergraduate/chemistry-msci/#OptionB,MSci,Chemistry,AAA,A in Chemistry ; A in Mathematics
+https://www.imperial.ac.uk/study/courses/undergraduate/chemistry-msci/#OptionA,MSci,Chemistry,AAA,A in Chemistry ; A in Mathematics
+https://www.imperial.ac.uk/study/courses/undergraduate/chemistry-medicinal/,MSci,Chemistry with Medicinal Chemistry,AAA,A in Chemistry ; A in Mathematics
+https://www.imperial.ac.uk/study/courses/undergraduate/chemistry-medicinal/#OptionA,MSci,Chemistry with Medicinal Chemistry,AAA,A in Chemistry ; A in Mathematics
+https://www.imperial.ac.uk/study/courses/undergraduate/chemistry-molecular-physics/,MSci,Chemistry with Molecular Physics,AAA,A in Chemistry ; A in Mathematics
+https://www.imperial.ac.uk/study/courses/undergraduate/chemistry-molecular-physics/#OptionA,MSci,Chemistry with Molecular Physics,AAA,A in Chemistry ; A in Mathematics
+https://www.imperial.ac.uk/study/courses/undergraduate/chemistry-management/,BSc,Chemistry with Management,AAA,A in Chemistry ; A in Mathematics
 https://www.imperial.ac.uk/study/courses/undergraduate/physics-bsc/,"BSc
-",A*A*A,Offers made to at least 50% of 2024 entry A-level applicants to this department.,A* in Mathematics ; A* in Physics
-https://www.imperial.ac.uk/study/courses/undergraduate/physics-msci/,MSci,A*A*A,Offers made to at least 50% of 2024 entry A-level applicants to this department.,A* in Mathematics ; A* in Physics
-https://www.imperial.ac.uk/study/courses/undergraduate/physics-msci/#OptionA,MSci,A*A*A,Offers made to at least 50% of 2024 entry A-level applicants to this department.,A* in Mathematics ; A* in Physics
-https://www.imperial.ac.uk/study/courses/undergraduate/physics-theoretical-bsc/,BSc,A*A*A,Offers made to at least 50% of 2024 entry A-level applicants to this department.,A* in Mathematics ; A* in Physics
-https://www.imperial.ac.uk/study/courses/undergraduate/physics-theoretical-msci/,MSci,A*A*A,Offers made to at least 50% of 2024 entry A-level applicants to this department.,A* in Mathematics ; A* in Physics
-https://www.imperial.ac.uk/study/courses/undergraduate/earth-planetary-science-msci/#abroad,MSci,AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,"A in Mathematics ; A in Biology, Chemistry, Geography, Geology or Physics"
-https://www.imperial.ac.uk/study/courses/undergraduate/geology-bsc/,BSc,AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,Biology ; Chemistry
-https://www.imperial.ac.uk/study/courses/undergraduate/geology-msci/#abroad,MSci,AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,Biology ; Chemistry
-https://www.imperial.ac.uk/study/courses/undergraduate/geology-msci/,MSci,AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,Biology ; Chemistry
-https://www.imperial.ac.uk/study/courses/undergraduate/earth-planetary-science-msci/,MSci,AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,"A in Mathematics ; A in Biology, Chemistry, Geography, Geology or Physics"
-https://www.imperial.ac.uk/study/courses/undergraduate/earth-planetary-science-bsc/,BSc,AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,"A in Mathematics ; A in Biology, Chemistry, Geography, Geology or Physics"
-https://www.imperial.ac.uk/study/courses/undergraduate/geophysics-msci/,MSci,AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,A in Mathematics ; A in Physics
-https://www.imperial.ac.uk/study/courses/undergraduate/geophysics-bsc/,BSc,AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,A in Mathematics ; A in Physics
-https://www.imperial.ac.uk/study/courses/undergraduate/geophysics-msci/#abroad,MSci,AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,A in Mathematics ; A in Physics
-https://www.imperial.ac.uk/study/courses/undergraduate/chemistry-management/#OptionA,BSc,AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,A in Chemistry ; A in Mathematics
+",Physics,A*A*A,A* in Mathematics ; A* in Physics
+https://www.imperial.ac.uk/study/courses/undergraduate/physics-msci/,MSci,Physics,A*A*A,A* in Mathematics ; A* in Physics
+https://www.imperial.ac.uk/study/courses/undergraduate/physics-msci/#OptionA,MSci,Physics,A*A*A,A* in Mathematics ; A* in Physics
+https://www.imperial.ac.uk/study/courses/undergraduate/physics-theoretical-bsc/,BSc,Physics with Theoretical Physics,A*A*A,A* in Mathematics ; A* in Physics
+https://www.imperial.ac.uk/study/courses/undergraduate/physics-theoretical-msci/,MSci,Physics with Theoretical Physics,A*A*A,A* in Mathematics ; A* in Physics
+https://www.imperial.ac.uk/study/courses/undergraduate/earth-planetary-science-msci/#abroad,MSci,Earth and Planetary Science,AAA,"A in Mathematics ; A in Biology, Chemistry, Geography, Geology or Physics"
+https://www.imperial.ac.uk/study/courses/undergraduate/geology-bsc/,BSc,Geology,AAA,Biology ; Chemistry
+https://www.imperial.ac.uk/study/courses/undergraduate/geology-msci/#abroad,MSci,Geology,AAA,Biology ; Chemistry
+https://www.imperial.ac.uk/study/courses/undergraduate/geology-msci/,MSci,Geology,AAA,Biology ; Chemistry
+https://www.imperial.ac.uk/study/courses/undergraduate/earth-planetary-science-msci/,MSci,Earth and Planetary Science,AAA,"A in Mathematics ; A in Biology, Chemistry, Geography, Geology or Physics"
+https://www.imperial.ac.uk/study/courses/undergraduate/earth-planetary-science-bsc/,BSc,Earth and Planetary Science,AAA,"A in Mathematics ; A in Biology, Chemistry, Geography, Geology or Physics"
+https://www.imperial.ac.uk/study/courses/undergraduate/geophysics-msci/,MSci,Geophysics,AAA,A in Mathematics ; A in Physics
+https://www.imperial.ac.uk/study/courses/undergraduate/geophysics-bsc/,BSc,Geophysics,AAA,A in Mathematics ; A in Physics
+https://www.imperial.ac.uk/study/courses/undergraduate/geophysics-msci/#abroad,MSci,Geophysics,AAA,A in Mathematics ; A in Physics
+https://www.imperial.ac.uk/study/courses/undergraduate/chemistry-management/#OptionA,BSc,Chemistry with Management,AAA,A in Chemistry ; A in Mathematics
 https://www.imperial.ac.uk/study/courses/undergraduate/mathematics-bsc/,,,,
 https://www.imperial.ac.uk/study/courses/undergraduate/mathematics-computation/,,,,
 https://www.imperial.ac.uk/study/courses/undergraduate/mathematics-msci/,,,,
@@ -51,32 +54,41 @@ https://www.imperial.ac.uk/study/courses/undergraduate/pure-mathematics-bsc/,,,,
 https://www.imperial.ac.uk/study/courses/undergraduate/mathematics-applied-physics/,,,,
 https://www.imperial.ac.uk/study/courses/undergraduate/mathematics-statistics/,,,,
 https://www.imperial.ac.uk/study/courses/undergraduate/mathematics-statistics-finance/,,,,
-https://www.imperial.ac.uk/study/courses/undergraduate/computing-beng/,BEng,A*A*A – A*AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,"A* in Mathematics ; A*, A in two further subjects or AAA in three further subjects, with Further Mathematics preferred."
-https://www.imperial.ac.uk/study/courses/undergraduate/computing-meng/,MEng,A*A*A – A*AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,"A* in Mathematics ; A*, A in two further subjects or AAA in three further subjects, with Further Mathematics preferred."
-https://www.imperial.ac.uk/study/courses/undergraduate/computing-international-programme-of-study/,MEng,A*A*A – A*AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,"A* in Mathematics ; A*, A in two further subjects or AAA in three further subjects"
-https://www.imperial.ac.uk/study/courses/undergraduate/computing-computational-management/,MEng,A*A*A – A*AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,"A* in Mathematics ; A*, A in two further subjects or AAA in three further subjects, with Further Mathematics preferred."
-https://www.imperial.ac.uk/study/courses/undergraduate/computing-software-engineering-meng/,MEng,A*A*A – A*AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,"A* in Mathematics ; A*, A in two further subjects or AAA in three further subjects, with Further Mathematics preferred."
-https://www.imperial.ac.uk/study/courses/undergraduate/computing-security-reliability-meng/,MEng,A*A*A – A*AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,"A* in Mathematics ; A*, A in two further subjects or AAA in three further subjects, with Further Mathematics preferred."
-https://www.imperial.ac.uk/study/courses/undergraduate/computing-artificial-intelligence-meng/,MEng,A*A*A – A*AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,"A* in Mathematics ; A*, A in two further subjects or AAA in three further subjects, with Further Mathematics preferred."
-https://www.imperial.ac.uk/study/courses/undergraduate/mathematics-computer-science-beng/,BEng,A*A*A ,Offers made to at least 50% of 2024 entry A-level applicants to this department.,A* in Mathematics ; A* Further Mathematics
-https://www.imperial.ac.uk/study/courses/undergraduate/mathematics-computer-science-meng/,MEng,A*A*A ,Offers made to at least 50% of 2024 entry A-level applicants to this department.,A* in Mathematics ; A* Further Mathematics
-https://www.imperial.ac.uk/study/courses/undergraduate/computing-visual-computing-robotics-meng/,MEng,A*A*A – A*AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,"A* in Mathematics ; A*, A in two further subjects or AAA in three further subjects, with Further Mathematics preferred."
-https://www.imperial.ac.uk/study/courses/undergraduate/electronic-information-meng/,MEng,A*A*A or A*AAA ,Offers made to at least 50% of 2024 entry A-level applicants to this department.,A* in Mathematics ; A*/A in Physics (A* is required if applying with three A-levels. At least an A is required if applying with four A-levels)
-https://www.imperial.ac.uk/study/courses/undergraduate/molecular-bioengineering/,MEng,A*AA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,A* in Mathematics ; A in Chemistry
-https://www.imperial.ac.uk/study/courses/undergraduate/civil-engineering/,MEng,A*A*A or A*AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,A* in Mathematics ; A/A* in Physics (A* is required if applying with three A-levels. At least an A is required if applying with four A-levels)
-https://www.imperial.ac.uk/study/courses/undergraduate/civil-engineering/#OptionA,MEng,A*A*A or A*AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,A* in Mathematics ; A/A* in Physics (A* is required if applying with three A-levels. At least an A is required if applying with four A-levels)
-https://www.imperial.ac.uk/study/courses/undergraduate/mechanical-engineering/,MEng,A*A*A or A*AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,A* in Mathematics ; A/A* in Physics (A* is required if applying with three A-levels. At least an A is required if applying with four A-levels)
-https://www.imperial.ac.uk/study/courses/undergraduate/aeronautical-engineering/,MEng,A*A*A,Offers made to at least 50% of 2024 entry A-level applicants to this department.,A* in Mathematics ; A/A* in Physics (A* is required if applying with three A-levels. At least an A is required if applying with four A-levels)
-https://www.imperial.ac.uk/study/courses/undergraduate/electrical-electronic-engineering-beng/,BEng,A*A*A or A*AAA ,Offers made to at least 50% of 2024 entry A-level applicants to this department.,A* in Mathematics ; A*/A in Physics (A* is required if applying with three A-levels. At least an A is required if applying with four A-levels)
-https://www.imperial.ac.uk/study/courses/undergraduate/electrical-electronic-engineering-meng/,MEng,A*A*A or A*AAA ,Offers made to at least 50% of 2024 entry A-level applicants to this department.,A* in Mathematics ; A*/A in Physics (A* is required if applying with three A-levels. At least an A is required if applying with four A-levels)
-https://www.imperial.ac.uk/study/courses/undergraduate/electrical-electronic-engineering-management/,MEng,A*A*A or A*AAA ,Offers made to at least 50% of 2024 entry A-level applicants to this department.,A* in Mathematics ; A*/A in Physics (A* is required if applying with three A-levels. At least an A is required if applying with four A-levels)
-https://www.imperial.ac.uk/study/courses/undergraduate/chemical-engineering/,MEng,A*A*A ,Offers made to at least 50% of 2024 entry A-level applicants to this department.,A* in Chemistry ; A* in Mathematics
-https://www.imperial.ac.uk/study/courses/undergraduate/electronic-information-beng/,BEng,A*A*A or A*AAA ,Offers made to at least 50% of 2024 entry A-level applicants to this department.,A* in Mathematics ; A*/A in Physics (A* is required if applying with three A-levels. At least an A is required if applying with four A-levels)
-https://www.imperial.ac.uk/study/courses/undergraduate/materials-nuclear-engineering/,MEng,AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,A in Mathematics ; A in Chemistry or Physics
-https://www.imperial.ac.uk/study/courses/undergraduate/biotechnology/,BSc,AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,"A in Chemistry ; A in Biology, Mathematics or Physics"
-https://www.imperial.ac.uk/study/courses/undergraduate/biotechnology-language/#OptionA,BSc,AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,"A in Chemistry ; A in Biology, Mathematics or Physics"
-https://www.imperial.ac.uk/study/courses/undergraduate/biotechnology-language/#OptionB,BSc,AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,"A in Chemistry ; A in Biology, Mathematics or Physics"
-https://www.imperial.ac.uk/study/courses/undergraduate/biotechnology-language/#OptionC,BSc,AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,"A in Chemistry ; A in Biology, Mathematics or Physics"
-https://www.imperial.ac.uk/study/courses/undergraduate/materials-science-engineering-beng/,BEng,AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,A in Mathematics ; A in Chemistry or Physics
-https://www.imperial.ac.uk/study/courses/undergraduate/materials-science-engineering-meng/,MEng,AAA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,A in Mathematics ; A in Chemistry or Physics
-https://www.imperial.ac.uk/study/courses/undergraduate/economics-finance-data-science/,BSc,A*AA,Offers made to at least 50% of 2024 entry A-level applicants to this department.,"A* in Mathematics ; AA in two other subjects (Further Mathematics and/or Economics are useful, but not required)"
+https://www.imperial.ac.uk/study/courses/undergraduate/computing-beng/,BEng,Computing,A*A*A – A*AAA,"A* in Mathematics ; A*, A in two further subjects or AAA in three further subjects, with Further Mathematics preferred."
+https://www.imperial.ac.uk/study/courses/undergraduate/computing-meng/,MEng,Computing,A*A*A – A*AAA,"A* in Mathematics ; A*, A in two further subjects or AAA in three further subjects, with Further Mathematics preferred."
+https://www.imperial.ac.uk/study/courses/undergraduate/computing-international-programme-of-study/,MEng,Computing (International Programme of Study),A*A*A – A*AAA,"A* in Mathematics ; A*, A in two further subjects or AAA in three further subjects"
+https://www.imperial.ac.uk/study/courses/undergraduate/computing-computational-management/,MEng,Computing (Management and Finance),A*A*A – A*AAA,"A* in Mathematics ; A*, A in two further subjects or AAA in three further subjects, with Further Mathematics preferred."
+https://www.imperial.ac.uk/study/courses/undergraduate/computing-software-engineering-meng/,MEng,Computing (Software Engineering),A*A*A – A*AAA,"A* in Mathematics ; A*, A in two further subjects or AAA in three further subjects, with Further Mathematics preferred."
+https://www.imperial.ac.uk/study/courses/undergraduate/computing-security-reliability-meng/,MEng,Computing (Security and Reliability),A*A*A – A*AAA,"A* in Mathematics ; A*, A in two further subjects or AAA in three further subjects, with Further Mathematics preferred."
+https://www.imperial.ac.uk/study/courses/undergraduate/computing-artificial-intelligence-meng/,MEng,Computing (Artificial Intelligence and Machine Learning),A*A*A – A*AAA,"A* in Mathematics ; A*, A in two further subjects or AAA in three further subjects, with Further Mathematics preferred."
+https://www.imperial.ac.uk/study/courses/undergraduate/mathematics-computer-science-beng/,BEng,Mathematics and Computer Science,A*A*A ,A* in Mathematics ; A* Further Mathematics
+https://www.imperial.ac.uk/study/courses/undergraduate/mathematics-computer-science-meng/,MEng,Mathematics and Computer Science,A*A*A ,A* in Mathematics ; A* Further Mathematics
+https://www.imperial.ac.uk/study/courses/undergraduate/computing-visual-computing-robotics-meng/,MEng,Computing (Visual Computing and Robotics),A*A*A – A*AAA,"A* in Mathematics ; A*, A in two further subjects or AAA in three further subjects, with Further Mathematics preferred."
+https://www.imperial.ac.uk/study/courses/undergraduate/electronic-information-meng/,MEng,Electronic and Information Engineering,A*A*A or A*AAA ,A* in Mathematics ; A*/A in Physics (A* is required if applying with three A-levels. At least an A is required if applying with four A-levels)
+https://www.imperial.ac.uk/study/courses/undergraduate/molecular-bioengineering/,MEng,Molecular Bioengineering,A*AA,A* in Mathematics ; A in Chemistry
+https://www.imperial.ac.uk/study/courses/undergraduate/civil-engineering/,MEng,Civil Engineering,A*A*A or A*AAA,A* in Mathematics ; A/A* in Physics (A* is required if applying with three A-levels. At least an A is required if applying with four A-levels)
+https://www.imperial.ac.uk/study/courses/undergraduate/civil-engineering/#OptionA,MEng,Civil Engineering,A*A*A or A*AAA,A* in Mathematics ; A/A* in Physics (A* is required if applying with three A-levels. At least an A is required if applying with four A-levels)
+https://www.imperial.ac.uk/study/courses/undergraduate/mechanical-engineering/,MEng,Mechanical Engineering,A*A*A or A*AAA,A* in Mathematics ; A/A* in Physics (A* is required if applying with three A-levels. At least an A is required if applying with four A-levels)
+https://www.imperial.ac.uk/study/courses/undergraduate/aeronautical-engineering/,MEng,Aeronautical Engineering,A*A*A,A* in Mathematics ; A/A* in Physics (A* is required if applying with three A-levels. At least an A is required if applying with four A-levels)
+https://www.imperial.ac.uk/study/courses/undergraduate/electrical-electronic-engineering-beng/,BEng,Electrical and Electronic Engineering,A*A*A or A*AAA ,A* in Mathematics ; A*/A in Physics (A* is required if applying with three A-levels. At least an A is required if applying with four A-levels)
+https://www.imperial.ac.uk/study/courses/undergraduate/electrical-electronic-engineering-meng/,MEng,Electrical and Electronic Engineering,A*A*A or A*AAA ,A* in Mathematics ; A*/A in Physics (A* is required if applying with three A-levels. At least an A is required if applying with four A-levels)
+https://www.imperial.ac.uk/study/courses/undergraduate/electrical-electronic-engineering-management/,MEng,Electrical and Electronic Engineering with Management,A*A*A or A*AAA ,A* in Mathematics ; A*/A in Physics (A* is required if applying with three A-levels. At least an A is required if applying with four A-levels)
+https://www.imperial.ac.uk/study/courses/undergraduate/chemical-engineering/,MEng,Chemical Engineering,A*A*A ,A* in Chemistry ; A* in Mathematics
+https://www.imperial.ac.uk/study/courses/undergraduate/electronic-information-beng/,BEng,Electronic and Information Engineering ,A*A*A or A*AAA ,A* in Mathematics ; A*/A in Physics (A* is required if applying with three A-levels. At least an A is required if applying with four A-levels)
+https://www.imperial.ac.uk/study/courses/undergraduate/materials-nuclear-engineering/,MEng,Materials with Nuclear Engineering,AAA,A in Mathematics ; A in Chemistry or Physics
+https://www.imperial.ac.uk/study/courses/undergraduate/biotechnology/,BSc,"Biotechnology
+",AAA,"A in Chemistry ; A in Biology, Mathematics or Physics"
+https://www.imperial.ac.uk/study/courses/undergraduate/biotechnology-language/#OptionA,BSc,"Biotechnology with Language for Science
+
+",AAA,"A in Chemistry ; A in Biology, Mathematics or Physics"
+https://www.imperial.ac.uk/study/courses/undergraduate/biotechnology-language/#OptionB,BSc,"Biotechnology with Language for Science
+
+",AAA,"A in Chemistry ; A in Biology, Mathematics or Physics"
+https://www.imperial.ac.uk/study/courses/undergraduate/biotechnology-language/#OptionC,BSc,"Biotechnology with Language for Science
+
+",AAA,"A in Chemistry ; A in Biology, Mathematics or Physics"
+https://www.imperial.ac.uk/study/courses/undergraduate/materials-science-engineering-beng/,BEng,"Materials Science and Engineering
+",AAA,A in Mathematics ; A in Chemistry or Physics
+https://www.imperial.ac.uk/study/courses/undergraduate/materials-science-engineering-meng/,MEng,"Materials Science and Engineering
+",AAA,A in Mathematics ; A in Chemistry or Physics
+https://www.imperial.ac.uk/study/courses/undergraduate/economics-finance-data-science/,BSc,"Economics, Finance and Data Science",A*AA,"A* in Mathematics ; AA in two other subjects (Further Mathematics and/or Economics are useful, but not required)"
