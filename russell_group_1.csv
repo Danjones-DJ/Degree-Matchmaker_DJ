@@ -1,0 +1,912 @@
+ukprn,kiscourseid,title,crseurl
+10000824,BAAAF_VL46,Archaeology and Anthropology,https://www.bournemouth.ac.uk/study/courses/ba-hons-archaeology-anthropology
+10000824,BAACS_N423,Accounting,https://www.bournemouth.ac.uk/study/courses/ba-hons-accounting
+10000824,BAAFS_N420,Accounting and Finance,https://www.bournemouth.ac.uk/study/courses/ba-hons-accounting-finance-2
+10000824,BABAMES_N1L1,Business and Management (Economics),https://www.bournemouth.ac.uk/study/courses/ba-hons-business-management-economics-0
+10000824,BABAMFS_N1N3,Business and Management (Finance),https://www.bournemouth.ac.uk/study/courses/ba-hons-business-management-finance-0
+10000824,BACAVEF_W616,Computer Animation and Visual Effects,https://www.bournemouth.ac.uk/study/courses/ba-hons-computer-animation-visual-effects
+10000824,BACF_L611,Criminology,https://www.bournemouth.ac.uk/study/courses/ba-hons-criminology
+10000824,BACLF_L375,Criminology with Law,https://www.bournemouth.ac.uk/study/courses/ba-hons-criminology-law
+10000824,BACOMMF_P900,Communication and Media,https://www.bournemouth.ac.uk/study/courses/ba-hons-communication-media
+10000824,BACPF_LC38,Criminology with Psychology,https://www.bournemouth.ac.uk/study/courses/ba-hons-criminology-psychology
+10000824,BAEF_Q300,English,https://www.bournemouth.ac.uk/study/courses/ba-hons-english-2
+10000824,BAFAFS_NN24,Finance (with Foundation Year),https://www.bournemouth.ac.uk/study/courses/ba-hons-finance
+10000824,BAFEMS_N821,Events Management (with Foundation Year),https://www.bournemouth.ac.uk/study/courses/ba-hons-events-management
+10000824,BAFFF_T6H4,Film (with Foundation Year),https://www.bournemouth.ac.uk/study/courses/ba-hons-film-3
+10000824,BAFFTVPS_FT01,Film and TV Production (with Foundation year),https://www.bournemouth.ac.uk/study/courses/ba-hons-film-tv-production
+10000824,BAFMCAS_N596,Marketing Communications with Advertising (with Foundation Year),https://www.bournemouth.ac.uk/study/courses/ba-hons-marketing-communications-advertising
+10000824,BAFMCDSS_N587,Marketing Communications with Digital Strategy (with Foundation year),https://www.bournemouth.ac.uk/study/courses/ba-hons-marketing-communications-digital-strategy
+10000824,BAFMCPRS_N598,Marketing Communications with Public Relations (with Foundation Year),https://www.bournemouth.ac.uk/study/courses/ba-hons-marketing-communications-public-relations
+10000824,BAFMCSCS_N585,Marketing Communications with Social Change (with Foundation year),https://www.bournemouth.ac.uk/study/courses/ba-hons-marketing-communications-social-change
+10000824,BAFMMJF_P501,Multimedia Journalism (with Foundation Year),https://www.bournemouth.ac.uk/study/courses/ba-hons-multimedia-journalism
+10000824,BAFMMSJF_P506,Multimedia Sports Journalism (with Foundation Year),https://www.bournemouth.ac.uk/study/courses/ba-hons-multimedia-sports-journalism
+10000824,BAFMPF_PH11,Media Production (with Foundation Year),https://www.bournemouth.ac.uk/study/courses/ba-hons-media-production
+10000824,BAFPDS_W239,Product Design (with Foundation Year),https://www.bournemouth.ac.uk/study/courses/ba-hons-product-design
+10000824,BAHF_H4F5,History,https://www.bournemouth.ac.uk/study/courses/ba-hons-history
+10000824,BAMSPS_W391,Music and Sound Production,https://www.bournemouth.ac.uk/study/courses/ba-hons-music-sound-production
+10000824,BAPHF_W690,Photography,https://www.bournemouth.ac.uk/study/courses/ba-hons-photography-2
+10000824,BASCF_H2L9,Sociology and Criminology,https://www.bournemouth.ac.uk/study/courses/ba-hons-sociology-criminology
+10000824,BASF_18J3,Sociology,https://www.bournemouth.ac.uk/study/courses/ba-hons-sociology
+10000824,BASSAF_LL36,Sociology and Social Anthropology,https://www.bournemouth.ac.uk/study/courses/ba-hons-sociology-social-anthropology
+10000824,BASWF_L500,Social Work,https://www.bournemouth.ac.uk/study/courses/ba-hons-social-work
+10000824,BEFMES_H304,Mechanical Engineering (with Foundation Year),https://www.bournemouth.ac.uk/study/courses/beng-hons-mechanical-engineering-2
+10000824,BEMRS_H405,Mechatronics and Robotics,https://www.bournemouth.ac.uk/study/courses/beng-hons-mechatronics-robotics
+10000824,BSAF_J21B,Anthropology,https://www.bournemouth.ac.uk/study/courses/bsc-hons-anthropology
+10000824,BSANAHF_B740,Adult Nursing (Advanced Standing),https://www.bournemouth.ac.uk/study/courses/bsc-hons-adult-nursing-advanced-standing
+10000824,BSANHF_B700,Adult Nursing,https://www.bournemouth.ac.uk/study/courses/bsc-hons-adult-nursing-5
+10000824,BSARAFSS_4K2M,"Archaeological, Anthropological and Forensic Sciences",https://www.bournemouth.ac.uk/study/courses/bsc-hons-archaeological-anthropological-forensic-sciences-2
+10000824,BSARCF_F400,Archaeology,https://www.bournemouth.ac.uk/study/courses/bsc-hons-archaeology
+10000824,BSBCAS_I230,Business Computing with Analytics,https://www.bournemouth.ac.uk/study/courses/bsc-hons-business-computing-analytics-0
+10000824,BSBMSCS_B940,Biomedical Science,https://www.bournemouth.ac.uk/study/courses/bsc-hons-biomedical-science-0
+10000824,BSBSF_C100,Biological Sciences,https://www.bournemouth.ac.uk/study/courses/bsc-hons-biological-sciences-2
+10000824,BSCOS_G610,Computing,https://www.bournemouth.ac.uk/study/courses/bsc-hons-computing
+10000824,BSCSDFS_I140,Cyber Security with Digital Forensics,https://www.bournemouth.ac.uk/study/courses/bsc-hons-cyber-security-digital-forensics
+10000824,BSCSMF_2DA6,Cyber Security Management,https://www.bournemouth.ac.uk/study/courses/bsc-hons-cyber-security-management-1
+10000824,BSCSS_I100,Computer Science,https://www.bournemouth.ac.uk/study/courses/bsc-hons-computer-science
+10000824,BSCYNAHF_B730,Children's and Young People's Nursing (Advanced Standing),https://www.bournemouth.ac.uk/study/courses/bsc-hons-childrens-young-peoples-nursing-advanced-standing
+10000824,BSCYNHF_B702,Children's and Young People's Nursing,https://www.bournemouth.ac.uk/study/courses/bsc-hons-childrens-young-peoples-nursing
+10000824,BSDES_H100,Design Engineering,https://www.bournemouth.ac.uk/study/courses/bsc-hons-design-engineering-0
+10000824,BSDSAIS_I400,Data Science and Artificial Intelligence,https://www.bournemouth.ac.uk/study/courses/bsc-hons-data-science-artificial-intelligence
+10000824,BSECS_L100,Economics,https://www.bournemouth.ac.uk/study/courses/bsc-hons-economics
+10000824,BSESDTS_I600,E-Sports Digital Technologies,https://www.bournemouth.ac.uk/study/courses/bsc-hons-e-sports-digital-technologies
+10000824,BSEVSF_D449,Environmental Science,https://www.bournemouth.ac.uk/study/courses/bsc-hons-environmental-science-2
+10000824,BSEWCF_CD14,Ecology and Wildlife Conservation,https://www.bournemouth.ac.uk/study/courses/bsc-hons-ecology-wildlife-conservation-3
+10000824,BSFBF_F3B7,Forensic Biology,https://www.bournemouth.ac.uk/study/courses/bsc-hons-forensic-biology-1
+10000824,BSFFIS_F402,Forensic Investigation (with Foundation Year),https://www.bournemouth.ac.uk/study/courses/bsc-hons-forensic-investigation-2
+10000824,BSFFSCS_F412,Forensic Science (with Foundation Year),https://www.bournemouth.ac.uk/study/courses/bsc-hons-forensic-science-3
+10000824,BSFGDS_G600,Games Design (with Foundation Year),https://www.bournemouth.ac.uk/study/courses/bsc-hons-games-design
+10000824,BSFGS_F801,Geography (with Foundation Year),https://www.bournemouth.ac.uk/study/courses/bsc-hons-geography-2
+10000824,BSFMNHF_B704,Mental Health Nursing (with Foundation Year),https://www.bournemouth.ac.uk/study/courses/bsc-hons-mental-health-nursing-1
+10000824,BSFMSCS_B101,Medical Science (with Foundation Year),https://www.bournemouth.ac.uk/study/courses/bsc-hons-medical-science-0
+10000824,BSFMS_N505,Marketing (with Foundation Year),https://www.bournemouth.ac.uk/study/courses/bsc-hons-marketing
+10000824,BSFMWHF_B721,Midwifery (with Foundation Year),https://www.bournemouth.ac.uk/study/courses/bsc-hons-midwifery-4
+10000824,BSFNCSS_I126,Networks and Cyber Security (with Foundation Year),https://www.bournemouth.ac.uk/study/courses/bsc-hons-networks-cyber-security
+10000824,BSFODPF_B992,Operating Department Practice (with Foundation Year),https://www.bournemouth.ac.uk/study/courses/bsc-hons-operating-department-practice
+10000824,BSFOTHF_B931,Occupational Therapy (with Foundation Year),https://www.bournemouth.ac.uk/study/courses/bsc-hons-occupational-therapy-1
+10000824,BSFPDS_H103,Product Design (with Foundation Year),https://www.bournemouth.ac.uk/study/courses/bsc-hons-product-design
+10000824,BSFPYCS_C9B9,Psychology with Counselling (with Foundation Year),https://www.bournemouth.ac.uk/study/courses/bsc-hons-psychology-counselling
+10000824,BSFSESF_C606,Sport and Exercise Science (with Foundation Year),https://www.bournemouth.ac.uk/study/courses/bsc-hons-sport-exercise-science
+10000824,BSFSES_G603,Software Engineering (with Foundation Year option),https://www.bournemouth.ac.uk/study/courses/bsc-hons-software-engineering
+10000824,BSFSPCS_C603,Sport Coaching (with Foundation Year),https://www.bournemouth.ac.uk/study/courses/bsc-hons-sport-coaching
+10000824,BSGPRS_G620,Games Programming,https://www.bournemouth.ac.uk/study/courses/bsc-hons-games-programming-1
+10000824,BSMNAHF_B761,Mental Health Nursing (Advanced Standing),https://www.bournemouth.ac.uk/study/courses/bsc-hons-mental-health-nursing-advanced-standing
+10000824,BSNF_B400,Nutrition,https://www.bournemouth.ac.uk/study/courses/bsc-hons-nutrition
+10000824,BSPSHF_86G3,Paramedic Science,https://www.bournemouth.ac.uk/study/courses/bsc-hons-paramedic-science
+10000824,BSPTHF_B160,Physiotherapy,https://www.bournemouth.ac.uk/study/courses/bsc-hons-physiotherapy
+10000824,BSSTS_846W,Sports Therapy,https://www.bournemouth.ac.uk/study/courses/bsc-hons-sports-therapy-2
+10000824,LLBFLLPS_M001,Law with Legal Practice (SQE) (with Foundation year),https://www.bournemouth.ac.uk/study/courses/llb-hons-law-legal-practice-sqe
+10000824,LLBFLMCIF_M301,"Law, Media & Creative Industries (with Foundation Year)",https://www.bournemouth.ac.uk/study/courses/llb-hons-law-media-creative-industries-0
+10000824,LLBFLS_M102,Law (with Foundation Year),https://www.bournemouth.ac.uk/study/courses/llb-hons-law-1
+10000824,MEEDP_MEEDP,Engineering,https://www.bournemouth.ac.uk/study/courses/meng-hons-engineering-top
+10000824,MEFMES_H104,Mechanical Engineering (with Foundation Year),https://www.bournemouth.ac.uk/study/courses/meng-hons-mechanical-engineering-0
+10000824,MEMRS_H505,Mechatronics and Robotics,https://www.bournemouth.ac.uk/study/courses/meng-hons-mechatronics-robotics
+10003645,UBAH3AJHYIR,History & International Relations,https://www.kcl.ac.uk/study/undergraduate/courses/history-and-international-relations
+10003645,UBAH3AJHYPE,History and Political Economy,https://www.kcl.ac.uk/study/undergraduate/courses/history-political-economy
+10003645,UBAH3AMCLEN,Classical Studies with English,https://www.kcl.ac.uk/study/undergraduate/courses/classical-studies-with-english-ba
+10003645,UBAH3AMCTFS,Comparative Literature with Film Studies,https://www.kcl.ac.uk/study/undergraduate/courses/comparative-literature-with-film-studies-ba
+10003645,UBAH3AMENFS,English with Film Studies,https://www.kcl.ac.uk/study/undergraduate/courses/english-with-film-studies-ba
+10003645,UBAH3ASAH,Ancient History,https://www.kcl.ac.uk/study/undergraduate/courses/ancient-history-ba
+10003645,UBAH3ASCM,"""Culture, Media & Creative Industries""",https://www.kcl.ac.uk/study/undergraduate/courses/culture-media-creative-industries-ba
+10003645,UBAH3ASCT,Comparative Literature,https://www.kcl.ac.uk/study/undergraduate/courses/comparative-literature-ba
+10003645,UBAH3ASCW,Classics and the Ancient World,https://www.kcl.ac.uk/study/undergraduate/courses/classics-and-the-ancient-world-ba
+10003645,UBAH3ASDMC,Digital Media and Culture,https://www.kcl.ac.uk/study/undergraduate/courses/digital-media-culture-ba
+10003645,UBAH3ASEU,European Politics,https://www.kcl.ac.uk/study/undergraduate/courses/european-politics-ba
+10003645,UBAH3ASEZ,English,https://www.kcl.ac.uk/study/undergraduate/courses/english-ba
+10003645,UBAH3ASFS,Film Studies,https://www.kcl.ac.uk/study/undergraduate/courses/film-studies-ba
+10003645,UBAH3ASHY,History,https://www.kcl.ac.uk/study/undergraduate/courses/history-ba
+10003645,UBAH3ASLB,Liberal Arts,https://www.kcl.ac.uk/study/undergraduate/courses/liberal-arts-ba
+10003645,UBAH3ASPL,Philosophy,https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-ba
+10003645,UBAH3ASRE,"""Religion, Philosophy & Ethics""",https://www.kcl.ac.uk/study/undergraduate/courses/religion-philosophy-and-ethics-ba
+10003645,UBAH3ASSR,"Sociology, Politics and Religion",https://www.kcl.ac.uk/study/undergraduate/courses/sociology-politics-and-religion-ba
+10003645,UBAH3SGHSS,Global Health and Social Science,https://www.kcl.ac.uk/study/undergraduate/courses/global-health-and-social-science-ba
+10003645,UBAH3SJWAHY,War Studies & History,https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-and-history-ba
+10003645,UBAH3SSGH,Geography,https://www.kcl.ac.uk/study/undergraduate/courses/geography-ba
+10003645,UBAH3SSLI,English Language & Linguistics,https://www.kcl.ac.uk/study/undergraduate/courses/english-language-and-linguistics-ba
+10003645,UBAH3SSOE,"""Philosophy, Politics & Economics""",https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-politics-and-economics-ba-bsc
+10003645,UBAH3SSPM,Political Economy,https://www.kcl.ac.uk/study/undergraduate/courses/political-economy-ba-bsc
+10003645,UBAH3SSPZ,Politics,https://www.kcl.ac.uk/study/undergraduate/courses/politics-ba-bsc
+10003645,UBAH3SSRL,International Relations,https://www.kcl.ac.uk/study/undergraduate/courses/international-relations-ba
+10003645,UBAH3SSSO,Social Sciences,https://www.kcl.ac.uk/study/undergraduate/courses/social-sciences-ba
+10003645,UBAH3SSWA,War Studies,https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-ba
+10003645,UBAH3YSDE,International Development,https://www.kcl.ac.uk/study/undergraduate/courses/international-development-ba
+10003645,UBAH4AJEHML,English and Modern Languages with a Year Abroad,https://www.kcl.ac.uk/study/undergraduate/courses/english-and-modern-languages-with-a-year-abroad-ba
+10003645,UBAH4AJHYML,History and Modern Languages with a Year Abroad,https://www.kcl.ac.uk/study/undergraduate/courses/history-and-modern-languages-with-a-year-abroad-ba
+10003645,UBAH4AJMTML,Management and Modern Languages with a Year Abroad,https://www.kcl.ac.uk/study/undergraduate/courses/management-and-modern-languages-with-a-year-abroad-ba
+10003645,UBAH4AJPYML,Philosophy and Modern Languages with a Year Abroad,https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-and-modern-languages-with-a-year-abroad-ba
+10003645,UBAH4ASMLY,Modern Languages with a Year Abroad,https://www.kcl.ac.uk/study/undergraduate/courses/modern-languages-ba
+10003645,UBAH4ASUF,European Studies (French pathway) with a year abroad,https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-french-pathway-with-a-year-abroad-ba
+10003645,UBAH4ASUG,European Studies (German pathway) with a year abroad,https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-german-pathway-with-a-year-abroad-ba
+10003645,UBAH4ASUS,European Studies (Spanish pathway) with a year abroad,https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-spanish-pathway-with-a-year-abroad-ba
+10003645,UBDS5NSDN,Dentistry,https://www.kcl.ac.uk/study/undergraduate/courses/dentistry-bds
+10003645,UBDS5NSDT,Enhanced Support Dentistry Programme,https://www.kcl.ac.uk/study/undergraduate/courses/enhanced-support-dentistry-programme-bds
+10003645,UBEH3CSBE,Biomedical Engineering,https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-engineering-beng
+10003645,UBEH3CSEJ,Electronic Engineering,https://www.kcl.ac.uk/study/undergraduate/courses/electronic-engineering-beng
+10003645,UBEH3CSGENG,General Engineering,https://www.kcl.ac.uk/study/undergraduate/courses/general-engineering-beng
+10003645,UBLH3FSLW,Law,https://www.kcl.ac.uk/study/undergraduate/courses/law-llb
+10003645,UBLH4FJELAU,English Law and Australian Law,https://www.kcl.ac.uk/law/undergraduate
+10003645,UBLH4FJEWFW,English Law & French Law,https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-french-law-llb
+10003645,UBLH4FJEWGW,English Law & German Law,https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-german-law-llb
+10003645,UBLH4FJUPFB,English Law & Spanish Law,https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-spanish-law-llb
+10003645,UBLH4FSCUHK,English Law & Hong Kong Law,https://www.kcl.ac.uk/study/undergraduate/courses/english-law-and-hong-kong-law-llb-jd
+10003645,UBLH4FSPW,"""Politics, Philosophy & Law""",https://www.kcl.ac.uk/study/undergraduate/courses/politics-philosophy-and-law-llb
+10003645,UBSH3AJMMPL,Mathematics & Philosophy,https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-and-philosophy-bsc
+10003645,UBSH3BSAD,"Anatomy, Developmental & Human Biology",https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-bsc
+10003645,UBSH3BSBC,Biochemistry,https://www.kcl.ac.uk/study/undergraduate/courses/biochemistry-bsc
+10003645,UBSH3BSBS,Biomedical Science,https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-science-bsc
+10003645,UBSH3BSMC,Molecular Genetics,https://www.kcl.ac.uk/study/undergraduate/courses/molecular-genetics-bsc
+10003645,UBSH3BSMP,Medical Physiology,https://www.kcl.ac.uk/study/undergraduate/courses/medical-physiology-bsc
+10003645,UBSH3BSNU,Neuroscience,https://www.kcl.ac.uk/study/undergraduate/courses/neuroscience-bsc
+10003645,UBSH3BSPC,Pharmacology,https://www.kcl.ac.uk/study/undergraduate/courses/pharmacology-bsc
+10003645,UBSH3CCBYI,Chemistry with Biomedicine with a Year in Industry,https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-with-year-in-industry
+10003645,UBSH3CCHBM,Chemistry with Biomedicine,https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-bsc
+10003645,UBSH3CCHE,Chemistry,https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-bsc
+10003645,UBSH3CCHYI,Chemistry with a Year in Industry,https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-year-in-industry-bsc
+10003645,UBSH3CJPHPL,Physics & Philosophy,https://www.kcl.ac.uk/study/undergraduate/courses/physics-and-philosophy-bsc
+10003645,UBSH3CMCSMT,Computer Science with Management,https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-management-bsc
+10003645,UBSH3CMMMMF,Mathematics with Management & Finance,https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-and-finance-bsc
+10003645,UBSH3CMMWS,Mathematics with Statistics,https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-bsc
+10003645,UBSH3CMPHTP,Physics with Theoretical Physics,https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-theoretical-physics-bsc
+10003645,UBSH3CSAG,Artificial Intelligence,https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-bsc
+10003645,UBSH3CSCS,Computer Science,https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-bsc
+10003645,UBSH3CSMM,Mathematics,https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-bsc
+10003645,UBSH3CSPH,Physics,https://www.kcl.ac.uk/study/undergraduate/courses/physics-bsc
+10003645,UBSH3CSSNA,Natural Sciences,https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences
+10003645,UBSH3MMSS,Sport & Exercise Medical Sciences,https://www.kcl.ac.uk/study/undergraduate/courses/sport-and-exercise-medical-sciences-bsc
+10003645,UBSH3MPHAC,Physics with Astrophysics & Cosmology,https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-astrophysics-and-cosmology-bsc
+10003645,UBSH3MSNT,Nutritional Sciences,https://www.kcl.ac.uk/study/undergraduate/courses/nutrition-bsc
+10003645,UBSH3NSDS,Dental Therapy & Hygiene,https://www.kcl.ac.uk/study/undergraduate/courses/dental-therapy-and-hygiene-bsc
+10003645,UBSH3PJPANS,Neuroscience & Psychology,https://www.kcl.ac.uk/study/undergraduate/courses/neuroscience-and-psychology-bsc
+10003645,UBSH3PSPCM,Psychology and Criminology,https://www.kcl.ac.uk/study/undergraduate/courses/psychology-and-criminology
+10003645,UBSH3PSPN,Psychology,https://www.kcl.ac.uk/study/undergraduate/courses/psychology-bsc
+10003645,UBSH3QSDABF,Data Analytics for Business and Finance,https://www.kcl.ac.uk/study/undergraduate/courses/data-analytics-for-business-and-finance-bsc
+10003645,UBSH3QSSAF,Accounting and Finance,https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-bsc
+10003645,UBSH3SSBM,Business Management,https://www.kcl.ac.uk/study/undergraduate/courses/business-management-bsc
+10003645,UBSH3SSEM,Economics & Management,https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-bsc
+10003645,UBSH3SSGG,Geography & Environmental Science,https://www.kcl.ac.uk/study/undergraduate/courses/geography-bsc
+10003645,UBSH3SSGS,Global Health & Social Medicine,https://www.kcl.ac.uk/study/undergraduate/courses/global-health-and-social-medicine-bsc
+10003645,UBSH3SSWE,Economics,https://www.kcl.ac.uk/study/undergraduate/courses/economics-bsc
+10003645,UBSH4CMCSMI,Computer Science with Management and Year in Industry,https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-management-and-a-year-in-industry-bsc
+10003645,UBSH4CMMFI,Mathematics with Management & Finance with Year in Industry,https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-management-finance-with-year-in-industry
+10003645,UBSH4CMMSYI,Mathematics with Statistics with Year in Industry,https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-statistics-with-year-in-industry-bsc
+10003645,UBSH4CSCI,Computer Science with a Year in Industry,https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-a-year-in-industry-bsc
+10003645,UBSH4CSMB,Mathematics with Year in Industry,https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-year-in-industry-bsc
+10003645,UBSH4CSRI,Artificial Intelligence with a Year in Industry,https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-with-a-year-in-industry-bsc
+10003645,UBSH4CSSNI,Natural Sciences with a Year in Industry,https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-bsc-year-in-industry
+10003645,UBSH4SSBU,International Management,https://www.kcl.ac.uk/study/undergraduate/courses/international-management-bsc
+10003645,UBSR3KSRA,Nursing Studies with Registration as an Adult Nurse,https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-an-adult-nurse-bsc
+10003645,UBSR3KSRC,Nursing Studies with Registration as a Children's Nurse,https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-a-childrens-nurse-bsc
+10003645,UBSR3KSRD,Midwifery with Registration as a Midwife,https://www.kcl.ac.uk/study/undergraduate/courses/midwifery-with-registration-as-a-midwife-bsc
+10003645,UBSR3KSRM,Nursing Studies with Registration as a Mental Health Nurse,https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-a-mental-health-nurse-bsc
+10003645,UBSR3MSPT,Physiotherapy,https://www.kcl.ac.uk/study/undergraduate/courses/physiotherapy-bsc
+10003645,UMBB5MSMD,Medicine,https://www.kcl.ac.uk/study/undergraduate/courses/medicine-mbbs
+10003645,UMBB6MSMD,Extended Medical Degree Programme,https://www.kcl.ac.uk/study/undergraduate/courses/extended-medical-degree-programme-mbbs
+10003645,UMEH4CSBG,Biomedical Engineering,https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-engineering-meng
+10003645,UMEH4CSEK,Electronic Engineering,https://www.kcl.ac.uk/study/undergraduate/courses/electronic-engineering-meng
+10003645,UMEH4CSMENG,General Engineering,https://www.kcl.ac.uk/study/undergraduate/courses/general-engineering-meng
+10003645,UMPH4BSPR,Pharmacy,https://www.kcl.ac.uk/study/undergraduate/courses/pharmacy-mpharm
+10003645,UMSH4CCBYI,Chemistry with Biomedicine with a Year in Industry,https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-with-year-in-industry-msci
+10003645,UMSH4CCHYI,Chemistry with a Year in Industry,https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-year-in-industry-msci
+10003645,UMSH4CJPHPI,Physics & Philosophy,https://www.kcl.ac.uk/study/undergraduate/courses/physics-and-philosophy-msci
+10003645,UMSH4CMCH,Chemistry,https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-msci
+10003645,UMSH4CMPHTP,Physics with Theoretical Physics,https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-theoretical-physics-msci
+10003645,UMSH4CSCB,Chemistry with Biomedicine,https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-msci
+10003645,UMSH4CSCS,Computer Science,https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-msci
+10003645,UMSH4CSFI,Artificial Intelligence,https://www.kcl.ac.uk/study/undergraduate/courses/artificial-intelligence-msci
+10003645,UMSH4CSMM,Mathematics,https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-msci
+10003645,UMSH4CSPH,Physics,https://www.kcl.ac.uk/study/undergraduate/courses/physics-msci
+10003645,UMSH4CSSNL,Natural Sciences,https://www.kcl.ac.uk/study/undergraduate/courses/natural-sciences-msci
+10003645,UMSH4MPHAC,Physics with Astrophysics & Cosmology,https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-astrophysics-and-cosmology-msci
+10003645,UMSH5CSHD,Mathematics with Year in Industry,https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-with-year-in-industry-msci
+10005343,ACC-MACC-P,Advanced Accounting with Placement,https://www.qub.ac.uk/courses/undergraduate/2024/advanced-accounting-placement-macc-n400/
+10005343,ACC-MM-FRH,Accounting with French,https://www.qub.ac.uk/courses/undergraduate/accounting-major-french-bsc-n4r1/
+10005343,ACC-MM-SPA,Accounting with Spanish,https://www.qub.ac.uk/courses/undergraduate/accounting-major-spanish-bsc-n4r4/#overview
+10005343,ACT-BSC-S,Actuarial Science and Risk Management,https://www.qub.ac.uk/courses/undergraduate/actuarial-science-risk-management-bsc-n323
+10005343,AES-BE-S,Aerospace Engineering (Sandwich),https://www.qub.ac.uk/courses/undergraduate/aerospace-engineering-sandwich-beng-h404/
+10005343,AES-BENG,Aerospace Engineering,https://www.qub.ac.uk/courses/undergraduate/aerospace-engineering-beng-h400/
+10005343,AES-ME-S,Aerospace Engineering (Undergraduate Masters with Sandwich year),https://www.qub.ac.uk/courses/undergraduate/aerospace-engineering-sandwich-meng-h405/
+10005343,AES-MENG,Aerospace Engineering,https://www.qub.ac.uk/courses/undergraduate/aerospace-engineering-meng-h402/
+10005343,AGT-BSC-S,Agricultural Technology,https://www.qub.ac.uk/courses/undergraduate/agricultural-technology-bsc-d473
+10005343,AGT-S-S,Agricultural Technology with Professional Studies,https://www.qub.ac.uk/courses/undergraduate/agricultural-technology-bsc-d470/
+10005343,AMA-JS-PHY,Applied Mathematics and Physics,https://www.qub.ac.uk/courses/undergraduate/applied-mathematics-physics-bsc-gf13
+10005343,AMA-UM-PHY,Applied Mathematics and Physics,https://www.qub.ac.uk/courses/undergraduate/applied-mathematics-physics-msci-gfc3
+10005343,ANT-BA-S,Anthropology,http://www.qub.ac.uk/courses/undergraduate/anthropology-ba-l600/
+10005343,ANT-JS-ARL,Anthropology and Archaeology,https://www.qub.ac.uk/courses/undergraduate/anthropology-archaeology-ba-lv64/
+10005343,ANT-JS-ENG,Anthropology and English,http://www.qub.ac.uk/courses/undergraduate/anthropology-english-ba-ql36/
+10005343,ANT-JS-FRH,Anthropology and French,http://www.qub.ac.uk/courses/undergraduate/anthropology-french-ba-rl16/
+10005343,ANT-JS-HIS,Anthropology and History,http://www.qub.ac.uk/courses/undergraduate/anthropology-history-ba-vl16/
+10005343,ANT-JS-INT,Anthropology and International Relations,https://www.qub.ac.uk/courses/undergraduate/anthropology-international-relations-ba-ll6f/#overview
+10005343,ANT-JS-IRI,Anthropology and Irish,http://www.qub.ac.uk/courses/undergraduate/anthropology-irish-ba-ql56/
+10005343,ANT-JS-PHL,Anthropology and Philosophy,https://www.qub.ac.uk/courses/undergraduate/anthropology-philosophy-ba-lv65/#overview
+10005343,ANT-JS-POL,Anthropology and Politics,https://www.qub.ac.uk/courses/undergraduate/anthropology-politics-ba-ll62/#overview
+10005343,ANT-JS-SPA,Anthropology and Spanish,http://www.qub.ac.uk/courses/undergraduate/anthropology-spanish-ba-lr64/
+10005343,ARC-BSC-S,Architecture,https://www.qub.ac.uk/courses/undergraduate/architecture-bsc-k100/
+10005343,ARL-BA-FRH,Archaeology with French,https://www.qub.ac.uk/courses/undergraduate/archaeology-french-ba-v4r1/
+10005343,ARL-BA-POR,Archaeology with Portuguese,https://www.qub.ac.uk/courses/undergraduate/archaeology-portuguese-ba-v4r5/
+10005343,ARL-BA-S,Archaeology,https://www.qub.ac.uk/courses/undergraduate/archaeology-ba-v402/
+10005343,ARL-BA-SPA,Archaeology with Spanish,https://www.qub.ac.uk/courses/undergraduate/archaeology-spanish-ba-v4r4/
+10005343,ARL-JS-HIS,Archaeology and History,https://www.qub.ac.uk/courses/undergraduate/archaeology-history-ba-vv41/
+10005343,ARL-JS-IRI,Archaeology and Irish,https://www.qub.ac.uk/courses/undergraduate/archaeology-irish-ba-vq45
+10005343,ARP-BSC-S,Archaeology & Palaeoecology,http://www.qub.ac.uk/courses/undergraduate/archaeologypalaeoecology-bsc-v400/
+10005343,ARP-JS-GEO,Archaeology & Palaeoecology and Geography,https://www.qub.ac.uk/courses/undergraduate/archaeologypalaeoecology-geography-bsc-vf48/
+10005343,BCM-BSC-P,Biochemistry with Professional Studies,https://www.qub.ac.uk/courses/undergraduate/biochemistry-bsc-c704/
+10005343,BCM-BSC-S,Biochemistry,https://www.qub.ac.uk/courses/undergraduate/biochemistry-bsc-c700/
+10005343,BCP-BA-S,Broadcast Production,https://www.qub.ac.uk/courses/undergraduate/broadcast-production-ba-p310/
+10005343,BEC-BSC-S,Business Economics,https://www.qub.ac.uk/courses/undergraduate/business-economics-bsc-l110/
+10005343,BIO-BSC-S,Human Biology,https://www.qub.ac.uk/courses/undergraduate/human-biology-bsc-b100/
+10005343,BIO-MSCI,Biochemistry (Undergraduate Masters),https://www.qub.ac.uk/courses/undergraduate/biochemistry-msci-c702/
+10005343,BIO-MSCI-P,Biochemistry (Undergraduate Masters with Professional Studies),https://www.qub.ac.uk/courses/undergraduate/biochemistry-msci-c705/
+10005343,BIT-BSC-P,Business Information Technology,https://www.qub.ac.uk/courses/undergraduate/2024/business-information-technology-incl-professional-experience-bsc-gn51/
+10005343,BMS-BSC-S,Biomedical Science,https://www.qub.ac.uk/courses/undergraduate/biomedical-science-bsc-b940
+10005343,BSC-BSC-P,Biological Sciences with Professional Studies,https://www.qub.ac.uk/courses/undergraduate/biological-sciences-bsc-c104/
+10005343,BSC-BSC-S,Biological Sciences,https://www.qub.ac.uk/courses/undergraduate/biological-sciences-bsc-c100/
+10005343,BSC-MSCI-P,Biological Sciences (Undergraduate Masters with Professional Studies),https://www.qub.ac.uk/courses/undergraduate/2024/biological-sciences-msci-c105/#overview
+10005343,BSC-MSCI-S,Biological Sciences (Undergraduate Masters),https://www.qub.ac.uk/courses/undergraduate/2024/biological-sciences-msci-c102/#overview
+10005343,BSM-BSC-P,Business Management with Placement,https://www.qub.ac.uk/courses/undergraduate/business-management-placement-bsc-n202/
+10005343,CEN-BE-S,Computer Engineering (with year in industry),https://www.qub.ac.uk/courses/undergraduate/computer-engineering-year-industry-beng-gh67/#overview
+10005343,CEN-BENG,Computer Engineering,https://www.qub.ac.uk/courses/undergraduate/computer-engineering-beng-gh6p/
+10005343,CEN-ME-S,Computer Engineering (Undergraduate Masters with Year in Industry),https://www.qub.ac.uk/courses/undergraduate/computer-engineering-year-industry-meng-gh68/#overview
+10005343,CEN-MENG,Computer Engineering (Undergraduate Masters),https://www.qub.ac.uk/courses/undergraduate/computer-engineering-meng-gh6q/
+10005343,CHE-BENG,Chemical Engineering,https://www.qub.ac.uk/courses/undergraduate/chemical-engineering-beng-h800/#overview
+10005343,CHE-BENG-Y,Chemical Engineering with a Year in Industry,https://www.qub.ac.uk/courses/undergraduate/chemical-engineering-year-industry-beng-h804/#overview
+10005343,CHE-MENG,Chemical Engineering (Undergraduate Masters),https://www.qub.ac.uk/courses/undergraduate/chemical-engineering-meng-h802/
+10005343,CHE-MENG-I,Chemical Engineering with a Year in Industry,https://www.qub.ac.uk/courses/undergraduate/2024/chemical-engineering-meng-h805/
+10005343,CHM-BSC-I,Chemistry with a Year in Industry,https://www.qub.ac.uk/courses/undergraduate/chemistry-year-industry-bsc-f104/#overview
+10005343,CHM-BSC-S,Chemistry,https://www.qub.ac.uk/courses/undergraduate/chemistry-bsc-f100/#overview
+10005343,CHM-MCHE,Chemistry (Undergraduate Masters),https://www.qub.ac.uk/courses/undergraduate/chemistry-mchem-f105/#overview
+10005343,CHM-MCHE-A,Chemistry with Study Abroad,https://www.qub.ac.uk/courses/undergraduate/chemistry-study-abroad-mchem-f106/#course
+10005343,CHM-MCHE-I,Chemistry with a Year in Industry,https://www.qub.ac.uk/courses/undergraduate/chemistry-year-industry-mchem-f107/#overview
+10005343,CIV-BE-S,Civil Engineering (with a Year in Industry),https://www.qub.ac.uk/courses/undergraduate/civil-engineering-year-industry-beng-h204/#overview
+10005343,CIV-BENG,Civil Engineering,https://www.qub.ac.uk/courses/undergraduate/civil-engineering-beng-h200/#overview
+10005343,CIV-ME-S,Civil Engineering (with a Year in Industry),https://www.qub.ac.uk/courses/undergraduate/civil-engineering-year-industry-meng-h205/
+10005343,CIV-MENG,Civil Engineering (Undergraduate Masters),https://www.qub.ac.uk/courses/undergraduate/civil-engineering-meng-h202/
+10005343,CRI-BA-S,Criminology,https://www.qub.ac.uk/courses/undergraduate/criminology-ba-m900/
+10005343,CRI-JS-SOC,Criminology and Sociology,https://www.qub.ac.uk/courses/undergraduate/criminology-sociology-ba-ml93
+10005343,CRI-JS-SPY,Criminology and Social Policy,https://www.qub.ac.uk/courses/undergraduate/criminology-social-policy-ba-ml94/#course
+10005343,CSC-BSC-DP,Data Science with Year of Professional Experience,https://www.qub.ac.uk/courses/undergraduate/data-science-year-professional-experience-bsc-g420/
+10005343,CSC-BSC-P,Computer Science with Professional Experience,https://www.qub.ac.uk/courses/undergraduate/2024/computer-science-professional-experience-bsc-g400/
+10005343,CSC-IT-P,Computing and Information Technology Incl Professional Experience,https://www.qub.ac.uk/courses/undergraduate/computing-information-technology-incl-professional-experience-bsc-gg45/
+10005343,CSC-ME-P,Computer Science (Undergraduate Masters including Professional Experience),https://www.qub.ac.uk/courses/undergraduate/computer-science-incl-professional-experience-meng-g405/
+10005343,CSC-MENG,Computer Science,https://www.qub.ac.uk/courses/undergraduate/computer-science-meng-g402/
+10005343,DEN-BDS-S,Dentistry,https://www.qub.ac.uk/courses/undergraduate/dentistry-bds-a200/
+10005343,DRA-BA-S,Drama,https://www.qub.ac.uk/courses/undergraduate/drama-ba-w400/
+10005343,DRA-JS-ENG,Drama and English,https://www.qub.ac.uk/courses/undergraduate/drama-english-ba-wq43
+10005343,ECE-ME-S,Environmental and Civil Engineering (with a Year in Industry),https://www.qub.ac.uk/courses/undergraduate/environmental-civil-engineering-year-industry-meng-h255/#overview
+10005343,ECE-MENG,Environmental and Civil Engineering,https://www.qub.ac.uk/courses/undergraduate/environmental-civil-engineering-meng-h252/
+10005343,ECO-BSC-S,Economics,https://www.qub.ac.uk/courses/undergraduate/economics-bsc-l100/
+10005343,ECO-JS-ACC,Economics and Accounting,https://www.qub.ac.uk/courses/undergraduate/economics-accounting-bsc-ln14/
+10005343,ECO-MM-FIN,Economics with Finance,https://www.qub.ac.uk/courses/undergraduate/economics-major-finance-bsc-l1n3/
+10005343,ECO-MM-FRH,Economics with French,https://www.qub.ac.uk/courses/undergraduate/economics-major-french-bsc-l1r1/
+10005343,ECO-MM-SPA,Economics with Spanish,https://www.qub.ac.uk/courses/undergraduate/economics-major-spanish-bsc-l1r4/
+10005343,ELE-BE-S,Electrical and Electronic Engineering (with sandwich year),https://www.qub.ac.uk/courses/undergraduate/electrical-electronic-engineering-sandwich-beng-h604/
+10005343,ELE-BENG,Electrical and Electronic Engineering,https://www.qub.ac.uk/courses/undergraduate/electrical-electronic-engineering-beng-h600/
+10005343,ELE-ME-S,Electrical and Electronic Engineering (Undergraduate Masters with sandwich year),https://www.qub.ac.uk/courses/undergraduate/electrical-electronic-engineering-sandwich-meng-h605/
+10005343,ELE-MENG,Electrical and Electronic Engineering (Undergraduate Masters),https://www.qub.ac.uk/courses/undergraduate/electrical-electronic-engineering-meng-h602/
+10005343,ENG-BA-CW,English with Creative Writing,https://www.qub.ac.uk/courses/undergraduate/english-creative-writing-ba-q3w8/#course
+10005343,ENG-BA-S,English,https://www.qub.ac.uk/courses/undergraduate/english-ba-q300
+10005343,ENG-JS-FLM,English and Film Studies,https://www.qub.ac.uk/courses/undergraduate/english-film-studies-ba-qw36
+10005343,ENG-JS-FRH,English and French,https://www.qub.ac.uk/courses/undergraduate/english-french-ba-qr31
+10005343,ENG-JS-IRC,English and Irish,https://www.qub.ac.uk/courses/undergraduate/english-irish-ba-qq53
+10005343,ENG-JS-LNG,English and Linguistics,https://www.qub.ac.uk/courses/undergraduate/english-linguistics-ba-qq31
+10005343,ENG-JS-MHY,English and History,https://www.qub.ac.uk/courses/undergraduate/english-history-ba-qv31
+10005343,ENG-JS-PHL,English and Philosophy,https://www.qub.ac.uk/courses/undergraduate/english-philosophy-ba-qv35
+10005343,ENG-JS-POL,English and Politics,https://www.qub.ac.uk/courses/undergraduate/english-politics-ba-ql32
+10005343,ENG-JS-SOC,English and Sociology,https://www.qub.ac.uk/courses/undergraduate/english-sociology-ba-ql33
+10005343,ENG-JS-SPA,English and Spanish,https://www.qub.ac.uk/courses/undergraduate/english-spanish-ba-qr34
+10005343,EUR-MPLAN,European Planning,https://www.qub.ac.uk/courses/undergraduate/european-planning-mplan-k490/
+10005343,EVM-BSC-P,Environmental Management (with Professional Studies),https://www.qub.ac.uk/courses/undergraduate/environmental-management-bsc-f854/
+10005343,EVM-BSC-S,Environmental Management,https://www.qub.ac.uk/courses/undergraduate/environmental-management-bsc-f850/
+10005343,EVP-BSC-PD,"Planning, Environment and Development",https://www.qub.ac.uk/courses/undergraduate/planning-environment-development-bsc-k430/
+10005343,FDQ-BSC-N,Food Science and Nutrition,https://www.qub.ac.uk/courses/undergraduate/food-science-nutrition-bsc-db6k/#overview
+10005343,FDQ-N-P,Food Science and Nutrition with Professional Studies,https://www.qub.ac.uk/courses/undergraduate/food-science-nutrition-msci-bd46/#course
+10005343,FIN-BSC-P,Finance with a Year in Industry,https://www.qub.ac.uk/courses/undergraduate/finance-year-industry-bsc-n300/#overview
+10005343,FIN-BSC-RI,Financial Risk Management with a Year in Industry,https://www.qub.ac.uk/courses/undergraduate/2024/financial-risk-management-bsc-n390/
+10005343,FLM-BA-FP,Film Studies and Production,https://www.qub.ac.uk/courses/undergraduate/film-studies-production-ba-w600/
+10005343,FMT-BA-S,Film and Theatre Making,https://www.qub.ac.uk/courses/undergraduate/film-theatre-making-ba-ww65/
+10005343,FQS-MSCI-F,Food Science and Nutrition with Professional Studies,https://www.qub.ac.uk/courses/undergraduate/food-science-nutrition-msci-db64/#overview
+10005343,FRH-BA-S,French,https://www.qub.ac.uk/courses/undergraduate/french-ba-r120/
+10005343,FRH-JS-INR,French and International Relations,https://www.qub.ac.uk/courses/undergraduate/french-international-relations-ba-rlc2/
+10005343,FRH-JS-IRC,French and Irish,https://www.qub.ac.uk/courses/undergraduate/french-irish-ba-qr51
+10005343,FRH-JS-MHY,French and History,https://www.qub.ac.uk/courses/undergraduate/french-history-ba-rv11
+10005343,FRH-JS-POL,French and Politics,https://www.qub.ac.uk/courses/undergraduate/french-politics-ba-rl12
+10005343,FRH-JS-PRT,French and Portuguese,https://www.qub.ac.uk/courses/undergraduate/french-portuguese-ba-rr15
+10005343,FRH-JS-SPA,French and Spanish,https://www.qub.ac.uk/courses/undergraduate/french-spanish-ba-rr14
+10005343,GEO-BA-SH,Geography,https://www.qub.ac.uk/courses/undergraduate/geography-ba-l800/
+10005343,GEO-BSC-LN,Geography with a Language,https://www.qub.ac.uk/courses/undergraduate/geography-language-bsc-f8rx/#overview
+10005343,GEO-BSC-S,Geography,https://www.qub.ac.uk/courses/undergraduate/geography-bsc-f800/
+10005343,IBU-MM-FRH,International Business with French,https://www.qub.ac.uk/courses/undergraduate/international-business-major-french-bsc-n1r1/
+10005343,IBU-MM-GER,International Business with German,https://www.qub.ac.uk/courses/undergraduate/international-business-major-german-bsc-n2r2
+10005343,IBU-MM-MAN,International Business with Mandarin,https://www.qub.ac.uk/courses/undergraduate/international-business-major-mandarin-bsc-n1r9
+10005343,IBU-MM-POR,International Business with Portuguese,https://www.qub.ac.uk/courses/undergraduate/international-business-major-portuguese-bsc-n2r5/
+10005343,IBU-MM-SPA,International Business with Spanish,http://www.qub.ac.uk/courses/undergraduate/international-business-major-spanish-bsc-n1r4/
+10005343,INR-BA-S,International Relations,https://www.qub.ac.uk/courses/undergraduate/international-relations-conflict-studies-ba-l253/#overview
+10005343,INR-JS-IRS,International Relations and Irish,https://www.qub.ac.uk/courses/undergraduate/international-relations-irish-ba-lqf5/
+10005343,INR-JS-POL,International Relations and Politics,https://www.qub.ac.uk/courses/undergraduate/international-relations-politics-ba-l290/
+10005343,INR-JS-SPA,International Relations and Spanish,https://www.qub.ac.uk/courses/undergraduate/international-relations-spanish-ba-lrf4/
+10005343,IRC-BA-S,Irish,https://www.qub.ac.uk/courses/undergraduate/irish-ba-q504/
+10005343,IRC-JS-MHY,Irish and History,https://www.qub.ac.uk/courses/undergraduate/irish-history-ba-qv51
+10005343,IRC-JS-POL,Irish and Politics,https://www.qub.ac.uk/courses/undergraduate/irish-politics-ba-ql52
+10005343,IRC-JS-SPA,Irish and Spanish,https://www.qub.ac.uk/courses/undergraduate/irish-spanish-ba-qr54
+10005343,LAW-LLB-S,Law,https://www.qub.ac.uk/courses/undergraduate/law-llb-m100/#course
+10005343,LAW-LLB-SS,Law Senior Status,https://www.qub.ac.uk/courses/undergraduate/law-senior-status-llb-m101/#course
+10005343,LAW-MM-FRH,Law with French,https://www.qub.ac.uk/courses/undergraduate/law-major-french-llb-m2r1/#course
+10005343,LAW-MM-PLT,Law with Politics,https://www.qub.ac.uk/courses/undergraduate/law-major-politics-llb-m1l2/#course
+10005343,LAW-MM-SPA,Law with Spanish,https://www.qub.ac.uk/courses/undergraduate/law-major-spanish-llb-m2r4/#course
+10005343,MAP-BA-S,Music and Audio Production,https://www.qub.ac.uk/courses/undergraduate/music-audio-production-ba-w374/
+10005343,MCB-BSC-P,Microbiology with Professional Studies,https://www.qub.ac.uk/courses/undergraduate/microbiology-bsc-c504/
+10005343,MCB-BSC-S,Microbiology,https://www.qub.ac.uk/courses/undergraduate/microbiology-bsc-c500/
+10005343,MCB-MSCI-P,Microbiology with Professional Studies (Undergraduate Masters),https://www.qub.ac.uk/courses/undergraduate/microbiology-msci-c505/
+10005343,MCB-MSCI-S,Microbiology (Undergraduate Masters),https://www.qub.ac.uk/courses/undergraduate/microbiology-msci-c502/
+10005343,MDC-BSC-I,Medicinal Chemistry with a Year in Industry,https://www.qub.ac.uk/courses/undergraduate/medicinal-chemistry-year-industry-bsc-f154/#overview
+10005343,MDC-BSC-S,Medicinal Chemistry,https://www.qub.ac.uk/courses/undergraduate/medicinal-chemistry-bsc-f150/#course
+10005343,MDC-MCHE,Medicinal Chemistry,https://www.qub.ac.uk/courses/undergraduate/medicinal-chemistry-mchem-f15a/#course
+10005343,MDC-MCHE-I,Medicinal Chemistry with a Year in Industry,https://www.qub.ac.uk/courses/undergraduate/medicinal-chemistry-year-industry-mchem-f15c/#overview
+10005343,MEE-BE-S,Mechanical Engineering (with sandwich year),https://www.qub.ac.uk/courses/undergraduate/mechanical-engineering-sandwich-beng-h304/
+10005343,MEE-BENG,Mechanical Engineering,https://www.qub.ac.uk/courses/undergraduate/mechanical-engineering-beng-h300/
+10005343,MEE-ME-P,Mechanical Engineering (Undergraduate Masters with sandwich year),https://www.qub.ac.uk/courses/undergraduate/mechanical-engineering-sandwich-meng-h305/
+10005343,MEE-MENG,Mechanical Engineering (Undergraduate Masters),https://www.qub.ac.uk/courses/undergraduate/mechanical-engineering-meng-h303/
+10005343,MHY-BA-S,History,https://www.qub.ac.uk/courses/undergraduate/history-ba-v140/
+10005343,MHY-JS-INR,History and International Relations,https://www.qub.ac.uk/courses/undergraduate/history-international-relations-ba-lv21/
+10005343,MHY-JS-PHL,History and Philosophy,http://www.qub.ac.uk/courses/undergraduate/history-philosophy-ba-vv1m/
+10005343,MHY-JS-POL,History and Politics,http://www.qub.ac.uk/courses/undergraduate/history-politics-ba-vl12/
+10005343,MHY-JS-SOC,History and Sociology,http://www.qub.ac.uk/courses/undergraduate/history-sociology-ba-vl13/
+10005343,MHY-JS-SPA,History and Spanish,http://www.qub.ac.uk/courses/undergraduate/history-spanish-ba-rv41/
+10005343,MMTH-UM-SR,Mathematics and Statistics & Operational Research (Undergraduate Masters),https://www.qub.ac.uk/courses/undergraduate/mathematics-statistics-op-research-mmath-ggc3/
+10005343,MPF-BA-S,Music Performance,https://www.qub.ac.uk/courses/undergraduate/music-performance-ba-w310/
+10005343,MPHY-UM-AP,Physics with Astro-Physics (Undergraduate Masters),https://www.qub.ac.uk/courses/undergraduate/physics-astrophysics-mphys-f3fm/
+10005343,MPHY-UM-F,Physics with French (Undergraduate Masters),https://www.qub.ac.uk/courses/undergraduate/physics-french-mphys-f3rc/
+10005343,MPHY-UM-MD,Physics with Medical Applications (Undergraduate Masters),https://www.qub.ac.uk/courses/undergraduate/physics-medical-applications-mphys-f3bx/
+10005343,MPHY-UM-SP,Physics with Spanish (Undergraduate Masters),https://www.qub.ac.uk/courses/undergraduate/physics-spanish-mphys-f3rq/
+10005343,MRB-MSCI-P,Marine Biology with Professional Studies (Undergraduate Masters),https://www.qub.ac.uk/courses/undergraduate/marine-biology-msci-c165/
+10005343,MRB-MSCI-S,Marine Biology (Undergraduate Masters),https://www.qub.ac.uk/courses/undergraduate/marine-biology-msci-c162/
+10005343,MRN-BSC-P,Marine Biology with Professional Studies,https://www.qub.ac.uk/courses/undergraduate/marine-biology-bsc-c164/
+10005343,MRN-BSC-S,Marine Biology,https://www.qub.ac.uk/courses/undergraduate/marine-biology-bsc-c160/
+10005343,MTH-BSC-F,Mathematics with French,https://www.qub.ac.uk/courses/undergraduate/mathematics-french-bsc-g1r1/#overview
+10005343,MTH-BSC-FN,Mathematics with Finance,https://www.qub.ac.uk/courses/undergraduate/mathematics-finance-bsc-g1n3/
+10005343,MTH-BSC-S,Mathematics,https://www.qub.ac.uk/courses/undergraduate/mathematics-bsc-g100/
+10005343,MTH-BSC-SP,Mathematics with Spanish,https://www.qub.ac.uk/courses/undergraduate/mathematics-spanish-bsc-g1r4/#overview
+10005343,MTH-JS-CSC,Mathematics and Computer Science,https://www.qub.ac.uk/courses/undergraduate/mathematics-computer-science-bsc-gg41
+10005343,MTH-JS-SOR,Mathematics and Statistics & Operational Research,https://www.qub.ac.uk/courses/undergraduate/mathematics-statistics-op-research-bsc-gg13
+10005343,MTH-MMTH,Mathematics (Undergraduate Masters),https://www.qub.ac.uk/courses/undergraduate/mathematics-mmath-g103/
+10005343,MTH-UM-CSC,Mathematics and Computer Science (Undergraduate Masters),https://www.qub.ac.uk/courses/undergraduate/mathematics-computer-science-msci-ggk1
+10005343,MUS-BA-MSD,Music and Sound Design,https://www.qub.ac.uk/courses/undergraduate/music-sound-design-ba-w371/
+10005343,MUS-BM-S,Music,https://www.qub.ac.uk/courses/undergraduate/music-bmus-w302/
+10005343,MUS-BSC-AE,Audio Engineering,https://www.qub.ac.uk/courses/undergraduate/audio-engineering-bsc-j930/
+10005343,NAM-BSC-AU,Professional Nursing (Adult Nursing),https://www.qub.ac.uk/courses/undergraduate/professional-nursing-adult-nursing-bsc-b740/#course
+10005343,NAM-BSC-CY,Professional Nursing (Children and Young People),https://www.qub.ac.uk/courses/undergraduate/professional-nursing-children-young-people-bsc-b730/#course
+10005343,NAM-BSC-LE,Professional Nursing (Learning Disabilities Nursing),https://www.qub.ac.uk/courses/undergraduate/professional-nursing-learning-disabilities-nursing-bsc-b761/#course
+10005343,NAM-BSC-M,Midwifery,https://www.qub.ac.uk/courses/undergraduate/midwifery-bsc-b720/#course
+10005343,NAM-BSC-MN,Professional Nursing (Mental Health Nursing),https://www.qub.ac.uk/courses/undergraduate/professional-nursing-mental-health-nursing-bsc-b760/#overview
+10005343,PHL-BA-S,Philosophy,http://www.qub.ac.uk/courses/undergraduate/philosophy-ba-v500/
+10005343,PHL-JS-POL,Philosophy and Politics,http://www.qub.ac.uk/courses/undergraduate/philosophy-politics-ba-vlm2/
+10005343,PHY-BSC-S,Physics,https://www.qub.ac.uk/courses/undergraduate/physics-bsc-f300/
+10005343,PHY-MPHY,Physics (Undergraduate Masters),https://www.qub.ac.uk/courses/undergraduate/physics-mphys-f303/
+10005343,PHY-S-APH,Physics with Astro-Physics,https://www.qub.ac.uk/courses/undergraduate/physics-astrophysics-bsc-f3f5/
+10005343,PHY-S-F,Physics with French,https://www.qub.ac.uk/courses/undergraduate/physics-french-bsc-f3r1/#overview
+10005343,PHY-S-MED,Physics with Medical Applications,https://www.qub.ac.uk/courses/undergraduate/physics-medical-applications-bsc-f3b9/
+10005343,PHY-S-SP,Physics with Spanish,https://www.qub.ac.uk/courses/undergraduate/physics-spanish-bsc-f3r4/#overview
+10005343,PMY-BSC-BI,Pharmaceutical Biotechnology (Sandwich),https://www.qub.ac.uk/courses/undergraduate/pharmaceutical-biotechnology-sandwich-bsc-b213/
+10005343,PMY-BSC-PB,Pharmaceutical Biotechnology,https://www.qub.ac.uk/courses/undergraduate/pharmaceutical-biotechnology-bsc-b212/
+10005343,PMY-BSC-PS,Pharmaceutical Sciences (Sandwich),https://www.qub.ac.uk/courses/undergraduate/pharmaceutical-sciences-sandwich-bsc-b211/
+10005343,PMY-BSC-SC,Pharmaceutical Sciences,https://www.qub.ac.uk/courses/undergraduate/pharmaceutical-sciences-bsc-b210/
+10005343,PMY-MPHARM,Pharmacy,https://www.qub.ac.uk/courses/undergraduate/pharmacy-mpharm-b230/
+10005343,POL-BA-S,Politics,http://www.qub.ac.uk/courses/undergraduate/politics-ba-l200/
+10005343,POL-JS-SPA,Politics and Spanish,https://www.qub.ac.uk/courses/undergraduate/politics-spanish-ba-lr24/
+10005343,PPE-BA-S,"Politics, Philosophy and Economics",http://www.qub.ac.uk/courses/undergraduate/politics-philosophy-economics-ba-lv00
+10005343,PSY-BSC-S,Psychology,https://www.qub.ac.uk/courses/undergraduate/psychology-bsc-c800/
+10005343,SDT-BENG,Software Engineering with Digital Technology Partnership,https://www.qub.ac.uk/courses/undergraduate/software-engineering-digital-technology-partnership-beng-g606/
+10005343,SEA-ME-S,Structural Engineering with Architecture (with a Year in Industry),https://www.qub.ac.uk/courses/undergraduate/structural-engineering-architecture-meng-h2k1/#overview
+10005343,SEA-MENG,Structural Engineering with Architecture (Undergraduate Masters),https://www.qub.ac.uk/courses/undergraduate/structural-engineering-architecture-meng-h2k1/
+10005343,SEP-BENG,Software Engineering (with Placement),https://www.qub.ac.uk/courses/undergraduate/2024/software-engineering-placement-beng-g604/#overview
+10005343,SEP-MENG,Software Engineering (Undergraduate Masters with placement),https://www.qub.ac.uk/courses/undergraduate/software-engineering-placement-meng-g605/
+10005343,SOC-BA-S,Sociology,https://www.qub.ac.uk/courses/undergraduate/sociology-ba-l300/
+10005343,SOE-MENG,Software Engineering,https://www.qub.ac.uk/courses/undergraduate/2024/software-engineering-meng-g602/#overview
+10005343,SPA-BA-S,Spanish,https://www.qub.ac.uk/courses/undergraduate/spanish-ba-r410/
+10005343,SPS-BA-S,Spanish and Portuguese Studies,https://www.qub.ac.uk/courses/undergraduate/spanish-portuguese-ba-rr45/
+10005343,SPY-JS-SOC,Social Policy and Sociology,https://www.qub.ac.uk/courses/undergraduate/social-policy-sociology-ba-ll43
+10005343,SWK-BSW-S,Social Work,https://www.qub.ac.uk/courses/undergraduate/social-work-bsw-l500/
+10005343,SWK-S-G,Social Work (Relevant Graduate Entry),https://www.qub.ac.uk/courses/undergraduate/social-work-relevant-degree-entry-bsw-l501/
+10005343,TPH-BSC-S,Theoretical Physics,https://www.qub.ac.uk/courses/undergraduate/theoretical-physics-bsc-f340/
+10005343,TPH-MPHYS,Theoretical Physics (Undergraduate Masters),https://www.qub.ac.uk/courses/undergraduate/theoretical-physics-mphys-f344/
+10005343,ZOO-BSC-P,Zoology with Professional Studies,https://www.qub.ac.uk/courses/undergraduate/zoology-bsc-c301/
+10005343,ZOO-BSC-S,Zoology,https://www.qub.ac.uk/courses/undergraduate/zoology-bsc-c300/
+10005343,ZOO-MSCI-P,Zoology (Undergraduate Masters with Professional Studies),https://www.qub.ac.uk/courses/undergraduate/zoology-msci-c305/
+10005343,ZOO-MSCI-S,Zoology (Undergraduate Masters),https://www.qub.ac.uk/courses/undergraduate/zoology-msci-c302/
+10006840,K0001,Biochemistry,https://www.birmingham.ac.uk/undergraduate/courses/biosciences/biochemistry.aspx
+10006840,K0002,Medical Biochemistry,https://www.birmingham.ac.uk/undergraduate/courses/biosciences/medical-biochemistry.aspx
+10006840,K0003,Biological Sciences,https://www.birmingham.ac.uk/undergraduate/courses/biosciences/biological-sciences.aspx
+10006840,K0005,Biological Sciences with Study in Continental Europe,https://www.birmingham.ac.uk/undergraduate/courses/biosciences/biological-sciences-europe.aspx
+10006840,K0006,Artificial Intelligence and Computer Science,https://www.birmingham.ac.uk/undergraduate/courses/computer-science/artificial-intelligence-computer-science.aspx
+10006840,K0007,Geology,https://www.birmingham.ac.uk/undergraduate/courses/gees/geology.aspx
+10006840,K0011,Geography,https://www.birmingham.ac.uk/undergraduate/courses/gees/geography-bsc.aspx
+10006840,K0012,Theoretical Physics and Applied Mathematics,https://www.birmingham.ac.uk/undergraduate/courses/physics/theoretical-physics-applied-maths.aspx
+10006840,K0013,Psychology,https://www.birmingham.ac.uk/undergraduate/courses/psychology/psychology.aspx
+10006840,K0014,"Sport, Exercise and Health Sciences",https://www.birmingham.ac.uk/undergraduate/courses/sportex/sport-exercise-health-sciences-2.aspx
+10006840,K0015,Geology and Physical Geography,https://www.birmingham.ac.uk/undergraduate/courses/gees/geology-geography.aspx
+10006840,K0017,Theoretical Physics and Applied Mathematics,https://www.birmingham.ac.uk/undergraduate/courses/physics/theoretical-physics-applied-maths-msci.aspx
+10006840,K0020,Environmental Science,https://www.birmingham.ac.uk/undergraduate/courses/gees/environmental-science.aspx
+10006840,K0021,Mechanical Engineering,https://www.birmingham.ac.uk/undergraduate/courses/mechanical-engineering/mechanical-engineering-beng.aspx
+10006840,K0022,Mechanical Engineering,https://www.birmingham.ac.uk/undergraduate/courses/mechanical-engineering/mechanical-engineering-meng.aspx
+10006840,K0026,Civil Engineering,https://www.birmingham.ac.uk/undergraduate/courses/civil-engineering/civil-engineering-beng.aspx
+10006840,K0027,Civil Engineering,https://www.birmingham.ac.uk/undergraduate/courses/civil-engineering/civil-engineering-meng.aspx
+10006840,K0029,Electronic and Electrical Engineering,https://www.birmingham.ac.uk/undergraduate/courses/eese/electronic-electrical-engineering.aspx
+10006840,K0030,Electronic and Electrical Engineering,https://www.birmingham.ac.uk/undergraduate/courses/eese/electronic-electrical-engineering-meng.aspx
+10006840,K0032,Chemical Engineering,https://www.birmingham.ac.uk/undergraduate/courses/chemical-engineering/chemical-engineering-beng.aspx
+10006840,K0033,Chemical Engineering,https://www.birmingham.ac.uk/undergraduate/courses/chemical-engineering/chemical-engineering-meng.aspx
+10006840,K0036,Materials Science and Engineering,https://www.birmingham.ac.uk/undergraduate/courses/metallurgy-materials/materials-science-engineering-meng.aspx
+10006840,K0038,Materials Science and Engineering,https://www.birmingham.ac.uk/undergraduate/courses/metallurgy-materials/materials-science-engineering.aspx
+10006840,K0040,Classical Literature and Civilisation,https://www.birmingham.ac.uk/undergraduate/courses/caha/classical-lit-civ.aspx
+10006840,K0042,Ancient History,https://www.birmingham.ac.uk/undergraduate/courses/caha/ancient-history.aspx
+10006840,K0043,Archaeology and Ancient History,https://www.birmingham.ac.uk/undergraduate/courses/caha/arch-ancient-hist.aspx
+10006840,K0044,Ancient and Medieval History,https://www.birmingham.ac.uk/undergraduate/courses/history/history-ancient-medieval.aspx
+10006840,K0046,English Literature,https://www.birmingham.ac.uk/undergraduate/courses/english/english.aspx
+10006840,K0051,Geography,https://www.birmingham.ac.uk/undergraduate/courses/gees/geography-ba.aspx
+10006840,K0052,Philosophy,https://www.birmingham.ac.uk/undergraduate/courses/phil/philosophy.aspx
+10006840,K0053,Theology and Religion,https://www.birmingham.ac.uk/undergraduate/courses/thr/theology.aspx
+10006840,K0054,Music,https://www.birmingham.ac.uk/undergraduate/courses/music/music.aspx
+10006840,K0078,Archaeology and History,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/archaeology-and-ancient-history-and-history
+10006840,K0087,Classical Literature and Civilisation and Philosophy,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/classical-literature-and-civilisation-and-philosophy.aspx
+10006840,K0117,History and Theology,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/history-and-theology.aspx
+10006840,K0118,History and History of Art,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/history-and-history-of-art.aspx
+10006840,K0122,History and Philosophy,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/history-and-philosophy.aspx
+10006840,K0123,History and Politics,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/history-and-politics.aspx
+10006840,K0129,Mathematics and Music,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/mathematics-and-music.aspx
+10006840,K0130,Mathematics and Philosophy,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/mathematics-and-philosophy.aspx
+10006840,K0133,"Philosophy, Religion and Ethics",https://www.birmingham.ac.uk/undergraduate/courses/thr/philosophy-religion-ethics.aspx
+10006840,K0137,Medicine,https://www.birmingham.ac.uk/undergraduate/courses/med/medicine.aspx
+10006840,K0140,Dentistry,https://www.birmingham.ac.uk/undergraduate/courses/med/dental-surgery.aspx
+10006840,K0142,"Money, Banking and Finance",https://www.birmingham.ac.uk/undergraduate/courses/econ/money-banking-finance-bsc.aspx
+10006840,K0146,Politics,https://www.birmingham.ac.uk/undergraduate/courses/govsoc/politics.aspx
+10006840,K0147,Social Policy,https://www.birmingham.ac.uk/undergraduate/courses/social-policy/social-policy-ba.aspx
+10006840,K0148,Economics and Politics,https://www.birmingham.ac.uk/undergraduate/courses/econ/economics-and-political-science-bsc.aspx
+10006840,K0150,Geography and Urban and Regional Planning,https://www.birmingham.ac.uk/undergraduate/courses/gees/geography-planning.aspx
+10006840,K0151,Sociology and Social Policy,https://www.birmingham.ac.uk/undergraduate/courses/social-policy/social-policy-sociology.aspx
+10006840,K0154,Philosophy and Sociology,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/philosophy-and-sociology.aspx
+10006840,K0155,Politics and Philosophy,https://www.birmingham.ac.uk/undergraduate/courses/govsoc/politics-philosophy.aspx
+10006840,K0156,Law,https://www.birmingham.ac.uk/undergraduate/courses/law/law-llb.aspx
+10006840,K0157,Law with French Law,https://www.birmingham.ac.uk/undergraduate/courses/law/law-french.aspx
+10006840,K0158,Law with German Law,https://www.birmingham.ac.uk/undergraduate/courses/law/law-german.aspx
+10006840,K0159,Accounting and Finance,https://www.birmingham.ac.uk/undergraduate/courses/business/accounting-finance.aspx
+10006840,K0160,Economics,https://www.birmingham.ac.uk/undergraduate/courses/econ/economics-bsc.aspx
+10006840,K0161,Economics with German,https://www.birmingham.ac.uk/undergraduate/courses/econ/economics-german.aspx
+10006840,K0162,Economics with Spanish,https://www.birmingham.ac.uk/undergraduate/courses/econ/economics-spanish.aspx
+10006840,K0168,Chemistry with a Modern Language,https://www.birmingham.ac.uk/undergraduate/courses/chemistry/chemistry-language-bsc.aspx
+10006840,K0171,Chemistry with a Modern Language,https://www.birmingham.ac.uk/undergraduate/courses/chemistry/chemistry-language-msci.aspx
+10006840,K0173,Sociology,https://www.birmingham.ac.uk/undergraduate/courses/social-policy/sociology.aspx
+10006840,K0179,Physics,https://www.birmingham.ac.uk/undergraduate/courses/physics/physics-msci.aspx
+10006840,K0180,Physics and Astrophysics,https://www.birmingham.ac.uk/undergraduate/courses/physics/physics-astrophysics-msci.aspx
+10006840,K0181,Physics (International Study),https://www.birmingham.ac.uk/undergraduate/courses/physics/physics-international-msci.aspx
+10006840,K0182,Theoretical Physics,https://www.birmingham.ac.uk/undergraduate/courses/physics/theoretical-physics-msci.aspx
+10006840,K0183,Physics,https://www.birmingham.ac.uk/undergraduate/courses/physics/physics-bsc.aspx
+10006840,K0184,Physics and Astrophysics,https://www.birmingham.ac.uk/undergraduate/courses/physics/physics-astrophysics-bsc.aspx
+10006840,K0185,Physics (with International Study),https://www.birmingham.ac.uk/undergraduate/courses/physics/physics-international-bsc.aspx
+10006840,K0186,Theoretical Physics,https://www.birmingham.ac.uk/undergraduate/courses/physics/theoretical-physics-bsc.aspx
+10006840,K0187,Chemical Engineering (with International Study),https://www.birmingham.ac.uk/undergraduate/courses/chemical-engineering/chemical-engineering-international-meng.aspx
+10006840,K0188,Computer Science,https://www.birmingham.ac.uk/undergraduate/courses/computer-science/computer-science.aspx
+10006840,K0189,Mathematical Economics and Statistics,https://www.birmingham.ac.uk/undergraduate/courses/econ/maths-econ-stats-bsc.aspx
+10006840,K0190,Chemical Engineering with Industrial Study,https://www.birmingham.ac.uk/undergraduate/courses/chemical-engineering/chemical-engineering-industry-meng.aspx
+10006840,K0191,Civil Engineering (International Study),https://www.birmingham.ac.uk/undergraduate/courses/civil-engineering/civil-engineering-international-meng.aspx
+10006840,K0192,Civil Engineering with industrial experience,https://www.birmingham.ac.uk/undergraduate/courses/civil-engineering/civil-engineering-industry.aspx
+10006840,K0193,Physics with Particle Physics and Cosmology,https://www.birmingham.ac.uk/undergraduate/courses/physics/physics-particle-cosmology-msci.aspx
+10006840,K0194,Physics with Particle Physics and Cosmology,https://www.birmingham.ac.uk/undergraduate/courses/physics/physics-particle-cosmology-bsc.aspx
+10006840,K0196,Applied Golf Management Studies,https://www.birmingham.ac.uk/undergraduate/courses/sportex/app-golf-mgt-studies.aspx
+10006840,K0198,Geology with an International Year,https://www.birmingham.ac.uk/undergraduate/courses/gees/geology-international.aspx
+10006840,K0201,Computer Science and Software Engineering,https://www.birmingham.ac.uk/undergraduate/courses/computer-science/computer-science-software-engineering.aspx
+10006840,K0203,Biochemistry with Professional Placement,https://www.birmingham.ac.uk/undergraduate/courses/biosciences/biochemistry-placement.aspx
+10006840,K0204,Biological Sciences with Professional Placement,https://www.birmingham.ac.uk/undergraduate/courses/biosciences/biological-sciences-placement.aspx
+10006840,K0205,Biochemistry with Study in Continental Europe,https://www.birmingham.ac.uk/undergraduate/courses/biosciences/biochemistry-europe.aspx
+10006840,K0213,Modern Languages,https://www.birmingham.ac.uk/undergraduate/courses/lang/modern-languages.aspx
+10006840,K0221,Social Anthropology and Classical Literature and Civilisation,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/anthropology-and-classical-literature-and-civilisation.aspx
+10006840,K0222,Social Anthropology and African Studies,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/anthropology-and-african-studies.aspx
+10006840,K0224,Social Anthropology and History,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/anthropology-and-history.aspx
+10006840,K0226,Social Anthropology and Politics,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/anthropology-and-politics.aspx
+10006840,K0228,Mathematics and Computer Science,https://www.birmingham.ac.uk/undergraduate/courses/maths/maths-computer-science.aspx
+10006840,K0229,Mathematics and Computer Science,https://www.birmingham.ac.uk/undergraduate/courses/maths/maths-computer-science-msci.aspx
+10006840,K0230,Mathematics with Business Management,https://www.birmingham.ac.uk/undergraduate/courses/maths/mathematics-business.aspx
+10006840,K0231,Mathematics with Business Management,https://www.birmingham.ac.uk/undergraduate/courses/maths/mathematics-business-msci.aspx
+10006840,K0232,Environmental Science with Professional Placement Abroad,https://www.birmingham.ac.uk/undergraduate/courses/gees/environmental-science-placement.aspx
+10006840,K0233,International Relations,https://www.birmingham.ac.uk/undergraduate/courses/govsoc/international-relations.aspx
+10006840,K0235,Physics and Astrophysics (International Study),https://www.birmingham.ac.uk/undergraduate/courses/physics/physics-astrophysics-international-bsc.aspx
+10006840,K0249,History of Art,https://www.birmingham.ac.uk/undergraduate/courses/histart/history-art.aspx
+10006840,K0257,Chemistry with Study Abroad,https://www.birmingham.ac.uk/undergraduate/courses/chemistry/chemistry-study-abroad-msci.aspx
+10006840,K0258,Chemistry with Business Management,https://www.birmingham.ac.uk/undergraduate/courses/chemistry/chemistry-business-bsc.aspx
+10006840,K0259,Chemistry with Business Management,https://www.birmingham.ac.uk/undergraduate/courses/chemistry/chemistry-business-msci.aspx
+10006840,K0260,Social Work,https://www.birmingham.ac.uk/undergraduate/courses/social-policy/social-work.aspx
+10006840,K0262,Education,https://www.birmingham.ac.uk/undergraduate/courses/edu/ba-education.aspx
+10006840,K0270,Law with Business Studies,https://www.birmingham.ac.uk/undergraduate/courses/law/law-business.aspx
+10006840,K0272,Business Management,https://www.birmingham.ac.uk/undergraduate/courses/business/business-management.aspx
+10006840,K0273,Business Management with Communications,https://www.birmingham.ac.uk/undergraduate/courses/business/business-mgmt-comms.aspx
+10006840,K0275,International Business with Communications,https://www.birmingham.ac.uk/undergraduate/courses/business/international-business-comms.aspx
+10006840,K0276,Business Management (with Year in Industry),https://www.birmingham.ac.uk/undergraduate/courses/business/bus-mgnt-year-in-industry.aspx
+10006840,K0277,International Business with Language,https://www.birmingham.ac.uk/undergraduate/courses/business/international-business-lang.aspx
+10006840,K0278,International Business,https://www.birmingham.ac.uk/undergraduate/courses/business/international-business.aspx
+10006840,K0279,Materials Science and Engineering with Industrial Experience,https://www.birmingham.ac.uk/undergraduate/courses/metallurgy-materials/materials-engineering-industrial-meng.aspx
+10006840,K0282,Modern Languages with Business Management,https://www.birmingham.ac.uk/undergraduate/courses/lang/mod-lang-business.aspx
+10006840,K0283,English Literature and Creative Writing,https://www.birmingham.ac.uk/undergraduate/courses/english/english-creative.aspx
+10006840,K0287,History,https://www.birmingham.ac.uk/undergraduate/courses/history/history.aspx
+10006840,K0288,Mathematics,https://www.birmingham.ac.uk/undergraduate/courses/maths/mathematics-MSci.aspx
+10006840,K0289,Mathematics,https://www.birmingham.ac.uk/undergraduate/courses/maths/mathematics.aspx
+10006840,K0290,Mathematics with Study in Continental Europe,https://www.birmingham.ac.uk/undergraduate/courses/maths/mathematics-europe.aspx
+10006840,K0291,Chemistry,https://www.birmingham.ac.uk/undergraduate/courses/chemistry/chemistry-bsc.aspx
+10006840,K0292,Chemistry,https://www.birmingham.ac.uk/undergraduate/courses/chemistry/chemistry-msci.aspx
+10006840,K0295,Chemistry with Industrial Experience,https://www.birmingham.ac.uk/undergraduate/courses/chemistry/chemistry-industrial.aspx
+10006840,K0296,Biochemistry,https://www.birmingham.ac.uk/undergraduate/courses/biosciences/biochemistry-msci.aspx
+10006840,K0298,Biological Sciences,https://www.birmingham.ac.uk/undergraduate/courses/biosciences/biological-sciences-msci.aspx
+10006840,K0313,Social Anthropology and Archaeology,https://www.birmingham.ac.uk/undergraduate/courses/caha/arch-anthropology.aspx
+10006840,K0316,English Literature and History of Art,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/english-and-history-of-art.aspx
+10006840,K0318,English Literature and Classical Literature and Civilisation,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/english-and-classical-literature-and-civilisation.aspx
+10006840,K0325,English Literature and History,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/english-literature-and-history.aspx
+10006840,K0331,English Literature and Philosophy,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/english-literature-and-philosophy.aspx
+10006840,K0336,Mechanical Engineering (Automotive),https://www.birmingham.ac.uk/undergraduate/courses/mechanical-engineering/mechanical-engineering-automotive-beng.aspx
+10006840,K0337,Mechanical Engineering (Automotive),https://www.birmingham.ac.uk/undergraduate/courses/mechanical-engineering/mechanical-engineering-automotive-meng.aspx
+10006840,K0341,"Sport, Physical Education and Coaching Science",https://www.birmingham.ac.uk/undergraduate/courses/sportex/sport-pe-coaching-bp.aspx
+10006840,K0344,Drama and English Literature,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/drama-and-english.aspx
+10006840,K0351,English Language and Linguistics,https://www.birmingham.ac.uk/undergraduate/courses/english/english-lang.aspx
+10006840,K0352,Geography with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/gees/geography-bsc-abroad.aspx
+10006840,K0353,Geography with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/gees/geography-ba-abroad.aspx
+10006840,K0355,Psychology and Psychological Practice,https://www.birmingham.ac.uk/undergraduate/courses/psychology/psychology-practice.aspx
+10006840,K0357,International Relations with Economics,https://www.birmingham.ac.uk/undergraduate/courses/govsoc/international-relations-economics.aspx
+10006840,K0358,Politics and International Relations,https://www.birmingham.ac.uk/undergraduate/courses/govsoc/politics-international-relations.aspx
+10006840,K0359,International Relations with French,https://www.birmingham.ac.uk/undergraduate/courses/govsoc/international-relations-french.aspx
+10006840,K0360,International Relations with German,https://www.birmingham.ac.uk/undergraduate/courses/govsoc/international-relations-german.aspx
+10006840,K0361,International Relations with Spanish,https://www.birmingham.ac.uk/undergraduate/courses/govsoc/international-relations-spanish.aspx
+10006840,K0364,Chemical Engineering with Industrial Study,https://www.birmingham.ac.uk/undergraduate/courses/chemical-engineering/chemical-engineering-industry-beng.aspx
+10006840,K0367,Chemical Engineering (with International and Industrial Study),https://www.birmingham.ac.uk/undergraduate/courses/chemical-engineering/chemical-engineering-industrial-international-meng.aspx
+10006840,K0368,Mathematics and Computer Science with an Industrial Year,https://www.birmingham.ac.uk/undergraduate/courses/maths/maths-computer-science-industrial.aspx
+10006840,K0369,Mathematics and Computer Science with Industrial Year,https://www.birmingham.ac.uk/undergraduate/courses/maths/maths-computer-science-industrial-msci.aspx
+10006840,K0372,Computer Science with an Industrial Year,https://www.birmingham.ac.uk/undergraduate/courses/computer-science/computer-science-industry.aspx
+10006840,K0373,Artificial Intelligence/Computer Science with an Industrial Year,https://www.birmingham.ac.uk/undergraduate/courses/computer-science/artificial-intelligence-computer-science-industry.aspx
+10006840,K0375,Electronic and Electrical Engineering with Industrial Year,https://www.birmingham.ac.uk/undergraduate/courses/eese/electronic-electrical-engineering-industry-beng.aspx
+10006840,K0382,Electronic and Electrical Engineering with Industrial Year,https://www.birmingham.ac.uk/undergraduate/courses/eese/electronic-electrical-engineering-industry-meng.aspx
+10006840,K0386,Mechanical Engineering with Industrial Year,https://www.birmingham.ac.uk/undergraduate/courses/mechanical-engineering/mechanical-engineering-industrial-meng.aspx
+10006840,K0404,Computer Science and Software Engineering with an Ind Yr,https://www.birmingham.ac.uk/undergraduate/courses/computer-science/computer-science-software-engineering-industry.aspx
+10006840,K0406,Biomedical Science,https://www.birmingham.ac.uk/undergraduate/courses/med/biomedical-science.aspx
+10006840,K0410,Politics and Social Policy,https://www.birmingham.ac.uk/undergraduate/courses/govsoc/politics-social-policy.aspx
+10006840,K0411,Politics and Sociology,https://www.birmingham.ac.uk/undergraduate/courses/govsoc/politics-sociology.aspx
+10006840,K0412,Geography,https://www.birmingham.ac.uk/undergraduate/courses/gees/geography-msci.aspx
+10006840,K0413,Geography with an International Year,https://www.birmingham.ac.uk/undergraduate/courses/gees/geography-msci-international.aspx
+10006840,K0416,Pharmacy,https://www.birmingham.ac.uk/undergraduate/courses/med/pharmacy-4-year.aspx
+10006840,K0418,"Policy, Politics and Economics",https://www.birmingham.ac.uk/undergraduate/courses/social-policy/policy-politics-economics.aspx
+10006840,K0419,English Language and Literature,https://www.birmingham.ac.uk/undergraduate/courses/english/english-language-and-literature.aspx
+10006840,K0420,Computer Science,https://www.birmingham.ac.uk/undergraduate/courses/computer-science/computer-science-msci.aspx
+10006840,K0421,Computer Science with an Industrial Year,https://www.birmingham.ac.uk/undergraduate/courses/computer-science/computer-science-industry-msci.aspx
+10006840,K0422,Computer Science with Study Abroad,https://www.birmingham.ac.uk/undergraduate/courses/computer-science/computer-science-international-msci.aspx
+10006840,K0424,Education and Sociology,https://www.birmingham.ac.uk/undergraduate/courses/edu/education-sociology.aspx
+10006840,K0435,Computer Science with Study Abroad,https://www.birmingham.ac.uk/undergraduate/courses/computer-science/computer-science-international-bsc.aspx
+10006840,K0439,Politics and Philosophy with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/govsoc/politics-philosophy-year-abroad.aspx
+10006840,K0440,Politics and Social Policy with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/govsoc/politics-social-policy-year-abroad.aspx
+10006840,K0441,Politics and Sociology with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/govsoc/politics-sociology-year-abroad.aspx
+10006840,K0442,Politics with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/govsoc/politics-year-abroad.aspx
+10006840,K0444,Social Policy with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/social-policy/social-policy-year-abroad-ba.aspx
+10006840,K0467,International Relations with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/govsoc/international-relations-year-abroad.aspx
+10006840,K0469,International Relations with Economics with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/govsoc/international-relations-economics-year-abroad.aspx
+10006840,K0470,Politics and International Relations with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/govsoc/politics-international-relations-year-abroad.aspx
+10006840,K0471,Law with Criminology,https://www.birmingham.ac.uk/undergraduate/courses/law/law-criminology.aspx
+10006840,K0485,Politics Religion and Philosophy,https://www.birmingham.ac.uk/undergraduate/courses/thr/politics-religion-philosophy.aspx
+10006840,K0486,Modern Languages and English Literature,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/modern-languages-and-english-lit.aspx
+10006840,K0487,Modern Languages and History of Art,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/modern-languages-and-history-of-art.aspx
+10006840,K0488,Geology,https://www.birmingham.ac.uk/undergraduate/courses/gees/geology-msci.aspx
+10006840,K0491,Geology and Physical Geography,https://www.birmingham.ac.uk/undergraduate/courses/gees/geology-physical-geography-msci.aspx
+10006840,K0494,Social Policy and Criminology,https://www.birmingham.ac.uk/undergraduate/courses/social-policy/social-policy-and-criminology.aspx
+10006840,K0496,Classics,https://www.birmingham.ac.uk/undergraduate/courses/caha/classics.aspx
+10006840,K0497,International Law and Globalisation,https://www.birmingham.ac.uk/undergraduate/courses/law/international-law-globalisation.aspx
+10006840,K0498,Biochemistry with International Year,https://www.birmingham.ac.uk/undergraduate/courses/biosciences/biochemistry-international-year.aspx
+10006840,K0499,Biological Sciences with International Year,https://www.birmingham.ac.uk/undergraduate/courses/biosciences/biological-sciences-international-year.aspx
+10006840,K0501,Human Neuroscience,https://www.birmingham.ac.uk/undergraduate/courses/psychology/human-neuroscience-bsc.aspx
+10006840,K0502,Modern Languages and Music,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/modern-languages-and-music.aspx
+10006840,K0503,Business Management with Marketing,https://www.birmingham.ac.uk/undergraduate/courses/business/business-management-with-marketing.aspx
+10006840,K0504,Environmental Science,https://www.birmingham.ac.uk/undergraduate/courses/gees/environmental-science-msci.aspx
+10006840,K0505,Environmental Science with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/gees/environmental-science-abroad.aspx
+10006840,K0506,"Policy, Politics and Economics with Year Abroad",https://www.birmingham.ac.uk/undergraduate/courses/social-policy/policy-politics-economics-year-abroad.aspx
+10006840,K0507,Geology and Physical Geography with an International Year,https://www.birmingham.ac.uk/undergraduate/courses/gees/geology-physical-geography-msci-international.aspx
+10006840,K0511,Mathematics with a Year in Industry,https://www.birmingham.ac.uk/undergraduate/courses/maths/mathematics-industry.aspx
+10006840,K0512,Mathematics with International Year,https://www.birmingham.ac.uk/undergraduate/courses/maths/mathematics-international.aspx
+10006840,K0514,English Literature and Film,https://www.birmingham.ac.uk/undergraduate/courses/english/english-film.aspx
+10006840,K0515,Mechatronic and Robotic Engineering,https://www.birmingham.ac.uk/undergraduate/courses/eese/mechatronic-robotic-engineering-beng.aspx
+10006840,K0516,Mechatronic and Robotic Engineering,https://www.birmingham.ac.uk/undergraduate/courses/eese/mechatronic-robotic-engineering-meng.aspx
+10006840,K0518,Aerospace Engineering,https://www.birmingham.ac.uk/undergraduate/courses/metallurgy-materials/aerospace-engineering-beng.aspx
+10006840,K0519,Aerospace Engineering,https://www.birmingham.ac.uk/undergraduate/courses/metallurgy-materials/aerospace-engineering-meng.aspx
+10006840,K0520,Sociology and Criminology,https://www.birmingham.ac.uk/undergraduate/courses/social-policy/sociology-and-criminology.aspx
+10006840,K0522,Palaeontology and Geology,https://www.birmingham.ac.uk/undergraduate/courses/gees/palaeobiology-palaeoenvironments-bsc.aspx
+10006840,K0523,Palaeontology and Geology,https://www.birmingham.ac.uk/undergraduate/courses/gees/palaeobiology-palaeoenvironments-msci.aspx
+10006840,K0524,Palaeontology and Geology with an International Year,https://www.birmingham.ac.uk/undergraduate/courses/gees/palaeobiology-palaeoenvironments-msci-international.aspx
+10006840,K0525,Business Management with Communications and Year in Industry,https://www.birmingham.ac.uk/undergraduate/courses/business/business-mgmt-comms-yini.aspx
+10006840,K0526,Business Management with Marketing and Year in Industry,https://www.birmingham.ac.uk/undergraduate/courses/business/business-mgmt-marketing-yini.aspx
+10006840,K0527,Criminology,https://www.birmingham.ac.uk/undergraduate/courses/social-policy/criminology.aspx
+10006840,K0528,Criminology with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/social-policy/criminology-year-abroad.aspx
+10006840,K0529,Mechanical Engineering with Industrial Year,https://www.birmingham.ac.uk/undergraduate/courses/mechanical-engineering/mechanical-engineering-industrial-beng.aspx
+10006840,K0530,International Development and Politics,https://www.birmingham.ac.uk/undergraduate/courses/govsoc/international-development-and-politics.aspx
+10006840,K0531,Psychology in Education,https://www.birmingham.ac.uk/undergraduate/courses/edu/psychology-education.aspx
+10006840,K0532,International Relations and Development,https://www.birmingham.ac.uk/undergraduate/courses/govsoc/international-relations-and-development.aspx
+10006840,K0533,Modern Languages and History,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/modern-languages-and-history.aspx
+10006840,K0534,Sociology with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/social-policy/sociology-year-abroad-ba.aspx
+10006840,K0535,Social Policy and Sociology with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/social-policy/social-policy-sociology-year-abroad-ba.aspx
+10006840,K0536,Sociology and Criminology with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/social-policy/sociology-and-criminology-year-abroad-ba.aspx
+10006840,K0537,Social Policy and Criminology with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/social-policy/social-policy-and-criminology-year-abroad-ba.aspx
+10006840,K0538,International Development and Politics with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/govsoc/international-development-and-politics-year-abroad.aspx
+10006840,K0539,International Relations and Development with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/govsoc/international-relations-and-development-year-abroad.aspx
+10006840,K0541,Nursing (Adult),https://www.birmingham.ac.uk/undergraduate/courses/med/bnurs-adult.aspx
+10006840,K0542,Nursing (Child),https://www.birmingham.ac.uk/undergraduate/courses/med/bnurs-child.aspx
+10006840,K0543,Nursing (Mental Health),https://www.birmingham.ac.uk/undergraduate/courses/med/bnurs-mental-health.aspx
+10006840,K0549,Engineering,https://www.birmingham.ac.uk/undergraduate/courses/engineering/engineering-beng
+10006840,K0550,Engineering,https://www.birmingham.ac.uk/undergraduate/courses/engineering/engineering-meng.aspx
+10006840,K0552,Psychology with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/psychology/psychology-with-year-abroad.aspx
+10006840,K0553,Chemistry with Foundation Year,https://www.birmingham.ac.uk/undergraduate/courses/fd/chemistry-foundation.aspx
+10006840,K0554,Civil Engineering with Industrial Year,https://www.birmingham.ac.uk/undergraduate/courses/civil-engineering/civil-engineering-industrial-meng.aspx
+10006840,K0555,Mechanical Engineering with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/mechanical-engineering/mechanical-engineering-international-meng.aspx
+10006840,K0556,Chemical Engineering with Foundation Year,https://www.birmingham.ac.uk/undergraduate/courses/fd/chemical-engineering-foundation.aspx
+10006840,K0557,Mechatronic and Robotic Engineering with Industrial Year,https://www.birmingham.ac.uk/undergraduate/courses/eese/mechatronic-robotic-engineering-industry-beng.aspx
+10006840,K0558,Mechatronic and Robotic Engineering with Industrial Year,https://www.birmingham.ac.uk/undergraduate/courses/eese/mechatronic-robotic-engineering-industry-meng.aspx
+10006840,K0559,Biomedical Science,https://www.birmingham.ac.uk/undergraduate/courses/med/biomedical-science-msci.aspx
+10006840,K0560,Environmental Change and Sustainability,https://www.birmingham.ac.uk/undergraduate/courses/gees/environmental-change-and-sustainability-bsc.aspx
+10006840,K0561,Environmental Change and Sustainability with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/gees/environmental-change-and-sustainability-bsc-abroad.aspx
+10006840,K0562,Environmental Change and Sustainability,https://www.birmingham.ac.uk/undergraduate/courses/gees/environmental-change-and-sustainability-msci.aspx
+10006840,K0563,Human Sciences,https://www.birmingham.ac.uk/undergraduate/courses/biosciences/human-sciences.aspx
+10006840,K0564,Human Sciences,https://www.birmingham.ac.uk/undergraduate/courses/biosciences/human-sciences-msci.aspx
+10006840,K0565,Chemistry with Medicinal Chemistry and Drug Discovery,https://www.birmingham.ac.uk/undergraduate/courses/chemistry/chemistry-medicinal-drug-bsc.aspx
+10006840,K0566,Chemistry with Medicinal Chemistry and Drug Discovery,https://www.birmingham.ac.uk/undergraduate/courses/chemistry/chemistry-medicinal-drug-msci.aspx
+10006840,K0567,Physics with Data Science,https://www.birmingham.ac.uk/undergraduate/courses/physics/physics-data-science-bsc.aspx
+10006840,K0568,Physics with Data Science,https://www.birmingham.ac.uk/undergraduate/courses/physics/physics-data-science-msci.aspx
+10006840,K0569,Social Anthropology,https://www.birmingham.ac.uk/undergraduate/courses/dasa/social-anthropology.aspx
+10006840,K0570,Physiotherapy,https://www.birmingham.ac.uk/undergraduate/courses/sportex/physiotherapy.aspx
+10006840,K0571,Environmental and Engineering Geoscience,https://www.birmingham.ac.uk/undergraduate/courses/gees/environmental-and-engineering-geoscience-bsc.aspx
+10006840,K0572,Film and Creative Writing,https://www.birmingham.ac.uk/undergraduate/courses/english/film-and-creative-writing.aspx
+10006840,K0573,Psychology and Religion,https://www.birmingham.ac.uk/undergraduate/courses/thr/psychology-religion.aspx
+10006840,K0600,Chemistry with Sustainability,https://www.birmingham.ac.uk/undergraduate/courses/chemistry/chemistry-sustainability-bsc.aspx
+10006840,K0601,Chemistry with Sustainability,https://www.birmingham.ac.uk/undergraduate/courses/chemistry/chemistry-sustainability-msci.aspx
+10006840,K0605,Geography and Urban & Regional Planning with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/gees/geography-planning-abroad.aspx
+10006840,K0607,English Language and Philosophy,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/english-language-and-philosophy.aspx
+10006840,K0608,Modern Languages and Linguistics,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/modern-languages-and-english-lang.aspx
+10006840,K0610,Drama and Film,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/drama-and-film.aspx
+10006840,K0612,French with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/lang/french.aspx
+10006840,K0615,Spanish with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/lang/spanish.aspx
+10006840,K0617,Modern Languages with Translation,https://www.birmingham.ac.uk/undergraduate/courses/lang/modern-languages-translation.aspx
+10006840,K0618,Drama and Creative Writing,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/drama-and-creative-writing.aspx
+10006840,K0619,Physics with Medical Physics,https://www.birmingham.ac.uk/undergraduate/courses/physics/physics-medical-bsc
+10006840,K0622,Physics with Medical Physics,https://www.birmingham.ac.uk/undergraduate/courses/physics/physics-medical-msci.aspx
+10006840,K0623,Chemistry with a Year in Industry,https://www.birmingham.ac.uk/undergraduate/courses/chemistry/chemistry-industrial-bsc.aspx
+10006840,K0627,Liberal Arts,https://www.birmingham.ac.uk/undergraduate/courses/liberal-arts/liberal-arts
+10006840,K0628,French and German,https://www.birmingham.ac.uk/undergraduate/courses/lang/french-and-german
+10006840,K0629,French and Italian,https://www.birmingham.ac.uk/undergraduate/courses/lang/french-and-italian
+10006840,K0630,French and Russian,https://www.birmingham.ac.uk/undergraduate/courses/lang/french-and-russian
+10006840,K0631,French and Portuguese,https://www.birmingham.ac.uk/undergraduate/courses/lang/french-and-portuguese
+10006840,K0632,French and Spanish,https://www.birmingham.ac.uk/undergraduate/courses/lang/french-and-spanish
+10006840,K0633,German and Italian,https://www.birmingham.ac.uk/undergraduate/courses/lang/german-and-italian
+10006840,K0634,German and Russian,https://www.birmingham.ac.uk/undergraduate/courses/lang/german-and-russian
+10006840,K0635,German and Spanish,https://www.birmingham.ac.uk/undergraduate/courses/lang/german-and-spanish
+10006840,K0636,Italian and Portuguese,https://www.birmingham.ac.uk/undergraduate/courses/lang/italian-and-portuguese
+10006840,K0637,Italian and Spanish,https://www.birmingham.ac.uk/undergraduate/courses/lang/italian-and-spanish
+10006840,K0638,Russian and Portuguese,https://www.birmingham.ac.uk/undergraduate/courses/lang/russian-and-portuguese
+10006840,K0639,Russian and Spanish,https://www.birmingham.ac.uk/undergraduate/courses/lang/russian-and-spanish
+10006840,K0640,Spanish and Portuguese,https://www.birmingham.ac.uk/undergraduate/courses/lang/spanish-and-portuguese
+10006840,K0641,Arts and Sciences,https://www.birmingham.ac.uk/undergraduate/courses/liberal-arts/arts-and-sciences
+10006840,K0642,Midwifery,https://www.birmingham.ac.uk/undergraduate/courses/med/bsc-midwifery
+10006840,K0643,Computer Engineering,https://www.birmingham.ac.uk/undergraduate/courses/eese/computer-engineering-bsc
+10006840,K0648,Natural Sciences,https://www.birmingham.ac.uk/undergraduate/courses/gees/nat-sci
+10006840,K0649,Natural Sciences,https://www.birmingham.ac.uk/undergraduate/courses/gees/nat-sci-msci
+10006840,K0650,Biotechnology,https://www.birmingham.ac.uk/undergraduate/courses/biosciences/biotechnology
+10006840,K0651,Biotechnology with International Year,https://www.birmingham.ac.uk/undergraduate/courses/biosciences/biotechnology-international-year
+10006840,K0652,Biotechnology,https://www.birmingham.ac.uk/undergraduate/courses/biosciences/biotechnology-msci
+10006840,K0653,Biotechnology with Professional Placement,https://www.birmingham.ac.uk/undergraduate/courses/biosciences/biotechnology-placement
+10006842,BA_ACCFIN,Accounting and Finance with a Year in Industry,https://www.liverpool.ac.uk/courses/2025/accounting-and-finance-with-a-year-in-industry-ba-hons
+10006842,BA_ACDS,Architecture (Design Studies),https://www.liverpool.ac.uk/courses/2025/architecture-design-studies-ba-hons
+10006842,BA_ACFN,Accounting and Finance,https://www.liverpool.ac.uk/courses/2025/accounting-and-finance-ba-hons
+10006842,BA_ALGY,Archaeology,https://www.liverpool.ac.uk/courses/2025/archaeology-ba-hons
+10006842,BA_ANHI,Ancient History,https://www.liverpool.ac.uk/courses/2025/ancient-history-ba-hons
+10006842,BA_ARAC,Archaeology of Ancient Civilisations,https://www.liverpool.ac.uk/courses/2025/archaeology-of-ancient-civilisations-ba-hons
+10006842,BA_ARCH,Architecture,https://www.liverpool.ac.uk/courses/2025/architecture-ba-hons
+10006842,BA_BEC,Business Economics,https://www.liverpool.ac.uk/courses/2025/business-economics-ba-hons
+10006842,BA_BS,Business Management,https://www.liverpool.ac.uk/courses/2025/business-management-ba-hons
+10006842,BA_BSIN,Business Management with a Year in Industry,https://www.liverpool.ac.uk/courses/2025/business-management-with-a-year-in-industry-ba-hons
+10006842,BA_BUSECO,Business Economics with a Year in Industry,https://www.liverpool.ac.uk/courses/2025/business-economics-with-a-year-in-industry-ba-hons
+10006842,BA_C,Criminology,https://www.liverpool.ac.uk/courses/2025/criminology-ba-hons
+10006842,BA_CL,Classics,https://www.liverpool.ac.uk/courses/2025/classics-ba-hons
+10006842,BA_CLS,Classical Studies,https://www.liverpool.ac.uk/courses/2025/classical-studies-ba-hons
+10006842,BA_CMGDST,Communication and Media and Game Design Studies,https://www.liverpool.ac.uk/courses/2025/communication-and-media-with-game-design-studies-ba-hons-2
+10006842,BA_CMPMU,"Communication, Media and Popular Music",https://www.liverpool.ac.uk/courses/2025/communication-media-and-popular-music-ba-hons-2
+10006842,BA_COMM,Communication and Media,https://www.liverpool.ac.uk/courses/2025/communication-and-media-ba-hons
+10006842,BA_COMMY,Communication and Media with a Year in Industry,https://www.liverpool.ac.uk/courses/2025/communication-and-media-with-a-year-in-industry-ba-hons
+10006842,BA_CSO,Criminology with Sociology,https://www.liverpool.ac.uk/courses/2025/criminology-with-sociology-ba-hons#course-overview
+10006842,BA_CSOP,Criminology with Social Policy,https://www.liverpool.ac.uk/courses/2025/criminology-with-social-policy-ba-hons
+10006842,BA_EGY,Egyptology,https://www.liverpool.ac.uk/courses/2025/egyptology-ba-hons
+10006842,BA_ELDS,English Literature with Drama Studies,https://www.liverpool.ac.uk/courses/2025/english-literature-with-drama-studies-ba-hons#course-overview
+10006842,BA_ENG,English,https://www.liverpool.ac.uk/courses/2025/english-ba-hons
+10006842,BA_ENGLANG,English Language,https://www.liverpool.ac.uk/courses/2025/english-language-ba-hons
+10006842,BA_ENGLIT,English Literature,https://www.liverpool.ac.uk/courses/2025/english-literature-ba-hons
+10006842,BA_EVP,Environment and Planning,https://www.liverpool.ac.uk/courses/2025/environment-and-planning-ba-hons
+10006842,BA_EngWL,English with World Literature,https://www.liverpool.ac.uk/courses/2025/english-with-world-literature-ba-hons#course-overview
+10006842,BA_FR,French,https://www.liverpool.ac.uk/courses/2025/french-ba-hons
+10006842,BA_FS,Film Studies,https://www.liverpool.ac.uk/courses/2025/film-studies-ba-hons
+10006842,BA_GG,Geography,https://www.liverpool.ac.uk/courses/2025/geography-ba-hons
+10006842,BA_GP,Geography and Planning,https://www.liverpool.ac.uk/courses/2025/geography-and-planning-ba-hons
+10006842,BA_GR,German,https://www.liverpool.ac.uk/courses/2025/german-ba-hons
+10006842,BA_HI,History,https://www.liverpool.ac.uk/courses/2025/history-ba-hons
+10006842,BA_HS,Hispanic Studies,https://www.liverpool.ac.uk/courses/2025/hispanic-studies-ba-hons
+10006842,BA_IB,International Business,https://www.liverpool.ac.uk/courses/2025/international-business-ba-hons
+10006842,BA_INTEBUS,International Business with a Year in Industry,https://www.liverpool.ac.uk/courses/2025/international-business-with-a-year-in-industry-ba-hons
+10006842,BA_IPP,International Relations,https://www.liverpool.ac.uk/courses/2025/international-relations-ba-hons
+10006842,BA_IS,Irish Studies,https://www.liverpool.ac.uk/courses/2025/irish-studies-ba-hons
+10006842,BA_ITAL,Italian,https://www.liverpool.ac.uk/courses/2025/italian-ba-hons
+10006842,BA_MAC,Media and Culture,https://www.liverpool.ac.uk/courses/2025/media-and-culture-ba-hons#course-overview
+10006842,BA_MARK,Marketing with a Year in Industry,https://www.liverpool.ac.uk/courses/2025/marketing-with-a-year-in-industry-ba-hons
+10006842,BA_MDS,"Media, Data and Society",https://www.liverpool.ac.uk/courses/2025/media-data-and-society-ba-hons#course-overview
+10006842,BA_MEL,Modern Languages (Triple Subject),https://www.liverpool.ac.uk/courses/2025/modern-languages-triple-subject-ba-hons
+10006842,BA_MKT,Marketing,https://www.liverpool.ac.uk/courses/2025/marketing-ba-hons
+10006842,BA_MPL,Mathematics and Philosophy,https://www.liverpool.ac.uk/courses/2025/mathematics-and-philosophy-ba-hons
+10006842,BA_MT,Music and Technology,https://www.liverpool.ac.uk/courses/2025/music-and-technology-ba-hons
+10006842,BA_MUPM,Music and Popular Music,https://www.liverpool.ac.uk/courses/2025/music-and-popular-music-ba-hons
+10006842,BA_MUSIC,Music,https://www.liverpool.ac.uk/courses/2025/music-ba-hons
+10006842,BA_PCS,"Communication, Media and Politics",https://www.liverpool.ac.uk/courses/2025/communication-media-and-politics-ba-hons
+10006842,BA_PL,Philosophy,https://www.liverpool.ac.uk/courses/2025/philosophy-ba-hons
+10006842,BA_PM,Popular Music,https://www.liverpool.ac.uk/courses/2025/popular-music-ba-hons
+10006842,BA_POLI,Politics,https://www.liverpool.ac.uk/courses/2025/politics-ba-hons
+10006842,BA_PPE,"Philosophy, Politics and Economics",https://www.liverpool.ac.uk/courses/2025/philosophy-politics-and-economics-ba-hons
+10006842,BA_PPE1,"Philosophy, Politics and Economics with a Year in Industry",https://www.liverpool.ac.uk/courses/2025/philosophy-politics-and-economics-with-a-year-in-industry-ba-hons
+10006842,BA_PPL,Philosophy and Politics,https://www.liverpool.ac.uk/courses/2025/philosophy-and-politics-ba-hons#course-overview
+10006842,BA_SIE,Screen Industries and Entertainment,https://www.liverpool.ac.uk/courses/2025/screen-industries-and-entertainment-ba-hons#course-overview
+10006842,BA_SOCI,Sociology,https://www.liverpool.ac.uk/courses/2025/sociology-ba-hons
+10006842,BA_SOCR,Sociology with Criminology,https://www.liverpool.ac.uk/courses/2025/sociology-with-criminology-ba-hons
+10006842,BA_SOSP,Sociology with Social Policy,https://www.liverpool.ac.uk/courses/2025/sociology-with-social-policy-ba-hons
+10006842,BA_URPL,Urban Planning,https://www.liverpool.ac.uk/courses/2025/urban-planning-ba-hons
+10006842,BENG_AE,Aerospace Engineering,https://www.liverpool.ac.uk/courses/2025/aerospace-engineering-beng-hons
+10006842,BENG_AEI,Aerospace Engineering with a Year in Industry,https://www.liverpool.ac.uk/courses/2025/aerospace-engineering-with-a-year-in-industry-beng-hons
+10006842,BENG_AEPLS,Aerospace Engineering with Pilot Studies,https://www.liverpool.ac.uk/courses/2025/aerospace-engineering-with-pilot-studies-beng-hons
+10006842,BENG_AEPSI,Aerospace Engineering with Pilot Studies with a Year in Industry,https://www.liverpool.ac.uk/courses/2025/aerospace-engineering-with-pilot-studies-with-a-year-in-industry-beng-hons
+10006842,BENG_ARE,Architectural Engineering,https://www.liverpool.ac.uk/courses/2025/architectural-engineering-beng-hons
+10006842,BENG_CE,Civil Engineering,https://www.liverpool.ac.uk/courses/2025/civil-engineering-beng-hons
+10006842,BENG_CIVEI,Civil Engineering with a Year in Industry,https://www.liverpool.ac.uk/courses/2025/civil-engineering-with-year-in-industry-beng-hons
+10006842,BENG_CSEE,Computer Science and Electronic Engineering,https://www.liverpool.ac.uk/courses/2025/computer-science-and-electronic-engineering-beng-hons
+10006842,BENG_CSEEI,Computer Science and Electronic Engineering with Year in Industry,https://www.liverpool.ac.uk/courses/2025/computer-science-and-electronic-engineering-with-year-in-industry-beng-hons
+10006842,BENG_EEA,Electrical and Electronic Engineering with a Year Abroad,https://www.liverpool.ac.uk/courses/2025/electrical-and-electronic-engineering-with-a-year-abroad-beng-hons
+10006842,BENG_EGF,Engineering Foundation  (4 year route including a Foundation Year at,https://www.liverpool.ac.uk/courses/2025/engineering-foundation-beng-hons-4-year-route-including-a-foundation-year-at-carmel-college
+10006842,BENG_ELEE,Electrical and Electronic Engineering,https://www.liverpool.ac.uk/courses/2025/electrical-and-electronic-engineering-beng-hons
+10006842,BENG_ELEEI,Electrical and Electronic Engineering with a Year in Industry,https://www.liverpool.ac.uk/courses/2025/electrical-and-electronic-engineering-with-a-year-in-industry-beng-hons
+10006842,BENG_EN,Engineering,https://www.liverpool.ac.uk/courses/2025/engineering-beng-hons
+10006842,BENG_MECEI,Mechanical Engineering with a Year in Industry,https://www.liverpool.ac.uk/courses/2025/mechanical-engineering-with-a-year-in-industry-beng-hons
+10006842,BENG_MEEN,Mechanical Engineering,https://www.liverpool.ac.uk/courses/2025/mechanical-engineering-beng-hons
+10006842,BENG_MRSA,Mechatronics and Robotic Systems with a Year Abroad,https://www.liverpool.ac.uk/courses/2025/mechatronics-and-robotic-systems-with-a-year-abroad-beng-hons
+10006842,BENG_MRSY,Mechatronics and Robotic Systems,https://www.liverpool.ac.uk/courses/2025/mechatronics-and-robotic-systems-beng-hons
+10006842,BENG_MRSYI,Mechatronics and Robotic Systems with Year in Industry,https://www.liverpool.ac.uk/courses/2025/mechatronics-and-robotic-systems-with-year-in-industry-beng-hons
+10006842,BENG_PRDEI,Product Design Engineering with a Year in Industry,https://www.liverpool.ac.uk/courses/2025/product-design-engineering-with-year-in-industry-beng-hons
+10006842,BEng_PRDE,Product Design Engineering,https://www.liverpool.ac.uk/courses/2025/product-design-engineering-beng
+10006842,BN_NursF,Foundation to Health and Veterinary Studies (Nursing),https://www.liverpool.ac.uk/courses/2025/foundation-to-human-and-animal-health-professions-nursing-year-0#course-overview
+10006842,BSC_ACMA,Actuarial Mathematics,https://www.liverpool.ac.uk/courses/2025/actuarial-mathematics-bsc-hons
+10006842,BSC_ALGY,Archaeology,https://www.liverpool.ac.uk/courses/2025/archaeology-bsc-hons
+10006842,BSC_AMA,Actuarial Mathematics with a Year Abroad,https://www.liverpool.ac.uk/courses/2025/actuarial-mathematics-with-a-year-abroad-bsc-hons
+10006842,BSC_ANHB,Anatomy and Human Biology,https://www.liverpool.ac.uk/courses/2025/anatomy-and-human-biology-bsc-hons
+10006842,BSC_BC,Biochemistry,https://www.liverpool.ac.uk/courses/2025/biochemistry-bsc-hons
+10006842,BSC_BIMS,Biomedical Sciences,https://www.liverpool.ac.uk/courses/2025/biomedical-sciences-bsc-hons
+10006842,BSC_BIOSC,Biological Sciences,https://www.liverpool.ac.uk/courses/2025/biological-sciences-bsc-hons
+10006842,BSC_BSF,Biological Sciences (with a Foundation Year) leading to,https://www.liverpool.ac.uk/courses/2025/biological-sciences-with-a-foundation-year-leading-to-bsc-hons
+10006842,BSC_CA,Chemistry with a Year Abroad,https://www.liverpool.ac.uk/courses/2025/chemistry-with-a-year-abroad-bsc-hons
+10006842,BSC_CC,Climate Science,https://www.liverpool.ac.uk/courses/2025/climate-science-bsc-hons#course-overview
+10006842,BSC_CHE,Chemistry,https://www.liverpool.ac.uk/courses/2025/chemistry-bsc-hons
+10006842,BSC_CHI,Chemistry with a Year in Industry,https://www.liverpool.ac.uk/courses/2025/chemistry-with-a-year-in-industry-bsc-hons
+10006842,BSC_CHSF,Chemical Sciences  (4 year route including a Foundation Year at Carmel,https://www.liverpool.ac.uk/courses/2025/chemical-sciences-bsc-hons-4-year-route-including-a-foundation-year-at-carmel-college
+10006842,BSC_CSC,Computer Science,https://www.liverpool.ac.uk/courses/2025/computer-science-bsc-hons
+10006842,BSC_CSFD,Computer Science  (Foundation) (4 year route with Carmel C,https://www.liverpool.ac.uk/courses/2025/computer-science-bsc-hons-foundation-4-year-route-with-carmel-college
+10006842,BSC_CSIP,Computer Science with a Year in Industry,https://www.liverpool.ac.uk/courses/2025/computer-science-with-a-year-in-industry-bsc-hons
+10006842,BSC_DR,Diagnostic Radiography,https://www.liverpool.ac.uk/courses/2025/diagnostic-radiography-bsc-hons
+10006842,BSC_DT,Dental Therapy,https://www.liverpool.ac.uk/courses/2025/dental-therapy-bsc-hons
+10006842,BSC_EC,Economics,https://www.liverpool.ac.uk/courses/2025/economics-bsc-hons
+10006842,BSC_ECO,Economics with a Year in Industry,https://www.liverpool.ac.uk/courses/2025/economics-with-a-year-in-industry-bsc-hons
+10006842,BSC_EF,Financial Computing,https://www.liverpool.ac.uk/courses/2025/financial-computing-bsc-hons
+10006842,BSC_ENGEO,Environmental Geoscience,https://www.liverpool.ac.uk/courses/2025/environmental-geoscience-bsc-hons#course-overview
+10006842,BSC_ESFD,Earth Sciences entry route leading to  (4 year route including a Found,https://www.liverpool.ac.uk/courses/2025/earth-sciences-entry-route-leading-to-bsc-hons-4-year-route-including-a-foundation-year-at-carmel-college
+10006842,BSC_EVANT,Evolutionary Anthropology,https://www.liverpool.ac.uk/courses/2025/evolutionary-anthropology-bsc-hons
+10006842,BSC_EVS,Environmental Science,https://www.liverpool.ac.uk/courses/2025/environmental-science-bsc-hons
+10006842,BSC_FCYI,Financial Computing with a Year in Industry,https://www.liverpool.ac.uk/courses/2025/financial-computing-with-a-year-in-industry-bsc-hons#course-overview
+10006842,BSC_FDA,Finance and Data Analytics,https://www.liverpool.ac.uk/courses/2025/finance-and-data-analytics-bsc-hons#course-overview
+10006842,BSC_FDAYI,Finance and Data Analytics with a Year in Industry,https://www.liverpool.ac.uk/courses/2025/finance-and-data-analytics-with-a-year-in-industry-bsc-hons
+10006842,BSC_GDS,Game Design,https://www.liverpool.ac.uk/courses/2025/game-design-bsc-hons
+10006842,BSC_GEGE,Geology and Geophysics,https://www.liverpool.ac.uk/courses/2025/geophysics-geology-bsc-hons
+10006842,BSC_GEOF,Geography (Foundation) (1+3),https://www.liverpool.ac.uk/courses/2025/geography-bsc-hons-4-year-route-including-a-foundation-year-at-carmel-college
+10006842,BSC_GG,Geography,https://www.liverpool.ac.uk/courses/2025/geography-bsc-hons
+10006842,BSC_GL,Geology,https://www.liverpool.ac.uk/courses/2025/geology-bsc-hons
+10006842,BSC_GO,Geography and Oceanography,https://www.liverpool.ac.uk/courses/2025/geography-and-oceanography-bsc-hons
+10006842,BSC_GWPG,Geology with Physical Geography,https://www.liverpool.ac.uk/courses/2025/geology-with-physical-geography-bsc-hons
+10006842,BSC_MA,Mathematics with a Year Abroad,https://www.liverpool.ac.uk/courses/2025/mathematics-with-a-year-abroad-bsc-hons
+10006842,BSC_MATH,Mathematics,https://www.liverpool.ac.uk/courses/2025/mathematics-bsc-hons
+10006842,BSC_MBI,Microbiology and Infection,https://www.liverpool.ac.uk/courses/2025/microbiology-and-infection-bsc-hons
+10006842,BSC_MBL,Marine Biology,https://www.liverpool.ac.uk/courses/2025/marine-biology-bsc-hons
+10006842,BSC_MBO,Marine Biology with Oceanography,https://www.liverpool.ac.uk/courses/2025/marine-biology-with-oceanography-bsc-hons
+10006842,BSC_MC,Medicinal Chemistry,https://www.liverpool.ac.uk/courses/2025/medicinal-chemistry-bsc-hons
+10006842,BSC_MCPA,Medicinal Chemistry with a Year Abroad,https://www.liverpool.ac.uk/courses/2025/medicinal-chemistry-with-a-year-abroad-bsc-hons
+10006842,BSC_MCS,Mathematics and Computer Science,https://www.liverpool.ac.uk/courses/2025/mathematics-and-computer-science-bsc-hons
+10006842,BSC_MCSI,Mathematics and Computer Science with a Year in Industry,https://www.liverpool.ac.uk/courses/2025/mathematics-and-computer-science-with-a-year-in-industry-bsc-hons
+10006842,BSC_MCYII,Medicinal Chemistry with a Year in Industry,https://www.liverpool.ac.uk/courses/2025/medicinal-chemistry-with-a-year-in-industry-bsc-hons
+10006842,BSC_MEC,Mathematics and Economics,https://www.liverpool.ac.uk/courses/2025/mathematics-and-economics-bsc-hons
+10006842,BSC_MF,Mathematics with Finance,https://www.liverpool.ac.uk/courses/2025/mathematics-with-finance-bsc-hons
+10006842,BSC_MFA,Mathematics with Finance with a Year Abroad,https://www.liverpool.ac.uk/courses/2025/mathematics-with-finance-with-a-year-abroad-bsc-hons
+10006842,BSC_MMT,Mathematics and Music Technology,https://www.liverpool.ac.uk/courses/2025/mathematics-and-music-technology-bsc-hons
+10006842,BSC_MOCES,Mathematics with Ocean and Climate Sciences,https://www.liverpool.ac.uk/courses/2025/mathematics-with-ocean-and-climate-sciences-bsc-hons
+10006842,BSC_MSA,Mathematics and Statistics with a Year Abroad,https://www.liverpool.ac.uk/courses/2025/mathematics-and-statistics-with-a-year-abroad-bsc-hons
+10006842,BSC_MSFD,Mathematical Sciences entry route leading to  (4 year route including,https://www.liverpool.ac.uk/courses/2025/mathematical-sciences-entry-route-leading-to-bsc-hons-4-year-route-including-a-foundation-year-at-carmel-college
+10006842,BSC_MST,Mathematics and Statistics,https://www.liverpool.ac.uk/courses/2025/mathematics-and-statistics-bsc-hons
+10006842,BSC_MWL,Mathematics with Languages,https://www.liverpool.ac.uk/courses/2025/mathematics-with-languages-bsc-hons
+10006842,BSC_OC,Ocean Sciences,https://www.liverpool.ac.uk/courses/2025/ocean-sciences-bsc-hons
+10006842,BSC_OCT,Occupational Therapy,https://www.liverpool.ac.uk/courses/2025/occupational-therapy-bsc-hons
+10006842,BSC_OR,Orthoptics,https://www.liverpool.ac.uk/courses/2025/orthoptics-bsc-hons
+10006842,BSC_PA,Physics with Astronomy,https://www.liverpool.ac.uk/courses/2025/physics-with-astronomy-bsc-hons
+10006842,BSC_PAA,Physics with Astronomy with a Year Abroad,https://www.liverpool.ac.uk/courses/2025/physics-with-astronomy-with-a-year-abroad-bsc-hons
+10006842,BSC_PGEO,Physics with Geophysics,https://www.liverpool.ac.uk/courses/2025/physics-with-geophysics-bsc-hons
+10006842,BSC_PH,Pharmacology,https://www.liverpool.ac.uk/courses/2025/pharmacology-bsc-hons
+10006842,BSC_PHA,Physics with a Year Abroad,https://www.liverpool.ac.uk/courses/2025/physics-with-a-year-abroad-bsc-hons
+10006842,BSC_PHMA,Physics and Mathematics with a Year Abroad,https://www.liverpool.ac.uk/courses/2025/physics-and-mathematics-with-a-year-abroad-bsc-hons
+10006842,BSC_PHNS,Physics with Nuclear Science,https://www.liverpool.ac.uk/courses/2025/physics-with-nuclear-science-bsc-hons
+10006842,BSC_PHY,Physics,https://www.liverpool.ac.uk/courses/2025/physics-bsc-hons
+10006842,BSC_PM,Physics and Mathematics,https://www.liverpool.ac.uk/courses/2025/physics-and-mathematics-bsc-hons
+10006842,BSC_PMA,Physics with Medical Applications,https://www.liverpool.ac.uk/courses/2025/physics-with-medical-applications-bsc-hons
+10006842,BSC_PMAA,Physics with Medical Applications with a Year Abroad,https://www.liverpool.ac.uk/courses/2025/physics-with-medical-applications-with-a-year-abroad-bsc-hons
+10006842,BSC_PNSA,Physics with Nuclear Science with a Year Abroad,https://www.liverpool.ac.uk/courses/2025/physics-with-nuclear-science-with-a-year-abroad-bsc-hons
+10006842,BSC_PSCF,Physical Sciences entry route leading to,https://www.liverpool.ac.uk/courses/2025/physical-sciences-entry-route-leading-to-bsc-hons-4-year-route-including-a-foundation-year-at-carmel-college
+10006842,BSC_PSYC,Psychology,https://www.liverpool.ac.uk/courses/2025/psychology-bsc-hons
+10006842,BSC_PSYC4,Psychology  (2+2 programme with Foundation Element),https://www.liverpool.ac.uk/courses/2025/psychology-bsc-hons-22-programme-with-foundation-element
+10006842,BSC_PYT,Physiotherapy,https://www.liverpool.ac.uk/courses/2025/physiotherapy-bsc-hons
+10006842,BSC_RT,Therapeutic Radiography and Oncology,https://www.liverpool.ac.uk/courses/2025/therapeutic-radiography-and-oncology-bsc-hons
+10006842,BSC_SDIP,Computer Science with Software Development with a Year in Industry,https://www.liverpool.ac.uk/courses/2025/computer-science-with-software-development-with-a-year-in-industry-bsc-hons
+10006842,BSC_SDV,Computer Science with Software Development,https://www.liverpool.ac.uk/courses/2025/computer-science-with-software-development-bsc-hons
+10006842,BSC_ZOOL,Zoology,https://www.liverpool.ac.uk/courses/2025/zoology-bsc-hons
+10006842,BSc_DTF,Foundation to Health and Veterinary Studies (Dental Therapy),https://www.liverpool.ac.uk/courses/2025/foundation-to-human-and-animal-health-professions-dental-therapy-year-0#course-overview
+10006842,BSc_DgRadF,Foundation to Health and Veterinary Studies (Diagnostic Radiography),https://www.liverpool.ac.uk/courses/2025/foundation-to-human-and-animal-health-professions-diagnostic-radiography-year-0#course-overview
+10006842,BSc_OTF,Foundation to Health and Veterinary Studies (Occupational Therapy),https://www.liverpool.ac.uk/courses/2025/foundation-to-human-and-animal-health-professions-occupational-therapy-year-0#course-overview
+10006842,BSc_OrthoF,Foundation to Health and Veterinary Studies (Orthoptics),https://www.liverpool.ac.uk/courses/2025/foundation-to-human-and-animal-health-professions-orthoptics-year-0#course-overview
+10006842,BSc_PhythF,Foundation to Health and Veterinary Studies (Physiotherapy),https://www.liverpool.ac.uk/courses/2025/foundation-to-human-and-animal-health-professions-physiotherapy-year-0#course-overview
+10006842,BSc_RadF,Foundation to Health and Veterinary Studies (Therapeutic Radiography and Oncology),https://www.liverpool.ac.uk/courses/2025/foundation-to-human-and-animal-health-professions-therapeutic-radiography-oncology-year-0#course-overview
+10006842,BVSC_VS,Veterinary Science,https://www.liverpool.ac.uk/courses/2025/veterinary-science-bvsc
+10006842,BVSc_VtScF,Foundation to Health and Veterinary Studies (Veterinary Science),https://www.liverpool.ac.uk/courses/2025/foundation-to-human-and-animal-health-professions-veterinary-science-year-0#course-overview
+10006842,B_DS,Dental Surgery,https://www.liverpool.ac.uk/courses/2025/dental-surgery-bds
+10006842,B_NURS,Nursing,https://www.liverpool.ac.uk/courses/2025/nursing-bn-hons
+10006842,FHS_BDSF,Foundation to Health and Veterinary Studies (Dentistry),https://www.liverpool.ac.uk/courses/2025/foundation-to-human-and-animal-health-professions-dentistry-year-0#course-overview
+10006842,LLB_LBS,Law with Business,https://www.liverpool.ac.uk/courses/2025/law-with-business-llb-hons#course-overview
+10006842,LLB_LC,Law with Criminology,https://www.liverpool.ac.uk/courses/2025/law-with-criminology-llb-hons
+10006842,LLB_LP,Law with Philosophy,https://www.liverpool.ac.uk/courses/2025/law-with-philosophy-llb-hons
+10006842,LLB_LW,Law,https://www.liverpool.ac.uk/courses/2025/law-llb-hons
+10006842,LLB_LW4,Law with a Year Abroad,https://www.liverpool.ac.uk/courses/2025/law-with-a-year-abroad-llb-hons
+10006842,LLB_TLAWPO,Law with Politics,https://www.liverpool.ac.uk/courses/2025/law-with-politics-llb-hons#course-overview
+10006842,MBCHB_HL,Medicine,https://www.liverpool.ac.uk/courses/2025/medicine-and-surgery-mbchb
+10006842,MBChBF,Foundation to Health and Veterinary Studies (Medicine),https://www.liverpool.ac.uk/courses/2025/foundation-to-human-and-animal-health-professions-medicine-year-0#course-overview
+10006842,MBIO_AHBOI,Anatomy and Human Biology (4 Years),https://www.liverpool.ac.uk/courses/2025/anatomy-and-human-biology-mbiol
+10006842,MBIO_BIOHI,Biochemistry,https://www.liverpool.ac.uk/courses/2025/biochemistry-mbiol
+10006842,MBIO_BIOLI,Biological Sciences (4 Years),https://www.liverpool.ac.uk/courses/2025/biological-sciences-mbiol
+10006842,MBIO_BIOMI,Biomedical Sciences (4 Years),https://www.liverpool.ac.uk/courses/2025/biomedical-sciences-mbiol
+10006842,MBIO_MICRI,Microbiology and Infection,https://www.liverpool.ac.uk/courses/2025/microbiology-and-infection-mbiol
+10006842,MBIO_PHARI,Pharmacology (4 Years),https://www.liverpool.ac.uk/courses/2025/pharmacology-mbiol
+10006842,MBIO_ZOOI,Zoology (4 Years),https://www.liverpool.ac.uk/courses/2025/zoology-mbiol
+10006842,MCHEM_CA,Chemistry with a Year Abroad,https://www.liverpool.ac.uk/courses/2025/chemistry-with-a-year-abroad-mchem
+10006842,MCHEM_CHEM,Chemistry (4 Years),https://www.liverpool.ac.uk/courses/2025/chemistry-mchem
+10006842,MCHEM_CRI,Chemistry with Research in Industry,https://www.liverpool.ac.uk/courses/2025/chemistry-with-research-in-industry-mchem
+10006842,MCHEM_MCP,Medicinal Chemistry with Pharmacology,https://www.liverpool.ac.uk/courses/2025/medicinal-chemistry-with-pharmacology-mchem
+10006842,MCHEM_MCPA,Medicinal Chemistry with Pharmacology with a Year Abroad,https://www.liverpool.ac.uk/courses/2025/medicinal-chemistry-with-pharmacology-with-a-year-abroad-mchem
+10006842,MENG_AE,Aerospace Engineering,https://www.liverpool.ac.uk/courses/2025/aerospace-engineering-meng
+10006842,MENG_AEI,Aerospace Engineering with a Year in Industry,https://www.liverpool.ac.uk/courses/2025/aerospace-engineering-with-a-year-in-industry-meng
+10006842,MENG_AEPLS,Aerospace Engineering with Pilot Studies,https://www.liverpool.ac.uk/courses/2025/aerospace-engineering-with-pilot-studies-meng
+10006842,MENG_AEPSI,Aerospace Engineering with Pilot Studies with a Year in Industry,https://www.liverpool.ac.uk/courses/2025/aerospace-engineering-with-pilot-studies-with-a-year-in-industry-meng
+10006842,MENG_AREN,Architectural Engineering (4 Years,https://www.liverpool.ac.uk/courses/2025/architectural-engineering-meng
+10006842,MENG_CEE,Computer Science and Electronic Engineering,https://www.liverpool.ac.uk/courses/2025/computer-science-and-electronic-engineering-meng
+10006842,MENG_CEI,Civil Engineering with a Year in Industry,https://www.liverpool.ac.uk/courses/2025/civil-engineering-with-year-in-industry-meng
+10006842,MENG_CS,Computer Science,https://www.liverpool.ac.uk/courses/2025/computer-science-meng
+10006842,MENG_CSE,Civil and Structural Engineering,https://www.liverpool.ac.uk/courses/2025/civil-and-structural-engineering-meng
+10006842,MENG_CSYI,Computer Science with a Year in Industry (5 Years),https://www.liverpool.ac.uk/courses/2025/computer-science-with-a-year-in-industry-meng
+10006842,MENG_CVE,Civil Engineering,https://www.liverpool.ac.uk/courses/2025/civil-engineering-meng
+10006842,MENG_EEA,Electrical and Electronic Engineering with a Year Abroad,https://www.liverpool.ac.uk/courses/2025/electrical-and-electronic-engineering-with-a-year-abroad-meng
+10006842,MENG_ELEE,Electrical and Electronic Engineering,https://www.liverpool.ac.uk/courses/2025/electrical-and-electronic-engineering-meng
+10006842,MENG_ELEEIN,Electrical and Electronic Engineering with a Year in Industry,https://www.liverpool.ac.uk/courses/2025/electrical-and-electronic-engineering-with-a-year-in-industry-meng
+10006842,MENG_EN,Engineering,https://www.liverpool.ac.uk/courses/2025/engineering-meng
+10006842,MENG_MECEI,Mechanical Engineering with a Year in Industry,https://www.liverpool.ac.uk/courses/2025/mechanical-engineering-with-a-year-in-industry-meng
+10006842,MENG_MEEN,Mechanical Engineering,https://www.liverpool.ac.uk/courses/2025/mechanical-engineering-meng
+10006842,MENG_MRSA,Mechatronics and Robotic Systems with a Year Abroad,https://www.liverpool.ac.uk/courses/2025/mechatronics-and-robotic-systems-with-a-year-abroad-meng
+10006842,MENG_MRSY,Mechatronics and Robotic Systems,https://www.liverpool.ac.uk/courses/2025/mechatronics-and-robotic-systems-meng
+10006842,MENG_MRSYI,Mechatronics and Robotic Systems with Year in Industry,https://www.liverpool.ac.uk/courses/2025/mechatronics-and-robotic-systems-with-year-in-industry-meng
+10006842,MENG_PDEI,Product Design Engineering with a Year in Industry,https://www.liverpool.ac.uk/courses/2025/product-design-engineering-with-a-year-in-industry-meng
+10006842,MESCI_GL,Geology,https://www.liverpool.ac.uk/courses/2025/geology-mesci
+10006842,MEng_PDE,Product Design Engineering (4 Years),https://www.liverpool.ac.uk/courses/2025/product-design-engineering-meng
+10006842,MMATH_AMA,Mathematical Physics with a Year Abroad,https://www.liverpool.ac.uk/courses/2025/mathematical-physics-with-a-year-abroad-mmath
+10006842,MMATH_MATH,Mathematics (4 Years),https://www.liverpool.ac.uk/courses/2025/mathematics-mmath
+10006842,MMATH_MP,Mathematical Physics,https://www.liverpool.ac.uk/courses/2025/mathematical-physics-mmath
+10006842,MPHYS_AA,Astrophysics with a Year Abroad,https://www.liverpool.ac.uk/courses/2025/astrophysics-with-a-year-abroad-mphys
+10006842,MPHYS_AP,Astrophysics,https://www.liverpool.ac.uk/courses/2025/astrophysics-mphys
+10006842,MPHYS_PA,Physics with a Year Abroad,https://www.liverpool.ac.uk/courses/2025/physics-with-a-year-abroad-mphys
+10006842,MPHYS_PHYS,Physics,https://www.liverpool.ac.uk/courses/2025/physics-mphys
+10006842,MPHYS_TPA,Theoretical Physics with a Year Abroad,https://www.liverpool.ac.uk/courses/2025/theoretical-physics-with-a-year-abroad-mphys
+10006842,MPHY_TP,Theoretical Physics,https://www.liverpool.ac.uk/courses/2025/theoretical-physics-mphys
+10006842,MPLAN_TRP,Town and Regional Planning,https://www.liverpool.ac.uk/courses/2025/town-and-regional-planning-mplan
