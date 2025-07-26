@@ -1,472 +1,368 @@
-ukprn,kiscourseid,crseurl,provadd,university
-10007158,10,https://www.southampton.ac.uk/courses/chemistry-with-external-placement-degree-mchem,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,100,https://www.southampton.ac.uk/courses/economics-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1002,https://www.southampton.ac.uk/courses/audiology-degree-msci,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1003,https://www.southampton.ac.uk/courses/chemical-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1004,https://www.southampton.ac.uk/courses/chemical-engineering-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1005,https://www.southampton.ac.uk/courses/chemical-engineering-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1006,https://www.southampton.ac.uk/courses/chemical-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1008,https://www.southampton.ac.uk/courses/english-language-literature-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,101,https://www.southampton.ac.uk/courses/economics-degree-mecon,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1011,https://www.southampton.ac.uk/courses/chemistry-digital-methods-computational-modelling-degree-mchem,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1014,https://www.southampton.ac.uk/courses/chemical-engineering-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1015,https://www.southampton.ac.uk/courses/chemical-engineering-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1016,https://www.southampton.ac.uk/courses/chemical-engineering-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1017,https://www.southampton.ac.uk/courses/chemical-engineering-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1018,https://www.southampton.ac.uk/courses/chemical-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1019,https://www.southampton.ac.uk/courses/chemical-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,102,https://www.southampton.ac.uk/courses/economics-business-management-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,102,https://www.southampton.ac.uk/courses/economics-business-management-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1020,https://www.southampton.ac.uk/courses/chemical-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1021,https://www.southampton.ac.uk/courses/chemical-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1022,https://www.southampton.ac.uk/courses/neuroscience-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1023,https://www.southampton.ac.uk/courses/chemistry-digital-methods-computational-modelling-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1025,https://www.southampton.ac.uk/courses/chemistry-with-medicinal-sciences-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1026,https://www.southampton.ac.uk/courses/finance-financial-technology-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1027,https://www.southampton.ac.uk/courses/finance-financial-technology-with-placement-year-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1028,https://www.southampton.ac.uk/courses/finance-financial-technology-with-study-abroad-year-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1029,https://www.southampton.ac.uk/courses/accounting-finance-with-study-abroad-year-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1029,https://www.southampton.ac.uk/courses/accounting-finance-with-study-abroad-year-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,103,https://www.southampton.ac.uk/courses/economics-actuarial-science-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,103,https://www.southampton.ac.uk/courses/economics-actuarial-science-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1030,https://www.southampton.ac.uk/courses/business-analytics-with-study-abroad-year-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1030,https://www.southampton.ac.uk/courses/business-analytics-with-study-abroad-year-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1030,https://www.southampton.ac.uk/courses/business-analytics-with-study-abroad-year-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1031,https://www.southampton.ac.uk/courses/business-entrepreneurship-with-study-abroad-year-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1032,https://www.southampton.ac.uk/courses/business-management-with-study-abroad-year-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1033,https://www.southampton.ac.uk/courses/marketing-with-study-abroad-year-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,104,https://www.southampton.ac.uk/courses/economics-finance-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,104,https://www.southampton.ac.uk/courses/economics-finance-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,105,https://www.southampton.ac.uk/courses/politics-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,106,https://www.southampton.ac.uk/courses/international-relations-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,107,https://www.southampton.ac.uk/courses/politics-international-relations-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,108,https://www.southampton.ac.uk/courses/sociology-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1080,https://www.southampton.ac.uk/courses/one-modern-language-french-german-spanish-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1081,https://www.southampton.ac.uk/courses/two-modern-languages-french-german-spanish-portuguese-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1082,https://www.southampton.ac.uk/courses/three-modern-languages-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1083,https://www.southampton.ac.uk/courses/one-modern-language-french-german-spanish-degree-mlang,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1084,https://www.southampton.ac.uk/courses/two-languages-french-german-spanish-degree-mlang,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1084,https://www.southampton.ac.uk/courses/two-languages-french-german-spanish-degree-mlang,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1085,https://www.southampton.ac.uk/courses/language-culture-communication-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1085,https://www.southampton.ac.uk/courses/language-culture-communication-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1087,https://www.southampton.ac.uk/courses/pharmacology-drug-discovery-degree-msci,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1088,https://www.southampton.ac.uk/courses/human-geography-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1089,https://www.southampton.ac.uk/courses/physical-geography-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1091,https://www.southampton.ac.uk/courses/film-tv-digital-media-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1092,https://www.southampton.ac.uk/courses/film-tv-digital-media-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1093,https://www.southampton.ac.uk/courses/creative-computing-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1094,https://www.southampton.ac.uk/courses/graphic-communication-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1094,https://www.southampton.ac.uk/courses/graphic-communication-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1095,https://www.southampton.ac.uk/courses/biomedical-engineering-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1095,https://www.southampton.ac.uk/courses/biomedical-engineering-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1096,https://www.southampton.ac.uk/courses/medical-engineering-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1097,https://www.southampton.ac.uk/courses/physics-with-quantum-science-technologies-degree-mphys,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1097,https://www.southampton.ac.uk/courses/physics-with-quantum-science-technologies-degree-mphys,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1098,https://www.southampton.ac.uk/courses/biomedical-engineering-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1099,https://www.southampton.ac.uk/courses/medical-engineering-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,11,https://www.southampton.ac.uk/courses/chemistry-with-year-long-industry-experience-degree-mchem,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,110,https://www.southampton.ac.uk/courses/geography-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1100,https://www.southampton.ac.uk/courses/biomedical-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1100,https://www.southampton.ac.uk/courses/biomedical-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1101,https://www.southampton.ac.uk/courses/medical-engineering-with-industrial-placement-year-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1102,https://www.southampton.ac.uk/courses/medical-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1103,https://www.southampton.ac.uk/courses/mathematical-physics-degree-mmath,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1103,https://www.southampton.ac.uk/courses/mathematical-physics-degree-mmath,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1104,https://www.southampton.ac.uk/courses/medical-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1105,https://www.southampton.ac.uk/courses/biomedical-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1106,https://www.southampton.ac.uk/courses/medical-engineering-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1107,https://www.southampton.ac.uk/courses/biomedical-engineering-with-industrial-studies-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1107,https://www.southampton.ac.uk/courses/biomedical-engineering-with-industrial-studies-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1108,https://www.southampton.ac.uk/courses/medical-engineering-with-industrial-placement-year-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1110,https://www.southampton.ac.uk/courses/electrical-electronic-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1111,https://www.southampton.ac.uk/courses/mechatronic-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1111,https://www.southampton.ac.uk/courses/mechatronic-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1112,https://www.southampton.ac.uk/courses/aerospace-electronic-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1113,https://www.southampton.ac.uk/courses/software-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1114,https://www.southampton.ac.uk/courses/electrical-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1115,https://www.southampton.ac.uk/courses/electronic-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1116,https://www.southampton.ac.uk/courses/medical-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1117,https://www.southampton.ac.uk/courses/biomedical-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1118,https://www.southampton.ac.uk/courses/computer-science-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1119,https://www.southampton.ac.uk/courses/one-modern-language-english-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1119,https://www.southampton.ac.uk/courses/one-modern-language-english-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1120,https://www.southampton.ac.uk/courses/one-modern-language-politics-french-german-spanish-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1120,https://www.southampton.ac.uk/courses/one-modern-language-politics-french-german-spanish-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1121,https://www.southampton.ac.uk/courses/one-modern-language-business-management-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1121,https://www.southampton.ac.uk/courses/one-modern-language-business-management-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1122,https://www.southampton.ac.uk/courses/one-modern-language-linguistics-french-german-spanish-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1122,https://www.southampton.ac.uk/courses/one-modern-language-linguistics-french-german-spanish-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1123,https://www.southampton.ac.uk/courses/two-modern-languages-linguistics-french-german-spanish-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1123,https://www.southampton.ac.uk/courses/two-modern-languages-linguistics-french-german-spanish-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1124,https://www.southampton.ac.uk/courses/one-modern-language-history-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1124,https://www.southampton.ac.uk/courses/one-modern-language-history-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1125,https://www.southampton.ac.uk/courses/one-modern-language-philosophy-french-german-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1125,https://www.southampton.ac.uk/courses/one-modern-language-philosophy-french-german-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1126,https://www.southampton.ac.uk/courses/one-modern-language-linguistics-french-german-spanish-degree-mlang,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1126,https://www.southampton.ac.uk/courses/one-modern-language-linguistics-french-german-spanish-degree-mlang,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1127,https://www.southampton.ac.uk/courses/two-modern-languages-linguistics-french-german-spanish-degree-mlang,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1127,https://www.southampton.ac.uk/courses/two-modern-languages-linguistics-french-german-spanish-degree-mlang,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1129,https://www.southampton.ac.uk/courses/international-business-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,113,https://www.southampton.ac.uk/courses/politics-economics-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,113,https://www.southampton.ac.uk/courses/politics-economics-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1130,https://www.southampton.ac.uk/courses/computer-engineering-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1131,https://www.southampton.ac.uk/courses/computer-engineering-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1132,https://www.southampton.ac.uk/courses/artificial-intelligence-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1133,https://www.southampton.ac.uk/courses/artificial-intelligence-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1134,https://www.southampton.ac.uk/courses/artificial-intelligence-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1135,https://www.southampton.ac.uk/courses/artificial-intelligence-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1136,https://www.southampton.ac.uk/courses/computer-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1137,https://www.southampton.ac.uk/courses/computer-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1138,https://www.southampton.ac.uk/courses/computer-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1139,https://www.southampton.ac.uk/courses/computer-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1140,https://www.southampton.ac.uk/courses/artificial-intelligence-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1141,https://www.southampton.ac.uk/courses/artificial-intelligence-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1142,https://www.southampton.ac.uk/courses/international-business-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1143,https://www.southampton.ac.uk/courses/international-business-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1145,https://www.southampton.ac.uk/courses/mechanical-engineering-manufacturing-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1145,https://www.southampton.ac.uk/courses/mechanical-engineering-manufacturing-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1146,https://www.southampton.ac.uk/courses/mechanical-engineering-manufacturing-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1146,https://www.southampton.ac.uk/courses/mechanical-engineering-manufacturing-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1147,https://www.southampton.ac.uk/courses/environmental-geoscience-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1148,https://www.southampton.ac.uk/courses/environmental-geoscience-degree-msci,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1149,https://www.southampton.ac.uk/courses/marine-biology-with-oceanography-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1150,https://www.southampton.ac.uk/courses/marine-biology-with-oceanography-degree-msci,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1150,https://www.southampton.ac.uk/courses/marine-biology-with-oceanography-degree-msci,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1151,https://www.southampton.ac.uk/courses/biology-marine-biology-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1151,https://www.southampton.ac.uk/courses/biology-marine-biology-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1152,https://www.southampton.ac.uk/courses/biology-marine-biology-degree-msci,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1152,https://www.southampton.ac.uk/courses/biology-marine-biology-degree-msci,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1153,https://www.southampton.ac.uk/courses/biochemistry-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1154,https://www.southampton.ac.uk/courses/biochemistry-degree-msci,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1155,https://www.southampton.ac.uk/courses/neuroscience-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1156,https://www.southampton.ac.uk/courses/neuroscience-degree-msci,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1157,https://www.southampton.ac.uk/courses/pharmacology-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1158,https://www.southampton.ac.uk/courses/pharmacology-drug-discovery-degree-msci,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1159,https://www.southampton.ac.uk/courses/biology-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1160,https://www.southampton.ac.uk/courses/biology-degree-msci,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1161,https://www.southampton.ac.uk/courses/zoology-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1162,https://www.southampton.ac.uk/courses/zoology-degree-msci,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1163,https://www.southampton.ac.uk/courses/audiology-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1165,https://www.southampton.ac.uk/courses/biomedical-sciences-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1166,https://www.southampton.ac.uk/courses/biomedical-sciences-degree-msci,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1167,https://www.southampton.ac.uk/courses/midwifery-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1168,https://www.southampton.ac.uk/courses/physiotherapy-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1169,https://www.southampton.ac.uk/courses/occupational-therapy-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1170,https://www.southampton.ac.uk/courses/cardiac-physiology-healthcare-science-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1173,https://www.southampton.ac.uk/courses/business-management-accounting-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1173,https://www.southampton.ac.uk/courses/business-management-accounting-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1174,https://www.southampton.ac.uk/courses/business-management-accounting-with-placement-year-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1174,https://www.southampton.ac.uk/courses/business-management-accounting-with-placement-year-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1175,https://www.southampton.ac.uk/courses/business-management-human-resource-management-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1176,https://www.southampton.ac.uk/courses/business-management-human-resource-management-with-placement-year-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1177,https://www.southampton.ac.uk/courses/accounting-taxation-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1177,https://www.southampton.ac.uk/courses/accounting-taxation-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1178,https://www.southampton.ac.uk/courses/accounting-taxation-with-placement-year-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,1178,https://www.southampton.ac.uk/courses/accounting-taxation-with-placement-year-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,118,https://www.southampton.ac.uk/courses/economics-accounting-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,118,https://www.southampton.ac.uk/courses/economics-accounting-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,12,https://www.southampton.ac.uk/courses/chemistry-degree-mchem,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,122,https://www.southampton.ac.uk/courses/mathematics-operational-research-statistics-economics-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,122,https://www.southampton.ac.uk/courses/mathematics-operational-research-statistics-economics-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,122,https://www.southampton.ac.uk/courses/mathematics-operational-research-statistics-economics-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,128,https://www.southampton.ac.uk/courses/film-studies-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,129,https://www.southampton.ac.uk/courses/english-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,13,https://www.southampton.ac.uk/courses/chemistry-with-medicinal-sciences-degree-mchem,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,134,https://www.southampton.ac.uk/courses/english-history-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,134,https://www.southampton.ac.uk/courses/english-history-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,135,https://www.southampton.ac.uk/courses/philosophy-english-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,135,https://www.southampton.ac.uk/courses/philosophy-english-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,137,https://www.southampton.ac.uk/courses/film-english-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,137,https://www.southampton.ac.uk/courses/film-english-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,15,https://www.southampton.ac.uk/courses/geology-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,16,https://www.southampton.ac.uk/courses/geology-degree-msci,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,162,https://www.southampton.ac.uk/courses/history-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,163,https://www.southampton.ac.uk/courses/archaeology-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,164,https://www.southampton.ac.uk/courses/philosophy-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,166,https://www.southampton.ac.uk/courses/modern-history-politics-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,166,https://www.southampton.ac.uk/courses/modern-history-politics-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,168,https://www.southampton.ac.uk/courses/economics-philosophy-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,168,https://www.southampton.ac.uk/courses/economics-philosophy-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,169,https://www.southampton.ac.uk/courses/philosophy-politics-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,169,https://www.southampton.ac.uk/courses/philosophy-politics-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,172,https://www.southampton.ac.uk/courses/philosophy-history-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,172,https://www.southampton.ac.uk/courses/philosophy-history-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,173,https://www.southampton.ac.uk/courses/music-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,175,https://www.southampton.ac.uk/courses/film-history-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,175,https://www.southampton.ac.uk/courses/film-history-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,188,https://www.southampton.ac.uk/courses/civil-engineering-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,190,https://www.southampton.ac.uk/courses/civil-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,193,https://www.southampton.ac.uk/courses/mechanical-engineering-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,194,https://www.southampton.ac.uk/courses/mechanical-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,195,https://www.southampton.ac.uk/courses/mechanical-engineering-automotive-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,195,https://www.southampton.ac.uk/courses/mechanical-engineering-automotive-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,197,https://www.southampton.ac.uk/courses/aeronautics-astronautics-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,198,https://www.southampton.ac.uk/courses/aeronautics-astronautics-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,200,https://www.southampton.ac.uk/courses/aeronautics-astronautics-aerodynamics-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,203,https://www.southampton.ac.uk/courses/aeronautics-astronautics-spacecraft-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,203,https://www.southampton.ac.uk/courses/aeronautics-astronautics-spacecraft-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,205,https://www.southampton.ac.uk/courses/acoustical-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,207,https://www.southampton.ac.uk/courses/mechanical-engineering-sustainable-energy-systems-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,207,https://www.southampton.ac.uk/courses/mechanical-engineering-sustainable-energy-systems-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,208,https://www.southampton.ac.uk/courses/mechanical-engineering-aerospace-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,208,https://www.southampton.ac.uk/courses/mechanical-engineering-aerospace-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,21,https://www.southampton.ac.uk/courses/oceanography-degree-msci,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,210,https://www.southampton.ac.uk/courses/mechanical-engineering-mechatronics-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,210,https://www.southampton.ac.uk/courses/mechanical-engineering-mechatronics-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,213,https://www.southampton.ac.uk/courses/civil-engineering-architecture-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,217,https://www.southampton.ac.uk/courses/maritime-engineering-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,218,https://www.southampton.ac.uk/courses/maritime-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,227,https://www.southampton.ac.uk/courses/environmental-science-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,23,https://www.southampton.ac.uk/courses/marine-biology-degree-msci,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,230,https://www.southampton.ac.uk/courses/physics-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,231,https://www.southampton.ac.uk/courses/physics-degree-mphys,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,235,https://www.southampton.ac.uk/courses/physics-with-astronomy-degree-mphys,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,235,https://www.southampton.ac.uk/courses/physics-with-astronomy-degree-mphys,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,236,https://www.southampton.ac.uk/courses/physics-with-space-science-degree-mphys,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,236,https://www.southampton.ac.uk/courses/physics-with-space-science-degree-mphys,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,238,https://www.southampton.ac.uk/courses/physics-with-mathematics-degree-mphys,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,238,https://www.southampton.ac.uk/courses/physics-with-mathematics-degree-mphys,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,239,https://www.southampton.ac.uk/courses/computer-science-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,240,https://www.southampton.ac.uk/courses/computer-science-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,244,https://www.southampton.ac.uk/courses/software-engineering-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,245,https://www.southampton.ac.uk/courses/computer-science-with-artificial-intelligence-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,245,https://www.southampton.ac.uk/courses/computer-science-with-artificial-intelligence-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,248,https://www.southampton.ac.uk/courses/software-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,249,https://www.southampton.ac.uk/courses/electrical-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,25,https://www.southampton.ac.uk/courses/oceanography-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,250,https://www.southampton.ac.uk/courses/electronic-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,251,https://www.southampton.ac.uk/courses/electronic-engineering-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,252,https://www.southampton.ac.uk/courses/electronic-engineering-with-nanotechnology-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,253,https://www.southampton.ac.uk/courses/electrical-engineering-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,254,https://www.southampton.ac.uk/courses/electronic-engineering-with-wireless-communications-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,256,https://www.southampton.ac.uk/courses/electronic-engineering-with-computer-systems-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,256,https://www.southampton.ac.uk/courses/electronic-engineering-with-computer-systems-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,257,https://www.southampton.ac.uk/courses/electronic-engineering-with-artificial-intelligence-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,257,https://www.southampton.ac.uk/courses/electronic-engineering-with-artificial-intelligence-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,260,https://www.southampton.ac.uk/courses/physics-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,27,https://www.southampton.ac.uk/courses/marine-biology-with-oceanography-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,27,https://www.southampton.ac.uk/courses/marine-biology-with-oceanography-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,340,https://www.southampton.ac.uk/courses/medicine-bm5-degree-bmbs,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,341,https://www.southampton.ac.uk/courses/medicine-bm6-widening-participation-degree-bmbs,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,345,https://www.southampton.ac.uk/courses/criminology-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,346,https://www.southampton.ac.uk/courses/criminology-psychology-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,346,https://www.southampton.ac.uk/courses/criminology-psychology-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,348,https://www.southampton.ac.uk/courses/education-psychology-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,35,https://www.southampton.ac.uk/courses/chemistry-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,358,https://www.southampton.ac.uk/courses/sociology-criminology-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,36,https://www.southampton.ac.uk/courses/geology-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,376,https://www.southampton.ac.uk/courses/biomedical-sciences-degree-msci,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,383,https://www.southampton.ac.uk/courses/environmental-science-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,383,https://www.southampton.ac.uk/courses/environmental-science-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,4,https://www.southampton.ac.uk/courses/pharmacology-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,40,https://www.southampton.ac.uk/courses/oceanography-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,404,https://www.southampton.ac.uk/courses/accounting-finance-with-placement-year-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,404,https://www.southampton.ac.uk/courses/accounting-finance-with-placement-year-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,405,https://www.southampton.ac.uk/courses/games-design-art-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,405,https://www.southampton.ac.uk/courses/games-design-art-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,406,https://www.southampton.ac.uk/courses/fashion-marketing-with-management-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,406,https://www.southampton.ac.uk/courses/fashion-marketing-with-management-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,408,https://www.southampton.ac.uk/courses/law-with-psychology-degree-llb,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,408,https://www.southampton.ac.uk/courses/law-with-psychology-degree-llb,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,41,https://www.southampton.ac.uk/courses/marine-biology-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,411,https://www.southampton.ac.uk/courses/archaeology-with-year-abroad-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,412,https://www.southampton.ac.uk/courses/economics-philosophy-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,412,https://www.southampton.ac.uk/courses/economics-philosophy-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,414,https://www.southampton.ac.uk/courses/english-history-with-year-abroad-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,414,https://www.southampton.ac.uk/courses/english-history-with-year-abroad-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,416,https://www.southampton.ac.uk/courses/english-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,417,https://www.southampton.ac.uk/courses/film-english-with-year-abroad-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,417,https://www.southampton.ac.uk/courses/film-english-with-year-abroad-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,418,https://www.southampton.ac.uk/courses/film-history-with-year-abroad-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,418,https://www.southampton.ac.uk/courses/film-history-with-year-abroad-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,419,https://www.southampton.ac.uk/courses/film-studies-with-year-abroad-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,421,https://www.southampton.ac.uk/courses/history-with-year-abroad-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,422,https://www.southampton.ac.uk/courses/modern-history-politics-with-year-abroad-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,422,https://www.southampton.ac.uk/courses/modern-history-politics-with-year-abroad-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,424,https://www.southampton.ac.uk/courses/music-with-year-abroad-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,425,https://www.southampton.ac.uk/courses/philosophy-english-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,425,https://www.southampton.ac.uk/courses/philosophy-english-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,426,https://www.southampton.ac.uk/courses/philosophy-politics-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,426,https://www.southampton.ac.uk/courses/philosophy-politics-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,427,https://www.southampton.ac.uk/courses/philosophy-history-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,427,https://www.southampton.ac.uk/courses/philosophy-history-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,431,https://www.southampton.ac.uk/courses/philosophy-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,433,https://www.southampton.ac.uk/courses/acoustical-engineering-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,434,https://www.southampton.ac.uk/courses/aeronautics-astronautics-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,435,https://www.southampton.ac.uk/courses/civil-engineering-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,436,https://www.southampton.ac.uk/courses/electrical-electronic-engineering-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,437,https://www.southampton.ac.uk/courses/electrical-engineering-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,439,https://www.southampton.ac.uk/courses/electronic-engineering-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,44,https://www.southampton.ac.uk/courses/physiotherapy-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,440,https://www.southampton.ac.uk/courses/mechanical-engineering-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,441,https://www.southampton.ac.uk/courses/maritime-engineering-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,442,https://www.southampton.ac.uk/courses/software-engineering-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,443,https://www.southampton.ac.uk/courses/computer-science-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,445,https://www.southampton.ac.uk/courses/acoustical-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,446,https://www.southampton.ac.uk/courses/aeronautics-astronautics-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,448,https://www.southampton.ac.uk/courses/civil-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,45,https://www.southampton.ac.uk/courses/midwifery-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,450,https://www.southampton.ac.uk/courses/electrical-electronic-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,451,https://www.southampton.ac.uk/courses/electrical-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,453,https://www.southampton.ac.uk/courses/electronic-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,454,https://www.southampton.ac.uk/courses/mechanical-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,455,https://www.southampton.ac.uk/courses/maritime-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,456,https://www.southampton.ac.uk/courses/software-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,458,https://www.southampton.ac.uk/courses/physics-degree-mphys,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,459,https://www.southampton.ac.uk/courses/electrical-electronic-engineering-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,460,https://www.southampton.ac.uk/courses/electrical-electronic-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,480,https://www.southampton.ac.uk/courses/business-analytics-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,480,https://www.southampton.ac.uk/courses/business-analytics-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,480,https://www.southampton.ac.uk/courses/business-analytics-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,481,https://www.southampton.ac.uk/courses/business-analytics-with-placement-year-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,481,https://www.southampton.ac.uk/courses/business-analytics-with-placement-year-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,481,https://www.southampton.ac.uk/courses/business-analytics-with-placement-year-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,482,https://www.southampton.ac.uk/courses/business-entrepreneurship-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,483,https://www.southampton.ac.uk/courses/business-entrepreneurship-with-placement-year-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,488,https://www.southampton.ac.uk/courses/business-management-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,489,https://www.southampton.ac.uk/courses/business-management-with-placement-year-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,5,https://www.southampton.ac.uk/courses/biomedical-sciences-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,500,https://www.southampton.ac.uk/courses/mechanical-engineering-biomedical-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,500,https://www.southampton.ac.uk/courses/mechanical-engineering-biomedical-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,504,https://www.southampton.ac.uk/courses/archaeology-anthropology-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,504,https://www.southampton.ac.uk/courses/archaeology-anthropology-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,505,https://www.southampton.ac.uk/courses/archaeology-anthropology-with-year-abroad-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,505,https://www.southampton.ac.uk/courses/archaeology-anthropology-with-year-abroad-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,506,https://www.southampton.ac.uk/courses/philosophy-politics-economics-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,506,https://www.southampton.ac.uk/courses/philosophy-politics-economics-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,506,https://www.southampton.ac.uk/courses/philosophy-politics-economics-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,508,https://www.southampton.ac.uk/courses/biochemistry-degree-msci,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,51,https://www.southampton.ac.uk/courses/occupational-therapy-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,510,https://www.southampton.ac.uk/courses/neuroscience-degree-msci,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,511,https://www.southampton.ac.uk/courses/biology-marine-biology-degree-msci,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,511,https://www.southampton.ac.uk/courses/biology-marine-biology-degree-msci,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,514,https://www.southampton.ac.uk/courses/computer-science-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,515,https://www.southampton.ac.uk/courses/electronic-engineering-with-mobile-secure-systems-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,516,https://www.southampton.ac.uk/courses/electronic-engineering-with-photonics-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,518,https://www.southampton.ac.uk/courses/cardiac-physiology-healthcare-science-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,519,https://www.southampton.ac.uk/courses/marketing-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,524,https://www.southampton.ac.uk/courses/biology-degree-msci,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,526,https://www.southampton.ac.uk/courses/zoology-degree-msci,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,528,https://www.southampton.ac.uk/courses/mathematical-physics-degree-mmath,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,528,https://www.southampton.ac.uk/courses/mathematical-physics-degree-mmath,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,530,https://www.southampton.ac.uk/courses/ancient-history-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,531,https://www.southampton.ac.uk/courses/ancient-history-archaeology-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,531,https://www.southampton.ac.uk/courses/ancient-history-archaeology-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,534,https://www.southampton.ac.uk/courses/ancient-history-history-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,540,https://www.southampton.ac.uk/courses/computer-science-with-cyber-security-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,541,https://www.southampton.ac.uk/courses/english-language-linguistics-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,544,https://www.southampton.ac.uk/courses/music-business-management-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,544,https://www.southampton.ac.uk/courses/music-business-management-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,545,https://www.southampton.ac.uk/courses/music-business-management-with-year-abroad-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,545,https://www.southampton.ac.uk/courses/music-business-management-with-year-abroad-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,546,https://www.southampton.ac.uk/courses/mathematics-degree-mmath,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,547,https://www.southampton.ac.uk/courses/mathematics-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,548,https://www.southampton.ac.uk/courses/aerospace-electronic-engineering-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,549,https://www.southampton.ac.uk/courses/aerospace-electronic-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,550,https://www.southampton.ac.uk/courses/civil-engineering-architecture-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,553,https://www.southampton.ac.uk/courses/mechatronic-engineering-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,554,https://www.southampton.ac.uk/courses/mechatronic-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,557,https://www.southampton.ac.uk/courses/aeronautics-astronautics-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,559,https://www.southampton.ac.uk/courses/aeronautics-astronautics-aerodynamics-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,560,https://www.southampton.ac.uk/courses/electrical-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,561,https://www.southampton.ac.uk/courses/civil-engineering-architecture-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,566,https://www.southampton.ac.uk/courses/mechanical-engineering-sustainable-energy-systems-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,566,https://www.southampton.ac.uk/courses/mechanical-engineering-sustainable-energy-systems-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,569,https://www.southampton.ac.uk/courses/mechanical-engineering-aerospace-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,569,https://www.southampton.ac.uk/courses/mechanical-engineering-aerospace-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,571,https://www.southampton.ac.uk/courses/acoustical-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,572,https://www.southampton.ac.uk/courses/mechatronic-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,573,https://www.southampton.ac.uk/courses/electrical-electronic-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,574,https://www.southampton.ac.uk/courses/electronic-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,577,https://www.southampton.ac.uk/courses/maritime-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,578,https://www.southampton.ac.uk/courses/mechanical-engineering-mechatronics-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,578,https://www.southampton.ac.uk/courses/mechanical-engineering-mechatronics-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,580,https://www.southampton.ac.uk/courses/mechanical-engineering-biomedical-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,580,https://www.southampton.ac.uk/courses/mechanical-engineering-biomedical-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,581,https://www.southampton.ac.uk/courses/mechanical-engineering-automotive-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,581,https://www.southampton.ac.uk/courses/mechanical-engineering-automotive-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,582,https://www.southampton.ac.uk/courses/aeronautics-astronautics-spacecraft-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,582,https://www.southampton.ac.uk/courses/aeronautics-astronautics-spacecraft-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,586,https://www.southampton.ac.uk/courses/mechanical-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,590,https://www.southampton.ac.uk/courses/acoustical-engineering-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,591,https://www.southampton.ac.uk/courses/mechatronic-engineering-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,592,https://www.southampton.ac.uk/courses/mechatronic-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,599,https://www.southampton.ac.uk/courses/civil-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,6,https://www.southampton.ac.uk/courses/biology-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,600,https://www.southampton.ac.uk/courses/acoustical-engineering-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,601,https://www.southampton.ac.uk/courses/aeronautics-astronautics-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,602,https://www.southampton.ac.uk/courses/aerospace-electronic-engineering-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,603,https://www.southampton.ac.uk/courses/aerospace-electronic-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,604,https://www.southampton.ac.uk/courses/ancient-history-archaeology-with-year-abroad-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,604,https://www.southampton.ac.uk/courses/ancient-history-archaeology-with-year-abroad-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,605,https://www.southampton.ac.uk/courses/ancient-history-history-with-year-abroad-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,607,https://www.southampton.ac.uk/courses/ancient-history-with-year-abroad-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,61,https://www.southampton.ac.uk/courses/law-degree-llb,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,614,https://www.southampton.ac.uk/courses/civil-engineering-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,615,https://www.southampton.ac.uk/courses/computer-science-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,616,https://www.southampton.ac.uk/courses/english-language-linguistics-with-year-abroad-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,62,https://www.southampton.ac.uk/courses/law-accelerated-programme-degree-llb,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,623,https://www.southampton.ac.uk/courses/mechanical-engineering-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,625,https://www.southampton.ac.uk/courses/philosophy-ethics-religion-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,626,https://www.southampton.ac.uk/courses/philosophy-ethics-religion-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,627,https://www.southampton.ac.uk/courses/philosophy-politics-economics-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,627,https://www.southampton.ac.uk/courses/philosophy-politics-economics-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,627,https://www.southampton.ac.uk/courses/philosophy-politics-economics-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,629,https://www.southampton.ac.uk/courses/maritime-engineering-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,63,https://www.southampton.ac.uk/courses/european-legal-studies-degree-llb,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,630,https://www.southampton.ac.uk/courses/software-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,64,https://www.southampton.ac.uk/courses/international-legal-studies-degree-llb,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,650,https://www.southampton.ac.uk/courses/acoustical-engineering-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,651,https://www.southampton.ac.uk/courses/acoustical-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,652,https://www.southampton.ac.uk/courses/aeronautics-astronautics-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,653,https://www.southampton.ac.uk/courses/aeronautics-astronautics-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,654,https://www.southampton.ac.uk/courses/aerospace-electronic-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,655,https://www.southampton.ac.uk/courses/biology-marine-biology-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,655,https://www.southampton.ac.uk/courses/biology-marine-biology-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,657,https://www.southampton.ac.uk/courses/civil-engineering-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,658,https://www.southampton.ac.uk/courses/civil-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,659,https://www.southampton.ac.uk/courses/fashion-design-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,660,https://www.southampton.ac.uk/courses/sustainable-luxury-textiles-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,661,https://www.southampton.ac.uk/courses/marine-biology-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,662,https://www.southampton.ac.uk/courses/chemistry-degree-mchem,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,663,https://www.southampton.ac.uk/courses/mechanical-engineering-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,664,https://www.southampton.ac.uk/courses/mechanical-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,665,https://www.southampton.ac.uk/courses/maritime-engineering-degree-beng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,666,https://www.southampton.ac.uk/courses/maritime-engineering-degree-meng,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,667,https://www.southampton.ac.uk/courses/marine-biology-with-oceanography-degree-msci,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,667,https://www.southampton.ac.uk/courses/marine-biology-with-oceanography-degree-msci,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,671,https://www.southampton.ac.uk/courses/audiology-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,672,https://www.southampton.ac.uk/courses/audiology-degree-msci,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,673,https://www.southampton.ac.uk/courses/nursing-child-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,674,https://www.southampton.ac.uk/courses/nursing-adult-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,675,https://www.southampton.ac.uk/courses/nursing-mental-health-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,676,https://www.southampton.ac.uk/courses/nursing-adult-child-degree-mnurs,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,676,https://www.southampton.ac.uk/courses/nursing-adult-child-degree-mnurs,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,677,https://www.southampton.ac.uk/courses/nursing-adult-mental-health-degree-mnurs,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,677,https://www.southampton.ac.uk/courses/nursing-adult-mental-health-degree-mnurs,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,678,https://www.southampton.ac.uk/courses/nursing-child-mental-health-degree-mnurs,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,678,https://www.southampton.ac.uk/courses/nursing-child-mental-health-degree-mnurs,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,681,https://www.southampton.ac.uk/courses/english-with-creative-writing-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,687,https://www.southampton.ac.uk/courses/environmental-geoscience-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,688,https://www.southampton.ac.uk/courses/environmental-geoscience-degree-msci,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,690,https://www.southampton.ac.uk/courses/economics-with-data-science-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,7,https://www.southampton.ac.uk/courses/zoology-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,70,https://www.southampton.ac.uk/courses/accounting-finance-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,70,https://www.southampton.ac.uk/courses/accounting-finance-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,73,https://www.southampton.ac.uk/courses/fine-art-degree-ba,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,77,https://www.southampton.ac.uk/courses/marketing-with-placement-year-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,78,https://www.southampton.ac.uk/courses/psychology-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,8,https://www.southampton.ac.uk/courses/biochemistry-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,80,https://www.southampton.ac.uk/courses/geography-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,83,https://www.southampton.ac.uk/courses/mathematics-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,85,https://www.southampton.ac.uk/courses/mathematics-degree-mmath,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,86,https://www.southampton.ac.uk/courses/mathematical-sciences-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,9,https://www.southampton.ac.uk/courses/chemistry-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,90,https://www.southampton.ac.uk/courses/mathematics-with-statistics-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,90,https://www.southampton.ac.uk/courses/mathematics-with-statistics-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,91,https://www.southampton.ac.uk/courses/mathematics-with-computer-science-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,91,https://www.southampton.ac.uk/courses/mathematics-with-computer-science-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,93,https://www.southampton.ac.uk/courses/mathematics-with-actuarial-science-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,93,https://www.southampton.ac.uk/courses/mathematics-with-actuarial-science-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,94,https://www.southampton.ac.uk/courses/mathematics-with-finance-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
-10007158,94,https://www.southampton.ac.uk/courses/mathematics-with-finance-degree-bsc,"University Road, Southampton, SO17 1BJ",University of Southampton
+kiscourseid
+10
+100
+1002
+1003
+1004
+1005
+1006
+1008
+101
+1011
+1014
+1015
+1016
+1017
+1018
+1019
+102
+1020
+1021
+1022
+1023
+1025
+1026
+1027
+1028
+1029
+103
+1030
+1031
+1032
+1033
+104
+105
+106
+107
+108
+1080
+1081
+1082
+1083
+1084
+1085
+1087
+1088
+1089
+1091
+1092
+1093
+1094
+1095
+1096
+1097
+1098
+1099
+11
+110
+1100
+1101
+1102
+1103
+1104
+1105
+1106
+1107
+1108
+1110
+1111
+1112
+1113
+1114
+1115
+1116
+1117
+1118
+1119
+1120
+1121
+1122
+1123
+1124
+1125
+1126
+1127
+1129
+113
+1130
+1131
+1132
+1133
+1134
+1135
+1136
+1137
+1138
+1139
+1140
+1141
+1142
+1143
+1145
+1146
+1147
+1148
+1149
+1150
+1151
+1152
+1153
+1154
+1155
+1156
+1157
+1158
+1159
+1160
+1161
+1162
+1163
+1165
+1166
+1167
+1168
+1169
+1170
+1173
+1174
+1175
+1176
+1177
+1178
+118
+12
+122
+128
+129
+13
+134
+135
+137
+15
+16
+162
+163
+164
+166
+168
+169
+172
+173
+175
+188
+190
+193
+194
+195
+197
+198
+200
+203
+205
+207
+208
+21
+210
+213
+217
+218
+227
+23
+230
+231
+235
+236
+238
+239
+240
+244
+245
+248
+249
+25
+250
+251
+252
+253
+254
+256
+257
+260
+27
+340
+341
+345
+346
+348
+35
+358
+36
+376
+383
+4
+40
+404
+405
+406
+408
+41
+411
+412
+414
+416
+417
+418
+419
+421
+422
+424
+425
+426
+427
+431
+433
+434
+435
+436
+437
+439
+44
+440
+441
+442
+443
+445
+446
+448
+45
+450
+451
+453
+454
+455
+456
+458
+459
+460
+480
+481
+482
+483
+488
+489
+5
+500
+504
+505
+506
+508
+51
+510
+511
+514
+515
+516
+518
+519
+524
+526
+528
+530
+531
+534
+540
+541
+544
+545
+546
+547
+548
+549
+550
+553
+554
+557
+559
+560
+561
+566
+569
+571
+572
+573
+574
+577
+578
+580
+581
+582
+586
+590
+591
+592
+599
+6
+600
+601
+602
+603
+604
+605
+607
+61
+614
+615
+616
+62
+623
+625
+626
+627
+629
+63
+630
+64
+650
+651
+652
+653
+654
+655
+657
+658
+659
+660
+661
+662
+663
+664
+665
+666
+667
+671
+672
+673
+674
+675
+676
+677
+678
+681
+687
+688
+690
+7
+70
+73
+77
+78
+8
+80
+83
+85
+86
+9
+90
+91
+93
+94
