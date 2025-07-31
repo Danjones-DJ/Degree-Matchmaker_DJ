@@ -1,7 +1,6 @@
 ukprn,university,kiscourseid,title,crseurl
 10007143,Durham University,B991,Health and Human Sciences,https://www.durham.ac.uk/study/courses/b991/
 10007143,Durham University,C103,Biological Sciences,https://www.durham.ac.uk/study/courses/c103/
-10007143,Durham University,C104,Biological Sciences,https://www.durham.ac.uk/study/courses/c104/
 10007143,Durham University,C107,Biosciences,https://www.durham.ac.uk/study/courses/c107/
 10007143,Durham University,C603,"Sport, Exercise and Physical Activity",https://www.durham.ac.uk/study/courses/c603/
 10007143,Durham University,C604,"Sport, Exercise and Physical Activity",https://www.durham.ac.uk/study/courses/c604/
@@ -39,7 +38,6 @@ ukprn,university,kiscourseid,title,crseurl
 10007143,Durham University,G114,Mathematics with Statistics,https://www.durham.ac.uk/study/courses/g114/
 10007143,Durham University,G400,Computer Science,https://www.durham.ac.uk/study/courses/g400/
 10007143,Durham University,G402,Computer Science,https://www.durham.ac.uk/study/courses/g402/
-10007143,Durham University,G406,Computer Science,https://www.durham.ac.uk/study/courses/g406/
 10007143,Durham University,H100,General Engineering,https://www.durham.ac.uk/study/courses/h100/
 10007143,Durham University,H103,General Engineering,https://www.durham.ac.uk/study/courses/h103/
 10007143,Durham University,H211,Engineering (Civil),https://www.durham.ac.uk/study/courses/h211/
@@ -52,15 +50,12 @@ ukprn,university,kiscourseid,title,crseurl
 10007143,Durham University,H711,Engineering (Electronic),https://www.durham.ac.uk/study/courses/h711/
 10007143,Durham University,H714,Engineering (Electronic),https://www.durham.ac.uk/study/courses/h714/
 10007143,Durham University,H811,Engineering (Renewable Energy),https://www.durham.ac.uk/study/courses/h811/
-10007143,Durham University,L100,Economics,https://www.durham.ac.uk/study/courses/business-school-courses/l100/
-10007143,Durham University,L101,Economics,https://www.durham.ac.uk/study/courses/l101/
-10007143,Durham University,L103,Economics with Management,https://www.durham.ac.uk/study/courses/business-school-courses/l103/
+10007143,Durham University,L100,Economics,https://www.durham.ac.uk/business/courses/economics-l100/
+10007143,Durham University,L103,Economics with Management,https://www.durham.ac.uk/business/courses/economics-with-management-l103/
 10007143,Durham University,L200,Politics,https://www.durham.ac.uk/study/courses/l200/
-10007143,Durham University,L201,Politics,https://www.durham.ac.uk/study/courses/l201/
 10007143,Durham University,L250,International Relations,https://www.durham.ac.uk/study/courses/l250/
 10007143,Durham University,L253,Politics and International Relations,https://www.durham.ac.uk/study/courses/l253/
 10007143,Durham University,L300,Sociology,https://www.durham.ac.uk/study/courses/l300/
-10007143,Durham University,L301,Sociology,https://www.durham.ac.uk/study/courses/l301/
 10007143,Durham University,L370,Criminology,https://www.durham.ac.uk/study/courses/l370/
 10007143,Durham University,L372,Criminology,https://www.durham.ac.uk/study/courses/l372/
 10007143,Durham University,L601,Anthropology,https://www.durham.ac.uk/study/courses/l601/
@@ -73,43 +68,33 @@ ukprn,university,kiscourseid,title,crseurl
 10007143,Durham University,LA00,Liberal Arts,https://www.durham.ac.uk/study/courses/la00/
 10007143,Durham University,LA01,Liberal Arts,https://www.durham.ac.uk/study/courses/la01/
 10007143,Durham University,LF64,Anthropology and Archaeology,https://www.durham.ac.uk/study/courses/lf64/
-10007143,Durham University,LL12,Economics and Politics,https://www.durham.ac.uk/study/courses/business-school-courses/ll12/
+10007143,Durham University,LL12,Economics and Politics,https://www.durham.ac.uk/business/courses/economics-and-politics-ll12/
 10007143,Durham University,LL36,Anthropology and Sociology,https://www.durham.ac.uk/study/courses/ll36/
 10007143,Durham University,LMV0,Combined Social Sciences,https://www.durham.ac.uk/study/courses/lmv0/
 10007143,Durham University,LV00,Combined Social Sciences,https://www.durham.ac.uk/study/courses/lv00/
 10007143,Durham University,LV25,Philosophy and Politics,https://www.durham.ac.uk/study/courses/lv25/
 10007143,Durham University,M101,Law,https://www.durham.ac.uk/study/courses/m101/
 10007143,Durham University,M102,Law,https://www.durham.ac.uk/study/courses/m102/
-10007143,Durham University,N201,Business and Management,https://www.durham.ac.uk/study/courses/business-school-courses/n201/
-10007143,Durham University,N209,Accounting and Management,https://www.durham.ac.uk/study/courses/n209/
-10007143,Durham University,N305,Finance,https://www.durham.ac.uk/study/courses/business-school-courses/n305/
-10007143,Durham University,N308,Finance,https://www.durham.ac.uk/study/courses/n308/
-10007143,Durham University,N408,Accounting,https://www.durham.ac.uk/study/courses/business-school-courses/n408/
-10007143,Durham University,N509,Marketing and Management,https://www.durham.ac.uk/study/courses/business-school-courses/n509/
-10007143,Durham University,N512,Marketing & Management,https://www.durham.ac.uk/study/courses/n512/
-10007143,Durham University,NN21,Business and Management,https://www.durham.ac.uk/study/courses/nn21/
-10007143,Durham University,NN43,Accounting and Finance,https://www.durham.ac.uk/study/courses/business-school-courses/nn43/
-10007143,Durham University,NN4H,Accounting and Finance,https://www.durham.ac.uk/study/courses/nn4h/
+10007143,Durham University,N201,Business and Management,https://www.durham.ac.uk/business/courses/business-and-management-n201/
+10007143,Durham University,N305,Finance,https://www.durham.ac.uk/business/courses/finance-2c77/
+10007143,Durham University,N408,Accounting,https://www.durham.ac.uk/business/courses/accounting-n408/
+10007143,Durham University,N509,Marketing and Management,https://www.durham.ac.uk/business/courses/marketing-and-management-n509/
+10007143,Durham University,NN43,Accounting and Finance,https://www.durham.ac.uk/business/courses/accounting-and-finance-nn43/
 10007143,Durham University,Q300,English Literature,https://www.durham.ac.uk/study/courses/q300/
-10007143,Durham University,Q301,English,https://www.durham.ac.uk/study/courses/q301/
 10007143,Durham University,Q801,Classics,https://www.durham.ac.uk/study/courses/q801/
-10007143,Durham University,Q805,Classics,https://www.durham.ac.uk/study/courses/q805/
 10007143,Durham University,Q820,Classical Civilisation,https://www.durham.ac.uk/study/courses/q820/
 10007143,Durham University,QV21,English Literature and History,https://www.durham.ac.uk/study/courses/qv21/
 10007143,Durham University,QV35,English Literature and Philosophy,https://www.durham.ac.uk/study/courses/qv35/
 10007143,Durham University,R002,Modern Languages and Culture,https://www.durham.ac.uk/study/courses/r002/
 10007143,Durham University,RV91,Modern European Languages and History,https://www.durham.ac.uk/study/courses/rv92/
 10007143,Durham University,T102,Chinese Studies,https://www.durham.ac.uk/study/courses/t102/
-10007143,Durham University,T103,Chinese Studies,https://www.durham.ac.uk/study/courses/t103/
 10007143,Durham University,T202,Japanese Studies,https://www.durham.ac.uk/study/courses/t202/
 10007143,Durham University,V100,History,https://www.durham.ac.uk/study/courses/v100/
 10007143,Durham University,V101,"Ancient, Medieval and Modern History",https://www.durham.ac.uk/study/courses/v101/
-10007143,Durham University,V102,History,https://www.durham.ac.uk/study/courses/v102/
 10007143,Durham University,V110,Ancient History,https://www.durham.ac.uk/study/courses/v110/
-10007143,Durham University,V400,Archaeology,https://www.durham.ac.uk/study/courses/v400/
 10007143,Durham University,V500,Philosophy,https://www.durham.ac.uk/study/courses/v500/
 10007143,Durham University,V501,Philosophy,https://www.durham.ac.uk/study/courses/v501/
-10007143,Durham University,V614,Theology & Religion,https://www.dur.ac.uk/courses/info/?id=26464&title=Theology+and+Religion&code=V614&type=BA&year=2021
+10007143,Durham University,V614,Theology & Religion,https://www.durham.ac.uk/study/courses/theology-and-religion-v614/
 10007143,Durham University,V616,Theology and Religion,https://www.durham.ac.uk/study/courses/v616/
 10007143,Durham University,V617,"Religion, Society and Culture",https://www.durham.ac.uk/study/courses/v617/
 10007143,Durham University,VA01,Visual Arts and Film,https://www.durham.ac.uk/study/courses/va01/
@@ -118,10 +103,8 @@ ukprn,university,kiscourseid,title,crseurl
 10007143,Durham University,VQ48,Archaeology and Ancient Civilisations,https://www.durham.ac.uk/study/courses/vq48/
 10007143,Durham University,VV56,Philosophy and Theology,https://www.durham.ac.uk/study/courses/vv56/
 10007143,Durham University,W300,Music,https://www.durham.ac.uk/study/courses/w300/
-10007143,Durham University,W301,Music,https://www.durham.ac.uk/study/courses/w301/
 10007143,Durham University,WV53,Music and Philosophy,https://www.durham.ac.uk/study/courses/wv53/
 10007143,Durham University,X101,Primary Education,https://www.durham.ac.uk/study/courses/x101/
-10007143,Durham University,X120,Primary Education,https://www.durham.ac.uk/study/courses/x120/
 10007143,Durham University,X1C8,Education Studies - Psychology,https://www.durham.ac.uk/study/courses/x1c8/
 10007143,Durham University,X1F8,Education Studies - Geography,https://www.durham.ac.uk/study/courses/x1f8/
 10007143,Durham University,X301,Education Studies,https://www.durham.ac.uk/study/courses/x301/
