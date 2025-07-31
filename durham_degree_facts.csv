@@ -1,16 +1,15 @@
 kiscourseid,url,degree_type,degree_title,a_level_grade_req,a_level_subject_reqs,ib_grade_req,ib_subject_req
 B991,https://www.durham.ac.uk/study/courses/b991/,BSc,Health and Human Sciences,AAB,A level offer – AAB Contextual offer – BCC,36,IB Diploma score – 36 with 665 in higher level subjects.
 C103,https://www.durham.ac.uk/study/courses/c103/,BSc,Biological Sciences,AAA,A level offer – AAA,37,IB Diploma score – 37 with 666 in higher level subjects including Biology or Chemistry plus another higher level science subject.
-C104,https://www.durham.ac.uk/study/courses/c104/,,,,,,
 C107,https://www.durham.ac.uk/study/courses/c107/,MBiol,Biosciences,AAA,A level offer – AAA,37,IB Diploma score – 37 with 666 in higher level subjects including Biology or Chemistry plus another higher level science subject.
 C603,https://www.durham.ac.uk/study/courses/c603/,BA,"Sport, Exercise and Physical Activity",AAB,A level offer – AAB Contextual offer – BBB/ABC,36,IB Diploma score – 36 with 665 in higher level subjects.
-C604,https://www.durham.ac.uk/study/courses/c604/,,,,,,
+C604,https://www.durham.ac.uk/study/courses/c604/,BA,"Sport, Exercise and Physical Activity with Foundation",none,none,none,none
 C606,https://www.durham.ac.uk/study/courses/c606/,BSc,Sport and Exercise Sciences,AAB,A level offer – AAB Contextual offer – BBB/ABC,36,IB Diploma score – 36 with 665 in higher level subjects.
 C702,https://www.durham.ac.uk/study/courses/c702/,BSc,Biochemistry,AAA,A level offer – AAA,37,IB Diploma score – 37 with 666 in higher level subjects including Chemistry and Mathematics.
 C800,https://www.durham.ac.uk/study/courses/c800/,BSc,Psychology,AAA,A level offer – AAA Contextual offer – BBB,37,IB Diploma score – 37 with 666 in higher level subjects
 C807,https://www.durham.ac.uk/study/courses/c807/,BSc,Psychological and Behavioural Science,AAA,A level offer – AAA Contextual offer – BBB,37,IB Diploma score – 37 with 666 in higher level subjects
-C811,https://www.durham.ac.uk/study/courses/c819/,,,,,,
-C819,https://www.durham.ac.uk/study/courses/c819/,,,,,,
+C811,https://www.durham.ac.uk/study/courses/c819/,BSc,Psychology with Foundation,none,none,none,none
+C819,https://www.durham.ac.uk/study/courses/c819/,BSc,Psychology with Foundation,none,none,none,none
 CFG0,https://www.durham.ac.uk/study/courses/cfg0/,BSc,Natural Sciences,A*AA,A level offer – A*AA,38,IB Diploma score – 38 All applicants taking the International Baccalaureate will need a score of 38 points overall including either 766 or 666 at the Higher Level with at least one of these in a Science (Biology; Chemistry; Mathematics (analysis & approaches); Physics.) You will need specific Higher Level grades to study:
 CL86,https://www.durham.ac.uk/study/courses/cl86/,BSc,Psychology and Anthropology,AAA,A level offer – AAA Contextual offer – BBB,37,"IB Diploma score – 37 with 666 in higher level subjects. No specific subjects are required, and a combination of arts and science subjects is acceptable."
 CV85,https://www.durham.ac.uk/study/courses/cv85/,BA,Philosophy and Psychology,AAA,A level offer – AAA,37,"IB Diploma score – 37 with 666 in higher level subjects, including standard level Mathematics."
@@ -23,7 +22,7 @@ F301,https://www.durham.ac.uk/study/courses/f301/,MPhys,Physics,A*A*A,A level of
 F344,https://www.durham.ac.uk/study/courses/f344/,MPhys,Theoretical Physics,A*A*A,A level offer – A*A*A,38,"IB Diploma score – 38 with 776 in higher level subjects, including Mathematics (maths analysis & approaches) and Physics."
 F400,https://www.durham.ac.uk/study/courses/f400/,BA,Archaeology,AAB,A level offer – AAB Contextual offer – BCC,36,IB Diploma score – 36 to include 665 in higher level subjects.
 F402,https://www.durham.ac.uk/study/courses/f402/,BSc,Archaeology,AAB,A level offer – AAB Contextual offer – BCC,36,IB Diploma score – 36 to include 665 in higher level subjects.
-F403,https://www.durham.ac.uk/study/courses/f403/,,,,,,
+F403,https://www.durham.ac.uk/study/courses/f403/,BSc,Archaeology with Foundation,none,none,none,none
 F600,https://www.durham.ac.uk/study/courses/f600/,BSc,Geology,AAB,A level offer – AAB,36,"IB Diploma score – 36 with 665 in higher level subjects, including two science subjects from list above."
 F630,https://www.durham.ac.uk/study/courses/f630/,BSc,Environmental Geoscience,AAB,A level offer – AAB,36,"IB Diploma score – 36 with 665 in higher level subjects, including two science subjects from list above."
 F643,https://www.durham.ac.uk/study/courses/f643/,BSc,Geoscience,AAB,A level offer – AAB,36,"IB Diploma score – 36 with 665 in higher level subjects, including two science subjects from the list above."
@@ -38,8 +37,7 @@ G103,https://www.durham.ac.uk/study/courses/g103/,MMath,Mathematics,A*A*A,A leve
 G111,https://www.durham.ac.uk/study/courses/g111/,BSc,Mathematics and Statistics,A*A*A,A level offer – A*A*A,38,"IB Diploma score – 38 with 776 in higher level subjects, including a 7 in Higher Level Mathematics (Analysis & Approaches) or 766 in higher level subjects, including a 7 in Higher Level Mathematics (Analysis & Approaches) and a suitable performance in an accepted mathematics test."
 G114,https://www.durham.ac.uk/study/courses/g114/,MMath,Mathematics and Statistics,A*A*A,A level offer – A*A*A,38,"IB Diploma score – 38 with 776 in higher level subjects, including a 7 in Higher Level Mathematics (Analysis & Approaches) or 766 in higher level subjects, including a 7 in Higher Level Mathematics (Analysis & Approaches) and a suitable performance in an accepted mathematics test."
 G400,https://www.durham.ac.uk/study/courses/g400/,BSc,Computer Science,A*AA,A level offer – A*AA,38,"IB Diploma score – 38 with 666 in higher level subjects, including Mathematics."
-G402,https://www.durham.ac.uk/study/courses/g402/,,,,,,
-G406,https://www.durham.ac.uk/study/courses/g406/,,,,,,
+G402,https://www.durham.ac.uk/study/courses/g402/,BSc,Computer Science with Foundation,none,none,none,none
 H100,https://www.durham.ac.uk/study/courses/h100/,MEng,General Engineering,A*AA,A level offer – A*AA,38,"IB Diploma score – 38 with 666 in higher level subjects including Mathematics and one STEM subject (Biology, Chemistry or Physics)."
 H103,https://www.durham.ac.uk/study/courses/h103/,BEng,General Engineering,A*AA,A level offer – A*AA,38,"IB Diploma score – 38 with 666 in higher level subjects, including Mathematics and one STEM subject (Biology, Chemistry or Physics)."
 H211,https://www.durham.ac.uk/study/courses/h211/,MEng,Engineering (Civil),A*AA,A level offer – A*AA,38,"IB Diploma score – 38 with 666 in higher level subjects including Mathematics and one STEM subject (Biology, Chemistry or Physics)."
@@ -52,65 +50,52 @@ H514,https://www.durham.ac.uk/study/courses/h514/,BEng,Engineering (Electrical),
 H711,https://www.durham.ac.uk/study/courses/h711/,MEng,Engineering (Electronic),A*AA,A level offer – A*AA,38,"IB Diploma score – 38 with 666 in higher level subjects including Mathematics and one STEM subject (Biology, Chemistry or Physics)."
 H714,https://www.durham.ac.uk/study/courses/h714/,BEng,Engineering (Electronic),A*AA,A level offer – A*AA,38,"IB Diploma score – 38 with 666 in higher level subjects, including Mathematics and one STEM subject (Biology, Chemistry or Physics)."
 H811,https://www.durham.ac.uk/study/courses/h811/,MEng,Engineering (Renewable Energy),A*AA,A level offer – A*AA,38,"IB Diploma score – 38 with 666 in higher level subjects including Mathematics and one STEM subject (Biology, Chemistry or Physics)."
-L100,https://www.durham.ac.uk/study/courses/business-school-courses/l100/,,,,,,
-L101,https://www.durham.ac.uk/study/courses/l101/,,,,,,
-L103,https://www.durham.ac.uk/study/courses/business-school-courses/l103/,,,,,,
+L100,https://www.durham.ac.uk/business/courses/economics-l100/,BSc,Economics,A*AA,A level offer – A*AA,38,"IB Diploma score – 38 with 666 in higher level subjects, including Mathematics. If you are not taking Mathematics at higher level, we can accept standard level Mathematics at grade 7."
+L103,https://www.durham.ac.uk/business/courses/economics-with-management-l103/,BSc,Economics with Management,A*AA,A level offer – A*AA,38,"IB Diploma score – 38 with 666 in higher level subjects, including Mathematics. If you are not taking Mathematics at higher level, we can accept standard level Mathematics at grade 7."
 L200,https://www.durham.ac.uk/study/courses/l200/,BA,Politics,AAA,A level offer – AAA,37,"IB Diploma score – 37 with 666 in higher level subjects, including a social sciences or humanities subject"
-L201,https://www.durham.ac.uk/study/courses/l201/,,,,,,
 L250,https://www.durham.ac.uk/study/courses/l250/,BA,International Relations,AAA,A level offer – AAA,37,"IB Diploma score – 37 with 666 in higher level subjects, including a social sciences or humanities subject."
 L253,https://www.durham.ac.uk/study/courses/l253/,BA,Politics and International Relations,AAA,A level offer – AAA,37,"IB Diploma score – 37 with 666 in higher level subjects, including a social sciences or humanities subject"
 L300,https://www.durham.ac.uk/study/courses/l300/,BA,Sociology,AAB,A level offer – AAB Contextual offer – BCC,36,IB Diploma score – 36 with 665 in higher level subjects
-L301,https://www.durham.ac.uk/study/courses/l301/,,,,,,
 L370,https://www.durham.ac.uk/study/courses/l370/,BA,Criminology,AAB,A level offer – AAB Contextual offer – BBC,36,IB Diploma score – 36 with 665 in higher level subjects.
-L372,https://www.durham.ac.uk/study/courses/l372/,,,,,,
+L372,https://www.durham.ac.uk/study/courses/l372/,BA,Criminology with Foundation,none,none,none,none
 L601,https://www.durham.ac.uk/study/courses/l601/,BSc,Anthropology,AAB,A level offer – AAB Contextual offer – BCC,36,IB Diploma score – 36 with 665 in higher level subjects.
 L602,https://www.durham.ac.uk/study/courses/l602/,BA,Anthropology,AAB,A level offer – AAB Contextual offer – BCC,36,IB Diploma score – 36 with 665 in higher level subjects.
-L603,https://www.durham.ac.uk/study/courses/l603/,,,,,,
-L608,https://www.durham.ac.uk/study/courses/l608/,,,,,,
-L691,https://www.durham.ac.uk/study/courses/l691/,,,,,,
-L700,https://www.durham.ac.uk/study/courses/l700/,,,,,,
+L603,https://www.durham.ac.uk/study/courses/l603/,BSc,Anthropology with Foundation,none,none,none,none
+L608,https://www.durham.ac.uk/study/courses/l608/,BA,Anthropology with Foundation,none,none,none,none
+L691,https://www.durham.ac.uk/study/courses/l691/,BSc,Health and Human Sciences with Foundation,none,none,none,none
+L700,https://www.durham.ac.uk/study/courses/l700/,BA,Geography with Foundation,none,none,none,none
 L702,https://www.durham.ac.uk/study/courses/l702/,BA,Geography,A*AA,A level offer – A*AA Contextual offer – ABB,38,IB Diploma score – 38 with 666 in higher level subjects.
-LA00,https://www.durham.ac.uk/study/courses/la00/,,,,,,
+LA00,https://www.durham.ac.uk/study/courses/la00/,BA,Liberal Arts with Foundation,none,none,none,none
 LA01,https://www.durham.ac.uk/study/courses/la01/,BA,Liberal Arts,A*AA,A level offer – A*AA,38,IB Diploma score – 38 with 666 in higher level subjects. Subject requirements as listed above for A level.
 LF64,https://www.durham.ac.uk/study/courses/lf64/,BA,Anthropology and Archaeology,AAB,A level offer – AAB Contextual offer – BCC,36,IB Diploma score – 36 with 665 in higher level subjects.
-LL12,https://www.durham.ac.uk/study/courses/business-school-courses/ll12/,,,,,,
+LL12,https://www.durham.ac.uk/business/courses/economics-and-politics-ll12/,BA,Economics and Politics,A*AA,A level offer – A*AA,38,"IB Diploma score – 38 with 666 in higher level subjects, including Mathematics and a social science or humanities subject. If you are not taking Mathematics at higher level, we can accept standard level Mathematics at grade 7. We do not accept 'Mathematical Studies' at standard level to meet this requirement."
 LL36,https://www.durham.ac.uk/study/courses/ll36/,BA,Anthropology and Sociology,AAB,A level offer – AAB Contextual offer – BCC,36,IB Diploma score – 36 with 665 in higher level subjects
 LMV0,https://www.durham.ac.uk/study/courses/lmv0/,BA,Combined Honours in Social Sciences,A*AA,A level offer – A*AA,38,IB Diploma score – 38 with 666 in higher level subjects. Subject requirements as listed above for A level. Students wishing to study the subjects listed above would need to achieve Higher Level grade 6 in the subject. For students wishing to study Economics we are happy to accept Higher Level Maths Analysis at grade 6 or Higher Level Maths Applications at grade 6. Alternatively we can accept Standard Level Maths Analysis at grade 7 or Standard Level Maths Applications at grade 7.
-LV00,https://www.durham.ac.uk/study/courses/lv00/,,,,,,
+LV00,https://www.durham.ac.uk/study/courses/lv00/,BA,Combined Honours in Social Sciences with Foundation,none,none,none,none
 LV25,https://www.durham.ac.uk/study/courses/lv25/,BA,Philosophy and Politics,AAA,A level offer – AAA,37,"IB Diploma score – 37 with 666 in higher level subjects, including a social sciences or humanities subject."
 M101,https://www.durham.ac.uk/study/courses/m101/,LLB,Law,A*AA,A level offer – A*AA Contextual offer – AAB,38,IB Diploma score – 38 with 666 in higher level subjects.
-M102,https://www.durham.ac.uk/study/courses/m102/,,,,,,
-N201,https://www.durham.ac.uk/study/courses/business-school-courses/n201/,,,,,,
-N209,https://www.durham.ac.uk/study/courses/n209/,,,,,,
-N305,https://www.durham.ac.uk/study/courses/business-school-courses/n305/,,,,,,
-N308,https://www.durham.ac.uk/study/courses/n308/,,,,,,
-N408,https://www.durham.ac.uk/study/courses/business-school-courses/n408/,,,,,,
-N509,https://www.durham.ac.uk/study/courses/business-school-courses/n509/,,,,,,
-N512,https://www.durham.ac.uk/study/courses/n512/,,,,,,
-NN21,https://www.durham.ac.uk/study/courses/nn21/,,,,,,
-NN43,https://www.durham.ac.uk/study/courses/business-school-courses/nn43/,,,,,,
-NN4H,https://www.durham.ac.uk/study/courses/nn4h/,,,,,,
+M102,https://www.durham.ac.uk/study/courses/m102/,LLB,Law with Foundation,none,none,none,none
+N201,https://www.durham.ac.uk/business/courses/business-and-management-n201/,BA,Business and Management,AAB,A level offer – AAB,36,"IB Diploma score – 36 to include 665 in higher-level subjects, including Mathematics. If you are not taking Mathematics at higher level, we can accept standard level Mathematics at grade 5."
+N305,https://www.durham.ac.uk/business/courses/finance-2c77/,BSc,Finance,AAB,A level offer – AAB,36,"IB Diploma score – 36 with 665 in higher level subjects. If Mathematics is not taken at higher level, then it is required at standard level 5. If you are not taking Mathematics at higher level, we can accept standard level Mathematics at grade 5."
+N408,https://www.durham.ac.uk/business/courses/accounting-n408/,BSc,Accounting,AAB,A level offer – AAB,36,"IB Diploma score – 36 to include 665 in higher-level subjects. If Mathematics is not taken at a higher level, then it is required at standard level 6. If you are not taking Mathematics at higher level, we can accept standard level Mathematics at grade 5."
+N509,https://www.durham.ac.uk/business/courses/marketing-and-management-n509/,BA,Marketing and Management,AAA,A level offer – AAA,37,"IB Diploma score – 37 with 666 in higher level subjects, including Mathematics. If you are not taking Mathematics at higher level, we can accept standard level Mathematics at grade 5."
+NN43,https://www.durham.ac.uk/business/courses/accounting-and-finance-nn43/,BSc,Accounting and Finance,AAB,A level offer – AAB,36,"IB Diploma score – 36 with 665 in higher level subjects. If Mathematics is not taken at higher level, then it is required at standard level 5. and a grade B/6 or above in GCSE Mathematics (if Mathematics is not studied within BTEC/Cambridge Technical)."
 Q300,https://www.durham.ac.uk/study/courses/q300/,BA,English Literature,A*AA,A level offer – A*AA,38,"IB Diploma score – 38 with 666 in higher level subjects, including English Literature or English Literature/Language."
-Q301,https://www.durham.ac.uk/study/courses/q301/,,,,,,
 Q801,https://www.durham.ac.uk/study/courses/q801/,BA,Classics,AAA,A level offer – AAA Contextual offer – BBB,37,IB Diploma score – 37 with 666 in higher level subjects.
-Q805,https://www.durham.ac.uk/study/courses/q805/,,,,,,
 Q820,https://www.durham.ac.uk/study/courses/q820/,BA,Classical Civilisation,AAA,A level offer – AAA Contextual offer – BBB,37,IB Diploma score – 37 with 666 in higher level subjects.
 QV21,https://www.durham.ac.uk/study/courses/qv21/,BA,English Literature and History,A*AA,A level offer – A*AA,38,"IB Diploma score – 38 with 666 in higher level subjects, including History and English Literature or English Literature/Language."
 QV35,https://www.durham.ac.uk/study/courses/qv35/,BA,English Literature and Philosophy,A*AA,A level offer – A*AA,38,"IB Diploma score – 38 with 666 in higher level subjects, including English Literature or English Literature/Language."
 R002,https://www.durham.ac.uk/study/courses/r002/,BA,Modern Languages and Cultures with Year Abroad,AAA,A level offer – AAA,37,IB Diploma score – 37 with 666 in higher level subjects. Please see above for required languages
 RV91,https://www.durham.ac.uk/study/courses/rv92/,BA,Modern European Languages and History with Year Abroad,AAA,A level offer – AAA,37,IB Diploma score – 37 with 666 in higher level subjects. Please see above for required languages.
 T102,https://www.durham.ac.uk/study/courses/t102/,BA,Chinese Studies with Year Abroad,AAB,A level offer – AAB,36,IB Diploma score – 36 with 665 in higher level subjects. Please see above for subject requirements.
-T103,https://www.durham.ac.uk/study/courses/t103/,,,,,,
 T202,https://www.durham.ac.uk/study/courses/t202/,BA,Japanese Studies with Year Abroad,AAB,A level offer – AAB,36,IB Diploma score – 36 with 665 in higher level subjects. Please see above for subject requirements.
 V100,https://www.durham.ac.uk/study/courses/v100/,BA,History,A*AA,A level offer – A*AA,38,IB Diploma score – 38 with 666 at Higher Level including History.
 V101,https://www.durham.ac.uk/study/courses/v101/,BA,"Ancient, Medieval and Modern History",A*AA,A level offer – A*AA,38,"IB Diploma score – 38 with 666 in higher level subjects, including History."
-V102,https://www.durham.ac.uk/study/courses/v102/,,,,,,
 V110,https://www.durham.ac.uk/study/courses/v110/,BA,Ancient History,AAA,A level offer – AAA Contextual offer – BBB,37,IB Diploma score – 37 with 666 in higher level subjects.
-V400,https://www.durham.ac.uk/study/courses/v400/,,,,,,
 V500,https://www.durham.ac.uk/study/courses/v500/,BA,Philosophy,AAA,A level offer – AAA Contextual offer – BBB,37,IB Diploma score – 37 with 666 in higher level subjects.
-V501,https://www.durham.ac.uk/study/courses/v501/,,,,,,
-V614,https://www.dur.ac.uk/courses/info/?id=26464&title=Theology+and+Religion&code=V614&type=BA&year=2021,,,,,,
-V616,https://www.durham.ac.uk/study/courses/v616/,,,,,,
+V501,https://www.durham.ac.uk/study/courses/v501/,BA,Philosophy with Foundation,none,none,none,none
+V614,https://www.durham.ac.uk/study/courses/theology-and-religion-v614/,BA,Theology and Religion,AAB,A level offer – AAB Contextual offer – BBB/ABC,36,IB Diploma score – 36 to include 665 in higher level subjects.
+V616,https://www.durham.ac.uk/study/courses/v616/,BA,Theology and Religion with Foundation,none,none,none,none
 V617,https://www.durham.ac.uk/study/courses/v617/,BA,"Religion, Society and Culture",AAB,A level offer – AAB Contextual offer – BBB/ABC,36,IB Diploma score – 36 to include 665 in higher level subjects.
 VA01,https://www.durham.ac.uk/study/courses/va01/,BA,Visual Arts and Film,AAB,A level offer – AAB Contextual offer – BBB,36,IB Diploma score – 36 with 665 in higher level subjects.
 VF14,https://www.durham.ac.uk/study/courses/vf14/,BA,Ancient History and Archaeology,AAB,A level offer – AAB Contextual offer – BBC,36,IB Diploma score – 36 to include 665 in higher level subjects.
@@ -118,12 +103,10 @@ VL52,https://www.durham.ac.uk/study/courses/vl52/,BA,"Philosophy, Politics and E
 VQ48,https://www.durham.ac.uk/study/courses/vq48/,BA,Archaeology and Ancient Civilisations,AAB,A level offer – AAB Contextual offer – BCC,36,IB Diploma score – 36 with 665 in higher level subjects.
 VV56,https://www.durham.ac.uk/study/courses/vv56/,BA,Philosophy and Theology,AAA,A level offer – AAA Contextual offer – BBB,37,IB Diploma score – 37 to include 666 in higher level subjects.
 W300,https://www.durham.ac.uk/study/courses/w300/,BA,Music,AAB,A level offer – AAB,36,"IB Diploma score – 36 with 665 in higher level subjects, including Music requirements as above."
-W301,https://www.durham.ac.uk/study/courses/w301/,,,,,,
 WV53,https://www.durham.ac.uk/study/courses/wv53/,BA,Music and Philosophy,AAB,A level offer – AAB,36,"IB Diploma score – 36 with 665 in higher level subjects, including Music. Please see above for requirements."
 X101,https://www.durham.ac.uk/study/courses/x101/,,,,,,
-X120,https://www.durham.ac.uk/study/courses/x120/,,,,,,
 X1C8,https://www.durham.ac.uk/study/courses/x1c8/,BA,Education Studies - Psychology,AAB,A level offer – AAB Contextual offer – BBC,36,IB Diploma score – 36 with 665 in higher level subjects.
 X1F8,https://www.durham.ac.uk/study/courses/x1f8/,BA,Education Studies - Geography,AAB,A level offer – AAB Contextual offer – BBC,36,IB Diploma score – 36 with 665 in higher level subjects.
-X301,https://www.durham.ac.uk/study/courses/x301/,,,,,,
+X301,https://www.durham.ac.uk/study/courses/x301/,BA,Education Studies with Foundation,none,none,none,none
 X305,https://www.durham.ac.uk/study/courses/x305/,BA,Education Studies,AAB,A level offer – AAB Contextual offer – BBC,36,IB Diploma score – 36 with 665 in higher level subjects.
 XL33,https://www.durham.ac.uk/study/courses/xl33/,BA,Education Studies - Sociology,AAB,A level offer – AAB Contextual offer – BBC,36,IB Diploma score – 36 with 665 in higher level subjects
