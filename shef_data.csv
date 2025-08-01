@@ -1,0 +1,202 @@
+ukprn,university,kiscourseid,title,crseurl,foundation_year_available,placement_year,year_abroad,median_salary
+10007157,University of Sheffield,2A47,Computer Systems Engineering,https://www.sheffield.ac.uk/undergraduate/courses/2025/computer-systems-engineering-industrial-placement-year-beng,No,Yes,No,34000
+10007157,University of Sheffield,2G36,Mechatronic and Robotic Engineering,https://www.sheffield.ac.uk/undergraduate/courses/2025/mechatronic-and-robotic-engineering-industrial-placement-year-beng,No,Yes,No,31000
+10007157,University of Sheffield,2G91,Architectural Engineering,https://www.sheffield.ac.uk/undergraduate/courses/2025/architectural-engineering-industrial-placement-year-meng,No,Yes,No,31000
+10007157,University of Sheffield,2H26,Civil Engineering,https://www.sheffield.ac.uk/undergraduate/courses/2025/civil-engineering-industrial-placement-year-meng,No,Yes,No,31000
+10007157,University of Sheffield,2S15,Mechatronic and Robotic Engineering,https://www.sheffield.ac.uk/undergraduate/courses/2025/mechatronic-and-robotic-engineering-industrial-placement-year-meng,No,Yes,No,31000
+10007157,University of Sheffield,8L55,Civil and Structural Engineering,https://www.sheffield.ac.uk/undergraduate/courses/2025/civil-and-structural-engineering-industrial-placement-year-meng,No,Yes,No,31000
+10007157,University of Sheffield,8T63,Civil Engineering,https://www.sheffield.ac.uk/undergraduate/courses/2025/civil-engineering-industrial-placement-year-beng,No,Yes,No,31000
+10007157,University of Sheffield,A100,Medicine,https://www.sheffield.ac.uk/undergraduate/courses/2025/medicine-mbchb,No,Yes,Yes,35000
+10007157,University of Sheffield,A200,Dental Surgery,https://www.sheffield.ac.uk/undergraduate/courses/2025/dental-surgery-bds,No,Yes,Yes,36000
+10007157,University of Sheffield,B230,Pharmacy,https://www.sheffield.ac.uk/undergraduate/courses/2025/pharmacy-mpharm,No,Yes,Yes,27000
+10007157,University of Sheffield,B231,Pharmacy,https://www.sheffield.ac.uk/education/lifelong-learning/courses/foundation/pharmacy-mpharm,Yes,No,Yes,27000
+10007157,University of Sheffield,B520,Orthoptics,https://www.sheffield.ac.uk/undergraduate/courses/2025/orthoptics-bmedsci,No,Yes,Yes,27000
+10007157,University of Sheffield,B521,Orthoptics,https://www.sheffield.ac.uk/dll/courses/foundation/orthoptics,Yes,No,Yes,27000
+10007157,University of Sheffield,B621,Speech and Language Therapy,https://www.sheffield.ac.uk/undergraduate/courses/2025/speech-and-language-therapy-bmedsci,No,Yes,Yes,25000
+10007157,University of Sheffield,B631,Speech and Language Therapy,https://www.sheffield.ac.uk/dll/courses/foundation/speech-and-language-therapy,Yes,No,Yes,25000
+10007157,University of Sheffield,B740,Nursing (Adult),https://www.sheffield.ac.uk/undergraduate/courses/2025/nursing-adult-bmedsci,No,Yes,Yes,27000
+10007157,University of Sheffield,B741,Nursing (Adult),https://www.sheffield.ac.uk/education/lifelong-learning/courses/foundation/nursing-adult-bmedsci,Yes,No,Yes,27000
+10007157,University of Sheffield,B900,Biomedical Science,https://www.sheffield.ac.uk/undergraduate/courses/2025/biomedical-science-bsc,No,Yes,Yes,27000
+10007157,University of Sheffield,B902,Biomedical Science,https://www.sheffield.ac.uk/undergraduate/courses/2025/biomedical-science-industrial-placement-year-bsc,No,Yes,No,27000
+10007157,University of Sheffield,B905,Biomedical Science,https://www.sheffield.ac.uk/dll/courses/foundation/biomedical,Yes,No,Yes,27000
+10007157,University of Sheffield,B909,Biomedical Science,https://www.sheffield.ac.uk/undergraduate/courses/2025/biomedical-science-mbiomedsci,No,Yes,Yes,27000
+10007157,University of Sheffield,B911,Biomedical Science,https://www.sheffield.ac.uk/undergraduate/courses/2025/biomedical-science-industrial-placement-year-mbiomedsci,No,Yes,No,27000
+10007157,University of Sheffield,C100,Biological Sciences,https://www.sheffield.ac.uk/undergraduate/courses/2025/biological-sciences-bsc,No,Yes,Yes,23000
+10007157,University of Sheffield,C104,Biological Sciences,https://www.sheffield.ac.uk/undergraduate/courses/2025/biological-sciences-placement-year-mbiolsci,No,Yes,No,23000
+10007157,University of Sheffield,C105,Biological Sciences,https://www.sheffield.ac.uk/undergraduate/courses/2025/biological-sciences-placement-year-bsc,No,Yes,No,23000
+10007157,University of Sheffield,C109,Biological Sciences,https://www.sheffield.ac.uk/undergraduate/courses/2025/biological-sciences-mbiolsci,No,Yes,Yes,23000
+10007157,University of Sheffield,C110,Biological Sciences,https://www.sheffield.ac.uk/dll/courses/foundation/biological-sciences,Yes,No,Yes,23000
+10007157,University of Sheffield,C300,Zoology,https://www.sheffield.ac.uk/undergraduate/courses/2025/zoology-bsc,No,Yes,Yes,25000
+10007157,University of Sheffield,C304,Zoology,https://www.sheffield.ac.uk/undergraduate/courses/2025/zoology-placement-year-mbiolsci,No,Yes,No,25000
+10007157,University of Sheffield,C305,Zoology,https://www.sheffield.ac.uk/undergraduate/courses/2025/zoology-placement-year-bsc,No,Yes,No,25000
+10007157,University of Sheffield,C309,Zoology,https://www.sheffield.ac.uk/undergraduate/courses/2025/zoology-mbiolsci,No,Yes,Yes,25000
+10007157,University of Sheffield,C700,Biochemistry,https://www.sheffield.ac.uk/undergraduate/courses/2025/biochemistry-bsc,No,Yes,Yes,29000
+10007157,University of Sheffield,C706,Biochemistry,https://www.sheffield.ac.uk/undergraduate/courses/2025/biochemistry-industrial-placement-year-bsc,No,Yes,No,29000
+10007157,University of Sheffield,C708,Biochemistry,https://www.sheffield.ac.uk/undergraduate/courses/2025/biochemistry-industrial-placement-year-mbiolsci,No,Yes,No,29000
+10007157,University of Sheffield,C709,Biochemistry,https://www.sheffield.ac.uk/undergraduate/courses/2025/biochemistry-mbiolsci,No,Yes,Yes,29000
+10007157,University of Sheffield,C720,Chemistry with Biological and Medicinal Chemistry,https://www.sheffield.ac.uk/undergraduate/courses/2025/chemistry-biological-and-medicinal-chemistry-mchem,No,Yes,Yes,29000
+10007157,University of Sheffield,C800,Psychology,https://www.sheffield.ac.uk/undergraduate/courses/2025/psychology-bsc,Yes,Yes,Yes,23000
+10007157,University of Sheffield,C801,Psychology,https://www.sheffield.ac.uk/dll/courses/foundation/psychology,Yes,No,Yes,23000
+10007157,University of Sheffield,C803,Psychology,https://www.sheffield.ac.uk/undergraduate/courses/2025/psychology-placement-year-bsc,No,Yes,No,23000
+10007157,University of Sheffield,F100,Chemistry,https://www.sheffield.ac.uk/undergraduate/courses/2025/chemistry-bsc,No,Yes,Yes,29000
+10007157,University of Sheffield,F105,Chemistry,https://www.sheffield.ac.uk/undergraduate/courses/2025/chemistry-mchem,No,Yes,Yes,29000
+10007157,University of Sheffield,F106,Chemistry,https://www.sheffield.ac.uk/undergraduate/courses/2025/chemistry-industrial-placement-year-mchem,No,Yes,No,29000
+10007157,University of Sheffield,F112,Chemistry with Biological and Medicinal Chemistry,https://www.sheffield.ac.uk/undergraduate/courses/2025/chemistry-biological-and-medicinal-chemistry-bsc,No,Yes,Yes,29000
+10007157,University of Sheffield,F300,Physics,https://www.sheffield.ac.uk/undergraduate/courses/2025/physics-bsc,No,Yes,Yes,29000
+10007157,University of Sheffield,F301,Physics,https://www.sheffield.ac.uk/undergraduate/courses/2025/physics-mphys,No,Yes,Yes,29000
+10007157,University of Sheffield,F310,Physics,https://www.sheffield.ac.uk/undergraduate/courses/2025/physics-industrial-placement-year-bsc,No,Yes,No,29000
+10007157,University of Sheffield,F321,Theoretical Physics,https://www.sheffield.ac.uk/undergraduate/courses/2025/theoretical-physics-mphys,No,Yes,Yes,29000
+10007157,University of Sheffield,F344,Theoretical Physics,https://www.sheffield.ac.uk/undergraduate/courses/2025/theoretical-physics-bsc,No,Yes,Yes,29000
+10007157,University of Sheffield,F3F5,Physics and Astrophysics,https://www.sheffield.ac.uk/undergraduate/courses/2025/physics-and-astrophysics-mphys,No,Yes,Yes,25500
+10007157,University of Sheffield,F800,Geography,https://www.sheffield.ac.uk/undergraduate/courses/2025/geography-bsc,Yes,Yes,Yes,24000
+10007157,University of Sheffield,F801,Geography,https://www.sheffield.ac.uk/dll/courses/foundation/geography,Yes,No,Yes,24000
+10007157,University of Sheffield,F900,Environmental Science,https://www.sheffield.ac.uk/undergraduate/courses/2025/environmental-science-bsc,No,Yes,Yes,24000
+10007157,University of Sheffield,F901,Environmental Science,https://www.sheffield.ac.uk/dll/courses/foundation/bsc-geography,Yes,No,Yes,24000
+10007157,University of Sheffield,FF35,Physics and Astrophysics,https://www.sheffield.ac.uk/undergraduate/courses/2025/physics-and-astrophysics-bsc,No,Yes,Yes,25500
+10007157,University of Sheffield,G100,Mathematics,https://www.sheffield.ac.uk/undergraduate/courses/2025/mathematics-bsc,No,Yes,Yes,31000
+10007157,University of Sheffield,G103,Mathematics,https://www.sheffield.ac.uk/undergraduate/courses/2025/mathematics-mmath,No,Yes,Yes,31000
+10007157,University of Sheffield,G110,Mathematics and Statistics,https://www.sheffield.ac.uk/undergraduate/courses/2025/mathematics-and-statistics-mmath,No,Yes,Yes,31000
+10007157,University of Sheffield,G112,Mathematics and Statistics,https://www.sheffield.ac.uk/undergraduate/courses/2025/mathematics-and-statistics-bsc,No,Yes,Yes,31000
+10007157,University of Sheffield,G400,Computer Science,https://www.sheffield.ac.uk/undergraduate/courses/2025/computer-science-mcomp,Yes,Yes,Yes,34000
+10007157,University of Sheffield,G402,Computer Science,https://www.sheffield.ac.uk/undergraduate/courses/2025/computer-science-bsc,Yes,Yes,Yes,34000
+10007157,University of Sheffield,G403,Computer Science,https://www.sheffield.ac.uk/undergraduate/courses/2025/computer-science-industrial-placement-year-bsc,No,Yes,No,34000
+10007157,University of Sheffield,G404,Computer Science,https://www.sheffield.ac.uk/undergraduate/courses/2025/computer-science-industrial-placement-year-mcomp,No,Yes,No,34000
+10007157,University of Sheffield,G600,Computer Science (Software Engineering),https://www.sheffield.ac.uk/undergraduate/courses/2025/computer-science-software-engineering-beng,No,Yes,Yes,35000
+10007157,University of Sheffield,G604,Computer Science (Software Engineering),https://www.sheffield.ac.uk/undergraduate/courses/2025/computer-science-software-engineering-industrial-placement-year-beng,No,Yes,No,35000
+10007157,University of Sheffield,G650,Computer Science (Software Engineering),https://www.sheffield.ac.uk/undergraduate/courses/2025/computer-science-software-engineering-meng,No,Yes,Yes,35000
+10007157,University of Sheffield,G654,Computer Science (Software Engineering),https://www.sheffield.ac.uk/undergraduate/courses/2023/computer-science-software-engineering-industrial-placement-year-meng,No,Yes,No,35000
+10007157,University of Sheffield,G700,Computer Science (Artificial Intelligence),https://www.sheffield.ac.uk/undergraduate/courses/2022/computer-science-artificial-intelligence-mcomp,No,Yes,Yes,34000
+10007157,University of Sheffield,G704,Computer Science (Artificial Intelligence),https://www.sheffield.ac.uk/undergraduate/courses/2025/computer-science-artificial-intelligence-industrial-placement-year-mcomp,No,Yes,No,34000
+10007157,University of Sheffield,GG11,Mathematics,https://www.sheffield.ac.uk/undergraduate/courses/2025/mathematics-placement-year-bsc,No,Yes,No,31000
+10007157,University of Sheffield,GG74,Computer Science (Artificial Intelligence),https://www.sheffield.ac.uk/undergraduate/courses/2025/computer-science-artificial-intelligence-bsc,No,Yes,Yes,35000
+10007157,University of Sheffield,GG75,Computer Science (Artificial Intelligence),https://www.sheffield.ac.uk/undergraduate/courses/2025/computer-science-artificial-intelligence-industrial-placement-year-bsc,No,Yes,No,34000
+10007157,University of Sheffield,GN13,Financial Mathematics,https://www.sheffield.ac.uk/undergraduate/courses/2025/financial-mathematics-bsc,No,Yes,Yes,31000
+10007157,University of Sheffield,H100,General Engineering,https://www.sheffield.ac.uk/undergraduate/courses/2025/general-engineering-meng-hons,No,Yes,Yes,31000
+10007157,University of Sheffield,H102,General Engineering,https://www.sheffield.ac.uk/undergraduate/courses/2025/general-engineering-industrial-placement-year-beng-hons,No,Yes,No,31000
+10007157,University of Sheffield,H103,General Engineering,https://www.sheffield.ac.uk/undergraduate/courses/2025/general-engineering-beng-hons,No,Yes,Yes,31000
+10007157,University of Sheffield,H104,General Engineering,https://www.sheffield.ac.uk/undergraduate/courses/2025/general-engineering-industrial-placement-year-meng-hons,No,Yes,No,31000
+10007157,University of Sheffield,H130,Computer Systems Engineering,https://www.sheffield.ac.uk/undergraduate/courses/2025/computer-systems-engineering-beng,No,Yes,Yes,34000
+10007157,University of Sheffield,H200,Civil Engineering,https://www.sheffield.ac.uk/undergraduate/courses/2025/civil-engineering-meng,No,Yes,Yes,31000
+10007157,University of Sheffield,H202,Civil Engineering,https://www.sheffield.ac.uk/undergraduate/courses/2025/civil-engineering-beng,No,Yes,Yes,31000
+10007157,University of Sheffield,H210,Civil and Structural Engineering,https://www.sheffield.ac.uk/undergraduate/courses/2025/civil-and-structural-engineering-meng,No,Yes,Yes,31000
+10007157,University of Sheffield,H300,Mechanical Engineering,https://www.sheffield.ac.uk/undergraduate/courses/2025/mechanical-engineering-meng,No,Yes,Yes,31000
+10007157,University of Sheffield,H302,Mechanical Engineering,https://www.sheffield.ac.uk/undergraduate/courses/2025/mechanical-engineering-beng,No,Yes,Yes,31000
+10007157,University of Sheffield,H304,Mechanical Engineering,https://www.sheffield.ac.uk/undergraduate/courses/2025/mechanical-engineering-industrial-placement-year-meng,No,Yes,No,31000
+10007157,University of Sheffield,H305,Mechanical Engineering,https://www.sheffield.ac.uk/undergraduate/courses/2025/mechanical-engineering-industrial-placement-year-beng,No,Yes,No,31000
+10007157,University of Sheffield,H360,Mechatronic and Robotic Engineering,https://www.sheffield.ac.uk/undergraduate/courses/2025/mechatronic-and-robotic-engineering-meng,No,Yes,Yes,31000
+10007157,University of Sheffield,H361,Mechatronic and Robotic Engineering,https://www.sheffield.ac.uk/undergraduate/courses/2025/mechatronic-and-robotic-engineering-beng,No,Yes,Yes,31000
+10007157,University of Sheffield,H400,Aerospace Engineering,https://www.sheffield.ac.uk/undergraduate/courses/2025/aerospace-engineering-meng,No,Yes,Yes,31000
+10007157,University of Sheffield,H402,Aerospace Engineering,https://www.sheffield.ac.uk/undergraduate/courses/2025/aerospace-engineering-beng,No,Yes,Yes,31000
+10007157,University of Sheffield,H404,Aerospace Engineering,https://www.sheffield.ac.uk/undergraduate/courses/2025/aerospace-engineering-industrial-placement-year-beng,No,Yes,No,31000
+10007157,University of Sheffield,H405,Aerospace Engineering,https://www.sheffield.ac.uk/undergraduate/courses/2025/aerospace-engineering-industrial-placement-year-meng,No,Yes,No,31000
+10007157,University of Sheffield,H460,Aerospace Engineering (Private Pilot Instruction),https://www.sheffield.ac.uk/undergraduate/courses/2025/aerospace-engineering-private-pilot-instruction-beng,No,Yes,Yes,31000
+10007157,University of Sheffield,H490,Aerospace Engineering (Private Pilot Instruction),https://www.sheffield.ac.uk/undergraduate/courses/2025/aerospace-engineering-private-pilot-instruction-meng,No,Yes,Yes,31000
+10007157,University of Sheffield,H628,Electrical and Electronic Engineering,https://www.sheffield.ac.uk/undergraduate/courses/2025/electrical-and-electronic-engineering-beng,Yes,Yes,Yes,34000
+10007157,University of Sheffield,H629,Electrical and Electronic Engineering,https://www.sheffield.ac.uk/undergraduate/courses/2025/electrical-and-electronic-engineering-meng,Yes,Yes,Yes,34000
+10007157,University of Sheffield,H633,Electrical and Electronic Engineering,https://www.sheffield.ac.uk/undergraduate/courses/2025/electrical-and-electronic-engineering-industrial-placement-year-beng,No,Yes,No,34000
+10007157,University of Sheffield,H634,Electrical and Electronic Engineering,https://www.sheffield.ac.uk/undergraduate/courses/2025/electrical-and-electronic-engineering-industrial-placement-year-meng,No,Yes,No,34000
+10007157,University of Sheffield,H655,Electronics and Computer Engineering,https://www.sheffield.ac.uk/undergraduate/courses/2025/electronics-and-computer-engineering-beng,No,Yes,Yes,34000
+10007157,University of Sheffield,H673,Biomedical Engineering,https://www.sheffield.ac.uk/undergraduate/courses/2025/bioengineering-beng,No,Yes,Yes,28000
+10007157,University of Sheffield,H675,Biomedical Engineering,https://www.sheffield.ac.uk/undergraduate/courses/2025/bioengineering-meng,No,Yes,Yes,28000
+10007157,University of Sheffield,H67H,Biomedical Engineering,https://www.sheffield.ac.uk/undergraduate/courses/2025/biomedical-engineering-industrial-placement-year-beng,No,Yes,No,28000
+10007157,University of Sheffield,H67I,Biomedical Engineering,https://www.sheffield.ac.uk/undergraduate/courses/2025/biomedical-engineering-industrial-placement-year-meng,No,Yes,No,28000
+10007157,University of Sheffield,H800,Chemical Engineering,https://www.sheffield.ac.uk/undergraduate/courses/2025/chemical-engineering-meng,No,Yes,Yes,32500
+10007157,University of Sheffield,H804,Chemical Engineering,https://www.sheffield.ac.uk/undergraduate/courses/2025/chemical-engineering-industrial-placement-year-meng,No,Yes,No,32500
+10007157,University of Sheffield,H810,Chemical Engineering,https://www.sheffield.ac.uk/undergraduate/courses/2025/chemical-engineering-beng,No,Yes,Yes,32500
+10007157,University of Sheffield,H811,Chemical Engineering,https://www.sheffield.ac.uk/undergraduate/courses/2025/chemical-engineering-industrial-placement-year-beng,No,Yes,No,32500
+10007157,University of Sheffield,HK2D,Architectural Engineering,https://www.sheffield.ac.uk/undergraduate/courses/2025/architectural-engineering-meng,No,Yes,Yes,31000
+10007157,University of Sheffield,I2L9,Data Science,https://www.sheffield.ac.uk/undergraduate/courses/2025/data-science-bsc,No,Yes,Yes,35000
+10007157,University of Sheffield,J500,Materials Science and Engineering,https://www.sheffield.ac.uk/undergraduate/courses/2025/materials-science-and-engineering-meng,No,Yes,Yes,32000
+10007157,University of Sheffield,J591,Materials Science and Engineering,https://www.sheffield.ac.uk/undergraduate/courses/2025/materials-science-and-engineering-industrial-placement-year-beng,No,Yes,No,32000
+10007157,University of Sheffield,JH51,Materials Science and Engineering,https://www.sheffield.ac.uk/undergraduate/courses/2025/materials-science-and-engineering-beng,No,Yes,Yes,32000
+10007157,University of Sheffield,K100,Architecture,https://www.sheffield.ac.uk/undergraduate/courses/2025/architecture-ba,No,Yes,Yes,25000
+10007157,University of Sheffield,K310,Landscape Architecture,https://www.sheffield.ac.uk/undergraduate/courses/2025/landscape-architecture-mla,No,Yes,Yes,25000
+10007157,University of Sheffield,K311,Landscape Architecture,https://www.sheffield.ac.uk/dll/courses/foundation/landscape-architecture-mla,Yes,No,Yes,25000
+10007157,University of Sheffield,K3K4,Landscape Architecture,https://www.sheffield.ac.uk/undergraduate/courses/2025/landscape-architecture-ba,No,Yes,Yes,25000
+10007157,University of Sheffield,K3K5,Landscape Architecture,https://www.sheffield.ac.uk/dll/courses/foundation/landscape-architecture-ba,Yes,No,Yes,25000
+10007157,University of Sheffield,K400,Urban Studies and Planning,https://www.sheffield.ac.uk/undergraduate/courses/2025/urban-studies-and-planning-mplanug,No,Yes,Yes,28000
+10007157,University of Sheffield,K401,Urban Studies and Planning,https://www.sheffield.ac.uk/dll/courses/foundation/urban-studies-and-planning,Yes,No,Yes,28000
+10007157,University of Sheffield,KK13,Architecture and Landscape,https://www.sheffield.ac.uk/undergraduate/courses/2025/architecture-and-landscape-ba,No,Yes,Yes,25000
+10007157,University of Sheffield,L100,Economics,https://www.sheffield.ac.uk/undergraduate/courses/2025/economics-ba,No,Yes,Yes,28500
+10007157,University of Sheffield,L101,Economics,https://www.sheffield.ac.uk/undergraduate/courses/2025/economics-bsc,No,Yes,Yes,28500
+10007157,University of Sheffield,L1N3,Economics with Finance,https://www.sheffield.ac.uk/undergraduate/courses/2025/economics-finance-bsc,No,Yes,Yes,28500
+10007157,University of Sheffield,L200,"Politics, Philosophy and Economics",https://www.sheffield.ac.uk/undergraduate/courses/2025/politics-philosophy-and-economics-ba,No,Yes,Yes,28500
+10007157,University of Sheffield,L201,International Relations and Politics,https://www.sheffield.ac.uk/undergraduate/courses/2025/international-relations-and-politics-ba,No,Yes,Yes,26000
+10007157,University of Sheffield,L202,International Relations and Politics,https://www.sheffield.ac.uk/dll/courses/foundation/international-relations-and-politics,Yes,No,Yes,26000
+10007157,University of Sheffield,L205,Politics,https://www.sheffield.ac.uk/dll/courses/foundation/politics,Yes,No,Yes,26000
+10007157,University of Sheffield,L210,Politics,https://www.sheffield.ac.uk/undergraduate/courses/2025/politics-ba,No,Yes,Yes,26000
+10007157,University of Sheffield,L2V5,"Politics, Philosophy, and Economics",https://www.sheffield.ac.uk/undergraduate/courses/2025/politics-philosophy-and-economics-bsc,No,Yes,Yes,28500
+10007157,University of Sheffield,L300,Sociology,https://www.sheffield.ac.uk/undergraduate/courses/2025/sociology-ba,Yes,Yes,Yes,24500
+10007157,University of Sheffield,L301,Sociology,https://www.sheffield.ac.uk/dll/courses/foundation/sociology,Yes,No,Yes,24500
+10007157,University of Sheffield,L391,Digital Media and Society,https://www.sheffield.ac.uk/undergraduate/courses/2025/digital-media-and-society-ba,No,Yes,Yes,24500
+10007157,University of Sheffield,L431,Applied Social Sciences,https://www.sheffield.ac.uk/undergraduate/courses/2025/applied-social-sciences-ba,Yes,Yes,Yes,24000
+10007157,University of Sheffield,L432,Applied Social Science,https://www.sheffield.ac.uk/dll/courses/foundation/applied-social-science,Yes,No,Yes,24000
+10007157,University of Sheffield,L700,Geography,https://www.sheffield.ac.uk/undergraduate/courses/2025/geography-ba,Yes,Yes,Yes,24000
+10007157,University of Sheffield,L722,Urban Studies,https://www.sheffield.ac.uk/undergraduate/courses/2025/urban-studies-ba,No,Yes,Yes,28000
+10007157,University of Sheffield,L790,Geography and Planning,https://www.sheffield.ac.uk/dll/courses/foundation/geography-and-planning,Yes,No,Yes,28000
+10007157,University of Sheffield,L800,Global Sustainable Development,https://www.sheffield.ac.uk/undergraduate/courses/2025/global-sustainable-development-ba,Yes,Yes,Yes,24000
+10007157,University of Sheffield,L801,Global Sustainable Development,https://www.sheffield.ac.uk/dll/courses/foundation/global-sustainable-development,Yes,No,Yes,24000
+10007157,University of Sheffield,LG11,Economics and Mathematics,https://www.sheffield.ac.uk/undergraduate/courses/2022/economics-and-mathematics-bsc,No,Yes,Yes,31000
+10007157,University of Sheffield,LK74,Geography and Planning,https://www.sheffield.ac.uk/undergraduate/courses/2025/geography-and-planning-ba,Yes,Yes,Yes,28000
+10007157,University of Sheffield,LL12,Economics and Politics,https://www.sheffield.ac.uk/undergraduate/courses/2025/economics-and-politics-ba,No,Yes,Yes,28500
+10007157,University of Sheffield,LL23,Politics and Sociology,https://www.sheffield.ac.uk/undergraduate/courses/2025/politics-and-sociology-ba,No,Yes,Yes,24500
+10007157,University of Sheffield,LL34,Sociology with Social Policy,https://www.sheffield.ac.uk/undergraduate/courses/2025/sociology-social-policy-ba,No,Yes,Yes,24500
+10007157,University of Sheffield,LV25,Politics and Philosophy,https://www.sheffield.ac.uk/undergraduate/courses/2025/politics-and-philosophy-ba,No,Yes,Yes,26000
+10007157,University of Sheffield,LV26,Politics and Philosophy,https://www.sheffield.ac.uk/dll/courses/foundation/politics-and-philosophy,Yes,No,Yes,26000
+10007157,University of Sheffield,M100,Law,https://www.sheffield.ac.uk/undergraduate/courses/2025/law-llb,No,Yes,Yes,24500
+10007157,University of Sheffield,M101,Law,https://www.sheffield.ac.uk/dll/courses/foundation/llb-law,Yes,No,Yes,24500
+10007157,University of Sheffield,M120,Law (European and International),https://www.sheffield.ac.uk/undergraduate/courses/2025/law-european-and-international-llb,No,No,Yes,24500
+10007157,University of Sheffield,M900,Criminology,https://www.sheffield.ac.uk/undergraduate/courses/2025/criminology-ba,No,Yes,Yes,24500
+10007157,University of Sheffield,M902,Criminology,https://www.sheffield.ac.uk/dll/courses/foundation/criminology,Yes,No,Yes,24500
+10007157,University of Sheffield,M930,Law and Criminology,https://www.sheffield.ac.uk/undergraduate/courses/2025/law-and-criminology-llb,No,Yes,Yes,24500
+10007157,University of Sheffield,N120,International Business Management,https://www.sheffield.ac.uk/undergraduate/courses/2025/international-business-management-study-abroad-ba,No,No,Yes,29000
+10007157,University of Sheffield,N200,Business Management,https://www.sheffield.ac.uk/undergraduate/courses/2025/business-management-ba,No,Yes,Yes,29000
+10007157,University of Sheffield,N201,Business Management,https://www.sheffield.ac.uk/dll/courses/foundation/business,Yes,No,Yes,29000
+10007157,University of Sheffield,N420,Accounting and Financial Management,https://www.sheffield.ac.uk/undergraduate/courses/2025/accounting-and-financial-management-ba,No,Yes,Yes,29000
+10007157,University of Sheffield,NL21,Business Management and Economics,https://www.sheffield.ac.uk/undergraduate/courses/2025/business-management-and-economics-ba,No,Yes,Yes,28500
+10007157,University of Sheffield,NL41,Accounting and Financial Management and Economics,https://www.sheffield.ac.uk/undergraduate/courses/2025/accounting-and-financial-management-and-economics-ba,No,Yes,Yes,28500
+10007157,University of Sheffield,P500,Journalism Studies,https://www.sheffield.ac.uk/undergraduate/courses/2025/journalism-studies-ba,No,Yes,Yes,25000
+10007157,University of Sheffield,P501,Journalism Studies,https://www.sheffield.ac.uk/dll/courses/foundation/journalism,Yes,No,Yes,25000
+10007157,University of Sheffield,Q304,English Language and Literature,https://www.sheffield.ac.uk/undergraduate/courses/2025/english-language-and-literature-ba,No,Yes,Yes,23000
+10007157,University of Sheffield,Q305,English Language and Literature,https://www.sheffield.ac.uk/dll/courses/foundation/english-language-and-literature,Yes,No,Yes,23000
+10007157,University of Sheffield,Q306,English Literature,https://www.sheffield.ac.uk/undergraduate/courses/2025/english-literature-ba,Yes,Yes,Yes,22000
+10007157,University of Sheffield,Q307,English Literature,https://www.sheffield.ac.uk/dll/courses/foundation/english-literature,Yes,No,Yes,22000
+10007157,University of Sheffield,Q310,English Language and Linguistics,https://www.sheffield.ac.uk/dll/courses/foundation/english-language-and-linguistics,Yes,No,Yes,23000
+10007157,University of Sheffield,Q3Q1,English Language and Linguistics,https://www.sheffield.ac.uk/undergraduate/courses/2025/english-language-and-linguistics-ba,Yes,Yes,Yes,23000
+10007157,University of Sheffield,QR50,English and Modern Languages & Cultures,https://www.sheffield.ac.uk/undergraduate/courses/2025/english-and-modern-languages-cultures-ba,No,No,Yes,23000
+10007157,University of Sheffield,QR60,Linguistics and Modern Languages & Cultures,https://www.sheffield.ac.uk/undergraduate/courses/2025/linguistics-and-modern-languages-cultures-ba,No,No,Yes,23000
+10007157,University of Sheffield,QV31,English and History,https://www.sheffield.ac.uk/undergraduate/courses/2025/english-and-history-ba,No,Yes,Yes,23000
+10007157,University of Sheffield,QV32,English and History,https://www.sheffield.ac.uk/dll/courses/foundation/english-and-history,Yes,No,Yes,23000
+10007157,University of Sheffield,QV34,English and Philosophy,https://www.sheffield.ac.uk/dll/courses/foundation/english-and-philosophy,Yes,No,Yes,23000
+10007157,University of Sheffield,QV35,English and Philosophy,https://www.sheffield.ac.uk/undergraduate/courses/2025/english-and-philosophy-ba,No,Yes,Yes,23000
+10007157,University of Sheffield,QW33,English and Music,https://www.sheffield.ac.uk/undergraduate/courses/2025/english-and-music-ba,No,Yes,Yes,23000
+10007157,University of Sheffield,RL60,Politics and Modern Languages & Cultures,https://www.sheffield.ac.uk/undergraduate/courses/2025/politics-and-modern-languages-cultures-ba,No,No,Yes,26000
+10007157,University of Sheffield,RN50,Business Management and Modern Languages & Cultures,https://www.sheffield.ac.uk/undergraduate/courses/2025/business-management-and-modern-languages-cultures-ba,No,No,Yes,29000
+10007157,University of Sheffield,RV50,History and Modern Languages & Cultures,https://www.sheffield.ac.uk/undergraduate/courses/2025/history-and-modern-languages-cultures-ba,No,No,Yes,27500
+10007157,University of Sheffield,RV51,History and Modern Languages,https://www.sheffield.ac.uk/dll/courses/foundation/history-and-modern-languages-cultures,Yes,No,Yes,27500
+10007157,University of Sheffield,RW50,Music and Modern Languages & Cultures,https://www.sheffield.ac.uk/undergraduate/courses/2025/music-and-modern-languages-cultures-ba,No,No,Yes,27500
+10007157,University of Sheffield,T101,Chinese Studies,https://www.sheffield.ac.uk/dll/courses/foundation/chinese-studies,Yes,No,Yes,25000
+10007157,University of Sheffield,T110,Chinese Studies,https://www.sheffield.ac.uk/undergraduate/courses/2025/chinese-studies-ba,No,No,Yes,25000
+10007157,University of Sheffield,T201,Japanese Studies,https://www.sheffield.ac.uk/dll/courses/foundation/japanese-studies,Yes,No,Yes,25000
+10007157,University of Sheffield,T210,Japanese Studies,https://www.sheffield.ac.uk/undergraduate/courses/2025/japanese-studies-ba,No,No,Yes,25000
+10007157,University of Sheffield,T300,East Asian Studies,https://www.sheffield.ac.uk/undergraduate/courses/2025/east-asian-studies-ba,No,Yes,Yes,25000
+10007157,University of Sheffield,T301,East Asian Studies,https://www.sheffield.ac.uk/dll/courses/foundation/east-asian-studies,Yes,No,Yes,25000
+10007157,University of Sheffield,T401,Korean Studies,https://www.sheffield.ac.uk/dll/courses/foundation/korean-studies,Yes,No,Yes,25000
+10007157,University of Sheffield,T415,Korean Studies,https://www.sheffield.ac.uk/undergraduate/courses/2025/korean-studies-ba,No,No,Yes,25000
+10007157,University of Sheffield,T900,Modern Languages and Cultures,https://www.sheffield.ac.uk/undergraduate/courses/2025/modern-languages-and-cultures-ba,No,No,Yes,27500
+10007157,University of Sheffield,T901,Modern Languages and Cultures,https://www.sheffield.ac.uk/dll/courses/modern-languages-and-cultures,Yes,No,Yes,27500
+10007157,University of Sheffield,V100,History,https://www.sheffield.ac.uk/undergraduate/courses/2025/history-ba,No,Yes,Yes,25000
+10007157,University of Sheffield,V101,History,https://www.sheffield.ac.uk/dll/courses/foundation/history,Yes,No,Yes,25000
+10007157,University of Sheffield,V500,Philosophy,https://www.sheffield.ac.uk/undergraduate/courses/2025/philosophy-ba,Yes,Yes,Yes,27000
+10007157,University of Sheffield,V501,Philosophy,https://www.sheffield.ac.uk/dll/courses/foundation/philosophy,Yes,No,Yes,27000
+10007157,University of Sheffield,VG51,Mathematics and Philosophy,https://www.sheffield.ac.uk/undergraduate/courses/2025/mathematics-and-philosophy-bsc,No,Yes,Yes,31000
+10007157,University of Sheffield,VL12,History and Politics,https://www.sheffield.ac.uk/undergraduate/courses/2025/history-and-politics-ba,No,Yes,Yes,26000
+10007157,University of Sheffield,VL13,History and Sociology,https://www.sheffield.ac.uk/undergraduate/courses/2025/history-and-sociology-ba,No,Yes,Yes,24500
+10007157,University of Sheffield,VL14,History and Politics,https://www.sheffield.ac.uk/dll/courses/foundation/history-and-politics,Yes,No,Yes,26000
+10007157,University of Sheffield,VV15,History and Philosophy,https://www.sheffield.ac.uk/undergraduate/courses/2025/history-and-philosophy-ba,No,Yes,Yes,25000
+10007157,University of Sheffield,VV16,History and Philosophy,https://www.sheffield.ac.uk/dll/courses/foundation/history-and-philosophy,Yes,No,Yes,25000
+10007157,University of Sheffield,VV56,"Philosophy, Religion and Ethics",https://www.sheffield.ac.uk/undergraduate/courses/2025/philosophy-religion-and-ethics-ba,No,Yes,Yes,24000
+10007157,University of Sheffield,VV57,"Philosophy, Religion and Ethics",https://www.sheffield.ac.uk/dll/courses/foundation/philosophy-religion-and-ethics,Yes,No,Yes,24000
+10007157,University of Sheffield,WTH4,Music and Korean Studies,https://www.sheffield.ac.uk/undergraduate/courses/2025/music-and-korean-studies-ba,No,No,Yes,25000
+10007157,University of Sheffield,X300,"Education, Culture and Childhood",https://www.sheffield.ac.uk/undergraduate/courses/2025/education-culture-and-childhood-ba,Yes,Yes,Yes,26000
+10007157,University of Sheffield,X301,"Education, Culture and Childhood",https://www.sheffield.ac.uk/dll/courses/foundation/education-culture-and-childhood,Yes,No,Yes,26000

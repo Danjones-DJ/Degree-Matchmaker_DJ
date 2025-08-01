@@ -1,0 +1,277 @@
+ukprn,university,kiscourseid,title,crseurl,foundation_year_available,placement_year,year_abroad,median_salary
+10006840,University of Birmingham,K0001,Biochemistry,https://www.birmingham.ac.uk/undergraduate/courses/biosciences/biochemistry.aspx,Yes,No,No,30000
+10006840,University of Birmingham,K0002,Medical Biochemistry,https://www.birmingham.ac.uk/undergraduate/courses/biosciences/medical-biochemistry.aspx,No,No,No,30000
+10006840,University of Birmingham,K0003,Biological Sciences,https://www.birmingham.ac.uk/undergraduate/courses/biosciences/biological-sciences.aspx,No,No,No,27500
+10006840,University of Birmingham,K0005,Biological Sciences with Study in Continental Europe,https://www.birmingham.ac.uk/undergraduate/courses/biosciences/biological-sciences-europe.aspx,No,No,Yes,27500
+10006840,University of Birmingham,K0006,Artificial Intelligence and Computer Science,https://www.birmingham.ac.uk/undergraduate/courses/computer-science/artificial-intelligence-computer-science.aspx,Yes,No,No,35000
+10006840,University of Birmingham,K0007,Geology,https://www.birmingham.ac.uk/undergraduate/courses/gees/geology.aspx,No,Yes,No,28000
+10006840,University of Birmingham,K0011,Geography,https://www.birmingham.ac.uk/undergraduate/courses/gees/geography-bsc.aspx,No,Yes,No,28000
+10006840,University of Birmingham,K0012,Theoretical Physics and Applied Mathematics,https://www.birmingham.ac.uk/undergraduate/courses/physics/theoretical-physics-applied-maths.aspx,No,No,No,31500
+10006840,University of Birmingham,K0013,Psychology,https://www.birmingham.ac.uk/undergraduate/courses/psychology/psychology.aspx,Yes,No,No,25000
+10006840,University of Birmingham,K0014,"Sport, Exercise and Health Sciences",https://www.birmingham.ac.uk/undergraduate/courses/sportex/sport-exercise-health-sciences-2.aspx,No,No,Yes,24000
+10006840,University of Birmingham,K0015,Geology and Physical Geography,https://www.birmingham.ac.uk/undergraduate/courses/gees/geology-geography.aspx,No,Yes,No,28000
+10006840,University of Birmingham,K0017,Theoretical Physics and Applied Mathematics,https://www.birmingham.ac.uk/undergraduate/courses/physics/theoretical-physics-applied-maths-msci.aspx,No,No,No,31500
+10006840,University of Birmingham,K0020,Environmental Science,https://www.birmingham.ac.uk/undergraduate/courses/gees/environmental-science.aspx,No,Yes,No,28000
+10006840,University of Birmingham,K0021,Mechanical Engineering,https://www.birmingham.ac.uk/undergraduate/courses/mechanical-engineering/mechanical-engineering-beng.aspx,Yes,No,No,31500
+10006840,University of Birmingham,K0022,Mechanical Engineering,https://www.birmingham.ac.uk/undergraduate/courses/mechanical-engineering/mechanical-engineering-meng.aspx,Yes,No,No,31500
+10006840,University of Birmingham,K0026,Civil Engineering,https://www.birmingham.ac.uk/undergraduate/courses/civil-engineering/civil-engineering-beng.aspx,Yes,No,No,29000
+10006840,University of Birmingham,K0027,Civil Engineering,https://www.birmingham.ac.uk/undergraduate/courses/civil-engineering/civil-engineering-meng.aspx,Yes,No,No,29000
+10006840,University of Birmingham,K0029,Electronic and Electrical Engineering,https://www.birmingham.ac.uk/undergraduate/courses/eese/electronic-electrical-engineering.aspx,Yes,No,No,32000
+10006840,University of Birmingham,K0030,Electronic and Electrical Engineering,https://www.birmingham.ac.uk/undergraduate/courses/eese/electronic-electrical-engineering-meng.aspx,Yes,No,No,32000
+10006840,University of Birmingham,K0032,Chemical Engineering,https://www.birmingham.ac.uk/undergraduate/courses/chemical-engineering/chemical-engineering-beng.aspx,No,No,No,34000
+10006840,University of Birmingham,K0033,Chemical Engineering,https://www.birmingham.ac.uk/undergraduate/courses/chemical-engineering/chemical-engineering-meng.aspx,Yes,No,No,34000
+10006840,University of Birmingham,K0036,Materials Science and Engineering,https://www.birmingham.ac.uk/undergraduate/courses/metallurgy-materials/materials-science-engineering-meng.aspx,Yes,Yes,Yes,32000
+10006840,University of Birmingham,K0038,Materials Science and Engineering,https://www.birmingham.ac.uk/undergraduate/courses/metallurgy-materials/materials-science-engineering.aspx,Yes,Yes,Yes,32000
+10006840,University of Birmingham,K0040,Classical Literature and Civilisation,https://www.birmingham.ac.uk/undergraduate/courses/caha/classical-lit-civ.aspx,No,No,Yes,23500
+10006840,University of Birmingham,K0042,Ancient History,https://www.birmingham.ac.uk/undergraduate/courses/caha/ancient-history.aspx,No,No,Yes,27000
+10006840,University of Birmingham,K0043,Archaeology and Ancient History,https://www.birmingham.ac.uk/undergraduate/courses/caha/arch-ancient-hist.aspx,No,No,Yes,26500
+10006840,University of Birmingham,K0044,Ancient and Medieval History,https://www.birmingham.ac.uk/undergraduate/courses/history/history-ancient-medieval.aspx,No,No,Yes,27000
+10006840,University of Birmingham,K0046,English Literature,https://www.birmingham.ac.uk/undergraduate/courses/english/english.aspx,No,No,Yes,28000
+10006840,University of Birmingham,K0051,Geography,https://www.birmingham.ac.uk/undergraduate/courses/gees/geography-ba.aspx,No,Yes,No,28000
+10006840,University of Birmingham,K0052,Philosophy,https://www.birmingham.ac.uk/undergraduate/courses/phil/philosophy.aspx,No,No,Yes,25000
+10006840,University of Birmingham,K0053,Theology and Religion,https://www.birmingham.ac.uk/undergraduate/courses/thr/theology.aspx,No,No,Yes,23000
+10006840,University of Birmingham,K0054,Music,https://www.birmingham.ac.uk/undergraduate/courses/music/music.aspx,No,No,Yes,28000
+10006840,University of Birmingham,K0078,Archaeology and History,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/archaeology-and-ancient-history-and-history,No,No,Yes,26500
+10006840,University of Birmingham,K0087,Classical Literature and Civilisation and Philosophy,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/classical-literature-and-civilisation-and-philosophy.aspx,No,No,Yes,23500
+10006840,University of Birmingham,K0117,History and Theology,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/history-and-theology.aspx,No,No,Yes,27000
+10006840,University of Birmingham,K0118,History and History of Art,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/history-and-history-of-art.aspx,No,No,Yes,26500
+10006840,University of Birmingham,K0122,History and Philosophy,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/history-and-philosophy.aspx,No,No,Yes,27000
+10006840,University of Birmingham,K0123,History and Politics,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/history-and-politics.aspx,No,No,Yes,28000
+10006840,University of Birmingham,K0129,Mathematics and Music,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/mathematics-and-music.aspx,No,No,Yes,29000
+10006840,University of Birmingham,K0130,Mathematics and Philosophy,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/mathematics-and-philosophy.aspx,No,No,Yes,29000
+10006840,University of Birmingham,K0133,"Philosophy, Religion and Ethics",https://www.birmingham.ac.uk/undergraduate/courses/thr/philosophy-religion-ethics.aspx,No,No,Yes,25000
+10006840,University of Birmingham,K0137,Medicine,https://www.birmingham.ac.uk/undergraduate/courses/med/medicine.aspx,No,No,No,34000
+10006840,University of Birmingham,K0140,Dentistry,https://www.birmingham.ac.uk/undergraduate/courses/med/dental-surgery.aspx,No,No,No,34000
+10006840,University of Birmingham,K0142,"Money, Banking and Finance",https://www.birmingham.ac.uk/undergraduate/courses/econ/money-banking-finance-bsc.aspx,No,No,No,31500
+10006840,University of Birmingham,K0146,Politics,https://www.birmingham.ac.uk/undergraduate/courses/govsoc/politics.aspx,No,No,No,28000
+10006840,University of Birmingham,K0147,Social Policy,https://www.birmingham.ac.uk/undergraduate/courses/social-policy/social-policy-ba.aspx,No,No,No,25500
+10006840,University of Birmingham,K0148,Economics and Politics,https://www.birmingham.ac.uk/undergraduate/courses/econ/economics-and-political-science-bsc.aspx,No,No,No,31500
+10006840,University of Birmingham,K0150,Geography and Urban and Regional Planning,https://www.birmingham.ac.uk/undergraduate/courses/gees/geography-planning.aspx,No,Yes,No,28000
+10006840,University of Birmingham,K0151,Sociology and Social Policy,https://www.birmingham.ac.uk/undergraduate/courses/social-policy/social-policy-sociology.aspx,No,No,No,28000
+10006840,University of Birmingham,K0154,Philosophy and Sociology,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/philosophy-and-sociology.aspx,No,No,Yes,28000
+10006840,University of Birmingham,K0155,Politics and Philosophy,https://www.birmingham.ac.uk/undergraduate/courses/govsoc/politics-philosophy.aspx,No,No,No,28000
+10006840,University of Birmingham,K0156,Law,https://www.birmingham.ac.uk/undergraduate/courses/law/law-llb.aspx,Yes,No,Yes,24500
+10006840,University of Birmingham,K0157,Law with French Law,https://www.birmingham.ac.uk/undergraduate/courses/law/law-french.aspx,No,No,Yes,24500
+10006840,University of Birmingham,K0158,Law with German Law,https://www.birmingham.ac.uk/undergraduate/courses/law/law-german.aspx,No,No,Yes,24500
+10006840,University of Birmingham,K0159,Accounting and Finance,https://www.birmingham.ac.uk/undergraduate/courses/business/accounting-finance.aspx,No,No,No,26500
+10006840,University of Birmingham,K0160,Economics,https://www.birmingham.ac.uk/undergraduate/courses/econ/economics-bsc.aspx,No,No,No,31500
+10006840,University of Birmingham,K0161,Economics with German,https://www.birmingham.ac.uk/undergraduate/courses/econ/economics-german.aspx,No,No,Yes,31500
+10006840,University of Birmingham,K0162,Economics with Spanish,https://www.birmingham.ac.uk/undergraduate/courses/econ/economics-spanish.aspx,No,No,Yes,31500
+10006840,University of Birmingham,K0168,Chemistry with a Modern Language,https://www.birmingham.ac.uk/undergraduate/courses/chemistry/chemistry-language-bsc.aspx,Yes,No,No,28000
+10006840,University of Birmingham,K0171,Chemistry with a Modern Language,https://www.birmingham.ac.uk/undergraduate/courses/chemistry/chemistry-language-msci.aspx,Yes,No,No,28000
+10006840,University of Birmingham,K0173,Sociology,https://www.birmingham.ac.uk/undergraduate/courses/social-policy/sociology.aspx,No,No,No,28000
+10006840,University of Birmingham,K0179,Physics,https://www.birmingham.ac.uk/undergraduate/courses/physics/physics-msci.aspx,Yes,No,No,31500
+10006840,University of Birmingham,K0180,Physics and Astrophysics,https://www.birmingham.ac.uk/undergraduate/courses/physics/physics-astrophysics-msci.aspx,Yes,No,No,31500
+10006840,University of Birmingham,K0181,Physics (International Study),https://www.birmingham.ac.uk/undergraduate/courses/physics/physics-international-msci.aspx,Yes,No,Yes,31500
+10006840,University of Birmingham,K0182,Theoretical Physics,https://www.birmingham.ac.uk/undergraduate/courses/physics/theoretical-physics-msci.aspx,No,No,No,31500
+10006840,University of Birmingham,K0183,Physics,https://www.birmingham.ac.uk/undergraduate/courses/physics/physics-bsc.aspx,Yes,No,No,31500
+10006840,University of Birmingham,K0184,Physics and Astrophysics,https://www.birmingham.ac.uk/undergraduate/courses/physics/physics-astrophysics-bsc.aspx,Yes,No,No,31500
+10006840,University of Birmingham,K0185,Physics (with International Study),https://www.birmingham.ac.uk/undergraduate/courses/physics/physics-international-bsc.aspx,Yes,No,Yes,31500
+10006840,University of Birmingham,K0186,Theoretical Physics,https://www.birmingham.ac.uk/undergraduate/courses/physics/theoretical-physics-bsc.aspx,No,No,No,31500
+10006840,University of Birmingham,K0187,Chemical Engineering (with International Study),https://www.birmingham.ac.uk/undergraduate/courses/chemical-engineering/chemical-engineering-international-meng.aspx,Yes,No,Yes,34000
+10006840,University of Birmingham,K0188,Computer Science,https://www.birmingham.ac.uk/undergraduate/courses/computer-science/computer-science.aspx,Yes,No,No,35000
+10006840,University of Birmingham,K0189,Mathematical Economics and Statistics,https://www.birmingham.ac.uk/undergraduate/courses/econ/maths-econ-stats-bsc.aspx,No,No,No,31500
+10006840,University of Birmingham,K0190,Chemical Engineering with Industrial Study,https://www.birmingham.ac.uk/undergraduate/courses/chemical-engineering/chemical-engineering-industry-meng.aspx,Yes,Yes,No,34000
+10006840,University of Birmingham,K0191,Civil Engineering (International Study),https://www.birmingham.ac.uk/undergraduate/courses/civil-engineering/civil-engineering-international-meng.aspx,Yes,No,Yes,29000
+10006840,University of Birmingham,K0192,Civil Engineering with industrial experience,https://www.birmingham.ac.uk/undergraduate/courses/civil-engineering/civil-engineering-industry.aspx,Yes,No,No,29000
+10006840,University of Birmingham,K0193,Physics with Particle Physics and Cosmology,https://www.birmingham.ac.uk/undergraduate/courses/physics/physics-particle-cosmology-msci.aspx,Yes,No,No,31500
+10006840,University of Birmingham,K0194,Physics with Particle Physics and Cosmology,https://www.birmingham.ac.uk/undergraduate/courses/physics/physics-particle-cosmology-bsc.aspx,Yes,No,No,31500
+10006840,University of Birmingham,K0196,Applied Golf Management Studies,https://www.birmingham.ac.uk/undergraduate/courses/sportex/app-golf-mgt-studies.aspx,No,No,Yes,29500
+10006840,University of Birmingham,K0198,Geology with an International Year,https://www.birmingham.ac.uk/undergraduate/courses/gees/geology-international.aspx,No,No,Yes,28000
+10006840,University of Birmingham,K0201,Computer Science and Software Engineering,https://www.birmingham.ac.uk/undergraduate/courses/computer-science/computer-science-software-engineering.aspx,Yes,No,No,35000
+10006840,University of Birmingham,K0203,Biochemistry with Professional Placement,https://www.birmingham.ac.uk/undergraduate/courses/biosciences/biochemistry-placement.aspx,No,Yes,No,30000
+10006840,University of Birmingham,K0204,Biological Sciences with Professional Placement,https://www.birmingham.ac.uk/undergraduate/courses/biosciences/biological-sciences-placement.aspx,No,Yes,No,27500
+10006840,University of Birmingham,K0205,Biochemistry with Study in Continental Europe,https://www.birmingham.ac.uk/undergraduate/courses/biosciences/biochemistry-europe.aspx,No,No,Yes,30000
+10006840,University of Birmingham,K0213,Modern Languages,https://www.birmingham.ac.uk/undergraduate/courses/lang/modern-languages.aspx,No,No,Yes,26500
+10006840,University of Birmingham,K0221,Social Anthropology and Classical Literature and Civilisation,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/anthropology-and-classical-literature-and-civilisation.aspx,No,No,Yes,27500
+10006840,University of Birmingham,K0222,Social Anthropology and African Studies,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/anthropology-and-african-studies.aspx,No,No,Yes,27500
+10006840,University of Birmingham,K0224,Social Anthropology and History,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/anthropology-and-history.aspx,No,No,Yes,27500
+10006840,University of Birmingham,K0226,Social Anthropology and Politics,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/anthropology-and-politics.aspx,No,No,Yes,27500
+10006840,University of Birmingham,K0228,Mathematics and Computer Science,https://www.birmingham.ac.uk/undergraduate/courses/maths/maths-computer-science.aspx,Yes,No,No,29000
+10006840,University of Birmingham,K0229,Mathematics and Computer Science,https://www.birmingham.ac.uk/undergraduate/courses/maths/maths-computer-science-msci.aspx,Yes,No,No,29000
+10006840,University of Birmingham,K0230,Mathematics with Business Management,https://www.birmingham.ac.uk/undergraduate/courses/maths/mathematics-business.aspx,Yes,No,No,29000
+10006840,University of Birmingham,K0231,Mathematics with Business Management,https://www.birmingham.ac.uk/undergraduate/courses/maths/mathematics-business-msci.aspx,Yes,No,No,29000
+10006840,University of Birmingham,K0232,Environmental Science with Professional Placement Abroad,https://www.birmingham.ac.uk/undergraduate/courses/gees/environmental-science-placement.aspx,No,Yes,Yes,28000
+10006840,University of Birmingham,K0233,International Relations,https://www.birmingham.ac.uk/undergraduate/courses/govsoc/international-relations.aspx,No,No,No,28000
+10006840,University of Birmingham,K0235,Physics and Astrophysics (International Study),https://www.birmingham.ac.uk/undergraduate/courses/physics/physics-astrophysics-international-bsc.aspx,Yes,No,Yes,31500
+10006840,University of Birmingham,K0249,History of Art,https://www.birmingham.ac.uk/undergraduate/courses/histart/history-art.aspx,No,No,Yes,26500
+10006840,University of Birmingham,K0257,Chemistry with Study Abroad,https://www.birmingham.ac.uk/undergraduate/courses/chemistry/chemistry-study-abroad-msci.aspx,Yes,No,Yes,28000
+10006840,University of Birmingham,K0258,Chemistry with Business Management,https://www.birmingham.ac.uk/undergraduate/courses/chemistry/chemistry-business-bsc.aspx,Yes,No,No,28000
+10006840,University of Birmingham,K0259,Chemistry with Business Management,https://www.birmingham.ac.uk/undergraduate/courses/chemistry/chemistry-business-msci.aspx,Yes,No,No,28000
+10006840,University of Birmingham,K0260,Social Work,https://www.birmingham.ac.uk/undergraduate/courses/social-policy/social-work.aspx,No,No,Yes,31000
+10006840,University of Birmingham,K0262,Education,https://www.birmingham.ac.uk/undergraduate/courses/edu/ba-education.aspx,No,No,Yes,26000
+10006840,University of Birmingham,K0270,Law with Business Studies,https://www.birmingham.ac.uk/undergraduate/courses/law/law-business.aspx,No,No,Yes,24500
+10006840,University of Birmingham,K0272,Business Management,https://www.birmingham.ac.uk/undergraduate/courses/business/business-management.aspx,No,No,No,29500
+10006840,University of Birmingham,K0273,Business Management with Communications,https://www.birmingham.ac.uk/undergraduate/courses/business/business-mgmt-comms.aspx,No,No,No,29500
+10006840,University of Birmingham,K0275,International Business with Communications,https://www.birmingham.ac.uk/undergraduate/courses/business/international-business-comms.aspx,No,No,Yes,29500
+10006840,University of Birmingham,K0276,Business Management (with Year in Industry),https://www.birmingham.ac.uk/undergraduate/courses/business/bus-mgnt-year-in-industry.aspx,No,Yes,No,29500
+10006840,University of Birmingham,K0277,International Business with Language,https://www.birmingham.ac.uk/undergraduate/courses/business/international-business-lang.aspx,No,No,Yes,29500
+10006840,University of Birmingham,K0278,International Business,https://www.birmingham.ac.uk/undergraduate/courses/business/international-business.aspx,No,No,Yes,29500
+10006840,University of Birmingham,K0279,Materials Science and Engineering with Industrial Experience,https://www.birmingham.ac.uk/undergraduate/courses/metallurgy-materials/materials-engineering-industrial-meng.aspx,Yes,Yes,Yes,32000
+10006840,University of Birmingham,K0282,Modern Languages with Business Management,https://www.birmingham.ac.uk/undergraduate/courses/lang/mod-lang-business.aspx,No,No,Yes,29500
+10006840,University of Birmingham,K0283,English Literature and Creative Writing,https://www.birmingham.ac.uk/undergraduate/courses/english/english-creative.aspx,No,No,Yes,27000
+10006840,University of Birmingham,K0287,History,https://www.birmingham.ac.uk/undergraduate/courses/history/history.aspx,No,No,Yes,27000
+10006840,University of Birmingham,K0288,Mathematics,https://www.birmingham.ac.uk/undergraduate/courses/maths/mathematics-MSci.aspx,Yes,No,No,29000
+10006840,University of Birmingham,K0289,Mathematics,https://www.birmingham.ac.uk/undergraduate/courses/maths/mathematics.aspx,Yes,No,No,29000
+10006840,University of Birmingham,K0290,Mathematics with Study in Continental Europe,https://www.birmingham.ac.uk/undergraduate/courses/maths/mathematics-europe.aspx,Yes,No,Yes,29000
+10006840,University of Birmingham,K0291,Chemistry,https://www.birmingham.ac.uk/undergraduate/courses/chemistry/chemistry-bsc.aspx,No,No,No,28000
+10006840,University of Birmingham,K0292,Chemistry,https://www.birmingham.ac.uk/undergraduate/courses/chemistry/chemistry-msci.aspx,Yes,No,No,28000
+10006840,University of Birmingham,K0295,Chemistry with Industrial Experience,https://www.birmingham.ac.uk/undergraduate/courses/chemistry/chemistry-industrial.aspx,Yes,Yes,No,28000
+10006840,University of Birmingham,K0296,Biochemistry,https://www.birmingham.ac.uk/undergraduate/courses/biosciences/biochemistry-msci.aspx,No,No,No,30000
+10006840,University of Birmingham,K0298,Biological Sciences,https://www.birmingham.ac.uk/undergraduate/courses/biosciences/biological-sciences-msci.aspx,No,No,No,27500
+10006840,University of Birmingham,K0313,Social Anthropology and Archaeology,https://www.birmingham.ac.uk/undergraduate/courses/caha/arch-anthropology.aspx,No,No,Yes,27500
+10006840,University of Birmingham,K0316,English Literature and History of Art,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/english-and-history-of-art.aspx,No,No,Yes,28000
+10006840,University of Birmingham,K0318,English Literature and Classical Literature and Civilisation,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/english-and-classical-literature-and-civilisation.aspx,No,No,Yes,28000
+10006840,University of Birmingham,K0325,English Literature and History,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/english-literature-and-history.aspx,No,No,Yes,28000
+10006840,University of Birmingham,K0331,English Literature and Philosophy,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/english-literature-and-philosophy.aspx,No,No,Yes,28000
+10006840,University of Birmingham,K0336,Mechanical Engineering (Automotive),https://www.birmingham.ac.uk/undergraduate/courses/mechanical-engineering/mechanical-engineering-automotive-beng.aspx,Yes,No,No,31500
+10006840,University of Birmingham,K0337,Mechanical Engineering (Automotive),https://www.birmingham.ac.uk/undergraduate/courses/mechanical-engineering/mechanical-engineering-automotive-meng.aspx,Yes,No,No,31500
+10006840,University of Birmingham,K0341,"Sport, Physical Education and Coaching Science",https://www.birmingham.ac.uk/undergraduate/courses/sportex/sport-pe-coaching-bp.aspx,No,No,Yes,24000
+10006840,University of Birmingham,K0344,Drama and English Literature,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/drama-and-english.aspx,No,Yes,Yes,28000
+10006840,University of Birmingham,K0351,English Language and Linguistics,https://www.birmingham.ac.uk/undergraduate/courses/english/english-lang.aspx,No,No,Yes,25500
+10006840,University of Birmingham,K0352,Geography with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/gees/geography-bsc-abroad.aspx,No,No,Yes,28000
+10006840,University of Birmingham,K0353,Geography with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/gees/geography-ba-abroad.aspx,No,No,Yes,28000
+10006840,University of Birmingham,K0355,Psychology and Psychological Practice,https://www.birmingham.ac.uk/undergraduate/courses/psychology/psychology-practice.aspx,No,No,Yes,25000
+10006840,University of Birmingham,K0357,International Relations with Economics,https://www.birmingham.ac.uk/undergraduate/courses/govsoc/international-relations-economics.aspx,No,No,No,31500
+10006840,University of Birmingham,K0358,Politics and International Relations,https://www.birmingham.ac.uk/undergraduate/courses/govsoc/politics-international-relations.aspx,No,No,No,28000
+10006840,University of Birmingham,K0359,International Relations with French,https://www.birmingham.ac.uk/undergraduate/courses/govsoc/international-relations-french.aspx,No,No,Yes,28000
+10006840,University of Birmingham,K0360,International Relations with German,https://www.birmingham.ac.uk/undergraduate/courses/govsoc/international-relations-german.aspx,No,No,Yes,28000
+10006840,University of Birmingham,K0361,International Relations with Spanish,https://www.birmingham.ac.uk/undergraduate/courses/govsoc/international-relations-spanish.aspx,No,No,Yes,28000
+10006840,University of Birmingham,K0364,Chemical Engineering with Industrial Study,https://www.birmingham.ac.uk/undergraduate/courses/chemical-engineering/chemical-engineering-industry-beng.aspx,Yes,Yes,No,34000
+10006840,University of Birmingham,K0367,Chemical Engineering (with International and Industrial Study),https://www.birmingham.ac.uk/undergraduate/courses/chemical-engineering/chemical-engineering-industrial-international-meng.aspx,Yes,Yes,Yes,34000
+10006840,University of Birmingham,K0368,Mathematics and Computer Science with an Industrial Year,https://www.birmingham.ac.uk/undergraduate/courses/maths/maths-computer-science-industrial.aspx,Yes,Yes,No,29000
+10006840,University of Birmingham,K0369,Mathematics and Computer Science with Industrial Year,https://www.birmingham.ac.uk/undergraduate/courses/maths/maths-computer-science-industrial-msci.aspx,Yes,Yes,No,29000
+10006840,University of Birmingham,K0372,Computer Science with an Industrial Year,https://www.birmingham.ac.uk/undergraduate/courses/computer-science/computer-science-industry.aspx,Yes,Yes,No,35000
+10006840,University of Birmingham,K0373,Artificial Intelligence/Computer Science with an Industrial Year,https://www.birmingham.ac.uk/undergraduate/courses/computer-science/artificial-intelligence-computer-science-industry.aspx,Yes,Yes,No,35000
+10006840,University of Birmingham,K0375,Electronic and Electrical Engineering with Industrial Year,https://www.birmingham.ac.uk/undergraduate/courses/eese/electronic-electrical-engineering-industry-beng.aspx,Yes,Yes,No,32000
+10006840,University of Birmingham,K0382,Electronic and Electrical Engineering with Industrial Year,https://www.birmingham.ac.uk/undergraduate/courses/eese/electronic-electrical-engineering-industry-meng.aspx,Yes,Yes,No,32000
+10006840,University of Birmingham,K0386,Mechanical Engineering with Industrial Year,https://www.birmingham.ac.uk/undergraduate/courses/mechanical-engineering/mechanical-engineering-industrial-meng.aspx,Yes,Yes,No,31500
+10006840,University of Birmingham,K0404,Computer Science and Software Engineering with an Ind Yr,https://www.birmingham.ac.uk/undergraduate/courses/computer-science/computer-science-software-engineering-industry.aspx,Yes,Yes,No,35000
+10006840,University of Birmingham,K0406,Biomedical Science,https://www.birmingham.ac.uk/undergraduate/courses/med/biomedical-science.aspx,Yes,No,No,28500
+10006840,University of Birmingham,K0410,Politics and Social Policy,https://www.birmingham.ac.uk/undergraduate/courses/govsoc/politics-social-policy.aspx,No,No,No,25500
+10006840,University of Birmingham,K0411,Politics and Sociology,https://www.birmingham.ac.uk/undergraduate/courses/govsoc/politics-sociology.aspx,No,No,No,28000
+10006840,University of Birmingham,K0412,Geography,https://www.birmingham.ac.uk/undergraduate/courses/gees/geography-msci.aspx,No,No,No,28000
+10006840,University of Birmingham,K0413,Geography with an International Year,https://www.birmingham.ac.uk/undergraduate/courses/gees/geography-msci-international.aspx,No,No,Yes,28000
+10006840,University of Birmingham,K0416,Pharmacy,https://www.birmingham.ac.uk/undergraduate/courses/med/pharmacy-4-year.aspx,No,No,No,28500
+10006840,University of Birmingham,K0418,"Policy, Politics and Economics",https://www.birmingham.ac.uk/undergraduate/courses/social-policy/policy-politics-economics.aspx,No,No,No,25500
+10006840,University of Birmingham,K0419,English Language and Literature,https://www.birmingham.ac.uk/undergraduate/courses/english/english-language-and-literature.aspx,No,No,Yes,27000
+10006840,University of Birmingham,K0420,Computer Science,https://www.birmingham.ac.uk/undergraduate/courses/computer-science/computer-science-msci.aspx,Yes,No,No,35000
+10006840,University of Birmingham,K0421,Computer Science with an Industrial Year,https://www.birmingham.ac.uk/undergraduate/courses/computer-science/computer-science-industry-msci.aspx,Yes,Yes,No,35000
+10006840,University of Birmingham,K0422,Computer Science with Study Abroad,https://www.birmingham.ac.uk/undergraduate/courses/computer-science/computer-science-international-msci.aspx,Yes,No,Yes,35000
+10006840,University of Birmingham,K0424,Education and Sociology,https://www.birmingham.ac.uk/undergraduate/courses/edu/education-sociology.aspx,No,No,Yes,28000
+10006840,University of Birmingham,K0435,Computer Science with Study Abroad,https://www.birmingham.ac.uk/undergraduate/courses/computer-science/computer-science-international-bsc.aspx,Yes,No,Yes,35000
+10006840,University of Birmingham,K0439,Politics and Philosophy with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/govsoc/politics-philosophy-year-abroad.aspx,No,No,Yes,28000
+10006840,University of Birmingham,K0440,Politics and Social Policy with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/govsoc/politics-social-policy-year-abroad.aspx,No,No,Yes,25500
+10006840,University of Birmingham,K0441,Politics and Sociology with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/govsoc/politics-sociology-year-abroad.aspx,No,No,Yes,28000
+10006840,University of Birmingham,K0442,Politics with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/govsoc/politics-year-abroad.aspx,No,No,Yes,28000
+10006840,University of Birmingham,K0444,Social Policy with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/social-policy/social-policy-year-abroad-ba.aspx,No,No,Yes,25500
+10006840,University of Birmingham,K0467,International Relations with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/govsoc/international-relations-year-abroad.aspx,No,No,Yes,28000
+10006840,University of Birmingham,K0469,International Relations with Economics with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/govsoc/international-relations-economics-year-abroad.aspx,No,No,Yes,31500
+10006840,University of Birmingham,K0470,Politics and International Relations with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/govsoc/politics-international-relations-year-abroad.aspx,No,No,Yes,28000
+10006840,University of Birmingham,K0471,Law with Criminology,https://www.birmingham.ac.uk/undergraduate/courses/law/law-criminology.aspx,No,No,Yes,24500
+10006840,University of Birmingham,K0485,Politics Religion and Philosophy,https://www.birmingham.ac.uk/undergraduate/courses/thr/politics-religion-philosophy.aspx,No,No,Yes,28000
+10006840,University of Birmingham,K0486,Modern Languages and English Literature,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/modern-languages-and-english-lit.aspx,No,No,Yes,28000
+10006840,University of Birmingham,K0487,Modern Languages and History of Art,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/modern-languages-and-history-of-art.aspx,No,No,Yes,26500
+10006840,University of Birmingham,K0488,Geology,https://www.birmingham.ac.uk/undergraduate/courses/gees/geology-msci.aspx,No,Yes,No,28000
+10006840,University of Birmingham,K0491,Geology and Physical Geography,https://www.birmingham.ac.uk/undergraduate/courses/gees/geology-physical-geography-msci.aspx,No,Yes,No,28000
+10006840,University of Birmingham,K0494,Social Policy and Criminology,https://www.birmingham.ac.uk/undergraduate/courses/social-policy/social-policy-and-criminology.aspx,No,No,No,28000
+10006840,University of Birmingham,K0496,Classics,https://www.birmingham.ac.uk/undergraduate/courses/caha/classics.aspx,No,No,Yes,23500
+10006840,University of Birmingham,K0497,International Law and Globalisation,https://www.birmingham.ac.uk/undergraduate/courses/law/international-law-globalisation.aspx,No,No,Yes,24500
+10006840,University of Birmingham,K0498,Biochemistry with International Year,https://www.birmingham.ac.uk/undergraduate/courses/biosciences/biochemistry-international-year.aspx,No,No,Yes,30000
+10006840,University of Birmingham,K0499,Biological Sciences with International Year,https://www.birmingham.ac.uk/undergraduate/courses/biosciences/biological-sciences-international-year.aspx,No,No,Yes,27500
+10006840,University of Birmingham,K0501,Human Neuroscience,https://www.birmingham.ac.uk/undergraduate/courses/psychology/human-neuroscience-bsc.aspx,No,No,Yes,28500
+10006840,University of Birmingham,K0502,Modern Languages and Music,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/modern-languages-and-music.aspx,No,No,Yes,26500
+10006840,University of Birmingham,K0503,Business Management with Marketing,https://www.birmingham.ac.uk/undergraduate/courses/business/business-management-with-marketing.aspx,Yes,No,No,29500
+10006840,University of Birmingham,K0504,Environmental Science,https://www.birmingham.ac.uk/undergraduate/courses/gees/environmental-science-msci.aspx,No,No,No,28000
+10006840,University of Birmingham,K0505,Environmental Science with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/gees/environmental-science-abroad.aspx,No,No,Yes,28000
+10006840,University of Birmingham,K0506,"Policy, Politics and Economics with Year Abroad",https://www.birmingham.ac.uk/undergraduate/courses/social-policy/policy-politics-economics-year-abroad.aspx,No,No,Yes,25500
+10006840,University of Birmingham,K0507,Geology and Physical Geography with an International Year,https://www.birmingham.ac.uk/undergraduate/courses/gees/geology-physical-geography-msci-international.aspx,No,No,Yes,28000
+10006840,University of Birmingham,K0511,Mathematics with a Year in Industry,https://www.birmingham.ac.uk/undergraduate/courses/maths/mathematics-industry.aspx,No,Yes,No,29000
+10006840,University of Birmingham,K0512,Mathematics with International Year,https://www.birmingham.ac.uk/undergraduate/courses/maths/mathematics-international.aspx,No,No,Yes,29000
+10006840,University of Birmingham,K0514,English Literature and Film,https://www.birmingham.ac.uk/undergraduate/courses/english/english-film.aspx,No,No,Yes,28000
+10006840,University of Birmingham,K0515,Mechatronic and Robotic Engineering,https://www.birmingham.ac.uk/undergraduate/courses/eese/mechatronic-robotic-engineering-beng.aspx,Yes,No,No,32000
+10006840,University of Birmingham,K0516,Mechatronic and Robotic Engineering,https://www.birmingham.ac.uk/undergraduate/courses/eese/mechatronic-robotic-engineering-meng.aspx,Yes,No,No,32000
+10006840,University of Birmingham,K0518,Aerospace Engineering,https://www.birmingham.ac.uk/undergraduate/courses/metallurgy-materials/aerospace-engineering-beng.aspx,Yes,Yes,Yes,32000
+10006840,University of Birmingham,K0519,Aerospace Engineering,https://www.birmingham.ac.uk/undergraduate/courses/metallurgy-materials/aerospace-engineering-meng.aspx,Yes,Yes,Yes,32000
+10006840,University of Birmingham,K0520,Sociology and Criminology,https://www.birmingham.ac.uk/undergraduate/courses/social-policy/sociology-and-criminology.aspx,No,No,No,28000
+10006840,University of Birmingham,K0522,Palaeontology and Geology,https://www.birmingham.ac.uk/undergraduate/courses/gees/palaeobiology-palaeoenvironments-bsc.aspx,No,Yes,No,28000
+10006840,University of Birmingham,K0523,Palaeontology and Geology,https://www.birmingham.ac.uk/undergraduate/courses/gees/palaeobiology-palaeoenvironments-msci.aspx,No,Yes,No,28000
+10006840,University of Birmingham,K0524,Palaeontology and Geology with an International Year,https://www.birmingham.ac.uk/undergraduate/courses/gees/palaeobiology-palaeoenvironments-msci-international.aspx,No,No,Yes,28000
+10006840,University of Birmingham,K0525,Business Management with Communications and Year in Industry,https://www.birmingham.ac.uk/undergraduate/courses/business/business-mgmt-comms-yini.aspx,No,Yes,No,29500
+10006840,University of Birmingham,K0526,Business Management with Marketing and Year in Industry,https://www.birmingham.ac.uk/undergraduate/courses/business/business-mgmt-marketing-yini.aspx,No,Yes,No,29500
+10006840,University of Birmingham,K0527,Criminology,https://www.birmingham.ac.uk/undergraduate/courses/social-policy/criminology.aspx,No,No,No,28000
+10006840,University of Birmingham,K0528,Criminology with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/social-policy/criminology-year-abroad.aspx,No,No,Yes,28000
+10006840,University of Birmingham,K0529,Mechanical Engineering with Industrial Year,https://www.birmingham.ac.uk/undergraduate/courses/mechanical-engineering/mechanical-engineering-industrial-beng.aspx,Yes,Yes,No,31500
+10006840,University of Birmingham,K0530,International Development and Politics,https://www.birmingham.ac.uk/undergraduate/courses/govsoc/international-development-and-politics.aspx,No,No,No,27500
+10006840,University of Birmingham,K0531,Psychology in Education,https://www.birmingham.ac.uk/undergraduate/courses/edu/psychology-education.aspx,No,No,Yes,25000
+10006840,University of Birmingham,K0532,International Relations and Development,https://www.birmingham.ac.uk/undergraduate/courses/govsoc/international-relations-and-development.aspx,No,No,No,27500
+10006840,University of Birmingham,K0533,Modern Languages and History,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/modern-languages-and-history.aspx,No,No,Yes,26500
+10006840,University of Birmingham,K0534,Sociology with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/social-policy/sociology-year-abroad-ba.aspx,No,No,Yes,28000
+10006840,University of Birmingham,K0535,Social Policy and Sociology with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/social-policy/social-policy-sociology-year-abroad-ba.aspx,No,No,Yes,28000
+10006840,University of Birmingham,K0536,Sociology and Criminology with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/social-policy/sociology-and-criminology-year-abroad-ba.aspx,No,No,Yes,28000
+10006840,University of Birmingham,K0537,Social Policy and Criminology with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/social-policy/social-policy-and-criminology-year-abroad-ba.aspx,No,No,Yes,28000
+10006840,University of Birmingham,K0538,International Development and Politics with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/govsoc/international-development-and-politics-year-abroad.aspx,No,No,Yes,27500
+10006840,University of Birmingham,K0539,International Relations and Development with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/govsoc/international-relations-and-development-year-abroad.aspx,No,No,Yes,27500
+10006840,University of Birmingham,K0541,Nursing (Adult),https://www.birmingham.ac.uk/undergraduate/courses/med/bnurs-adult.aspx,No,No,No,28500
+10006840,University of Birmingham,K0542,Nursing (Child),https://www.birmingham.ac.uk/undergraduate/courses/med/bnurs-child.aspx,No,No,No,28500
+10006840,University of Birmingham,K0543,Nursing (Mental Health),https://www.birmingham.ac.uk/undergraduate/courses/med/bnurs-mental-health.aspx,No,No,No,28500
+10006840,University of Birmingham,K0549,Engineering,https://www.birmingham.ac.uk/undergraduate/courses/engineering/engineering-beng,No,Yes,No,32000
+10006840,University of Birmingham,K0550,Engineering,https://www.birmingham.ac.uk/undergraduate/courses/engineering/engineering-meng.aspx,No,Yes,Yes,32000
+10006840,University of Birmingham,K0552,Psychology with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/psychology/psychology-with-year-abroad.aspx,No,No,Yes,25000
+10006840,University of Birmingham,K0553,Chemistry with Foundation Year,https://www.birmingham.ac.uk/undergraduate/courses/fd/chemistry-foundation.aspx,Yes,No,No,28000
+10006840,University of Birmingham,K0554,Civil Engineering with Industrial Year,https://www.birmingham.ac.uk/undergraduate/courses/civil-engineering/civil-engineering-industrial-meng.aspx,No,Yes,No,29000
+10006840,University of Birmingham,K0555,Mechanical Engineering with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/mechanical-engineering/mechanical-engineering-international-meng.aspx,Yes,No,Yes,31500
+10006840,University of Birmingham,K0556,Chemical Engineering with Foundation Year,https://www.birmingham.ac.uk/undergraduate/courses/fd/chemical-engineering-foundation.aspx,Yes,No,No,34000
+10006840,University of Birmingham,K0557,Mechatronic and Robotic Engineering with Industrial Year,https://www.birmingham.ac.uk/undergraduate/courses/eese/mechatronic-robotic-engineering-industry-beng.aspx,Yes,Yes,No,32000
+10006840,University of Birmingham,K0558,Mechatronic and Robotic Engineering with Industrial Year,https://www.birmingham.ac.uk/undergraduate/courses/eese/mechatronic-robotic-engineering-industry-meng.aspx,Yes,Yes,No,32000
+10006840,University of Birmingham,K0559,Biomedical Science,https://www.birmingham.ac.uk/undergraduate/courses/med/biomedical-science-msci.aspx,No,Yes,No,28500
+10006840,University of Birmingham,K0560,Environmental Change and Sustainability,https://www.birmingham.ac.uk/undergraduate/courses/gees/environmental-change-and-sustainability-bsc.aspx,No,No,No,28000
+10006840,University of Birmingham,K0561,Environmental Change and Sustainability with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/gees/environmental-change-and-sustainability-bsc-abroad.aspx,No,No,Yes,28000
+10006840,University of Birmingham,K0562,Environmental Change and Sustainability,https://www.birmingham.ac.uk/undergraduate/courses/gees/environmental-change-and-sustainability-msci.aspx,No,No,No,28000
+10006840,University of Birmingham,K0563,Human Sciences,https://www.birmingham.ac.uk/undergraduate/courses/biosciences/human-sciences.aspx,No,Yes,Yes,28000
+10006840,University of Birmingham,K0564,Human Sciences,https://www.birmingham.ac.uk/undergraduate/courses/biosciences/human-sciences-msci.aspx,No,Yes,Yes,28000
+10006840,University of Birmingham,K0565,Chemistry with Medicinal Chemistry and Drug Discovery,https://www.birmingham.ac.uk/undergraduate/courses/chemistry/chemistry-medicinal-drug-bsc.aspx,No,No,No,28000
+10006840,University of Birmingham,K0566,Chemistry with Medicinal Chemistry and Drug Discovery,https://www.birmingham.ac.uk/undergraduate/courses/chemistry/chemistry-medicinal-drug-msci.aspx,No,No,No,28000
+10006840,University of Birmingham,K0567,Physics with Data Science,https://www.birmingham.ac.uk/undergraduate/courses/physics/physics-data-science-bsc.aspx,No,No,No,31500
+10006840,University of Birmingham,K0568,Physics with Data Science,https://www.birmingham.ac.uk/undergraduate/courses/physics/physics-data-science-msci.aspx,No,No,No,31500
+10006840,University of Birmingham,K0569,Social Anthropology,https://www.birmingham.ac.uk/undergraduate/courses/dasa/social-anthropology.aspx,No,No,Yes,27500
+10006840,University of Birmingham,K0570,Physiotherapy,https://www.birmingham.ac.uk/undergraduate/courses/sportex/physiotherapy.aspx,No,No,Yes,28500
+10006840,University of Birmingham,K0571,Environmental and Engineering Geoscience,https://www.birmingham.ac.uk/undergraduate/courses/gees/environmental-and-engineering-geoscience-bsc.aspx,No,Yes,No,28000
+10006840,University of Birmingham,K0572,Film and Creative Writing,https://www.birmingham.ac.uk/undergraduate/courses/english/film-and-creative-writing.aspx,No,No,Yes,27000
+10006840,University of Birmingham,K0573,Psychology and Religion,https://www.birmingham.ac.uk/undergraduate/courses/thr/psychology-religion.aspx,No,No,Yes,25000
+10006840,University of Birmingham,K0600,Chemistry with Sustainability,https://www.birmingham.ac.uk/undergraduate/courses/chemistry/chemistry-sustainability-bsc.aspx,No,No,No,28000
+10006840,University of Birmingham,K0601,Chemistry with Sustainability,https://www.birmingham.ac.uk/undergraduate/courses/chemistry/chemistry-sustainability-msci.aspx,No,No,No,28000
+10006840,University of Birmingham,K0605,Geography and Urban & Regional Planning with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/gees/geography-planning-abroad.aspx,No,No,Yes,28000
+10006840,University of Birmingham,K0607,English Language and Philosophy,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/english-language-and-philosophy.aspx,No,No,Yes,25500
+10006840,University of Birmingham,K0608,Modern Languages and Linguistics,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/modern-languages-and-english-lang.aspx,No,No,Yes,25500
+10006840,University of Birmingham,K0610,Drama and Film,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/drama-and-film.aspx,No,Yes,Yes,25000
+10006840,University of Birmingham,K0612,French with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/lang/french.aspx,No,No,Yes,26000
+10006840,University of Birmingham,K0615,Spanish with Year Abroad,https://www.birmingham.ac.uk/undergraduate/courses/lang/spanish.aspx,No,No,Yes,26000
+10006840,University of Birmingham,K0617,Modern Languages with Translation,https://www.birmingham.ac.uk/undergraduate/courses/lang/modern-languages-translation.aspx,No,No,Yes,26500
+10006840,University of Birmingham,K0618,Drama and Creative Writing,https://www.birmingham.ac.uk/undergraduate/courses/jointhonours/drama-and-creative-writing.aspx,No,Yes,Yes,25000
+10006840,University of Birmingham,K0619,Physics with Medical Physics,https://www.birmingham.ac.uk/undergraduate/courses/physics/physics-medical-bsc,No,No,No,31500
+10006840,University of Birmingham,K0622,Physics with Medical Physics,https://www.birmingham.ac.uk/undergraduate/courses/physics/physics-medical-msci.aspx,No,No,No,31500
+10006840,University of Birmingham,K0623,Chemistry with a Year in Industry,https://www.birmingham.ac.uk/undergraduate/courses/chemistry/chemistry-industrial-bsc.aspx,No,Yes,No,28000
+10006840,University of Birmingham,K0627,Liberal Arts,https://www.birmingham.ac.uk/undergraduate/courses/liberal-arts/liberal-arts,No,Yes,Yes,26000
+10006840,University of Birmingham,K0628,French and German,https://www.birmingham.ac.uk/undergraduate/courses/lang/french-and-german,No,No,Yes,26000
+10006840,University of Birmingham,K0629,French and Italian,https://www.birmingham.ac.uk/undergraduate/courses/lang/french-and-italian,No,No,Yes,26000
+10006840,University of Birmingham,K0630,French and Russian,https://www.birmingham.ac.uk/undergraduate/courses/lang/french-and-russian,No,No,Yes,26000
+10006840,University of Birmingham,K0631,French and Portuguese,https://www.birmingham.ac.uk/undergraduate/courses/lang/french-and-portuguese,No,No,Yes,26000
+10006840,University of Birmingham,K0632,French and Spanish,https://www.birmingham.ac.uk/undergraduate/courses/lang/french-and-spanish,No,No,Yes,26000
+10006840,University of Birmingham,K0633,German and Italian,https://www.birmingham.ac.uk/undergraduate/courses/lang/german-and-italian,No,No,Yes,26000
+10006840,University of Birmingham,K0634,German and Russian,https://www.birmingham.ac.uk/undergraduate/courses/lang/german-and-russian,No,No,Yes,26000
+10006840,University of Birmingham,K0635,German and Spanish,https://www.birmingham.ac.uk/undergraduate/courses/lang/german-and-spanish,No,No,Yes,26000
+10006840,University of Birmingham,K0636,Italian and Portuguese,https://www.birmingham.ac.uk/undergraduate/courses/lang/italian-and-portuguese,No,No,Yes,26000
+10006840,University of Birmingham,K0637,Italian and Spanish,https://www.birmingham.ac.uk/undergraduate/courses/lang/italian-and-spanish,No,No,Yes,26000
+10006840,University of Birmingham,K0638,Russian and Portuguese,https://www.birmingham.ac.uk/undergraduate/courses/lang/russian-and-portuguese,No,No,Yes,26000
+10006840,University of Birmingham,K0639,Russian and Spanish,https://www.birmingham.ac.uk/undergraduate/courses/lang/russian-and-spanish,No,No,Yes,26000
+10006840,University of Birmingham,K0640,Spanish and Portuguese,https://www.birmingham.ac.uk/undergraduate/courses/lang/spanish-and-portuguese,No,No,Yes,26000
+10006840,University of Birmingham,K0641,Arts and Sciences,https://www.birmingham.ac.uk/undergraduate/courses/liberal-arts/arts-and-sciences,No,Yes,Yes,26000
+10006840,University of Birmingham,K0642,Midwifery,https://www.birmingham.ac.uk/undergraduate/courses/med/bsc-midwifery,No,No,No,28500
+10006840,University of Birmingham,K0643,Computer Engineering,https://www.birmingham.ac.uk/undergraduate/courses/eese/computer-engineering-bsc,Yes,Yes,Yes,32000
+10006840,University of Birmingham,K0648,Natural Sciences,https://www.birmingham.ac.uk/undergraduate/courses/gees/nat-sci,No,Yes,No,29500
+10006840,University of Birmingham,K0649,Natural Sciences,https://www.birmingham.ac.uk/undergraduate/courses/gees/nat-sci-msci,No,Yes,No,29500
+10006840,University of Birmingham,K0650,Biotechnology,https://www.birmingham.ac.uk/undergraduate/courses/biosciences/biotechnology,No,No,No,32000
+10006840,University of Birmingham,K0651,Biotechnology with International Year,https://www.birmingham.ac.uk/undergraduate/courses/biosciences/biotechnology-international-year,No,No,Yes,32000
+10006840,University of Birmingham,K0652,Biotechnology,https://www.birmingham.ac.uk/undergraduate/courses/biosciences/biotechnology-msci,No,No,No,32000
+10006840,University of Birmingham,K0653,Biotechnology with Professional Placement,https://www.birmingham.ac.uk/undergraduate/courses/biosciences/biotechnology-placement,No,Yes,No,32000
