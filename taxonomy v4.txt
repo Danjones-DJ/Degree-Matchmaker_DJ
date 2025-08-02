@@ -1,0 +1,541 @@
+﻿Academic Subject Classification System
+Engineering
+1. Technology
+a. Computer Engineering
+b. Computer Science
+c. Computer Systems Engineering
+d. Computing
+e. Robotics
+f. Software Engineering
+2. Electric and Electronic
+a. Electrical Engineering
+b. Electronic Engineering
+3. Aero, Space, & Vehicular
+a. Aeronautical Engineering
+b. Aerospace Electronic Engineering
+c. Aerospace Engineering
+d. Automotive Engineering
+e. Spacecraft Engineering
+4. Mechanical & Mechatronic
+a. Mechanical Engineering
+b. Mechatronic Engineering
+c. Robotics
+5. Civil
+a. Civil Engineering
+6. Biomedical & Biochemical
+a. Biochemical Engineering
+b. Biomedical Engineering
+c. Biomedical Systems Engineering
+d. Chemical Engineering
+e. Medical Engineering
+f. Tissue Engineering
+7. Information & Systems
+a. Computer Systems
+b. Information Engineering
+c. Systems Engineering
+8. Other
+a. Acoustical Engineering
+b. Design Engineering
+c. Engineering Business Management
+d. Maritime Engineering
+e. Nuclear Engineering
+9. Materials
+a. Biomaterials
+b. Materials
+c. Materials Science
+d. Textiles
+10. All
+a. Engineering
+b. General Engineering
+Classics
+1. Historical Classics
+a. Ancient
+b. Ancient Civilisations
+c. Ancient History
+d. Ancient Languages
+e. Anglo-Saxon
+f. Celtic
+g. Latin
+h. Old Norse Studies
+2. Formal Classics
+a. Classical Archaeology
+b. Classical Civilisation
+c. Classics
+Languages
+1. Ancient
+a. Ancient Languages
+b. Anglo-Saxon
+c. Celtic
+d. Latin
+e. Medieval Languages
+f. Norse
+2. The Study of Language
+a. English Language
+b. Language Sciences
+c. Translation
+3. Modern Languages
+a. Arabic
+b. Bulgarian
+c. Chinese
+d. Croatian
+e. Czech
+f. Danish
+g. Dutch
+h. East European Language
+i. Finnish
+j. French
+k. German
+l. Hebrew
+m. Hungarian
+n. Icelandic
+o. Italian
+p. Japanese
+q. Language
+r. Modern European Languages
+s. Modern Greek
+t. Modern Languages
+u. Norwegian
+v. Polish
+w. Portuguese
+x. Romanian
+y. Russian
+z. Serbian
+aa. Slovak
+bb. Spanish
+cc. Swedish
+dd. Ukrainian
+ee. Yiddish
+Humanities
+1. Anthropology
+a. Ancient Civilisations
+b. Anglo-Saxon
+c. Anthropology
+d. Chinese Studies
+e. Evolution
+f. French Studies
+g. German Studies
+h. Hispanic Studies
+i. International Studies
+j. Italian Studies
+k. Japanese Studies
+l. Jewish Studies
+m. Latin American Studies
+n. Medieval
+o. Middle Eastern Studies
+p. Old Norse Studies
+q. Russian Studies
+r. Scandinavian Studies
+s. Social Anthropology
+t. the Ancient World
+u. Viking
+2. Archaeology
+a. Archaeology
+b. Classical Archaeology
+c. Evolution
+3. Culture
+a. Asian
+b. Celtic
+c. Civil
+d. Culture
+e. Cultures
+f. East European
+g. East European Studies
+h. European Social
+i. Transcultural Studies
+4. Philosophy
+a. Ethics
+b. Logic
+c. Philosophy
+d. Philosophy of Religion
+e. Philosophy of Science
+5. Religion
+a. Philosophy of Religion
+b. Religion
+c. Theology
+6. History
+a. Economic History
+b. History
+c. History of Art
+d. Modern History
+e. the Ancient World
+7. English
+a. Creative Writing
+b. English
+c. English Language
+d. English Literature
+e. Literature
+8. Linguistics
+a. Comparative Literature
+b. Experimental Linguistics
+c. Linguistics
+d. Literature
+Direct Pathways
+1. Architecture
+a. Architectural
+b. Architectural Design
+c. Architecture
+d. Design
+e. Design Engineering
+2. Medicine
+a. Audiology
+b. Immunity
+c. Infection
+d. Medicine
+e. Pharmacology
+f. Pharmacy
+g. Veterinary Medicine
+3. Nursing & Midwifery
+a. Midwifery
+b. Nursing
+4. Law
+a. European Legal Studies
+b. French Law
+c. German Law
+d. Hispanic Law
+e. International Legal Studies
+f. Jurisprudence
+g. Law
+h. Laws
+5. Education
+a. Early Childhood Education
+b. Education
+c. Education Studies
+6. Finance
+a. Actuarial Science
+b. Financial Mathematics
+c. Financial Technology
+7. Land Economy
+a. Accounting
+b. Business Finance
+c. Finance
+d. Land Economy
+e. Real Estate
+f. Taxation
+Creatives and Arts
+1. History of, Fine Art, and Music
+a. Fine Art
+b. History of Art
+c. Music
+2. Creative Arts
+a. Art
+b. Arts
+c. Creative Arts
+d. Creative Computing
+e. Liberal Arts
+f. Visual Arts
+g. Visual Computing
+3. Fashion
+a. Fashion Design
+b. Fashion Marketing
+4. Media, Theatre, and Film
+a. Digital Media
+b. Film
+c. Film Studies
+d. Media
+e. Performance Studies
+f. Theatre
+g. Theatre Studies
+Technology and Computing
+1. Electrical and Electronic
+a. Electrical Engineering
+b. Electronic
+c. Electronic Engineering
+d. Mechatronic Engineering
+e. Wireless Communications
+2. Applied Computing & Computer Science
+a. Artificial Intelligence
+b. Computer Engineering
+c. Computer Science
+d. Computer Systems
+e. Computer Systems Engineering
+f. Computing
+g. Cyber Security
+h. Machine Learning
+i. Software Engineering
+3. Applied Technology
+a. Biotechnology
+b. Biomedical Technology
+c. Financial Technology
+d. Nanotechnology
+e. Reliability
+f. Robotics
+g. Technologies
+h. Technology
+i. Wireless Communications
+4. Creative Computing
+a. Creative Computing
+b. Digital Methods
+c. Games Design
+d. Visual Computing
+Applied Medicine
+1. Biomedicine
+a. Biomedical Engineering
+b. Biomedical Science
+c. Biomedical Sciences
+d. Biomedical Systems Engineering
+e. Biomedical Technology
+f. Bioprocessing of New Medicines
+g. Cancer Biomedicine
+h. Cardiac Physiology
+i. Drug Discovery
+2. Medical Sciences
+a. Medical Biosciences
+b. Medical Engineering
+c. Medical Innovation
+d. Medical Physics
+e. Medical Sciences
+f. Medicinal Chemistry
+g. Medicinal Sciences
+Natural Sciences
+1. Natural Sciences
+a. Biology
+b. Chemistry
+c. Natural Sciences
+d. Physics
+2. Biology
+a. Biological Sciences
+b. Biology
+c. Biomaterials
+d. Biosciences
+e. Cellular
+f. Marine Biology
+g. Maritime Engineering
+h. Microbiology
+i. Molecular
+j. Molecular Physics
+3. Biochemistry
+a. Biochemical Engineering
+b. Biochemistry
+c. Biosciences
+4. Biomedicine
+a. Biomedical Engineering
+b. Biomedical Science
+c. Biomedical Sciences
+d. Biomedical Systems Engineering
+e. Biomedical Technology
+f. Bioprocessing of New Medicines
+g. Medical Biosciences
+h. Molecular Bioengineering
+5. Biotechnology
+a. Biomedical Engineering
+b. Biomedical Systems Engineering
+c. Bioprocessing of New Medicines
+d. Biotechnology
+e. Molecular Bioengineering
+6. Chemistry
+a. Biochemical Engineering
+b. Biochemistry
+c. Chemical Engineering
+d. Chemistry
+e. Medicinal Chemistry
+7. Physics
+a. Aerodynamics
+b. Astrophysics
+c. Geophysics
+d. Mathematical Physics
+e. Medical Physics
+f. Molecular Physics
+g. Photonics
+h. Physics
+i. Quantum Science
+j. Theoretical Physics
+8. Space & Environmental Physics
+a. Aeronautical
+b. Aeronautical Engineering
+c. Aeronautics
+d. Aerospace Electronic Engineering
+e. Aerospace Engineering
+f. Astronautics
+g. Astronomy
+h. Astrophysics
+i. Planetary Science
+j. Space Science
+k. Spacecraft Engineering
+Life Sciences
+1. Psychology and Brain Sciences
+a. Behavioural Science
+b. Behavioural Sciences
+c. Experimental Psychology
+d. Human Neuroscience
+e. Neuroscience
+f. Psychological
+g. Psychology
+2. Life Sciences
+a. Biology
+b. Chemistry
+c. Health
+d. Life Sciences
+e. Medical Biosciences
+f. Medical Sciences
+g. Medicinal Chemistry
+h. Medicinal Sciences
+i. Neuroscience
+3. Health
+a. Health
+b. Healthcare Science
+c. Immunity
+d. Infection
+e. Life Sciences
+f. Mental Health
+g. Nutrition
+h. Physical Activity
+i. Physiotherapy
+j. Population Health Sciences
+4. Sports & Exercise Sciences
+a. Exercise
+b. Exercise Medical Sciences
+c. Exercise Sciences
+d. Nutrition
+e. Occupational Therapy
+f. Physical Activity
+g. Physiotherapy
+h. Sport
+Earth, Geography and Environmental Sciences
+1. Geosciences
+a. Environmental Geoscience
+b. Geography
+c. Geology
+d. Geophysics
+e. Geoscience
+f. Physical Geography
+2. Environmental
+a. Environmental Biology
+b. Environmental Geoscience
+c. Oceanography
+3. Earth & Wildlife
+a. Earth
+b. Earth Sciences
+c. Ecology
+d. Marine Biology
+e. Maritime Engineering
+f. Oceanography
+g. Zoology
+Management
+1. Business
+a. Business
+b. Business Analytics
+c. Business Entrepreneurship
+d. Business Finance
+e. Business Management
+f. Business Studies
+g. International Business
+2. Management Science and Operations
+a. Communication
+b. Human Resource Management
+c. International Management
+d. Land Economy
+e. Management
+f. Management Science
+g. Management Studies
+h. MORSE
+i. Operational Research
+3. Marketing and Communications
+a. Communications
+b. Marketing
+4. Industry Specific
+a. Construction Project Management
+b. Engineering Business Management
+c. Enterprise
+d. Manufacturing
+5. Information Management
+a. Information
+b. Information Engineering
+c. Information Management
+Mathematics & Computation
+1. Mathematics
+a. Actuarial Science
+b. Econometrics
+c. Financial Mathematics
+d. Logic
+e. Mathematical Computation
+f. Mathematical Economics
+g. Mathematical Physics
+h. Mathematics
+i. MORSE
+j. Quantum Science
+2. Computing
+a. Computational Modelling
+b. Computer Engineering
+c. Computer Science
+d. Computing
+e. Machine Learning
+f. MORSE
+g. Operational Research
+3. Statistics and Data Science
+a. Actuarial Science
+b. Data Science
+c. Machine Learning
+d. MORSE
+e. Statistical Science
+f. Statistics
+4. Modelling
+a. Computational Modelling
+b. Econometrics
+c. Financial Mathematics
+Social Good
+1. Humanitarian
+a. Global Humanitarian Studies
+b. Human
+c. Human Geography
+d. Human Neuroscience
+e. Human Resource Management
+f. Human Sciences
+g. Humanities
+h. Population Health Sciences
+2. Sustainability
+a. Climate Science
+b. Energy
+c. Environment
+d. Environmental Biology
+e. Environmental Geoscience
+f. Global Sustainable Development
+g. Nuclear Engineering
+h. Renewable Energy
+i. Resources
+j. Sustainable Built Environments
+k. Sustainable Development
+l. Sustainable Energy Systems
+m. Sustainable Futures
+n. Sustainable Luxury
+Social Sciences
+1. Economics
+a. Economic History
+b. Economic Studies
+c. Economics
+d. Econometrics
+e. Land Economy
+f. Mathematical Economics
+g. MORSE
+h. Social Sciences
+2. Politics
+a. Global Politics
+b. International Relations
+c. Political Sciences
+d. Political Studies
+e. Politics
+f. Politics of Science
+g. Politics of the Americas
+h. Public Policy
+i. Social Sciences
+3. Sociology
+a. Child
+b. Information
+c. International Social
+d. Land Economy
+e. Social
+f. Social Anthropology
+g. Social Change
+h. Social Sciences
+i. Society
+j. Sociology
+k. Urban Planning
+l. Urban Studies
+m. Youth
+4. Crime & Security
+a. Crime
+b. Criminology
+c. Cyber Security
+d. Secure Systems
+e. Security
+f. Security Science
+g. Social Sciences
