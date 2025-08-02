@@ -144,10 +144,9 @@ h. European Social
 i. Transcultural Studies
 4. Philosophy
 a. Ethics
-b. Logic
-c. Philosophy
-d. Philosophy of Religion
-e. Philosophy of Science
+b. Philosophy
+c. Philosophy of Religion
+d. Philosophy of Science
 5. Religion
 a. Philosophy of Religion
 b. Religion
@@ -446,13 +445,12 @@ Mathematics & Computation
 a. Actuarial Science
 b. Econometrics
 c. Financial Mathematics
-d. Logic
-e. Mathematical Computation
-f. Mathematical Economics
-g. Mathematical Physics
-h. Mathematics
-i. MORSE
-j. Quantum Science
+d. Mathematical Computation
+e. Mathematical Economics
+f. Mathematical Physics
+g. Mathematics
+h. MORSE
+i. Quantum Science
 2. Computing
 a. Computational Modelling
 b. Computer Engineering
