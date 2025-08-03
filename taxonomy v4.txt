@@ -33,20 +33,20 @@ f. Tissue Engineering
 a. Computer Systems
 b. Information Engineering
 c. Systems Engineering
-8. Other
+8. Materials
+a. Biomaterials
+b. Materials
+c. Materials Science
+d. Textiles
+9. General
+a. Engineering
+b. General Engineering
+10. Other
 a. Acoustical Engineering
 b. Design Engineering
 c. Engineering Business Management
 d. Maritime Engineering
 e. Nuclear Engineering
-9. Materials
-a. Biomaterials
-b. Materials
-c. Materials Science
-d. Textiles
-10. All
-a. Engineering
-b. General Engineering
 Classics
 1. Historical Classics
 a. Ancient
@@ -203,13 +203,12 @@ c. Education Studies
 a. Actuarial Science
 b. Financial Mathematics
 c. Financial Technology
-7. Land Economy
-a. Accounting
-b. Business Finance
-c. Finance
-d. Land Economy
-e. Real Estate
-f. Taxation
+d. Accounting
+e. Business Finance
+f. Finance
+g. Land Economy
+h. Real Estate
+i. Taxation
 Creatives and Arts
 1. History of, Fine Art, and Music
 a. Fine Art
