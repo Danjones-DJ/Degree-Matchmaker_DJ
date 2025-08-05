@@ -1,9 +1,7 @@
 ukprn,university,kiscourseid,title,crseurl,foundation_year_available,placement_year,year_abroad,median_salary
 10004113,Loughborough University,KIS1K38,Commercial Management and Quantity Surveying,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/commercial-management-and-quantity-surveying/,No,No,No,30500
-10004113,Loughborough University,KIS1K38,Commercial Management and Quantity Surveying,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/commercial-management-and-quantity-surveying/,No,No,No,34000
 10004113,Loughborough University,KIS1L27,Politics and International Relations,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/politics-and-international-relations/#variant,No,No,No,27500
 10004113,Loughborough University,KIS7K28,Construction Engineering Management,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/construction-engineering-management/,No,No,No,30500
-10004113,Loughborough University,KIS7K28,Construction Engineering Management,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/construction-engineering-management/,No,No,No,34000
 10004113,Loughborough University,KIS7L27,Politics and International Relations,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/politics-and-international-relations/#variant,No,Yes,Yes,27500
 10004113,Loughborough University,KISB150,Human Biology,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/human-biology/#variant,No,No,No,26000
 10004113,Loughborough University,KISB151,Human Biology,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/human-biology/#variant,No,Yes,No,26000
@@ -12,42 +10,26 @@ ukprn,university,kiscourseid,title,crseurl,foundation_year_available,placement_y
 10004113,Loughborough University,KISC1FY,Human Biology with a Foundation Year,https://www.lboro.ac.uk/study/undergraduate/foundation/human-biology/,Yes,No,No,26000
 10004113,Loughborough University,KISC1YF,Biological Sciences with a Foundation Year,http://www.lboro.ac.uk/study/undergraduate/courses/foundation/biological-sciences/,Yes,No,No,26000
 10004113,Loughborough University,KISC600,Sport and Exercise Science,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/sport-and-exercise-science/#variant,No,Yes,Yes,25000
-10004113,Loughborough University,KISC600,Sport and Exercise Science,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/sport-and-exercise-science/#variant,No,Yes,Yes,26000
-10004113,Loughborough University,KISC600,Sport and Exercise Science,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/sport-and-exercise-science/#variant,No,Yes,Yes,32000
 10004113,Loughborough University,KISC603,"Sport Science, Coaching and Physical Education",http://www.lboro.ac.uk/study/undergraduate/courses/a-z/sport-coaching-and-physical-education/,No,No,No,26000
 10004113,Loughborough University,KISC604,"Sport Science, Coaching and Physical Education",http://www.lboro.ac.uk/study/undergraduate/courses/a-z/sport-coaching-and-physical-education/,No,Yes,Yes,26000
 10004113,Loughborough University,KISC650,Sports Technology,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/sports-technology-meng/,No,No,No,26000
-10004113,Loughborough University,KISC650,Sports Technology,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/sports-technology-meng/,No,No,No,32000
 10004113,Loughborough University,KISC651,Sports Technology,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/sports-technology-meng/,No,Yes,No,26000
-10004113,Loughborough University,KISC651,Sports Technology,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/sports-technology-meng/,No,Yes,No,32000
 10004113,Loughborough University,KISC6FY,Sport with a Foundation Year for Elite Athletes,http://www.lboro.ac.uk/study/undergraduate/courses/foundation/sport-foundation-for-elite-athletes/,Yes,No,No,26000
 10004113,Loughborough University,KISC800,Psychology,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/psychology/#variant,No,No,No,25000
-10004113,Loughborough University,KISC800,Psychology,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/psychology/#variant,No,No,No,27000
 10004113,Loughborough University,KISC801,Psychology,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/psychology/#variant,No,Yes,No,25000
-10004113,Loughborough University,KISC801,Psychology,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/psychology/#variant,No,Yes,No,27000
 10004113,Loughborough University,KISC86C,Sport and Exercise Psychology,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/sport-and-exercise-psychology/#default,No,Yes,Yes,25000
-10004113,Loughborough University,KISC86C,Sport and Exercise Psychology,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/sport-and-exercise-psychology/#default,No,Yes,Yes,27000
 10004113,Loughborough University,KISC8C6,Sport and Exercise Psychology,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/sport-and-exercise-psychology/#default,No,No,No,25000
-10004113,Loughborough University,KISC8C6,Sport and Exercise Psychology,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/sport-and-exercise-psychology/#default,No,No,No,27000
 10004113,Loughborough University,KISC8FY,Psychology with a Foundation Year for Elite Athletes,http://www.lboro.ac.uk/study/undergraduate/courses/foundation/psychology-for-elite-athletes/,Yes,No,No,27000
 10004113,Loughborough University,KISC8M0,Psychology with Criminology,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/psychology-with-criminology/#variant,No,Yes,Yes,27000
-10004113,Loughborough University,KISC8M0,Psychology with Criminology,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/psychology-with-criminology/#variant,No,Yes,Yes,25000
 10004113,Loughborough University,KISC8M9,Psychology with Criminology,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/psychology-with-criminology/#variant,No,No,No,27000
-10004113,Loughborough University,KISC8M9,Psychology with Criminology,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/psychology-with-criminology/#variant,No,No,No,25000
 10004113,Loughborough University,KISC8X3,Psychology in Education,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/psychology-in-education/,No,Yes,No,25000
-10004113,Loughborough University,KISC8X3,Psychology in Education,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/psychology-in-education/,No,Yes,No,27000
 10004113,Loughborough University,KISCFG0,Natural Sciences,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/natural-sciences-bsc/,No,Yes,Yes,28000
 10004113,Loughborough University,KISCFY1,Natural Sciences with a Foundation Year,https://www.lboro.ac.uk/study/undergraduate/courses/foundation/natural-sciences/,Yes,No,No,28000
 10004113,Loughborough University,KISCG61,Mathematics and Sport Science,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/mathematics-and-sport-science/#variant,No,No,No,26000
-10004113,Loughborough University,KISCG61,Mathematics and Sport Science,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/mathematics-and-sport-science/#variant,No,No,No,31000
 10004113,Loughborough University,KISCGF0,Natural Sciences,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/natural-sciences-msci/,No,No,No,28000
 10004113,Loughborough University,KISCH67,Sports Technology,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/sports-technology-beng/#variant,No,No,No,26000
-10004113,Loughborough University,KISCH67,Sports Technology,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/sports-technology-beng/#variant,No,No,No,32000
 10004113,Loughborough University,KISCX63,Sport and Exercise Science,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/sport-and-exercise-science/#variant,No,No,No,25000
-10004113,Loughborough University,KISCX63,Sport and Exercise Science,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/sport-and-exercise-science/#variant,No,No,No,26000
-10004113,Loughborough University,KISCX63,Sport and Exercise Science,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/sport-and-exercise-science/#variant,No,No,No,32000
 10004113,Loughborough University,KISCX83,Psychology in Education,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/psychology-in-education/,No,No,No,25000
-10004113,Loughborough University,KISCX83,Psychology in Education,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/psychology-in-education/,No,No,No,27000
 10004113,Loughborough University,KISF100,Chemistry,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/chemistry-bsc/,No,No,No,27500
 10004113,Loughborough University,KISF101,Chemistry,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/chemistry-bsc/,No,Yes,Yes,27500
 10004113,Loughborough University,KISF102,Chemistry,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/chemistry-mchem/,No,No,No,27500
@@ -57,13 +39,9 @@ ukprn,university,kiscourseid,title,crseurl,foundation_year_available,placement_y
 10004113,Loughborough University,KISF128,Medicinal and Pharmaceutical Chemistry,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/medicinal-pharmaceutical-chemistry-mchem/,No,No,No,27500
 10004113,Loughborough University,KISF129,Medicinal and Pharmaceutical Chemistry,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/medicinal-pharmaceutical-chemistry-mchem/,No,Yes,Yes,27500
 10004113,Loughborough University,KISF130,Chemistry with Computing,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/chemistry-with-computing-mchem/,No,Yes,No,27500
-10004113,Loughborough University,KISF130,Chemistry with Computing,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/chemistry-with-computing-mchem/,No,Yes,No,35000
 10004113,Loughborough University,KISF131,Chemistry with Computing,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/chemistry-with-computing-mchem/,No,No,No,27500
-10004113,Loughborough University,KISF131,Chemistry with Computing,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/chemistry-with-computing-mchem/,No,No,No,35000
 10004113,Loughborough University,KISF132,Chemistry with Computing,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/chemistry-with-computing-bsc/,No,Yes,No,27500
-10004113,Loughborough University,KISF132,Chemistry with Computing,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/chemistry-with-computing-bsc/,No,Yes,No,35000
 10004113,Loughborough University,KISF133,Chemistry with Computing,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/chemistry-with-computing-bsc/,No,No,No,27500
-10004113,Loughborough University,KISF133,Chemistry with Computing,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/chemistry-with-computing-bsc/,No,No,No,35000
 10004113,Loughborough University,KISF151,Medicinal and Pharmaceutical Chemistry,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/medicinal-pharmaceutical-chemistry-bsc/,No,No,No,27500
 10004113,Loughborough University,KISF300,Physics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/physics-bsc/#variant,No,No,No,30000
 10004113,Loughborough University,KISF301,Physics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/physics-bsc/#variant,No,Yes,No,30000
@@ -76,48 +54,30 @@ ukprn,university,kiscourseid,title,crseurl,foundation_year_available,placement_y
 10004113,Loughborough University,KISF330,Physics with Computing,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/physics-with-computing-mphys/,No,Yes,No,30000
 10004113,Loughborough University,KISF331,Physics with Computing,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/physics-with-computing-mphys/,No,No,No,30000
 10004113,Loughborough University,KISF340,Mathematics and Physics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/mathematics-and-physics-bsc/#variant,No,Yes,Yes,30000
-10004113,Loughborough University,KISF340,Mathematics and Physics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/mathematics-and-physics-bsc/#variant,No,Yes,Yes,31000
 10004113,Loughborough University,KISF341,Mathematics and Physics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/mathematics-and-physics-bsc/#variant,No,No,No,30000
-10004113,Loughborough University,KISF341,Mathematics and Physics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/mathematics-and-physics-bsc/#variant,No,No,No,31000
 10004113,Loughborough University,KISF342,Physics with Theoretical Physics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/physics-with-theoretical-physics-bsc/#variant,No,Yes,Yes,30000
 10004113,Loughborough University,KISF344,Mathematics and Physics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/mathematics-and-physics-mphys/#variant,No,No,No,30000
-10004113,Loughborough University,KISF344,Mathematics and Physics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/mathematics-and-physics-mphys/#variant,No,No,No,31000
 10004113,Loughborough University,KISF345,Mathematics and Physics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/mathematics-and-physics-mphys/#variant,No,Yes,Yes,30000
-10004113,Loughborough University,KISF345,Mathematics and Physics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/mathematics-and-physics-mphys/#variant,No,Yes,Yes,31000
 10004113,Loughborough University,KISF346,Physics with Theoretical Physics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/physics-with-theoretical-physics-bsc/#variant,No,No,No,30000
 10004113,Loughborough University,KISF347,Physics with Theoretical Physics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/physics-with-theoretical-physics-mphys/#variant,No,Yes,Yes,30000
 10004113,Loughborough University,KISF348,Physics with Theoretical Physics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/physics-with-theoretical-physics-mphys/#variant,No,No,No,30000
 10004113,Loughborough University,KISF382,Engineering Physics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/engineering-physics-bsc/#variant,No,Yes,No,30000
 10004113,Loughborough University,KISF800,Geography,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/geography-bsc/#variant,No,No,No,28000
-10004113,Loughborough University,KISF800,Geography,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/geography-bsc/#variant,No,No,No,28000
-10004113,Loughborough University,KISF801,Geography,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/geography-bsc/#variant,No,Yes,Yes,28000
 10004113,Loughborough University,KISF801,Geography,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/geography-bsc/#variant,No,Yes,Yes,28000
 10004113,Loughborough University,KISFC86,Geography and Sport Science,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/geography-and-sport-science/#default,No,No,No,26000
-10004113,Loughborough University,KISFC86,Geography and Sport Science,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/geography-and-sport-science/#default,No,No,No,28000
-10004113,Loughborough University,KISFC86,Geography and Sport Science,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/geography-and-sport-science/#default,No,No,No,28000
 10004113,Loughborough University,KISFC8F,Geography and Sport Science,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/geography-and-sport-science/#default,No,Yes,No,26000
-10004113,Loughborough University,KISFC8F,Geography and Sport Science,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/geography-and-sport-science/#default,No,Yes,No,28000
-10004113,Loughborough University,KISFC8F,Geography and Sport Science,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/geography-and-sport-science/#default,No,Yes,No,28000
 10004113,Loughborough University,KISFCG0,Natural Sciences,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/natural-sciences-msci/,No,Yes,Yes,28000
 10004113,Loughborough University,KISFG33,Physics with Computing,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/physics-with-computing-bsc/,No,No,No,30000
-10004113,Loughborough University,KISFG33,Physics with Computing,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/physics-with-computing-bsc/,No,No,No,35000
 10004113,Loughborough University,KISFG34,Physics with Computing,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/physics-with-computing-bsc/,No,Yes,No,30000
-10004113,Loughborough University,KISFG34,Physics with Computing,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/physics-with-computing-bsc/,No,Yes,No,35000
 10004113,Loughborough University,KISFN82,Geography and Management,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/geography-and-management/#variant,No,Yes,No,32000
-10004113,Loughborough University,KISFN82,Geography and Management,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/geography-and-management/#variant,No,Yes,No,28000
-10004113,Loughborough University,KISFN82,Geography and Management,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/geography-and-management/#variant,No,Yes,No,28000
 10004113,Loughborough University,KISFN8F,Geography and Management,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/geography-and-management/#variant,No,No,No,32000
-10004113,Loughborough University,KISFN8F,Geography and Management,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/geography-and-management/#variant,No,No,No,28000
-10004113,Loughborough University,KISFN8F,Geography and Management,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/geography-and-management/#variant,No,No,No,28000
 10004113,Loughborough University,KISG100,Mathematics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/mathematics-bsc/#variant,No,No,No,31000
 10004113,Loughborough University,KISG101,Mathematics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/mathematics-bsc/#variant,No,Yes,Yes,31000
 10004113,Loughborough University,KISG102,Mathematics with a Foundation Year,http://www.lboro.ac.uk/study/undergraduate/courses/foundation/mathematics/,Yes,No,No,31000
 10004113,Loughborough University,KISG103,Mathematics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/mathematics/#variant,No,No,No,31000
 10004113,Loughborough University,KISG104,Mathematics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/mathematics/#variant,No,Yes,Yes,31000
 10004113,Loughborough University,KISG1L1,Mathematics with Economics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/mathematics-with-economics/#variant,No,No,No,31000
-10004113,Loughborough University,KISG1L1,Mathematics with Economics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/mathematics-with-economics/#variant,No,No,No,33000
 10004113,Loughborough University,KISG1LC,Mathematics with Economics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/mathematics-with-economics/#variant,No,Yes,Yes,31000
-10004113,Loughborough University,KISG1LC,Mathematics with Economics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/mathematics-with-economics/#variant,No,Yes,Yes,33000
 10004113,Loughborough University,KISG1N4,Mathematics and Accounting and Financial Management,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/mathematics-accounting-and-financial-management/#variant,No,No,No,31000
 10004113,Loughborough University,KISG1NK,Mathematics and Accounting and Financial Management,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/mathematics-accounting-and-financial-management/#variant,No,Yes,Yes,31000
 10004113,Loughborough University,KISG400,Computer Science,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/computer-science-bsc/#default,No,No,No,35000
@@ -126,46 +86,27 @@ ukprn,university,kiscourseid,title,crseurl,foundation_year_available,placement_y
 10004113,Loughborough University,KISG403,Computer Science,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/computer-science-msci/#default,No,Yes,No,35000
 10004113,Loughborough University,KISG404,Computer Science with a Foundation Year,http://www.lboro.ac.uk/study/undergraduate/courses/foundation/computer-science/,Yes,No,No,35000
 10004113,Loughborough University,KISG500,Information Technology Management for Business,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/information-technology-management-for-business/#default,No,Yes,No,32000
-10004113,Loughborough University,KISG500,Information Technology Management for Business,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/information-technology-management-for-business/#default,No,Yes,No,32000
-10004113,Loughborough University,KISG501,Information Technology Management for Business,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/information-technology-management-for-business/#default,No,No,No,32000
 10004113,Loughborough University,KISG501,Information Technology Management for Business,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/information-technology-management-for-business/#default,No,No,No,32000
 10004113,Loughborough University,KISGC16,Mathematics and Sport Science,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/mathematics-and-sport-science/#variant,No,Yes,Yes,26000
-10004113,Loughborough University,KISGC16,Mathematics and Sport Science,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/mathematics-and-sport-science/#variant,No,Yes,Yes,31000
 10004113,Loughborough University,KISGFC0,Natural Sciences,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/natural-sciences-bsc/,No,No,No,28000
 10004113,Loughborough University,KISGG13,Mathematics with Statistics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/mathematics-with-statistics/#variant,No,No,No,31000
-10004113,Loughborough University,KISGG13,Mathematics with Statistics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/mathematics-with-statistics/#variant,No,No,No,31000
 10004113,Loughborough University,KISGG1H,Mathematics with Statistics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/mathematics-with-statistics/#variant,No,Yes,Yes,31000
-10004113,Loughborough University,KISGG1H,Mathematics with Statistics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/mathematics-with-statistics/#variant,No,Yes,Yes,31000
-10004113,Loughborough University,KISGG47,Computer Science and Artificial Intelligence,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/computer-science-and-artificial-intelligence-bsc/#default,No,Yes,No,35000
 10004113,Loughborough University,KISGG47,Computer Science and Artificial Intelligence,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/computer-science-and-artificial-intelligence-bsc/#default,No,Yes,No,35000
 10004113,Loughborough University,KISGG4C,Computer Science and Mathematics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/computer-science-and-mathematics-bsc/#default,No,No,No,31000
-10004113,Loughborough University,KISGG4C,Computer Science and Mathematics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/computer-science-and-mathematics-bsc/#default,No,No,No,35000
 10004113,Loughborough University,KISGG4D,Computer Science and Mathematics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/computer-science-and-mathematics-bsc/#default,No,Yes,No,31000
-10004113,Loughborough University,KISGG4D,Computer Science and Mathematics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/computer-science-and-mathematics-bsc/#default,No,Yes,No,35000
 10004113,Loughborough University,KISGG4R,Computer Science and Artificial Intelligence,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/computer-science-and-artificial-intelligence-msci/#default,No,No,No,35000
-10004113,Loughborough University,KISGG4R,Computer Science and Artificial Intelligence,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/computer-science-and-artificial-intelligence-msci/#default,No,No,No,35000
-10004113,Loughborough University,KISGG4T,Computer Science and Artificial Intelligence,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/computer-science-and-artificial-intelligence-bsc/#default,No,No,No,35000
 10004113,Loughborough University,KISGG4T,Computer Science and Artificial Intelligence,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/computer-science-and-artificial-intelligence-bsc/#default,No,No,No,35000
 10004113,Loughborough University,KISGGK1,Computer Science and Mathematics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/computer-science-and-mathematics-msci/#default,No,No,No,31000
-10004113,Loughborough University,KISGGK1,Computer Science and Mathematics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/computer-science-and-mathematics-msci/#default,No,No,No,35000
-10004113,Loughborough University,KISGGK7,Computer Science and Artificial Intelligence,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/computer-science-and-artificial-intelligence-msci/#default,No,Yes,No,35000
 10004113,Loughborough University,KISGGK7,Computer Science and Artificial Intelligence,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/computer-science-and-artificial-intelligence-msci/#default,No,Yes,No,35000
 10004113,Loughborough University,KISGGL1,Computer Science and Mathematics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/computer-science-and-mathematics-msci/#default,No,Yes,No,31000
-10004113,Loughborough University,KISGGL1,Computer Science and Mathematics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/computer-science-and-mathematics-msci/#default,No,Yes,No,35000
 10004113,Loughborough University,KISGN13,Financial Mathematics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/financial-mathematics/#variant,No,No,No,31000
 10004113,Loughborough University,KISGN42,Computing and Management,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/computing-and-management-bsc/#default,No,Yes,No,35000
-10004113,Loughborough University,KISGN42,Computing and Management,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/computing-and-management-bsc/#default,No,Yes,No,32000
 10004113,Loughborough University,KISGN4F,Computing and Management,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/computing-and-management-msci/#default,No,No,No,35000
-10004113,Loughborough University,KISGN4F,Computing and Management,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/computing-and-management-msci/#default,No,No,No,32000
 10004113,Loughborough University,KISGN51,Information Technology Management for Business,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/information-technology-management-for-business-bsc/#default,No,Yes,No,32000
-10004113,Loughborough University,KISGN51,Information Technology Management for Business,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/information-technology-management-for-business-bsc/#default,No,Yes,No,32000
-10004113,Loughborough University,KISGN52,Information Technology Management for Business,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/information-technology-management-for-business-bsc/#default,No,No,No,32000
 10004113,Loughborough University,KISGN52,Information Technology Management for Business,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/information-technology-management-for-business-bsc/#default,No,No,No,32000
 10004113,Loughborough University,KISGNC3,Financial Mathematics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/financial-mathematics/#variant,No,Yes,Yes,31000
 10004113,Loughborough University,KISGNK2,Computing and Management,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/computing-and-management-bsc/#default,No,No,No,35000
-10004113,Loughborough University,KISGNK2,Computing and Management,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/computing-and-management-bsc/#default,No,No,No,32000
 10004113,Loughborough University,KISGNL2,Computing and Management,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/computing-and-management-msci/#default,No,Yes,No,35000
-10004113,Loughborough University,KISGNL2,Computing and Management,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/computing-and-management-msci/#default,No,Yes,No,32000
 10004113,Loughborough University,KISH160,Bioengineering,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/bioengineering-beng/#variant,No,No,No,32000
 10004113,Loughborough University,KISH161,Bioengineering,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/bioengineering-beng/#variant,No,Yes,No,32000
 10004113,Loughborough University,KISH162,Bioengineering,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/bioengineering-meng/#variant,No,No,No,32000
@@ -177,17 +118,9 @@ ukprn,university,kiscourseid,title,crseurl,foundation_year_available,placement_y
 10004113,Loughborough University,KISH203,Civil Engineering,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/civil-engineering-meng/#default,No,No,No,30500
 10004113,Loughborough University,KISH20A,Civil Engineering and Architectural Engineering with a Foundation Year,http://www.lboro.ac.uk/study/undergraduate/courses/foundation/civil-engineering/,Yes,No,No,30500
 10004113,Loughborough University,KISH221,Energy Engineering,https://www.lboro.ac.uk/study/undergraduate/courses/energy-engineering-beng/,No,No,No,32000
-10004113,Loughborough University,KISH221,Energy Engineering,https://www.lboro.ac.uk/study/undergraduate/courses/energy-engineering-beng/,No,No,No,33000
-10004113,Loughborough University,KISH221,Energy Engineering,https://www.lboro.ac.uk/study/undergraduate/courses/energy-engineering-beng/,No,No,No,35000
 10004113,Loughborough University,KISH222,Energy Engineering,https://www.lboro.ac.uk/study/undergraduate/courses/energy-engineering-beng/,No,Yes,No,32000
-10004113,Loughborough University,KISH222,Energy Engineering,https://www.lboro.ac.uk/study/undergraduate/courses/energy-engineering-beng/,No,Yes,No,33000
-10004113,Loughborough University,KISH222,Energy Engineering,https://www.lboro.ac.uk/study/undergraduate/courses/energy-engineering-beng/,No,Yes,No,35000
 10004113,Loughborough University,KISH223,Energy Engineering,https://www.lboro.ac.uk/study/undergraduate/courses/energy-engineering-meng/,No,No,No,32000
-10004113,Loughborough University,KISH223,Energy Engineering,https://www.lboro.ac.uk/study/undergraduate/courses/energy-engineering-meng/,No,No,No,33000
-10004113,Loughborough University,KISH223,Energy Engineering,https://www.lboro.ac.uk/study/undergraduate/courses/energy-engineering-meng/,No,No,No,35000
 10004113,Loughborough University,KISH224,Energy Engineering,https://www.lboro.ac.uk/study/undergraduate/courses/energy-engineering-meng/,No,Yes,No,32000
-10004113,Loughborough University,KISH224,Energy Engineering,https://www.lboro.ac.uk/study/undergraduate/courses/energy-engineering-meng/,No,Yes,No,33000
-10004113,Loughborough University,KISH224,Energy Engineering,https://www.lboro.ac.uk/study/undergraduate/courses/energy-engineering-meng/,No,Yes,No,35000
 10004113,Loughborough University,KISH300,Mechanical Engineering,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/mechanical-engineering-beng/#variant,No,No,No,32000
 10004113,Loughborough University,KISH301,Mechanical Engineering,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/mechanical-engineering-beng/#variant,No,Yes,No,32000
 10004113,Loughborough University,KISH302,Mechanical Engineering,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/mechanical-engineering-meng/#variant,No,Yes,No,32000
@@ -213,25 +146,18 @@ ukprn,university,kiscourseid,title,crseurl,foundation_year_available,placement_y
 10004113,Loughborough University,KISH613,Computer and Electronic Engineering,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/electronic-and-computer-systems-engineering-meng/#variant,No,No,No,33000
 10004113,Loughborough University,KISH614,Computer and Electronic Engineering,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/electronic-and-computer-systems-engineering-beng/#variant,No,Yes,No,33000
 10004113,Loughborough University,KISH671,"Robotics, Mechatronics, and Control Engineering",https://www.lboro.ac.uk/study/undergraduate/courses/a-z/robotics-mechatronics-control-engineering-beng/,No,No,No,32000
-10004113,Loughborough University,KISH671,"Robotics, Mechatronics, and Control Engineering",https://www.lboro.ac.uk/study/undergraduate/courses/a-z/robotics-mechatronics-control-engineering-beng/,No,No,No,33000
 10004113,Loughborough University,KISH672,"Robotics, Mechatronics, and Control Engineering",https://www.lboro.ac.uk/study/undergraduate/courses/a-z/robotics-mechatronics-control-engineering-beng/,No,Yes,Yes,32000
-10004113,Loughborough University,KISH672,"Robotics, Mechatronics, and Control Engineering",https://www.lboro.ac.uk/study/undergraduate/courses/a-z/robotics-mechatronics-control-engineering-beng/,No,Yes,Yes,33000
 10004113,Loughborough University,KISH673,"Robotics, Mechatronics, and Control Engineering",https://www.lboro.ac.uk/study/undergraduate/courses/a-z/robotics-mechatronics-control-engineering-meng/,No,No,No,32000
-10004113,Loughborough University,KISH673,"Robotics, Mechatronics, and Control Engineering",https://www.lboro.ac.uk/study/undergraduate/courses/a-z/robotics-mechatronics-control-engineering-meng/,No,No,No,33000
 10004113,Loughborough University,KISH674,"Robotics, Mechatronics, and Control Engineering",https://www.lboro.ac.uk/study/undergraduate/courses/a-z/robotics-mechatronics-control-engineering-meng/,No,Yes,Yes,32000
-10004113,Loughborough University,KISH674,"Robotics, Mechatronics, and Control Engineering",https://www.lboro.ac.uk/study/undergraduate/courses/a-z/robotics-mechatronics-control-engineering-meng/,No,Yes,Yes,33000
 10004113,Loughborough University,KISH715,Product Design Engineering,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/product-design-engineering-beng/#variant,No,Yes,No,32000
 10004113,Loughborough University,KISH775,Industrial Design,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/industrial-design-and-technology/#default,No,No,No,32000
-10004113,Loughborough University,KISH775,Industrial Design,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/industrial-design-and-technology/#default,No,No,No,26000
 10004113,Loughborough University,KISH776,Industrial Design,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/industrial-design-and-technology/#default,No,Yes,Yes,32000
-10004113,Loughborough University,KISH776,Industrial Design,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/industrial-design-and-technology/#default,No,Yes,Yes,26000
 10004113,Loughborough University,KISH802,Chemical Engineering,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/chemical-engineering-meng/,No,Yes,Yes,35000
 10004113,Loughborough University,KISH803,Chemical Engineering,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/chemical-engineering-meng/,No,No,No,35000
 10004113,Loughborough University,KISH805,Chemical Engineering,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/chemical-engineering-beng/,No,No,No,35000
 10004113,Loughborough University,KISH806,Chemical Engineering,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/chemical-engineering-beng/,No,Yes,Yes,35000
 10004113,Loughborough University,KISH80A,Chemical Engineering with a Foundation Year,http://www.lboro.ac.uk/study/undergraduate/courses/foundation/chemical-engineering/,Yes,No,No,35000
 10004113,Loughborough University,KISHC76,Sports Technology,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/sports-technology-beng/#variant,No,Yes,No,26000
-10004113,Loughborough University,KISHC76,Sports Technology,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/sports-technology-beng/#variant,No,Yes,No,32000
 10004113,Loughborough University,KISHH17,Product Design Engineering with a Foundation Year,http://www.lboro.ac.uk/study/undergraduate/courses/foundation/product-design-engineering/,Yes,No,No,32000
 10004113,Loughborough University,KISHH1R,Product Design Engineering,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/product-design-engineering-beng/#variant,No,No,No,32000
 10004113,Loughborough University,KISHHC7,Product Design Engineering,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/product-design-engineering-meng/#variant,No,No,No,32000
@@ -240,7 +166,6 @@ ukprn,university,kiscourseid,title,crseurl,foundation_year_available,placement_y
 10004113,Loughborough University,KISHJ7X,Product Design and Technology,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/product-design-and-technology/#default,No,No,No,32000
 10004113,Loughborough University,KISHJFY,Product Design and Technology with a Foundation Year,https://www.lboro.ac.uk/study/undergraduate/courses/foundation/product-design-tech-foundation/,Yes,No,No,32000
 10004113,Loughborough University,KISHK22,Commercial Management and Quantity Surveying,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/commercial-management-and-quantity-surveying/,No,Yes,No,30500
-10004113,Loughborough University,KISHK22,Commercial Management and Quantity Surveying,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/commercial-management-and-quantity-surveying/,No,Yes,No,34000
 10004113,Loughborough University,KISHK23,Architectural Engineering,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/architectural-engineering-beng/,No,No,No,30500
 10004113,Loughborough University,KISHK24,Architectural Engineering,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/architectural-engineering-beng/,No,Yes,No,30500
 10004113,Loughborough University,KISHK25,Architectural Engineering,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/architectural-engineering-meng/,No,No,No,30500
@@ -262,17 +187,12 @@ ukprn,university,kiscourseid,title,crseurl,foundation_year_available,placement_y
 10004113,Loughborough University,KISJ5BZ,Biomaterials Engineering,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/biomaterials-engineering-beng/#default,No,Yes,Yes,33500
 10004113,Loughborough University,KISK101,Architecture,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/architecture-barch/,No,Yes,No,33000
 10004113,Loughborough University,KISK291,Construction Engineering Management,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/construction-engineering-management/,No,Yes,No,30500
-10004113,Loughborough University,KISK291,Construction Engineering Management,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/construction-engineering-management/,No,Yes,No,34000
 10004113,Loughborough University,KISK420,Urban Planning,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/urban-planning-mplan/#variant,No,No,No,36000
 10004113,Loughborough University,KISK421,Urban Planning,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/urban-planning-mplan/#variant,No,Yes,Yes,36000
 10004113,Loughborough University,KISK430,Urban Planning,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/urban-planning-bsc/#variant,No,No,No,36000
 10004113,Loughborough University,KISK431,Urban Planning,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/urban-planning-bsc/#variant,No,Yes,Yes,36000
 10004113,Loughborough University,KISL0V0,"Politics, Philosophy and Economics",https://www.lboro.ac.uk/study/undergraduate/courses/a-z/politics-philosophy-and-economics/#variant,No,Yes,Yes,33000
-10004113,Loughborough University,KISL0V0,"Politics, Philosophy and Economics",https://www.lboro.ac.uk/study/undergraduate/courses/a-z/politics-philosophy-and-economics/#variant,No,Yes,Yes,27500
-10004113,Loughborough University,KISL0V0,"Politics, Philosophy and Economics",https://www.lboro.ac.uk/study/undergraduate/courses/a-z/politics-philosophy-and-economics/#variant,No,Yes,Yes,30000
 10004113,Loughborough University,KISL0V1,"Politics, Philosophy and Economics",https://www.lboro.ac.uk/study/undergraduate/courses/a-z/politics-philosophy-and-economics/#variant,No,No,No,33000
-10004113,Loughborough University,KISL0V1,"Politics, Philosophy and Economics",https://www.lboro.ac.uk/study/undergraduate/courses/a-z/politics-philosophy-and-economics/#variant,No,No,No,27500
-10004113,Loughborough University,KISL0V1,"Politics, Philosophy and Economics",https://www.lboro.ac.uk/study/undergraduate/courses/a-z/politics-philosophy-and-economics/#variant,No,No,No,30000
 10004113,Loughborough University,KISL100,Economics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/economics/#default,No,No,No,33000
 10004113,Loughborough University,KISL10A,Economics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/economics/#default,No,Yes,Yes,33000
 10004113,Loughborough University,KISL1FY,Economics with a Foundation Year for Elite Athletes,http://www.lboro.ac.uk/study/undergraduate/courses/foundation/economics-for-elite-athletes/,Yes,No,No,33000
@@ -287,22 +207,13 @@ ukprn,university,kiscourseid,title,crseurl,foundation_year_available,placement_y
 10004113,Loughborough University,KISL3M0,Criminology and Sociology,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/criminology-and-sociology/#variant,No,Yes,Yes,25000
 10004113,Loughborough University,KISL3M9,Criminology and Sociology,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/criminology-and-sociology/#variant,No,No,No,25000
 10004113,Loughborough University,KISL700,Geography,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/geography-ba/#variant,No,No,No,28000
-10004113,Loughborough University,KISL700,Geography,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/geography-ba/#variant,No,No,No,28000
 10004113,Loughborough University,KISL701,Geography,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/geography-ba/#variant,No,Yes,Yes,28000
-10004113,Loughborough University,KISL701,Geography,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/geography-ba/#variant,No,Yes,Yes,28000
-10004113,Loughborough University,KISL7FY,Geography with a Foundation Year,http://www.lboro.ac.uk/study/undergraduate/courses/foundation/geography/,Yes,No,No,28000
 10004113,Loughborough University,KISL7FY,Geography with a Foundation Year,http://www.lboro.ac.uk/study/undergraduate/courses/foundation/geography/,Yes,No,No,28000
 10004113,Loughborough University,KISLL17,Geography with Economics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/geography-with-economics/#variant,No,No,No,33000
-10004113,Loughborough University,KISLL17,Geography with Economics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/geography-with-economics/#variant,No,No,No,28000
-10004113,Loughborough University,KISLL17,Geography with Economics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/geography-with-economics/#variant,No,No,No,28000
 10004113,Loughborough University,KISLL18,Geography with Economics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/geography-with-economics/#variant,No,Yes,No,33000
-10004113,Loughborough University,KISLL18,Geography with Economics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/geography-with-economics/#variant,No,Yes,No,28000
-10004113,Loughborough University,KISLL18,Geography with Economics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/geography-with-economics/#variant,No,Yes,No,28000
 10004113,Loughborough University,KISLN12,Economics and Management,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/economics-and-management/#default,No,No,No,33000
-10004113,Loughborough University,KISLN12,Economics and Management,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/economics-and-management/#default,No,No,No,32000
 10004113,Loughborough University,KISLN14,Economics and Finance,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/business-economics-and-finance-bsc/#default,No,Yes,Yes,33000
 10004113,Loughborough University,KISLN1F,Economics and Management,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/economics-and-management/#default,No,Yes,Yes,33000
-10004113,Loughborough University,KISLN1F,Economics and Management,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/economics-and-management/#default,No,Yes,Yes,32000
 10004113,Loughborough University,KISM900,Criminology,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/criminology/,No,Yes,No,25000
 10004113,Loughborough University,KISM901,Criminology,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/criminology/,No,No,No,25000
 10004113,Loughborough University,KISN110,International Business,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/international-business/,No,Yes,Yes,33000
@@ -316,7 +227,6 @@ ukprn,university,kiscourseid,title,crseurl,foundation_year_available,placement_y
 10004113,Loughborough University,KISN300,Finance,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/finance-and-management/,No,Yes,Yes,30000
 10004113,Loughborough University,KISNN34,Accounting and Finance,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/accounting-and-financial-management-bsc/,No,Yes,Yes,31000
 10004113,Loughborough University,KISNN52,Marketing,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/marketing-and-management/,No,Yes,Yes,32000
-10004113,Loughborough University,KISNN52,Marketing,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/marketing-and-management/,No,Yes,Yes,33000
 10004113,Loughborough University,KISP90A,Media and Communication,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/communication-and-media-studies/#variant,No,Yes,Yes,25000
 10004113,Loughborough University,KISP910,Media and Communication,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/communication-and-media-studies/#variant,No,No,No,25000
 10004113,Loughborough University,KISQ300,English,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/english/#default,No,No,No,25500
@@ -324,37 +234,23 @@ ukprn,university,kiscourseid,title,crseurl,foundation_year_available,placement_y
 10004113,Loughborough University,KISQ320,English Literature,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/english-literature/#default,No,No,No,28000
 10004113,Loughborough University,KISQ321,English Literature,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/english-literature/#default,No,Yes,Yes,28000
 10004113,Loughborough University,KISQ3C6,English and Sport Science,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/english-and-sport-science/#default,No,Yes,No,26000
-10004113,Loughborough University,KISQ3C6,English and Sport Science,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/english-and-sport-science/#default,No,Yes,No,25500
 10004113,Loughborough University,KISQ3N1,English with Business Studies,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/english-with-business-studies/#default,No,No,No,32000
-10004113,Loughborough University,KISQ3N1,English with Business Studies,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/english-with-business-studies/#default,No,No,No,25500
 10004113,Loughborough University,KISQ3W8,English with Creative Writing,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/english-with-creative-writing/#default,No,Yes,Yes,28000
-10004113,Loughborough University,KISQ3W8,English with Creative Writing,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/english-with-creative-writing/#default,No,Yes,Yes,25500
 10004113,Loughborough University,KISQC36,English and Sport Science,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/english-and-sport-science/#default,No,No,No,26000
-10004113,Loughborough University,KISQC36,English and Sport Science,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/english-and-sport-science/#default,No,No,No,25500
 10004113,Loughborough University,KISQN31,English with Business Studies,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/english-with-business-studies/#default,No,Yes,No,32000
-10004113,Loughborough University,KISQN31,English with Business Studies,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/english-with-business-studies/#default,No,Yes,No,25500
 10004113,Loughborough University,KISQW38,English with Creative Writing,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/english-with-creative-writing/#default,No,No,No,28000
-10004113,Loughborough University,KISQW38,English with Creative Writing,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/english-with-creative-writing/#default,No,No,No,25500
 10004113,Loughborough University,KISV100,History,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/history/#variant,No,No,No,30000
 10004113,Loughborough University,KISV101,History,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/history/#variant,No,Yes,Yes,30000
 10004113,Loughborough University,KISVL12,History and International Relations,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/history-and-international-relations/#variant,No,No,No,27500
-10004113,Loughborough University,KISVL12,History and International Relations,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/history-and-international-relations/#variant,No,No,No,30000
 10004113,Loughborough University,KISVL1F,History and Politics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/history-and-politics/#variant,No,No,No,27500
-10004113,Loughborough University,KISVL1F,History and Politics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/history-and-politics/#variant,No,No,No,30000
 10004113,Loughborough University,KISVL1G,History and International Relations,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/history-and-international-relations/#variant,No,Yes,Yes,27500
-10004113,Loughborough University,KISVL1G,History and International Relations,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/history-and-international-relations/#variant,No,Yes,Yes,30000
 10004113,Loughborough University,KISVL1H,History and Politics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/history-and-politics/#variant,No,Yes,No,27500
-10004113,Loughborough University,KISVL1H,History and Politics,http://www.lboro.ac.uk/study/undergraduate/courses/a-z/history-and-politics/#variant,No,Yes,No,30000
 10004113,Loughborough University,KISW100,Fine Art,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/fine-art/,No,No,No,23000
 10004113,Loughborough University,KISW101,Fine Art,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/fine-art/,No,Yes,Yes,23000
 10004113,Loughborough University,KISW230,Fashion Design and Technology,https://www.lboro.ac.uk/study/undergraduate/courses/fashion-design-technology/,No,No,No,33500
-10004113,Loughborough University,KISW230,Fashion Design and Technology,https://www.lboro.ac.uk/study/undergraduate/courses/fashion-design-technology/,No,No,No,26000
 10004113,Loughborough University,KISW236,Fashion Design and Technology,https://www.lboro.ac.uk/study/undergraduate/courses/fashion-design-technology/,No,Yes,No,33500
-10004113,Loughborough University,KISW236,Fashion Design and Technology,https://www.lboro.ac.uk/study/undergraduate/courses/fashion-design-technology/,No,Yes,No,26000
 10004113,Loughborough University,KISW240,Design,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/design/,No,No,No,32000
-10004113,Loughborough University,KISW240,Design,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/design/,No,No,No,26000
 10004113,Loughborough University,KISW241,Design,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/design/,No,Yes,No,32000
-10004113,Loughborough University,KISW241,Design,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/design/,No,Yes,No,26000
 10004113,Loughborough University,KISW900,Graphic Design,https://www.lboro.ac.uk/study/undergraduate/courses/graphic-design/,No,No,No,26000
 10004113,Loughborough University,KISW901,Graphic Design,https://www.lboro.ac.uk/study/undergraduate/courses/graphic-design/,No,Yes,Yes,26000
 10004113,Loughborough University,KISWJ24,Textile Design,https://www.lboro.ac.uk/study/undergraduate/courses/a-z/textile-design/,No,No,No,26000
