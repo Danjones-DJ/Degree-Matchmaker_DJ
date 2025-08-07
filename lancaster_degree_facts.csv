@@ -1,0 +1,403 @@
+kiscourseid,url,degree_type,degree_title,a_level_grade_req,a_level_subject_reqs,ib_grade_req,ib_subject_req
+534,http://www.lancs.ac.uk/study/undergraduate/courses/advertising-and-marketing-ba-hons-n501/,BSc,Advertising and Digital Marketing,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+590,http://www.lancs.ac.uk/study/undergraduate/courses/media-and-cultural-studies-ba-hons-lp63/,BA,Media and Cultural Studies,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+602,http://www.lancs.ac.uk/study/undergraduate/courses/economics-bsc-hons-l100/,BSc,Undergraduate Undergraduate courses Economics,AAB,AAB,35,"35 points overall with 16 points from the best 3 HL subjects, including 6 in Mathematics HL (either analysis and approaches or applications and interpretations)"
+607,http://www.lancs.ac.uk/study/undergraduate/courses/geography-and-economics-ba-hons-ll71/,BA,Geography and Economics,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects including Geography or alternative cognate subject at HL grade 6
+650,http://www.lancs.ac.uk/study/undergraduate/courses/english-literature-ba-hons-q300/,BA,English Literature,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+652,http://www.lancs.ac.uk/study/undergraduate/courses/french-studies-and-english-literature-ba-hons-rq13/,,Undergraduate courses,,,24,
+654,http://www.lancs.ac.uk/study/undergraduate/courses/english-literature-and-history-ba-hons-qv31/,BA,English Literature and History,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+659,http://www.lancs.ac.uk/study/undergraduate/courses/english-literature-and-philosophy-ba-hons-qv35/,,Undergraduate courses,,,24,
+663,http://www.lancs.ac.uk/study/undergraduate/courses/english-language-ba-hons-q304/,BA,English Language,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+665,http://www.lancs.ac.uk/study/undergraduate/courses/english-language-and-linguistics-ba-hons-qqc3/,BA,English Language and Linguistics,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+666,http://www.lancs.ac.uk/study/undergraduate/courses/english-language-and-literature-ba-hons-q302/,,Undergraduate courses,,,24,
+674,http://www.lancs.ac.uk/study/undergraduate/courses/french-studies-ba-hons-r120/,,Undergraduate courses,,,24,
+678,http://www.lancs.ac.uk/study/undergraduate/courses/french-studies-and-geography-ba-hons-lr71/,,Undergraduate courses,,,24,
+679,http://www.lancs.ac.uk/study/undergraduate/courses/french-studies-and-german-studies-ba-hons-rr12/,,Undergraduate courses,,,24,
+680,http://www.lancs.ac.uk/study/undergraduate/courses/french-studies-and-history-ba-hons-rv11/,,Undergraduate courses,,,24,
+684,http://www.lancs.ac.uk/study/undergraduate/courses/french-studies-and-linguistics-ba-hons-qr11/,,Undergraduate courses,,,24,
+686,http://www.lancs.ac.uk/study/undergraduate/courses/french-studies-and-mathematics-ba-hons-gr11/,,Undergraduate courses,,,24,
+689,http://www.lancs.ac.uk/study/undergraduate/courses/french-studies-and-philosophy-ba-hons-rv15/,,Undergraduate courses,,,24,
+690,http://www.lancs.ac.uk/study/undergraduate/courses/french-studies-and-politics-ba-hons-rl12/,,Undergraduate courses,,,24,
+691,http://www.lancs.ac.uk/study/undergraduate/courses/psychology-and-french-studies-ba-hons-cr81/,,Undergraduate courses,,,24,
+696,http://www.lancs.ac.uk/study/undergraduate/courses/french-studies-and-spanish-studies-ba-hons-rr14/,,Undergraduate courses,,,24,
+717,http://www.lancs.ac.uk/study/undergraduate/courses/german-studies-ba-hons-r220/,,Undergraduate courses,,,24,
+719,http://www.lancs.ac.uk/study/undergraduate/courses/german-studies-and-english-literature-ba-hons-rq23/,,Undergraduate courses,,,24,
+720,http://www.lancs.ac.uk/study/undergraduate/courses/german-studies-and-geography-ba-hons-lr72/,,Undergraduate courses,,,24,
+721,http://www.lancs.ac.uk/study/undergraduate/courses/german-studies-and-history-ba-hons-rv21/,,Undergraduate courses,,,24,
+723,http://www.lancs.ac.uk/study/undergraduate/courses/german-studies-and-linguistics-ba-hons-qr12/,,Undergraduate courses,,,24,
+725,http://www.lancs.ac.uk/study/undergraduate/courses/german-studies-and-mathematics-ba-hons-gr12/,,Undergraduate courses,,,24,
+728,http://www.lancs.ac.uk/study/undergraduate/courses/german-studies-and-philosophy-ba-hons-rv25/,,Undergraduate courses,,,24,
+729,http://www.lancs.ac.uk/study/undergraduate/courses/german-studies-and-politics-ba-hons-rl22/,,Undergraduate courses,,,24,
+732,http://www.lancs.ac.uk/study/undergraduate/courses/german-studies-and-spanish-studies-ba-hons-rr24/,,Undergraduate courses,,,24,
+736,http://www.lancs.ac.uk/study/undergraduate/courses/history-ba-hons-v100/,BA,Undergraduate Undergraduate courses History,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+743,http://www.lancs.ac.uk/study/undergraduate/courses/history-and-international-relations-ba-hons-vl12/,BA,History and International Relations,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+748,http://www.lancs.ac.uk/study/undergraduate/courses/history-and-philosophy-ba-hons-vvc5/,,Undergraduate courses,,,24,
+749,http://www.lancs.ac.uk/study/undergraduate/courses/history-and-politics-ba-hons-lv21/,BA,History and Politics,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+758,http://www.lancs.ac.uk/study/undergraduate/courses/history-philosophy-and-politics-ba-hons-v0l0/,,Undergraduate courses,,,24,
+761,http://www.lancs.ac.uk/study/undergraduate/courses/human-geography-ba-hons-l720/,BA,Human Geography,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects including Geography or alternative cognate subject at HL grade 6
+813,http://www.lancs.ac.uk/study/undergraduate/courses/linguistics-ba-hons-q100/,BA,Undergraduate Undergraduate courses Linguistics,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+818,http://www.lancs.ac.uk/study/undergraduate/courses/linguistics-and-philosophy-ba-hons-qv15/,,Undergraduate courses,,,24,
+819,http://www.lancs.ac.uk/study/undergraduate/courses/psychology-and-linguistics-ba-hons-cq81/,BA,Psychology and Linguistics,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+848,http://www.lancs.ac.uk/study/undergraduate/courses/mathematics-and-philosophy-ba-hons-gv15/,BA,Mathematics with Philosophy,AAA,AAA,36,36 points overall with 16 points from the best 3 HL subjects including 6 in Mathematics HL (either analysis and approaches or applications and interpretations)
+856,http://www.lancs.ac.uk/study/undergraduate/courses/medieval-and-early-modern-studies-ba-hons-v125/,,Undergraduate courses,,,24,
+891,http://www.lancs.ac.uk/study/undergraduate/courses/psychology-and-management-ba-hons-cn82/,,Undergraduate courses,,,24,
+895,http://www.lancs.ac.uk/study/undergraduate/courses/philosophy-ba-hons-v500/,BA,Undergraduate Undergraduate courses Philosophy,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+902,http://www.lancs.ac.uk/study/undergraduate/courses/philosophy-and-politics-ba-hons-vl52/,BA,Philosophy and Politics,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+907,http://www.lancs.ac.uk/study/undergraduate/courses/philosophy-politics-and-economics-ba-hons-l0v0/,BA,Politics and Economics,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+915,http://www.lancs.ac.uk/study/undergraduate/courses/politics-ba-hons-l200/,BA,Undergraduate Undergraduate courses Politics,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+921,http://www.lancs.ac.uk/study/undergraduate/courses/politics-and-international-relations-ba-hons-l250/,BA,Politics and International Relations,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+926,http://www.lancs.ac.uk/study/undergraduate/courses/psychology-ba-hons-c802/,,Undergraduate courses,,,24,
+933,http://www.lancs.ac.uk/study/undergraduate/courses/psychology-and-german-studies-ba-hons-cr82/,,Undergraduate courses,,,24,
+960,http://www.lancs.ac.uk/study/undergraduate/courses/sociology-ba-hons-l300/,BA,Undergraduate Undergraduate courses Sociology,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+976,http://www.lancs.ac.uk/study/undergraduate/courses/spanish-studies-and-english-literature-ba-hons-rq43/,,Undergraduate courses,,,24,
+977,http://www.lancs.ac.uk/study/undergraduate/courses/spanish-studies-and-geography-ba-hons-lr74/,,Undergraduate courses,,,24,
+978,http://www.lancs.ac.uk/study/undergraduate/courses/spanish-studies-and-history-ba-hons-rv41/,,Undergraduate courses,,,24,
+979,http://www.lancs.ac.uk/study/undergraduate/courses/spanish-studies-and-linguistics-ba-hons-qr14/,,Undergraduate courses,,,24,
+981,http://www.lancs.ac.uk/study/undergraduate/courses/spanish-studies-and-mathematics-ba-hons-gr14/,,Undergraduate courses,,,24,
+984,http://www.lancs.ac.uk/study/undergraduate/courses/spanish-studies-and-philosophy-ba-hons-rv45/,,Undergraduate courses,,,24,
+985,http://www.lancs.ac.uk/study/undergraduate/courses/spanish-studies-and-politics-ba-hons-rl42/,,Undergraduate courses,,,24,
+986,http://www.lancs.ac.uk/study/undergraduate/courses/psychology-and-spanish-studies-ba-hons-cr84/,,Undergraduate courses,,,24,
+988,http://www.lancs.ac.uk/study/undergraduate/courses/spanish-studies-and-theatre-ba-hons-wr44/,,Undergraduate courses,,,24,
+989,http://www.lancs.ac.uk/study/undergraduate/courses/drama-theatre-and-performance-ba-hons-w440/,BA,Theatre and Performing,BBB,BBB,30,30 points overall including 15 points from the best 3 HL subjects
+994,http://www.lancs.ac.uk/study/undergraduate/courses/theatre-and-english-literature-ba-hons-wq43/,,Undergraduate courses,,,24,
+995,http://www.lancs.ac.uk/study/undergraduate/courses/french-studies-and-theatre-ba-hons-wr41/,,Undergraduate courses,,,24,
+1004,http://www.lancs.ac.uk/study/undergraduate/courses/fine-art-ba-hons-w100/,BA,Fine Art,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+1029,http://www.lancs.ac.uk/study/undergraduate/courses/electronic-and-electrical-engineering-beng-hons-h607/,BEng,Electronic and Electrical Engineering,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects including either: 1
+1031,http://www.lancs.ac.uk/study/undergraduate/courses/engineering-beng-hons-h100/,BEng,Undergraduate Undergraduate courses Engineering,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects including either: 1
+1040,http://www.lancs.ac.uk/study/undergraduate/courses/mechanical-engineering-beng-hons-h300/,BEng,Mechanical Engineering,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects including either: 1
+1042,http://www.lancs.ac.uk/study/undergraduate/courses/mechatronic-engineering-beng-hons-hh63/,BEng,Mechatronic Engineering,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects including either: 1
+1047,http://www.lancs.ac.uk/study/undergraduate/courses/accounting-finance-and-mathematics-bsc-hons-ng41/,,Undergraduate courses,,,24,
+1052,http://www.lancs.ac.uk/study/undergraduate/courses/biochemistry-bsc-hons-c700/,BSc,Undergraduate Undergraduate courses Biochemistry,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects including 6 in HL Biology and 6 in HL Chemistry
+1058,http://www.lancs.ac.uk/study/undergraduate/courses/biology-bsc-hons-c100/,BSc,Undergraduate Undergraduate courses Biology,AAB,AAB,35,"35 points overall with 16 points from the best 3 HL subjects including 6 in Biology HL and 6 in one other HL science subject from Chemistry, Computer Science, Geography, Mathematics, Physics, or Psychology"
+1085,http://www.lancs.ac.uk/study/undergraduate/courses/computer-science-bsc-hons-g400/,BSc,Computer Science,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+1090,http://www.lancs.ac.uk/study/undergraduate/courses/computer-science-and-mathematics-bsc-hons-gg14/,BSc,Mathematics with Computer Science,AAA,AAA,36,36 points overall with 16 points from the best 3 HL subjects including 6 in Mathematics HL (either analysis and approaches or applications and interpretations)
+1094,http://www.lancs.ac.uk/study/undergraduate/courses/software-engineering-bsc-hons-g602/,BSc,Software Engineering,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+1096,http://www.lancs.ac.uk/study/undergraduate/courses/ecology-and-conservation-bsc-hons-c180/,BSc,Ecology and Conservation,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects including two HL science subjects at grade 6
+1111,http://www.lancs.ac.uk/study/undergraduate/courses/environmental-science-bsc-hons-f750/,BSc,Environmental Science,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects including one HL science subject at grade 6
+1117,http://www.lancs.ac.uk/study/undergraduate/courses/geography-bsc-hons-f800/,BSc,Undergraduate Undergraduate courses Geography,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects including Geography or alternative cognate subject at HL grade 6
+1131,http://www.lancs.ac.uk/study/undergraduate/courses/marketing-bsc-hons-n500/,BSc,Undergraduate Undergraduate courses Marketing,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+1140,http://www.lancs.ac.uk/study/undergraduate/courses/mathematics-bsc-hons-g100/,BSc,Undergraduate Undergraduate courses Mathematics,AAA,AAA,36,36 points overall with 16 points from the best 3 HL subjects including 6 in Mathematics HL (either analysis and approaches or applications and interpretations)
+1145,http://www.lancs.ac.uk/study/undergraduate/courses/mathematics-with-statistics-bsc-hons-g1g3/,BSc,Mathematics and Statistics,AAA,AAA,36,36 points overall with 16 points from the best 3 HL subjects including 6 in Mathematics HL (either analysis and approaches or applications and interpretations)
+1150,http://www.lancs.ac.uk/study/undergraduate/courses/physical-geography-bsc-hons-f840/,BSc,Physical Geography,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects including Geography or alternative cognate subject at HL grade 6
+1151,http://www.lancs.ac.uk/study/undergraduate/courses/physics-bsc-hons-f300/,BSc,Undergraduate Undergraduate courses Physics,AAA,AAA,36,36 points overall with 16 points from the best 3 HL subjects including 6 in Mathematics HL (either analysis and approaches or applications and interpretations) and Physics HL
+1167,http://www.lancs.ac.uk/study/undergraduate/courses/psychology-bsc-hons-c800/,BSc,Undergraduate Undergraduate courses Psychology,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+1173,http://www.lancs.ac.uk/study/undergraduate/courses/theoretical-physics-bsc-hons-f340/,BSc,Theoretical Physics,AAA,AAA,36,36 points overall with 16 points from the best 3 HL subjects including 6 in Mathematics HL (either analysis and approaches or applications and interpretations) and Physics HL
+1178,http://www.lancs.ac.uk/study/undergraduate/courses/law-llb-hons-m100/,LLB,Undergraduate Undergraduate courses Law,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+1212,http://www.lancs.ac.uk/study/undergraduate/courses/electronic-and-electrical-engineering-meng-hons-h606/,MEng,Electronic and Electrical Engineering,AAA,AAA,36,36 points overall with 16 points from the best 3 HL subjects including either: 1
+1214,http://www.lancs.ac.uk/study/undergraduate/courses/engineering-study-abroad-meng-hons-h104/,MEng,Undergraduate Undergraduate courses Engineering,AAA,AAA,36,36 points overall with 16 points from the best 3 HL subjects including either: 1
+1217,http://www.lancs.ac.uk/study/undergraduate/courses/mechanical-engineering-meng-hons-h303/,MEng,Mechanical Engineering,AAA,AAA,36,36 points overall with 16 points from the best 3 HL subjects including either: 1
+1219,http://www.lancs.ac.uk/study/undergraduate/courses/mechatronic-engineering-meng-hons-hhh6/,MEng,Mechatronic Engineering,AAA,AAA,36,36 points overall with 16 points from the best 3 HL subjects including either: 1
+1244,http://www.lancs.ac.uk/study/undergraduate/courses/physics-mphys-hons-f303/,MPhys,Undergraduate Undergraduate courses Physics,AAA,AAA,36,36 points overall with 16 points from the best 3 HL subjects including 6 in Mathematics HL (either analysis and approaches or applications and interpretations) and Physics HL
+1245,http://www.lancs.ac.uk/study/undergraduate/courses/physics-study-abroad-mphys-hons-f305/,MPhys,Undergraduate Undergraduate courses Physics,AAA,AAA,36,36 points overall with 16 points from the best 3 HL subjects including 6 in Mathematics HL (either analysis and approaches or applications and interpretations) and Physics HL
+1249,http://www.lancs.ac.uk/study/undergraduate/courses/theoretical-physics-mphys-hons-f321/,MPhys,Theoretical Physics,AAA,AAA,36,36 points overall with 16 points from the best 3 HL subjects including 6 in Mathematics HL (either analysis and approaches or applications and interpretations) and Physics HL
+3714,http://www.lancs.ac.uk/study/undergraduate/courses/social-work-ba-hons-l500/,BA,Social Work,BBB,BBB,30,30 points overall including 15 points from the best 3 HL subjects
+4885,http://www.lancs.ac.uk/study/undergraduate/courses/criminology-ba-hons-m930/,BA,Undergraduate Undergraduate courses Criminology,BBB,BBB,30,30 points overall including 15 points from the best 3 HL subjects
+5032,http://www.lancs.ac.uk/study/undergraduate/courses/finance-bsc-hons-n300/,BSc,Undergraduate Undergraduate courses Finance,AAB,AAB,35,"35 points overall with 16 points from the best 3 HL subjects, including 6 in Mathematics HL (either analysis and approaches or applications and interpretations)"
+5033,http://www.lancs.ac.uk/study/undergraduate/courses/economics-and-finance-bsc-hons-nl31/,BSc,Economics and Finance,AAB,AAB,35,"35 points overall with 16 points from the best 3 HL subjects, including 6 in Mathematics HL (either analysis and approaches or applications and interpretations)"
+5199,http://www.lancs.ac.uk/study/undergraduate/courses/peace-studies-and-international-relations-ba-hons-ll92/,,Undergraduate courses,,,24,
+5217,http://www.lancs.ac.uk/study/undergraduate/courses/marketing-management-bsc-hons-n503/,,Undergraduate courses,,,24,
+5255,https://www.lancaster.ac.uk/study/undergraduate/courses/marketing-study-abroad-bsc-hons-n502/2024/,BSc,Undergraduate Undergraduate courses Marketing,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+5257,http://www.lancs.ac.uk/study/undergraduate/courses/english-language-and-french-studies-ba-hons-qr31/,,Undergraduate courses,,,24,
+5376,http://www.lancs.ac.uk/study/undergraduate/courses/mathematics-msci-hons-g101/,MSci,Undergraduate Undergraduate courses Mathematics,A*AA,A*AA,38,38 points overall with 17 points from the best 3 HL subjects including 6 in Mathematics HL (either analysis and approaches or applications and interpretations)
+5377,http://www.lancs.ac.uk/study/undergraduate/courses/mathematics-study-abroad-msci-hons-g103/,MSci,Undergraduate Undergraduate courses Mathematics,A*AA,A*AA,38,38 points overall with 17 points from the best 3 HL subjects including 6 in Mathematics HL (either analysis and approaches or applications and interpretations)
+5380,http://www.lancs.ac.uk/study/undergraduate/courses/mathematics-with-statistics-msci-hons-g1gj/,MSci,Mathematics and Statistics,A*AA,A*AA,38,38 points overall with 17 points from the best 3 HL subjects including 6 in Mathematics HL (either analysis and approaches or applications and interpretations)
+5381,http://www.lancs.ac.uk/study/undergraduate/courses/mathematics-with-statistics-study-abroad-msci-hons-g1gh/,MSci,Mathematics and Statistics,A*AA,A*AA,38,38 points overall with 17 points from the best 3 HL subjects including 6 in Mathematics HL (either analysis and approaches or applications and interpretations)
+5458,http://www.lancs.ac.uk/study/undergraduate/courses/criminology-and-sociology-ba-hons-lm39/,BA,Sociology and Criminology,BBB,BBB,30,30 points overall including 15 points from the best 3 HL subjects
+5468,http://www.lancs.ac.uk/study/undergraduate/courses/english-language-and-german-studies-ba-hons-qr32/,,Undergraduate courses,,,24,
+5478,http://www.lancs.ac.uk/study/undergraduate/courses/spanish-studies-ba-hons-r410/,,Undergraduate courses,,,24,
+5847,http://www.lancs.ac.uk/study/undergraduate/courses/natural-sciences-bsc-hons-gfc0/,BSc,Natural Sciences,A*AA,A*AA,38,38 points overall with 17 points from the best 3 HL subjects including two HL science subjects at grade 6
+5920,http://www.lancs.ac.uk/study/undergraduate/courses/theoretical-physics-with-mathematics-msci-hons-f3g1/,MSci,Theoretical Physics with Mathematics,AAA,AAA,36,36 points overall with 16 points from the best 3 HL subjects including 6 in Mathematics HL (either analysis and approaches or applications and interpretations) and Physics HL
+5921,https://www.lancaster.ac.uk/study/undergraduate/courses/natural-sciences-study-abroad-bsc-hons-cfg2/#structure,BSc,Natural Sciences,A*AA,A*AA,38,38 points overall with 17 points from the best 3 HL subjects including two HL science subjects at grade 6
+5965,http://www.lancs.ac.uk/study/undergraduate/courses/french-studies-and-computing-bsc-hons-gr41/,,Undergraduate courses,,,24,
+5966,http://www.lancs.ac.uk/study/undergraduate/courses/german-studies-and-computing-bsc-hons-gr42/,,Undergraduate courses,,,24,
+5968,http://www.lancs.ac.uk/study/undergraduate/courses/spanish-studies-and-computing-bsc-hons-gr44/,,Undergraduate courses,,,24,
+5972,http://www.lancs.ac.uk/study/undergraduate/courses/financial-mathematics-bsc-hons-gn13/,,Undergraduate courses,,,24,
+6130,http://www.lancs.ac.uk/study/undergraduate/courses/english-literature-with-creative-writing-ba-hons-q3w8/,,Undergraduate courses,,,24,
+6275,http://www.lancs.ac.uk/study/undergraduate/courses/biomedical-science-bsc-hons-b990/,BSc,Biomedical Science,AAB,AAB,35,"35 points overall with 16 points from the best 3 HL subjects including 6 in HL Biology and 6 in one further HL science subjects from Chemistry, Mathematics or Physics"
+6282,http://www.lancs.ac.uk/study/undergraduate/courses/law-study-abroad-llb-hons-m101/,LLB,Undergraduate Undergraduate courses Law,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+7210,http://www.lancs.ac.uk/study/undergraduate/courses/law-with-criminology-llb-hons-mm12/,LLB,Law with Criminology,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+7386,http://www.lancs.ac.uk/study/undergraduate/courses/accounting-and-management-bsc-hons-nn24/,BSc,Accounting and Management,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+7464,http://www.lancs.ac.uk/study/undergraduate/courses/film-and-sociology-ba-hons-pl33/,,Undergraduate courses,,,24,
+7466,http://www.lancs.ac.uk/study/undergraduate/courses/film-and-philosophy-ba-hons-pv35/,,Undergraduate courses,,,24,
+7962,http://www.lancs.ac.uk/study/undergraduate/courses/english-literature-and-creative-writing-ba-hons-qw38/,BA,Literature and Creative Writing,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+8790,http://www.lancs.ac.uk/study/undergraduate/courses/earth-and-environmental-science-bsc-hons-ff68/,BSc,Earth and Environmental Science,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects including one HL science subject at grade 6
+8919,http://www.lancs.ac.uk/study/undergraduate/courses/biology-with-psychology-bsc-hons-c1c8/,,Undergraduate courses,,,24,
+9454,http://www.lancs.ac.uk/study/undergraduate/courses/accounting-and-finance-bsc-hons-n400/,BSc,Accounting and Finance,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+9617,http://www.lancs.ac.uk/study/undergraduate/courses/film-and-english-literature-ba-hons-pq33/,BA,Film and English Literature,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+9691,http://www.lancs.ac.uk/study/undergraduate/courses/theoretical-physics-with-mathematics-bsc-hons-f3gc/,BSc,Theoretical Physics with Mathematics,AAA,AAA,36,36 points overall with 16 points from the best 3 HL subjects including 6 in Mathematics HL (either analysis and approaches or applications and interpretations) and Physics HL
+9709,http://www.lancs.ac.uk/study/undergraduate/courses/geography-ba-hons-l700/,BA,Undergraduate Undergraduate courses Geography,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects including Geography or alternative cognate subject at HL grade 6
+9890,http://www.lancs.ac.uk/study/undergraduate/courses/nuclear-engineering-meng-hons-h821/,MEng,Nuclear Engineering,AAA,AAA,36,36 points overall with 16 points from the best 3 HL subjects including either: 1
+10250,http://www.lancs.ac.uk/study/undergraduate/courses/management-and-information-technology-bsc-hons-gn51/,BSc,Management and Digital Technologies,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+10251,http://www.lancs.ac.uk/study/undergraduate/courses/management-and-information-technology-industry-bsc-hons-gn52/,BSc,Management and Digital Technologies,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+10319,http://www.lancs.ac.uk/study/undergraduate/courses/modern-languages-ba-hons-r800/,,Undergraduate courses,,,24,
+10671,http://www.lancs.ac.uk/study/undergraduate/courses/politics-and-sociology-ba-hons-ll23/,,Undergraduate courses,,,24,
+10779,http://www.lancs.ac.uk/study/undergraduate/courses/economics-industry-bsc-hons-l105/,BSc,Undergraduate Undergraduate courses Economics,AAB,AAB,35,"35 points overall with 16 points from the best 3 HL subjects, including 6 in Mathematics HL (either analysis and approaches or applications and interpretations)"
+11237,http://www.lancs.ac.uk/study/undergraduate/courses/english-language-and-spanish-studies-ba-hons-qr34/,,Undergraduate courses,,,24,
+15010,http://www.lancs.ac.uk/study/undergraduate/courses/marketing-and-design-bsc-hons-nw52/,BSc,Marketing and Design,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+15011,http://www.lancs.ac.uk/study/undergraduate/courses/marketing-with-psychology-bsc-hons-n5c8/,,Undergraduate courses,,,24,
+15403,http://www.lancs.ac.uk/study/undergraduate/courses/computer-science-with-industrial-experience-msci-hons-g404/,MSci,Computer Science Industrial,AAA,AAA,36,36 points overall with 16 points from the best 3 HL subjects
+15982,http://www.lancs.ac.uk/study/undergraduate/courses/english-language-and-creative-writing-ba-hons-q3wv/,,Undergraduate courses,,,24,
+16411,http://www.lancs.ac.uk/study/undergraduate/courses/software-engineering-with-industrial-experience-msci-hons-g601/,MSci,Software Engineering Industrial,AAA,AAA,36,36 points overall with 16 points from the best 3 HL subjects
+16429,http://www.lancs.ac.uk/study/undergraduate/courses/law-with-politics-llb-hons-m1l2/,,Undergraduate courses,,,24,
+16431,http://www.lancs.ac.uk/study/undergraduate/courses/film-studies-ba-hons-p303/,BA,Film Studies,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+16599,http://www.lancs.ac.uk/study/undergraduate/courses/natural-sciences-msci-hons-fcf3/,MSci,Natural Sciences,A*AA,A*AA,38,38 points overall with 17 points from the best 3 HL subjects including two HL science subjects at grade 6
+16600,http://www.lancs.ac.uk/study/undergraduate/courses/natural-sciences-study-abroad-msci-hons-cfg1/,MSci,Natural Sciences,A*AA,A*AA,38,38 points overall with 17 points from the best 3 HL subjects including two HL science subjects at grade 6
+16616,http://www.lancs.ac.uk/study/undergraduate/courses/theoretical-physics-with-mathematics-study-abroad-msci-hons-f3g5/,MSci,Theoretical Physics with Mathematics,AAA,AAA,36,36 points overall with 16 points from the best 3 HL subjects including 6 in Mathematics HL (either analysis and approaches or applications and interpretations) and Physics HL
+16645,http://www.lancs.ac.uk/study/undergraduate/courses/chemical-engineering-meng-hons-h811/,MEng,Chemical Engineering,AAA,AAA,36,36 points overall with 16 points from the best 3 HL subjects including either: 1
+16653,http://www.lancs.ac.uk/study/undergraduate/courses/chemical-engineering-beng-hons-h800/,BEng,Chemical Engineering,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects including either: 1
+16663,http://www.lancs.ac.uk/study/undergraduate/courses/biomedicine-msci-hons-c703/,MSci,Undergraduate Undergraduate courses Biomedicine,AAA,AAA,36,"36 points overall with 16 points from the best 3 HL subjects including 6 in HL Biology and 6 in one further HL science subject from Chemistry, Mathematics or Physics"
+16704,http://www.lancs.ac.uk/study/undergraduate/courses/biomedicine-bsc-hons-c701/,BSc,Undergraduate Undergraduate courses Biomedicine,AAB,AAB,35,"35 points overall with 16 points from the best 3 HL subjects including 6 in HL Biology and 6 in one further HL science subjects from Chemistry, Mathematics or Physics"
+16869,http://www.lancs.ac.uk/study/undergraduate/courses/economics-and-mathematics-bsc-hons-gl11/,,Undergraduate courses,,,24,
+16942,http://www.lancs.ac.uk/study/undergraduate/courses/business-analytics-bsc-hons-n2n1/,BSc,Business Analytics,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+16944,http://www.lancs.ac.uk/study/undergraduate/courses/chemistry-study-abroad-mchem-hons-f1t7/,MChem,Undergraduate Undergraduate courses Chemistry,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects including 6 in Chemistry and 6 in a further HL science subject
+16959,http://www.lancs.ac.uk/study/undergraduate/courses/chemistry-mchem-hons-f101/,MChem,Undergraduate Undergraduate courses Chemistry,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects including 6 in Chemistry and 6 in a further HL science subject
+16960,http://www.lancs.ac.uk/study/undergraduate/courses/chemistry-bsc-hons-f100/,BSc,Undergraduate Undergraduate courses Chemistry,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects including 6 in Chemistry and 6 in a further HL science subject
+16964,http://www.lancs.ac.uk/study/undergraduate/courses/business-analytics-study-abroad-bsc-hons-n1n4/,BSc,Business Analytics,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+16965,http://www.lancs.ac.uk/study/undergraduate/courses/business-analytics-industry-bsc-hons-n1n3/,BSc,Business Analytics,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+17172,http://www.lancs.ac.uk/study/undergraduate/courses/french-studies-and-film-ba-hons-r1p3/,,Undergraduate courses,,,24,
+17174,http://www.lancs.ac.uk/study/undergraduate/courses/german-studies-and-film-ba-hons-r2p3/,,,,,,
+17175,http://www.lancs.ac.uk/study/undergraduate/courses/spanish-studies-and-film-ba-hons-r4p3/,,Undergraduate courses,,,24,
+17617,http://www.lancs.ac.uk/study/undergraduate/courses/biology-msci-hons-1m66/,MSci,Undergraduate Undergraduate courses Biology,AAA,AAA,36,"36 points overall with 16 points from the best 3 HL subjects including 6 in Biology HL and 6 in one other HL science subject from Chemistry, Computer Science, Geography, Mathematics, Physics, or Psychology"
+17700,http://www.lancs.ac.uk/study/undergraduate/courses/international-relations-ba-hons-6t99/,BA,International Relations,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+17722,http://www.lancs.ac.uk/study/undergraduate/courses/business-economics-industry-bsc-hons-4v11/,BSc,Business Economics,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+17727,http://www.lancs.ac.uk/study/undergraduate/courses/ecology-and-conservation-professional-experience-msci-hons-0x48/,,Undergraduate courses,,,24,
+17728,http://www.lancs.ac.uk/study/undergraduate/courses/earth-and-environmental-science-msci-hons-4r71/,MSci,Earth and Environmental Science,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects including one HL science subject at grade 6
+17789,http://www.lancs.ac.uk/study/undergraduate/courses/fine-art-and-film-ba-hons-wp13/,,Undergraduate courses,,,24,
+17790,http://www.lancs.ac.uk/study/undergraduate/courses/film-and-theatre-ba-hons-pw34/,,Undergraduate courses,,,24,
+17791,http://www.lancs.ac.uk/study/undergraduate/courses/film-and-creative-writing-ba-hons-pw38/,BA,Film and Creative Writing,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+17792,http://www.lancs.ac.uk/study/undergraduate/courses/fine-art-and-creative-writing-ba-hons-ww18/,,Undergraduate courses,,,24,
+17793,http://www.lancs.ac.uk/study/undergraduate/courses/fine-art-and-theatre-ba-hons-ww14/,,Undergraduate courses,,,24,
+17794,http://www.lancs.ac.uk/study/undergraduate/courses/theatre-and-creative-writing-ba-hons-ww48/,,Undergraduate courses,,,24,
+17796,http://www.lancs.ac.uk/study/undergraduate/courses/german-studies-and-theatre-ba-hons-wr42/,,Undergraduate courses,,,24,
+17970,http://www.lancs.ac.uk/study/undergraduate/courses/nuclear-engineering-beng-hons-h820/,BEng,Nuclear Engineering,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects including either: 1
+17995,http://www.lancs.ac.uk/study/undergraduate/courses/earth-and-environmental-science-study-abroad-msci-hons-ff86/,,Undergraduate courses,,,24,
+18154,http://www.lancs.ac.uk/study/undergraduate/courses/computer-science-and-mathematics-msci-hons-gg1k/,MSci,Mathematics with Computer Science,A*AA,A*AA,38,38 points overall with 17 points from the best 3 HL subjects including 6 in Mathematics HL (either analysis and approaches or applications and interpretations)
+18169,http://www.lancs.ac.uk/study/undergraduate/courses/environmental-science-msci-hons-f850/,MSci,Environmental Science,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects including one HL science subject at grade 6
+18170,http://www.lancs.ac.uk/study/undergraduate/courses/environmental-science-study-abroad-msci-hons-f851/,,Undergraduate courses,,,24,
+18308,http://www.lancs.ac.uk/study/undergraduate/courses/accounting-and-finance-industry-bsc-hons-n401/,BSc,Accounting and Finance,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+18493,http://www.lancs.ac.uk/study/undergraduate/courses/management-politics-and-international-relations-industry-bsc-hons-n230/,,Undergraduate courses,,,24,
+18546,http://www.lancs.ac.uk/study/undergraduate/courses/french-studies-with-italian-ba-hons-r1r3/,,Undergraduate courses,,,24,
+18548,http://www.lancs.ac.uk/study/undergraduate/courses/spanish-studies-with-italian-ba-hons-r4r3/,,Undergraduate courses,,,24,
+18550,http://www.lancs.ac.uk/study/undergraduate/courses/german-studies-with-italian-ba-hons-r2r3/,,Undergraduate courses,,,24,
+18554,http://www.lancs.ac.uk/study/undergraduate/courses/design-ba-hons-w281/,BA,Undergraduate Undergraduate courses Design,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+18653,http://www.lancs.ac.uk/study/undergraduate/courses/film-media-and-cultural-studies-ba-hons-pl36/,BA,Media and Cultural Studies,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+18660,http://www.lancs.ac.uk/study/undergraduate/courses/finance-industry-bsc-hons-n301/,BSc,Undergraduate Undergraduate courses Finance,AAB,AAB,35,"35 points overall with 16 points from the best 3 HL subjects, including 6 in Mathematics HL (either analysis and approaches or applications and interpretations)"
+18661,http://www.lancs.ac.uk/study/undergraduate/courses/accounting-and-management-industry-bsc-hons-nn25/,BSc,Accounting and Management,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+18662,http://www.lancs.ac.uk/study/undergraduate/courses/accounting-finance-and-mathematics-industry-bsc-hons-ng42/,,Undergraduate courses,,,24,
+18666,http://www.lancs.ac.uk/study/undergraduate/courses/economics-and-finance-industry-bsc-hons-nl32/,BSc,Economics and Finance,AAB,AAB,35,"35 points overall with 16 points from the best 3 HL subjects, including 6 in Mathematics HL (either analysis and approaches or applications and interpretations)"
+18696,http://www.lancs.ac.uk/study/undergraduate/courses/geography-msci-hons-4r61/,MSci,Undergraduate Undergraduate courses Geography,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects including Geography or alternative cognate subject at HL grade 6
+18697,http://www.lancs.ac.uk/study/undergraduate/courses/geography-study-abroad-msci-hons-4r62/,,Undergraduate courses,,,24,
+18698,http://www.lancs.ac.uk/study/undergraduate/courses/physical-geography-study-abroad-msci-hons-4r64/,,Undergraduate courses,,,24,
+18699,http://www.lancs.ac.uk/study/undergraduate/courses/physical-geography-msci-hons-4r63/,MSci,Physical Geography,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects including Geography or alternative cognate subject at HL grade 6
+18703,http://www.lancs.ac.uk/study/undergraduate/courses/financial-mathematics-placement-year-bsc-hons-gn1j/,,Undergraduate courses,,,24,
+18715,http://www.lancs.ac.uk/study/undergraduate/courses/modern-languages-and-cultures-mlang-hons-r810/,MLang,Languages and Global Cultures,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+18845,http://www.lancs.ac.uk/study/undergraduate/courses/geography-marts-hons-l702/,,Undergraduate courses,,,24,
+18846,http://www.lancs.ac.uk/study/undergraduate/courses/geography-study-abroad-marts-hons-l703/,,Undergraduate courses,,,24,
+18907,http://www.lancs.ac.uk/study/undergraduate/courses/psychology-study-abroad-bsc-hons-c801/,BSc,Undergraduate Undergraduate courses Psychology,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+19211,http://www.lancs.ac.uk/study/undergraduate/courses/criminology-and-french-studies-ba-hons-mr91/,,Undergraduate courses,,,24,
+19601,http://www.lancs.ac.uk/study/undergraduate/courses/biochemistry-msci-hons-c706/,MSci,Undergraduate Undergraduate courses Biochemistry,AAA,AAA,36,36 points overall with 16 points from the best 3 HL subjects including 6 in HL Biology and 6 in HL Chemistry
+19714,http://www.lancs.ac.uk/study/undergraduate/courses/mathematics-operational-research-statistics-and-economics-morse-bsc-hons-gln0/,BSc,Operational Statistics and Economics,AAA,AAA,36,36 points overall with 16 points from the best 3 HL subjects including 6 in Mathematics HL (either analysis and approaches or applications and interpretations)
+19744,http://www.lancs.ac.uk/study/undergraduate/courses/criminology-and-psychology-ba-hons-cl86/,BA,Criminology and Psychology,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+19749,http://www.lancs.ac.uk/study/undergraduate/courses/management-and-human-resources-bsc-hons-n600/,BSc,and Human Resource Management,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+19750,http://www.lancs.ac.uk/study/undergraduate/courses/management-and-human-resources-industry-bsc-hons-n602/,BSc,and Human Resource Management,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+19808,http://www.lancs.ac.uk/study/undergraduate/courses/politics-placement-year-ba-hons-l202/,BA,Undergraduate Undergraduate courses Politics,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+19927,http://www.lancs.ac.uk/study/undergraduate/courses/sports-and-exercise-science-bsc-hons-c600/,BSc,Sports and Exercise Science,ABB,ABB,32,"32 points overall with 16 points from the best 3 HL subjects including 6 in one HL science subject from the following: Biology, Chemistry, Mathematics, Physics, Psychology, Sports, Exercise and Health Science"
+19984,http://www.lancs.ac.uk/study/undergraduate/courses/mathematics-operational-research-statistics-and-economics-morse-industry-bsc-hons-gln1/,BSc,Operational Statistics and Economics,AAA,AAA,36,36 points overall with 16 points from the best 3 HL subjects including 6 in Mathematics HL (either analysis and approaches or applications and interpretations)
+19992,http://www.lancs.ac.uk/study/undergraduate/courses/politics-international-relations-and-management-bsc-hons-ln30/,,Undergraduate courses,,,24,
+19997,http://www.lancs.ac.uk/study/undergraduate/courses/biomedicine-placement-year-bsc-hons-c708/,BSc,Undergraduate Undergraduate courses Biomedicine,AAB,AAB,35,"35 points overall with 16 points from the best 3 HL subjects including 6 in HL Biology and 6 in one further HL science subjects from Chemistry, Mathematics or Physics"
+20030,http://www.lancs.ac.uk/study/undergraduate/courses/drama-theatre-and-performance-placement-year-ba-hons-w441/,BA,Theatre and Performing,BBB,BBB,30,30 points overall including 15 points from the best 3 HL subjects
+20031,http://www.lancs.ac.uk/study/undergraduate/courses/politics-and-international-relations-placement-year-ba-hons-l251/,BA,Politics and International Relations,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+20032,http://www.lancs.ac.uk/study/undergraduate/courses/sociology-placement-year-ba-hons-l301/,BA,Undergraduate Undergraduate courses Sociology,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+20033,http://www.lancs.ac.uk/study/undergraduate/courses/theatre-and-english-literature-placement-year-ba-hons-wq44/,,Undergraduate courses,,,24,
+20034,http://www.lancs.ac.uk/study/undergraduate/courses/film-and-english-literature-placement-year-ba-hons-pq34/,BA,Film and English Literature,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+20035,http://www.lancs.ac.uk/study/undergraduate/courses/fine-art-placement-year-ba-hons-w101/,BA,Fine Art,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+20036,http://www.lancs.ac.uk/study/undergraduate/courses/media-and-cultural-studies-placement-year-ba-hons-lp64/,BA,Media and Cultural Studies,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+20037,http://www.lancs.ac.uk/study/undergraduate/courses/film-and-sociology-placement-year-ba-hons-pl34/,,Undergraduate courses,,,24,
+20038,http://www.lancs.ac.uk/study/undergraduate/courses/philosophy-placement-year-ba-hons-v501/,BA,Undergraduate Undergraduate courses Philosophy,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+20039,http://www.lancs.ac.uk/study/undergraduate/courses/film-media-and-cultural-studies-placement-year-ba-hons-pl37/,BA,Media and Cultural Studies,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+20040,http://www.lancs.ac.uk/study/undergraduate/courses/philosophy-politics-and-economics-placement-year-ba-hons-l0v1/,BA,Politics and Economics,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+20043,http://www.lancs.ac.uk/study/undergraduate/courses/management-and-french-studies-ba-hons-rn12/,,Undergraduate courses,,,24,
+20044,http://www.lancs.ac.uk/study/undergraduate/courses/management-and-german-studies-ba-hons-rn41/,,Undergraduate courses,,,24,
+20045,http://www.lancs.ac.uk/study/undergraduate/courses/management-and-spanish-studies-ba-hons-rn22/,,Undergraduate courses,,,24,
+20046,http://www.lancs.ac.uk/study/undergraduate/courses/economics-and-mathematics-industry-bsc-hons-gl12/,,Undergraduate courses,,,24,
+20125,http://www.lancs.ac.uk/study/undergraduate/courses/biochemistry-placement-year-bsc-hons-c707/,BSc,Undergraduate Undergraduate courses Biochemistry,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects including 6 in HL Biology and 6 in HL Chemistry
+20129,http://www.lancs.ac.uk/study/undergraduate/courses/biology-placement-year-bsc-hons-c104/,BSc,Undergraduate Undergraduate courses Biology,AAB,AAB,35,"35 points overall with 16 points from the best 3 HL subjects including 6 in Biology HL and 6 in one other HL science subject from Chemistry, Computer Science, Geography, Mathematics, Physics, or Psychology"
+20130,http://www.lancs.ac.uk/study/undergraduate/courses/biology-with-psychology-placement-year-bsc-hons-c1c9/,,Undergraduate courses,,,24,
+20175,http://www.lancs.ac.uk/study/undergraduate/courses/law-international-law-llb-hons-m102/,,Undergraduate courses,,,24,
+20284,http://www.lancs.ac.uk/study/undergraduate/courses/law-clinical-learning-llb-hons-m103/,LLB,Undergraduate Undergraduate courses Law,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+20288,http://www.lancs.ac.uk/study/undergraduate/courses/mathematics-placement-year-bsc-hons-g102/,BSc,Undergraduate Undergraduate courses Mathematics,AAA,AAA,36,36 points overall with 16 points from the best 3 HL subjects including 6 in Mathematics HL (either analysis and approaches or applications and interpretations)
+20304,http://www.lancs.ac.uk/study/undergraduate/courses/mathematics-with-statistics-placement-year-bsc-hons-gcg3/,BSc,Mathematics and Statistics,AAA,AAA,36,36 points overall with 16 points from the best 3 HL subjects including 6 in Mathematics HL (either analysis and approaches or applications and interpretations)
+20393,http://www.lancs.ac.uk/study/undergraduate/courses/law-placement-year-llb-hons-m104/,LLB,Undergraduate Undergraduate courses Law,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+20529,http://www.lancs.ac.uk/study/undergraduate/courses/criminology-and-law-ba-hons-mm13/,,Undergraduate courses,,,24,
+20546,http://www.lancs.ac.uk/study/undergraduate/courses/english-literature-and-history-placement-year-ba-hons-qv32/,BA,English Literature and History,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+20547,http://www.lancs.ac.uk/study/undergraduate/courses/english-literature-with-creative-writing-placement-year-ba-hons-q3w9/,,Undergraduate courses,,,24,
+20548,http://www.lancs.ac.uk/study/undergraduate/courses/english-literature-placement-year-ba-hons-q301/,BA,English Literature,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+20549,http://www.lancs.ac.uk/study/undergraduate/courses/english-literature-and-philosophy-placement-year-ba-hons-qv34/,,Undergraduate courses,,,24,
+20551,http://www.lancs.ac.uk/study/undergraduate/courses/english-literature-and-creative-writing-placement-year-ba-hons-qw39/,BA,Literature and Creative Writing,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+20552,http://www.lancs.ac.uk/study/undergraduate/courses/criminology-placement-year-ba-hons-m931/,BA,Undergraduate Undergraduate courses Criminology,BBB,BBB,30,30 points overall including 15 points from the best 3 HL subjects
+20553,http://www.lancs.ac.uk/study/undergraduate/courses/design-placement-year-ba-hons-w282/,BA,Undergraduate Undergraduate courses Design,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+20554,http://www.lancs.ac.uk/study/undergraduate/courses/criminology-and-sociology-placement-year-ba-hons-lm40/,BA,Sociology and Criminology,BBB,BBB,30,30 points overall including 15 points from the best 3 HL subjects
+20557,http://www.lancs.ac.uk/study/undergraduate/courses/film-and-creative-writing-placement-year-ba-hons-pw39/,BA,Film and Creative Writing,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+20558,http://www.lancs.ac.uk/study/undergraduate/courses/film-and-philosophy-placement-year-ba-hons-pv36/,,Undergraduate courses,,,24,
+20560,http://www.lancs.ac.uk/study/undergraduate/courses/film-and-theatre-placement-year-ba-hons-pw35/,,Undergraduate courses,,,24,
+20561,http://www.lancs.ac.uk/study/undergraduate/courses/film-studies-placement-year-ba-hons-p304/,BA,Film Studies,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+20562,http://www.lancs.ac.uk/study/undergraduate/courses/history-placement-year-ba-hons-v101/,BA,Undergraduate Undergraduate courses History,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+20563,http://www.lancs.ac.uk/study/undergraduate/courses/fine-art-and-creative-writing-placement-year-ba-hons-ww19/,,Undergraduate courses,,,24,
+20564,http://www.lancs.ac.uk/study/undergraduate/courses/fine-art-and-film-placement-year-ba-hons-wp14/,,Undergraduate courses,,,24,
+20565,http://www.lancs.ac.uk/study/undergraduate/courses/history-and-philosophy-placement-year-ba-hons-vvc6/,,Undergraduate courses,,,24,
+20566,http://www.lancs.ac.uk/study/undergraduate/courses/history-and-international-relations-placement-year-ba-hons-vl13/,BA,History and International Relations,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+20567,http://www.lancs.ac.uk/study/undergraduate/courses/fine-art-and-theatre-placement-year-ba-hons-ww17/,,Undergraduate courses,,,24,
+20570,http://www.lancs.ac.uk/study/undergraduate/courses/international-relations-placement-year-ba-hons-6t91/,BA,International Relations,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+20571,http://www.lancs.ac.uk/study/undergraduate/courses/history-philosophy-and-politics-placement-year-ba-hons-v0l1/,,Undergraduate courses,,,24,
+20572,http://www.lancs.ac.uk/study/undergraduate/courses/history-and-politics-placement-year-ba-hons-lv22/,BA,History and Politics,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+20573,http://www.lancs.ac.uk/study/undergraduate/courses/linguistics-placement-year-ba-hons-q101/,BA,Undergraduate Undergraduate courses Linguistics,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+20574,http://www.lancs.ac.uk/study/undergraduate/courses/linguistics-and-philosophy-placement-year-ba-hons-qv16/,,Undergraduate courses,,,24,
+20576,http://www.lancs.ac.uk/study/undergraduate/courses/peace-studies-and-international-relations-placement-year-ba-hons-ll93/,,Undergraduate courses,,,24,
+20577,http://www.lancs.ac.uk/study/undergraduate/courses/medieval-and-early-modern-studies-placement-year-ba-hons-v126/,,Undergraduate courses,,,24,
+20578,http://www.lancs.ac.uk/study/undergraduate/courses/politics-and-sociology-placement-year-ba-hons-ll24/,,Undergraduate courses,,,24,
+20582,http://www.lancs.ac.uk/study/undergraduate/courses/philosophy-and-politics-placement-year-ba-hons-vl53/,BA,Philosophy and Politics,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+20583,http://www.lancs.ac.uk/study/undergraduate/courses/english-language-placement-year-ba-hons-q305/,BA,English Language,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+20584,http://www.lancs.ac.uk/study/undergraduate/courses/english-language-and-creative-writing-placement-year-ba-hons-q4wv/,,Undergraduate courses,,,24,
+20590,http://www.lancs.ac.uk/study/undergraduate/courses/theatre-and-creative-writing-placement-year-ba-hons-ww49/,,Undergraduate courses,,,24,
+20591,http://www.lancs.ac.uk/study/undergraduate/courses/english-language-and-linguistics-placement-year-ba-hons-qqc4/,BA,English Language and Linguistics,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+20592,http://www.lancs.ac.uk/study/undergraduate/courses/english-language-and-literature-placement-year-ba-hons-q303/,,Undergraduate courses,,,24,
+20600,http://www.lancs.ac.uk/study/undergraduate/courses/economics-ba-hons-l110/,BA,Undergraduate Undergraduate courses Economics,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+20606,https://ua92.ac.uk/courses/accounting-and-finance-ba-hons/,BA,Accounting and Finance,AAA,AAA,28,"28 points overall, with 14 points from Higher Level Subjects"
+20607,https://ua92.ac.uk/courses/business-management-ba-hons/,,"UA92 Partners with British Triathlon to Bring Swim, Bike and Run to Communities",AAA,AAA,42,
+20610,https://ua92.ac.uk/courses/physical-education-ba-hons/,BA,Physical Education,DCE,DCE,31,
+20612,https://ua92.ac.uk/courses/sports-and-exercise-science-bsc-hons/,BSc,Sports and Exercise Science,AAA,AAA,28,"28 points overall, with 14 points from Higher Level Subjects"
+20678,http://www.lancs.ac.uk/study/undergraduate/courses/economics-industry-ba-hons-l111/,BA,Undergraduate Undergraduate courses Economics,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+20695,http://www.lancs.ac.uk/study/undergraduate/courses/fine-art-and-design-ba-hons-w1w2/,,Undergraduate courses,,,24,
+20708,http://www.lancs.ac.uk/study/undergraduate/courses/fine-art-and-design-placement-year-ba-hons-w1w3/,,Undergraduate courses,,,24,
+20728,http://www.lancs.ac.uk/study/undergraduate/courses/ecology-and-conservation-placement-year-bsc-hons-c181/,BSc,Ecology and Conservation,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects including two HL science subjects at grade 6
+20729,http://www.lancs.ac.uk/study/undergraduate/courses/geography-placement-year-bsc-hons-f803/,BSc,Undergraduate Undergraduate courses Geography,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects including Geography or alternative cognate subject at HL grade 6
+20730,http://www.lancs.ac.uk/study/undergraduate/courses/environmental-science-placement-year-bsc-hons-f752/,BSc,Environmental Science,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects including one HL science subject at grade 6
+20731,http://www.lancs.ac.uk/study/undergraduate/courses/earth-and-environmental-science-placement-year-bsc-hons-ff78/,BSc,Earth and Environmental Science,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects including one HL science subject at grade 6
+20732,http://www.lancs.ac.uk/study/undergraduate/courses/geography-placement-year-ba-hons-l704/,BA,Undergraduate Undergraduate courses Geography,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects including Geography or alternative cognate subject at HL grade 6
+20733,http://www.lancs.ac.uk/study/undergraduate/courses/human-geography-placement-year-ba-hons-l723/,BA,Human Geography,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects including Geography or alternative cognate subject at HL grade 6
+20734,http://www.lancs.ac.uk/study/undergraduate/courses/physical-geography-placement-year-bsc-hons-f841/,BSc,Physical Geography,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects including Geography or alternative cognate subject at HL grade 6
+20746,http://www.lancs.ac.uk/study/undergraduate/courses/computer-science-and-mathematics-placement-year-bsc-hons-gg1l/,BSc,Mathematics with Computer Science,AAA,AAA,36,36 points overall with 16 points from the best 3 HL subjects including 6 in Mathematics HL (either analysis and approaches or applications and interpretations)
+20780,http://www.lancs.ac.uk/study/undergraduate/courses/natural-sciences-placement-year-bsc-hons-gfc1/,BSc,Natural Sciences,A*AA,A*AA,38,38 points overall with 17 points from the best 3 HL subjects including two HL science subjects at grade 6
+20821,http://www.lancs.ac.uk/study/undergraduate/courses/zoology-bsc-hons-c300/,,Undergraduate courses,,,24,
+20823,http://www.lancs.ac.uk/study/undergraduate/courses/zoology-placement-year-bsc-hons-c302/,,Undergraduate courses,,,24,
+20900,http://www.lancs.ac.uk/study/undergraduate/courses/economics-politics-and-international-relations-ba-hons-ll22/,BA,Politics and International Relations,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+20948,http://www.lancs.ac.uk/study/undergraduate/courses/engineering-meng-hons-h102/,MEng,Undergraduate Undergraduate courses Engineering,AAA,AAA,36,36 points overall with 16 points from the best 3 HL subjects including either: 1
+20955,http://www.lancs.ac.uk/study/undergraduate/courses/international-business-management-spain-bsc-hons-n2r4/,,Undergraduate courses,,,24,
+20957,http://www.lancs.ac.uk/study/undergraduate/courses/international-business-management-france-bsc-hons-n2r1/,,Undergraduate courses,,,24,
+20958,http://www.lancs.ac.uk/study/undergraduate/courses/international-business-management-germany-bsc-hons-n2r2/,,Undergraduate courses,,,24,
+20959,http://www.lancs.ac.uk/study/undergraduate/courses/international-business-management-italy-bsc-hons-n2r3/,,Undergraduate courses,,,24,
+20960,http://www.lancs.ac.uk/study/undergraduate/courses/international-business-management-mexico-bsc-hons-n2r5/,,Undergraduate courses,,,24,
+21135,http://www.lancs.ac.uk/study/undergraduate/courses/chinese-studies-and-french-studies-ba-hons-r1t1/,,Undergraduate courses,,,24,
+21136,http://www.lancs.ac.uk/study/undergraduate/courses/chinese-studies-and-german-studies-ba-hons-r2t1/,,Undergraduate courses,,,24,
+21137,http://www.lancs.ac.uk/study/undergraduate/courses/chinese-studies-and-spanish-studies-ba-hons-r4t1/,,Undergraduate courses,,,24,
+21328,http://www.lancs.ac.uk/study/undergraduate/courses/chinese-studies-and-history-ba-hons-t1v1/,,Undergraduate courses,,,24,
+21329,http://www.lancs.ac.uk/study/undergraduate/courses/chinese-studies-and-english-literature-ba-hons-t1q3/,,Undergraduate courses,,,24,
+21330,http://www.lancs.ac.uk/study/undergraduate/courses/chinese-studies-and-politics-ba-hons-t1l2/,,Undergraduate courses,,,24,
+21331,http://www.lancs.ac.uk/study/undergraduate/courses/chinese-studies-and-philosophy-ba-hons-t1v5/,,Undergraduate courses,,,24,
+21332,http://www.lancs.ac.uk/study/undergraduate/courses/chinese-studies-and-linguistics-ba-hons-t1q1/,,Undergraduate courses,,,24,
+21333,http://www.lancs.ac.uk/study/undergraduate/courses/psychology-and-chinese-studies-ba-hons-c8t1/,,Undergraduate courses,,,24,
+21334,http://www.lancs.ac.uk/study/undergraduate/courses/chinese-studies-and-mathematics-ba-hons-t1g1/,,Undergraduate courses,,,24,
+21335,http://www.lancs.ac.uk/study/undergraduate/courses/english-language-and-chinese-studies-ba-hons-tq13/,,Undergraduate courses,,,24,
+21336,http://www.lancs.ac.uk/study/undergraduate/courses/chinese-studies-and-film-ba-hons-t1p3/,,Undergraduate courses,,,24,
+21337,http://www.lancs.ac.uk/study/undergraduate/courses/theatre-and-chinese-studies-ba-hons-w4t1/,,Undergraduate courses,,,24,
+21734,http://www.lancs.ac.uk/study/undergraduate/courses/business-management-entrepreneurship-bsc-hons-n1n2/,BSc,Business Management for Entrepreneurship,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+21735,http://www.lancs.ac.uk/study/undergraduate/courses/business-management-entrepreneurship-industry-bsc-hons-n2n2/,BSc,Business Management for Entrepreneurship,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+21736,http://www.lancs.ac.uk/study/undergraduate/courses/business-management-entrepreneurship-study-abroad-bsc-hons-n2n3/,BSc,Business Management for Entrepreneurship,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+21771,http://www.lancs.ac.uk/study/undergraduate/courses/international-business-management-canada-brock-university-bsc-hons-n202/,,Undergraduate courses,,,24,
+21782,http://www.lancs.ac.uk/study/undergraduate/courses/business-management-bsc-hons-n102/,BSc,Business Management,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+21783,http://www.lancs.ac.uk/study/undergraduate/courses/business-management-industry-bsc-hons-n104/,BSc,Business Management,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+21784,http://www.lancs.ac.uk/study/undergraduate/courses/business-management-study-abroad-bsc-hons-n103/,BSc,Business Management,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+21855,https://ua92.ac.uk/courses/sports-and-exercise-science-accelerated-bsc-hons/,BSc,and Exercise Science Accelerated,AAA,AAA,28,"28 points overall, with 14 points from Higher Level Subjects"
+21856,https://ua92.ac.uk/courses/physical-education-ba-hons-accelerated/,,"UA92 Partners with British Triathlon to Bring Swim, Bike and Run to Communities",AAA,AAA,42,
+21857,https://ua92.ac.uk/courses/sports-journalism-accelerated-ba-hons/,BA,Sports Journalism Accelerated,AAA,AAA,28,"28 points overall, with 14 points from Higher Level Subjects"
+21941,https://ua92.ac.uk/courses/sports-media-and-communications-ba-hons/,BA,Sports Media and Communications,AAA,AAA,28,"28 points overall, with 14 points from Higher Level Subjects"
+21951,https://ua92.ac.uk/courses/computer-science-accelerated-bsc-hons/,BSc,Computer Science Accelerated,AAA,AAA,28,"28 points overall, with 14 points from Higher Level Subjects"
+22080,https://ua92.ac.uk/courses/sports-media-and-communications-accelerated-ba-hons/,BA,Media and Communications Accelerated,AAA,AAA,28,"28 points overall, with 14 points from Higher Level Subjects"
+22101,https://ua92.ac.uk/courses/ba-sports-management-accelerated/,,"UA92 Partners with British Triathlon to Bring Swim, Bike and Run to Communities",AAA,AAA,42,
+22290,http://www.lancs.ac.uk/study/undergraduate/courses/sociology-study-abroad-ba-hons-l302/,BA,Undergraduate Undergraduate courses Sociology,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+22291,http://www.lancs.ac.uk/study/undergraduate/courses/politics-study-abroad-ba-hons-l203/,BA,Undergraduate Undergraduate courses Politics,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+22292,http://www.lancs.ac.uk/study/undergraduate/courses/philosophy-politics-and-economics-study-abroad-ba-hons-l0v2/,BA,Politics and Economics,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+22293,http://www.lancs.ac.uk/study/undergraduate/courses/politics-and-international-relations-study-abroad-ba-hons-l252/,BA,Politics and International Relations,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+22294,http://www.lancs.ac.uk/study/undergraduate/courses/politics-and-sociology-study-abroad-ba-hons-ll25/,,Undergraduate courses,,,24,
+22296,http://www.lancs.ac.uk/study/undergraduate/courses/theatre-and-creative-writing-study-abroad-ba-hons-ww50/,,Undergraduate courses,,,24,
+22297,http://www.lancs.ac.uk/study/undergraduate/courses/theatre-and-english-literature-study-abroad-ba-hons-wq45/,,Undergraduate courses,,,24,
+22298,http://www.lancs.ac.uk/study/undergraduate/courses/media-and-cultural-studies-study-abroad-ba-hons-lp65/,BA,Media and Cultural Studies,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+22299,http://www.lancs.ac.uk/study/undergraduate/courses/linguistics-study-abroad-ba-hons-q103/,BA,Undergraduate Undergraduate courses Linguistics,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+22300,http://www.lancs.ac.uk/study/undergraduate/courses/linguistics-and-philosophy-study-abroad-ba-hons-qv17/,,Undergraduate courses,,,24,
+22301,http://www.lancs.ac.uk/study/undergraduate/courses/history-and-international-relations-study-abroad-ba-hons-vl14/,BA,History and International Relations,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+22302,http://www.lancs.ac.uk/study/undergraduate/courses/history-and-politics-study-abroad-ba-hons-lv23/,BA,History and Politics,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+22303,http://www.lancs.ac.uk/study/undergraduate/courses/history-philosophy-and-politics-study-abroad-ba-hons-v0l2/,,Undergraduate courses,,,24,
+22304,http://www.lancs.ac.uk/study/undergraduate/courses/international-relations-study-abroad-ba-hons-6t92/,BA,International Relations,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+22305,http://www.lancs.ac.uk/study/undergraduate/courses/peace-studies-and-international-relations-study-abroad-ba-hons-ll94/,,Undergraduate courses,,,24,
+22306,http://www.lancs.ac.uk/study/undergraduate/courses/philosophy-study-abroad-ba-hons-v502/,BA,Undergraduate Undergraduate courses Philosophy,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+22307,http://www.lancs.ac.uk/study/undergraduate/courses/philosophy-and-politics-study-abroad-ba-hons-vl54/,BA,Philosophy and Politics,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+22308,http://www.lancs.ac.uk/study/undergraduate/courses/history-study-abroad-ba-hons-v103/,BA,Undergraduate Undergraduate courses History,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+22309,http://www.lancs.ac.uk/study/undergraduate/courses/medieval-and-early-modern-studies-study-abroad-ba-hons-v127/,,Undergraduate courses,,,24,
+22310,http://www.lancs.ac.uk/study/undergraduate/courses/history-and-philosophy-study-abroad-ba-hons-vvc7/,,Undergraduate courses,,,24,
+22311,http://www.lancs.ac.uk/study/undergraduate/courses/fine-art-study-abroad-ba-hons-w102/,BA,Fine Art,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+22312,http://www.lancs.ac.uk/study/undergraduate/courses/fine-art-and-theatre-study-abroad-ba-hons-ww13/,,Undergraduate courses,,,24,
+22313,http://www.lancs.ac.uk/study/undergraduate/courses/fine-art-and-creative-writing-study-abroad-ba-hons-ww20/,,Undergraduate courses,,,24,
+22314,http://www.lancs.ac.uk/study/undergraduate/courses/fine-art-and-film-study-abroad-ba-hons-wp15/,,Undergraduate courses,,,24,
+22315,http://www.lancs.ac.uk/study/undergraduate/courses/fine-art-and-design-study-abroad-ba-hons-w1w4/,,Undergraduate courses,,,24,
+22316,http://www.lancs.ac.uk/study/undergraduate/courses/film-studies-study-abroad-ba-hons-p305/,BA,Film Studies,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+22317,http://www.lancs.ac.uk/study/undergraduate/courses/design-study-abroad-ba-hons-w283/,BA,Undergraduate Undergraduate courses Design,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+22318,http://www.lancs.ac.uk/study/undergraduate/courses/drama-theatre-and-performance-study-abroad-ba-hons-w442/,BA,Theatre and Performing,BBB,BBB,30,30 points overall including 15 points from the best 3 HL subjects
+22319,http://www.lancs.ac.uk/study/undergraduate/courses/english-language-study-abroad-ba-hons-q311/,BA,English Language,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+22320,http://www.lancs.ac.uk/study/undergraduate/courses/english-language-and-linguistics-study-abroad-ba-hons-qqc6/,BA,English Language and Linguistics,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+22322,http://www.lancs.ac.uk/study/undergraduate/courses/english-literature-study-abroad-ba-hons-q307/,BA,English Literature,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+22323,http://www.lancs.ac.uk/study/undergraduate/courses/english-literature-with-creative-writing-study-abroad-ba-hons-q3w7/,,Undergraduate courses,,,24,
+22324,http://www.lancs.ac.uk/study/undergraduate/courses/english-literature-and-creative-writing-study-abroad-ba-hons-qw40/,BA,Literature and Creative Writing,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+22325,http://www.lancs.ac.uk/study/undergraduate/courses/english-language-and-creative-writing-study-abroad-ba-hons-q5wv/,,Undergraduate courses,,,24,
+22326,http://www.lancs.ac.uk/study/undergraduate/courses/english-language-and-literature-study-abroad-ba-hons-q306/,,Undergraduate courses,,,24,
+22327,http://www.lancs.ac.uk/study/undergraduate/courses/film-and-creative-writing-study-abroad-ba-hons-pw40/,BA,Film and Creative Writing,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+22328,http://www.lancs.ac.uk/study/undergraduate/courses/film-and-english-literature-study-abroad-ba-hons-pq35/,BA,Film and English Literature,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+22329,http://www.lancs.ac.uk/study/undergraduate/courses/film-and-philosophy-study-abroad-ba-hons-pv37/,,Undergraduate courses,,,24,
+22330,http://www.lancs.ac.uk/study/undergraduate/courses/film-and-sociology-study-abroad-ba-hons-pl35/,,Undergraduate courses,,,24,
+22331,http://www.lancs.ac.uk/study/undergraduate/courses/film-and-theatre-study-abroad-ba-hons-pw36/,,Undergraduate courses,,,24,
+22332,http://www.lancs.ac.uk/study/undergraduate/courses/film-media-and-cultural-studies-study-abroad-ba-hons-pl38/,BA,Media and Cultural Studies,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+22334,http://www.lancs.ac.uk/study/undergraduate/courses/nuclear-engineering-study-abroad-beng-hons-h822/,BEng,Nuclear Engineering,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects including either: 1
+22335,http://www.lancs.ac.uk/study/undergraduate/courses/earth-and-environmental-science-study-abroad-bsc-hons-ff7v/,BSc,Earth and Environmental Science,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects including one HL science subject at grade 6
+22336,http://www.lancs.ac.uk/study/undergraduate/courses/environmental-science-study-abroad-bsc-hons-f756/,BSc,Environmental Science,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects including one HL science subject at grade 6
+22337,http://www.lancs.ac.uk/study/undergraduate/courses/ecology-and-conservation-study-abroad-bsc-hons-c183/,BSc,Ecology and Conservation,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects including two HL science subjects at grade 6
+22338,http://www.lancs.ac.uk/study/undergraduate/courses/geography-study-abroad-ba-hons-l705/,BA,Undergraduate Undergraduate courses Geography,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects including Geography or alternative cognate subject at HL grade 6
+22339,http://www.lancs.ac.uk/study/undergraduate/courses/biochemistry-study-abroad-bsc-hons-c710/,BSc,Undergraduate Undergraduate courses Biochemistry,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects including 6 in HL Biology and 6 in HL Chemistry
+22340,http://www.lancs.ac.uk/study/undergraduate/courses/geography-study-abroad-bsc-hons-f804/,BSc,Undergraduate Undergraduate courses Geography,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects including Geography or alternative cognate subject at HL grade 6
+22341,http://www.lancs.ac.uk/study/undergraduate/courses/human-geography-study-abroad-ba-hons-l724/,BA,Human Geography,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects including Geography or alternative cognate subject at HL grade 6
+22342,http://www.lancs.ac.uk/study/undergraduate/courses/physical-geography-study-abroad-bsc-hons-f848/,BSc,Physical Geography,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects including Geography or alternative cognate subject at HL grade 6
+22343,http://www.lancs.ac.uk/study/undergraduate/courses/biology-study-abroad-bsc-hons-c105/,BSc,Undergraduate Undergraduate courses Biology,AAB,AAB,35,"35 points overall with 16 points from the best 3 HL subjects including 6 in Biology HL and 6 in one other HL science subject from Chemistry, Computer Science, Geography, Mathematics, Physics, or Psychology"
+22344,http://www.lancs.ac.uk/study/undergraduate/courses/chemical-engineering-study-abroad-beng-hons-h812/,BEng,Chemical Engineering,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects including either: 1
+22345,http://www.lancs.ac.uk/study/undergraduate/courses/biomedicine-study-abroad-bsc-hons-c709/,BSc,Undergraduate Undergraduate courses Biomedicine,AAB,AAB,35,"35 points overall with 16 points from the best 3 HL subjects including 6 in HL Biology and 6 in one further HL science subjects from Chemistry, Mathematics or Physics"
+22346,http://www.lancs.ac.uk/study/undergraduate/courses/zoology-study-abroad-bsc-hons-c304/,,Undergraduate courses,,,24,
+22347,http://www.lancs.ac.uk/study/undergraduate/courses/electronic-and-electrical-engineering-study-abroad-beng-h608/,BEng,Electronic and Electrical Engineering,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects including either: 1
+22348,http://www.lancs.ac.uk/study/undergraduate/courses/engineering-study-abroad-beng-hons-h103/,BEng,Undergraduate Undergraduate courses Engineering,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects including either: 1
+22349,http://www.lancs.ac.uk/study/undergraduate/courses/mechanical-engineering-study-abroad-beng-hons-h305/,BEng,Mechanical Engineering,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects including either: 1
+22350,http://www.lancs.ac.uk/study/undergraduate/courses/mechatronic-engineering-study-abroad-beng-hons-hh64/,BEng,Mechatronic Engineering,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects including either: 1
+22351,http://www.lancs.ac.uk/study/undergraduate/courses/computer-science-study-abroad-bsc-hons-g403/,BSc,Computer Science,AAA,AAA,36,36 points overall with 16 points from the best 3 HL subjects including 6 in Computer Science HL or Mathematics HL (either analysis and approaches or applications and interpretations)
+22352,http://www.lancs.ac.uk/study/undergraduate/courses/software-engineering-study-abroad-bsc-hons-g603/,BSc,Software Engineering,AAA,AAA,36,36 points overall with 16 points from the best 3 HL subjects including 6 in Computer Science HL or Mathematics HL (either analysis and approaches or applications and interpretations)
+22363,http://www.lancs.ac.uk/study/undergraduate/courses/physics-with-astrophysics-mphys-f3f5/,MPhys,Physics with Astrophysics,AAA,AAA,36,36 points overall with 16 points from the best 3 HL subjects including 6 in Mathematics HL (either analysis and approaches or applications and interpretations) and Physics HL
+22364,http://www.lancs.ac.uk/study/undergraduate/courses/physics-with-astrophysics-bsc-hons-f3fm/,BSc,Physics with Astrophysics,AAA,AAA,36,36 points overall with 16 points from the best 3 HL subjects including 6 in Mathematics HL (either analysis and approaches or applications and interpretations) and Physics HL
+22388,https://ua92.ac.uk/courses/sports-coaching-bsc-hons/,BSc,Sports Coaching,AAA,AAA,28,"28 points overall, with 14 points from Higher Level Subjects"
+22409,http://www.lancs.ac.uk/study/undergraduate/courses/international-management-bsc-hons-n123/,BSc,International Management,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+22419,http://www.lancs.ac.uk/study/undergraduate/courses/international-management-industry-bsc-hons-n124/,BSc,International Management,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+22420,http://www.lancs.ac.uk/study/undergraduate/courses/international-management-study-abroad-bsc-hons-n125/,BSc,International Management,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+22422,http://www.lancs.ac.uk/study/undergraduate/courses/economics-study-abroad-bsc-hons-l101/,BSc,Undergraduate Undergraduate courses Economics,AAB,AAB,35,"35 points overall with 16 points from the best 3 HL subjects, including 6 in Mathematics HL (either analysis and approaches or applications and interpretations)"
+22423,http://www.lancs.ac.uk/study/undergraduate/courses/management-and-human-resources-study-abroad-bsc-hons-n601/,BSc,and Human Resource Management,ABB,ABB,32,32 points overall with 16 points from the best 3 HL subjects
+22613,http://www.lancs.ac.uk/study/undergraduate/courses/sports-and-exercise-science-study-abroad-bsc-hons-c602/,BSc,Sports and Exercise Science,ABB,ABB,32,"32 points overall with 16 points from the best 3 HL subjects including 6 in one HL science subject from the following: Biology, Chemistry, Mathematics, Physics, Psychology, Sports, Exercise and Health Science"
+22694,http://www.lancs.ac.uk/study/undergraduate/courses/cyber-security-bsc-hons-i900/,BSc,Cyber Security,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects
+22695,http://www.lancs.ac.uk/study/undergraduate/courses/cyber-security-study-abroad-bsc-hons-i901/,BSc,Cyber Security,AAA,AAA,36,36 points overall with 16 points from the best 3 HL subjects including 6 in Computer Science HL or Mathematics HL (either analysis and approaches or applications and interpretations)
+22696,http://www.lancs.ac.uk/study/undergraduate/courses/data-science-bsc-hons-g900/,BSc,Data Science,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects including 6 in Mathematics HL (either analysis and approaches or applications and interpretations)
+22697,http://www.lancs.ac.uk/study/undergraduate/courses/cyber-security-with-industrial-experience-msci-hons-i902/,MSci,Cyber Security Industrial,AAA,AAA,36,36 points overall with 16 points from the best 3 HL subjects
+22698,http://www.lancs.ac.uk/study/undergraduate/courses/data-science-placement-year-bsc-hons-g901/,BSc,Data Science,AAA,AAA,36,36 points overall with 16 points from the best 3 HL subjects including 6 in Mathematics HL (either analysis and approaches or applications and interpretations)
+22699,http://www.lancs.ac.uk/study/undergraduate/courses/data-science-study-abroad-bsc-hons-g902/,BSc,Data Science,AAA,AAA,36,36 points overall with 16 points from the best 3 HL subjects including 6 in Mathematics HL (either analysis and approaches or applications and interpretations)
+22700,http://www.lancs.ac.uk/study/undergraduate/courses/data-science-with-industrial-experience-msci-g903/,MSci,Data Science Industrial,AAA,AAA,36,36 points overall with 16 points from the best 3 HL subjects including 6 in Mathematics HL (either analysis and approaches or applications and interpretations)
+23414,http://www.lancs.ac.uk/study/undergraduate/courses/global-religions-and-politics-ba-hons-lv01/,,Undergraduate courses,,,24,
+23415,http://www.lancs.ac.uk/study/undergraduate/courses/global-religions-and-international-relations-ba-hons-vl01/,,Undergraduate courses,,,24,
+23416,http://www.lancs.ac.uk/study/undergraduate/courses/global-religions-and-philosophy-ba-hons-v651/,,Undergraduate courses,,,24,
+23417,http://www.lancs.ac.uk/study/undergraduate/courses/global-religions-and-politics-placement-year-ba-hons-lv02/,,Undergraduate courses,,,24,
+23418,http://www.lancs.ac.uk/study/undergraduate/courses/global-religions-and-politics-study-abroad-ba-hons-lv03/,,Undergraduate courses,,,24,
+23419,http://www.lancs.ac.uk/study/undergraduate/courses/global-religions-and-international-relations-placement-year-ba-hons-vl02/,,Undergraduate courses,,,24,
+23420,http://www.lancs.ac.uk/study/undergraduate/courses/global-religions-and-international-relations-study-abroad-ba-hons-vl03/,,Undergraduate courses,,,24,
+23421,http://www.lancs.ac.uk/study/undergraduate/courses/global-religions-and-philosophy-study-abroad-ba-hons-v653/,,Undergraduate courses,,,24,
+23422,http://www.lancs.ac.uk/study/undergraduate/courses/global-religions-and-philosophy-placement-year-ba-hons-v652/,,Undergraduate courses,,,24,
+23518,http://www.lancs.ac.uk/study/undergraduate/courses/mathematics-and-philosophy-placement-year-ba-hons-gv16/,BA,Mathematics with Philosophy,AAA,AAA,36,36 points overall with 16 points from the best 3 HL subjects including 6 in Mathematics HL (either analysis and approaches or applications and interpretations)
+23753,http://www.lancs.ac.uk/study/undergraduate/courses/chemistry-with-industrial-placement-mchem-hons-f102/,MChem,Chemistry Industrial,AAB,AAB,35,35 points overall with 16 points from the best 3 HL subjects including 6 in Chemistry and 6 in a further HL science subject
