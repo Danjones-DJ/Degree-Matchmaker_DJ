@@ -1,0 +1,269 @@
+ukprn,university,kiscourseid,title,crseurl,foundation_year_available,placement_year,year_abroad,median_salary
+10007850,University of Bath,UUUAR-K100~UEAR-ANB14,Architecture,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEAR-ANB14,No,Yes,No,25000
+10007850,University of Bath,UUUAR-S100~UEAR-AFB11,Civil Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEAR-AFB11,No,No,No,31000
+10007850,University of Bath,UUUAR-S101~UEAR-AKB11,Civil Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEAR-AKB11,No,Yes,No,31000
+10007850,University of Bath,UUUAR-S102~UEAR-AFM11,Civil Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEAR-AFM11,No,No,No,31000
+10007850,University of Bath,UUUAR-S103~UEAR-AKM11,Civil Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEAR-AKM11,No,Yes,No,31000
+10007850,University of Bath,UUUAR-S110~UEAR-AFB12,Structural and Architectural Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEAR-AFB12,No,No,No,31000
+10007850,University of Bath,UUUAR-S111~UEAR-AKB12,Structural and Architectural Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEAR-AKB12,No,Yes,No,31000
+10007850,University of Bath,UUUAR-S112~UEAR-AFM12,Structural and Architectural Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEAR-AFM12,No,No,No,31000
+10007850,University of Bath,UUUAR-S113~UEAR-AKM12,Structural and Architectural Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEAR-AKM12,No,Yes,No,31000
+10007850,University of Bath,UUUCE-P100~UECE-AFB12,Chemical Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UECE-AFB12,No,No,No,33500
+10007850,University of Bath,UUUCE-P101~UECE-AKB12,Chemical Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UECE-AKB12,No,Yes,No,33500
+10007850,University of Bath,UUUCE-P102~UECE-AFM12,Chemical Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UECE-AFM12,No,No,No,33500
+10007850,University of Bath,UUUCE-P103~UECE-AKM12,Chemical Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UECE-AKM12,No,Yes,No,33500
+10007850,University of Bath,UUUCE-P110~UECE-AFM11,Chemical Engineering with Environmental Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UECE-AFM11,No,No,No,31000
+10007850,University of Bath,UUUCE-P110~UECE-AFM11,Chemical Engineering with Environmental Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UECE-AFM11,No,No,No,33500
+10007850,University of Bath,UUUCE-P111~UECE-AKM11,Chemical Engineering with Environmental Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UECE-AKM11,No,Yes,No,31000
+10007850,University of Bath,UUUCE-P111~UECE-AKM11,Chemical Engineering with Environmental Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UECE-AKM11,No,Yes,No,33500
+10007850,University of Bath,UUUCH-I110~USCH-AFB20,Chemistry,http://www.bath.ac.uk/study/kis/2024-2025/programme/USCH-AFB20,No,No,No,29500
+10007850,University of Bath,UUUCH-I111~USCH-AKB20,Chemistry with professional placement or study abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/USCH-AKB20,No,Yes,Yes,29500
+10007850,University of Bath,UUUCH-I112~USCH-AFM20,Chemistry,http://www.bath.ac.uk/study/kis/2024-2025/programme/USCH-AFM20,No,No,No,29500
+10007850,University of Bath,UUUCH-I113~USCH-AKM20,Chemistry with professional placement or study abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/USCH-AKM20,No,Yes,Yes,29500
+10007850,University of Bath,UUUCH-I120~USCH-AFB21,Chemistry for Drug Discovery,http://www.bath.ac.uk/study/kis/2024-2025/programme/USCH-AFB21,No,No,No,29500
+10007850,University of Bath,UUUCH-I121~USCH-AKB21,Chemistry for Drug Discovery with professional placement or study abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/USCH-AKB21,No,Yes,Yes,29500
+10007850,University of Bath,UUUCH-I122~USCH-AFM21,Chemistry for Drug Discovery,http://www.bath.ac.uk/study/kis/2024-2025/programme/USCH-AFM21,No,No,No,29500
+10007850,University of Bath,UUUCH-I123~USCH-AKM21,Chemistry for Drug Discovery with professional placement or study abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/USCH-AKM21,No,Yes,Yes,29500
+10007850,University of Bath,UUUCH-I130~USCH-AFB22,Chemistry with Management,http://www.bath.ac.uk/study/kis/2024-2025/programme/USCH-AFB22,No,No,No,29500
+10007850,University of Bath,UUUCH-I130~USCH-AFB22,Chemistry with Management,http://www.bath.ac.uk/study/kis/2024-2025/programme/USCH-AFB22,No,No,No,33500
+10007850,University of Bath,UUUCH-I131~USCH-AKB22,Chemistry with Management with professional placement or study abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/USCH-AKB22,No,Yes,Yes,29500
+10007850,University of Bath,UUUCH-I131~USCH-AKB22,Chemistry with Management with professional placement or study abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/USCH-AKB22,No,Yes,Yes,33500
+10007850,University of Bath,UUUCH-I132~USCH-AFM22,Chemistry with Management,http://www.bath.ac.uk/study/kis/2024-2025/programme/USCH-AFM22,No,No,No,29500
+10007850,University of Bath,UUUCH-I132~USCH-AFM22,Chemistry with Management,http://www.bath.ac.uk/study/kis/2024-2025/programme/USCH-AFM22,No,No,No,33500
+10007850,University of Bath,UUUCH-I133~USCH-AKM22,Chemistry with Management with professional placement or study abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/USCH-AKM22,No,Yes,Yes,29500
+10007850,University of Bath,UUUCH-I133~USCH-AKM22,Chemistry with Management with professional placement or study abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/USCH-AKM22,No,Yes,Yes,33500
+10007850,University of Bath,UUUCH-W100~USCH-AFB23,Natural Sciences,http://www.bath.ac.uk/study/kis/2024-2025/programme/USCH-AFB23,No,No,No,31000
+10007850,University of Bath,UUUCH-W101~USCH-AKB23,Natural Sciences with professional placement or study abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/USCH-AKB23,No,Yes,Yes,31000
+10007850,University of Bath,UUUCH-W102~USCH-AFM23,Natural Sciences,http://www.bath.ac.uk/study/kis/2024-2025/programme/USCH-AFM23,No,No,No,31000
+10007850,University of Bath,UUUCH-W103~USCH-AKM23,Natural Sciences with professional placement or study abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/USCH-AKM23,No,Yes,Yes,31000
+10007850,University of Bath,UUUCM-H100~USCM-AFB30,Computer Science,http://www.bath.ac.uk/study/kis/2024-2025/programme/USCM-AFB30,No,No,No,36500
+10007850,University of Bath,UUUCM-H101~USCM-AKB30,Computer Science with professional placement or study abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/USCM-AKB30,No,Yes,Yes,36500
+10007850,University of Bath,UUUCM-H102~USCM-AFM30,Computer Science,http://www.bath.ac.uk/study/kis/2024-2025/programme/USCM-AFM30,No,No,No,36500
+10007850,University of Bath,UUUCM-H103~USCM-AKM30,Computer Science with professional placement or study abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/USCM-AKM30,No,Yes,Yes,36500
+10007850,University of Bath,UUUCM-H110~USCM-AFB31,Computer Science and Artificial Intelligence,http://www.bath.ac.uk/study/kis/2024-2025/programme/USCM-AFB31,No,No,No,36500
+10007850,University of Bath,UUUCM-H110~USCM-AFB31,Computer Science and Artificial Intelligence,http://www.bath.ac.uk/study/kis/2024-2025/programme/USCM-AFB31,No,No,No,36500
+10007850,University of Bath,UUUCM-H111~USCM-AKB31,Computer Science and Artificial Intelligence with professional placement or study abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/USCM-AKB31,No,Yes,Yes,36500
+10007850,University of Bath,UUUCM-H111~USCM-AKB31,Computer Science and Artificial Intelligence with professional placement or study abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/USCM-AKB31,No,Yes,Yes,36500
+10007850,University of Bath,UUUCM-H112~USCM-AFM31,Computer Science and Artificial Intelligence,http://www.bath.ac.uk/study/kis/2024-2025/programme/USCM-AFM31,No,No,No,36500
+10007850,University of Bath,UUUCM-H112~USCM-AFM31,Computer Science and Artificial Intelligence,http://www.bath.ac.uk/study/kis/2024-2025/programme/USCM-AFM31,No,No,No,36500
+10007850,University of Bath,UUUCM-H113~USCM-AKM31,Computer Science and Artificial Intelligence with professional placement or study abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/USCM-AKM31,No,Yes,Yes,36500
+10007850,University of Bath,UUUCM-H113~USCM-AKM31,Computer Science and Artificial Intelligence with professional placement or study abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/USCM-AKM31,No,Yes,Yes,36500
+10007850,University of Bath,UUUCM-H120~USCM-AFB32,Computer Science and Mathematics,http://www.bath.ac.uk/study/kis/2024-2025/programme/USCM-AFB32,No,No,No,35000
+10007850,University of Bath,UUUCM-H120~USCM-AFB32,Computer Science and Mathematics,http://www.bath.ac.uk/study/kis/2024-2025/programme/USCM-AFB32,No,No,No,36500
+10007850,University of Bath,UUUCM-H121~USCM-AKB32,Computer Science and Mathematics with professional placement or study abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/USCM-AKB32,No,Yes,Yes,35000
+10007850,University of Bath,UUUCM-H121~USCM-AKB32,Computer Science and Mathematics with professional placement or study abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/USCM-AKB32,No,Yes,Yes,36500
+10007850,University of Bath,UUUCM-H122~USCM-AFM32,Computer Science and Mathematics,http://www.bath.ac.uk/study/kis/2024-2025/programme/USCM-AFM32,No,No,No,35000
+10007850,University of Bath,UUUCM-H122~USCM-AFM32,Computer Science and Mathematics,http://www.bath.ac.uk/study/kis/2024-2025/programme/USCM-AFM32,No,No,No,36500
+10007850,University of Bath,UUUCM-H123~USCM-AKM32,Computer Science and Mathematics with professional placement or study abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/USCM-AKM32,No,Yes,Yes,35000
+10007850,University of Bath,UUUCM-H123~USCM-AKM32,Computer Science and Mathematics with professional placement or study abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/USCM-AKM32,No,Yes,Yes,36500
+10007850,University of Bath,UUUED-V100~UHED-AFB20,Education with Psychology,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHED-AFB20,No,No,No,25500
+10007850,University of Bath,UUUED-V100~UHED-AFB20,Education with Psychology,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHED-AFB20,No,No,No,28000
+10007850,University of Bath,UUUED-V101~UHED-AKB20,Education with Psychology,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHED-AKB20,No,Yes,No,25500
+10007850,University of Bath,UUUED-V101~UHED-AKB20,Education with Psychology,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHED-AKB20,No,Yes,No,28000
+10007850,University of Bath,UUUEE-Q110~UEEE-AFB20,Computer Systems Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEEE-AFB20,No,No,No,33500
+10007850,University of Bath,UUUEE-Q111~UEEE-AKB20,Computer Systems Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEEE-AKB20,No,Yes,No,33500
+10007850,University of Bath,UUUEE-Q112~UEEE-AFM20,Computer Systems Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEEE-AFM20,No,No,No,33500
+10007850,University of Bath,UUUEE-Q113~UEEE-AKM20,Computer Systems Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEEE-AKM20,No,Yes,No,33500
+10007850,University of Bath,UUUEE-Q120~UEEE-AFB22,Electrical and Electronic Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEEE-AFB22,No,No,No,33500
+10007850,University of Bath,UUUEE-Q121~UEEE-AKB22,Electrical and Electronic Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEEE-AKB22,No,Yes,No,33500
+10007850,University of Bath,UUUEE-Q122~UEEE-AFM22,Electrical and Electronic Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEEE-AFM22,No,No,No,33500
+10007850,University of Bath,UUUEE-Q123~UEEE-AKM22,Electrical and Electronic Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEEE-AKM22,No,Yes,No,33500
+10007850,University of Bath,UUUEE-Q130~UEEE-AFB23,Electronic Engineering with Space Science and Technology,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEEE-AFB23,No,No,No,33500
+10007850,University of Bath,UUUEE-Q131~UEEE-AKB23,Electronic Engineering with Space Science and Technology,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEEE-AKB23,No,Yes,No,33500
+10007850,University of Bath,UUUEE-Q132~UEEE-AFM23,Electronic Engineering with Space Science and Technology,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEEE-AFM23,No,No,No,33500
+10007850,University of Bath,UUUEE-Q133~UEEE-AKM23,Electronic Engineering with Space Science and Technology,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEEE-AKM23,No,Yes,No,33500
+10007850,University of Bath,UUUEE-Q140~UEEE-AFB24,Integrated Mechanical and Electrical Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEEE-AFB24,No,No,No,32000
+10007850,University of Bath,UUUEE-Q140~UEEE-AFB24,Integrated Mechanical and Electrical Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEEE-AFB24,No,No,No,33500
+10007850,University of Bath,UUUEE-Q141~UEEE-AKB24,Integrated Mechanical and Electrical Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEEE-AKB24,No,Yes,No,32000
+10007850,University of Bath,UUUEE-Q141~UEEE-AKB24,Integrated Mechanical and Electrical Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEEE-AKB24,No,Yes,No,33500
+10007850,University of Bath,UUUEE-Q142~UEEE-AFM24,Integrated Mechanical and Electrical Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEEE-AFM24,No,No,No,32000
+10007850,University of Bath,UUUEE-Q142~UEEE-AFM24,Integrated Mechanical and Electrical Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEEE-AFM24,No,No,No,33500
+10007850,University of Bath,UUUEE-Q143~UEEE-AKM24,Integrated Mechanical and Electrical Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEEE-AKM24,No,Yes,No,32000
+10007850,University of Bath,UUUEE-Q143~UEEE-AKM24,Integrated Mechanical and Electrical Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEEE-AKM24,No,Yes,No,33500
+10007850,University of Bath,UUUEE-Q150~UEEE-AFB25,Robotics Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEEE-AFB25,No,No,No,32000
+10007850,University of Bath,UUUEE-Q151~UEEE-AKB25,Robotics Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEEE-AKB25,No,Yes,No,32000
+10007850,University of Bath,UUUEE-Q152~UEEE-AFM25,Robotics Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEEE-AFM25,No,No,No,32000
+10007850,University of Bath,UUUEE-Q153~UEEE-AKM25,Robotics Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEEE-AKM25,No,Yes,No,32000
+10007850,University of Bath,UUUES-D100~UHES-AFB10,Economics,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHES-AFB10,No,No,No,37000
+10007850,University of Bath,UUUES-D101~UHES-AKB10,Economics with professional placement or study abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHES-AKB10,No,Yes,Yes,37000
+10007850,University of Bath,UUUES-D110~UHES-AFB11,Economics with Politics,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHES-AFB11,No,No,No,37000
+10007850,University of Bath,UUUES-D110~UHES-AFB11,Economics with Politics,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHES-AFB11,No,No,No,31500
+10007850,University of Bath,UUUES-D111~UHES-AKB11,Economics with Politics with professional placement or study abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHES-AKB11,No,Yes,Yes,37000
+10007850,University of Bath,UUUES-D111~UHES-AKB11,Economics with Politics with professional placement or study abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHES-AKB11,No,Yes,Yes,31500
+10007850,University of Bath,UUUES-D120~UHES-AFB12,Economics and Mathematics,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHES-AFB12,No,No,No,35000
+10007850,University of Bath,UUUES-D120~UHES-AFB12,Economics and Mathematics,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHES-AFB12,No,No,No,37000
+10007850,University of Bath,UUUES-D121~UHES-AKB12,Economics and Mathematics with professional placement or study abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHES-AKB12,No,Yes,Yes,35000
+10007850,University of Bath,UUUES-D121~UHES-AKB12,Economics and Mathematics with professional placement or study abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHES-AKB12,No,Yes,Yes,37000
+10007850,University of Bath,UUUHL-J100~UHHL-AFB22,Sport and Exercise Science,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHHL-AFB22,No,No,No,27000
+10007850,University of Bath,UUUHL-J101~UHHL-AKB22,Sport and Exercise Science with professional placement or study abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHHL-AKB22,No,Yes,Yes,27000
+10007850,University of Bath,UUUHL-J102~UHHL-AFM22,Sport and Exercise Science,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHHL-AFM22,No,No,No,27000
+10007850,University of Bath,UUUHL-J103~UHHL-AKM22,Sport and Exercise Science with professional placement or study abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHHL-AKM22,No,Yes,Yes,27000
+10007850,University of Bath,UUUHL-J110~UHHL-AFB21,Health and Exercise Science,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHHL-AFB21,No,No,No,27000
+10007850,University of Bath,UUUHL-J111~UHHL-AKB21,Health and Exercise Science,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHHL-AKB21,No,Yes,No,27000
+10007850,University of Bath,UUUHL-J120~UHHL-AFB24,Sport Management and Coaching,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHHL-AFB24,No,No,No,27000
+10007850,University of Bath,UUUHL-J121~UHHL-AKB24,Sport Management and Coaching,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHHL-AKB24,No,Yes,No,27000
+10007850,University of Bath,UUUHL-J130~UHHL-AFF30,Sport (Sports Performance),http://www.bath.ac.uk/study/kis/2024-2025/programme/UHHL-AFF30,No,No,No,21500
+10007850,University of Bath,UUUMA-L110~USMA-AFB30,Mathematics,http://www.bath.ac.uk/study/kis/2024-2025/programme/USMA-AFB30,No,No,No,35000
+10007850,University of Bath,UUUMA-L111~USMA-AKB30,Mathematics with professional placement or study abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/USMA-AKB30,No,Yes,Yes,35000
+10007850,University of Bath,UUUMA-L112~USMA-AFM30,Mathematics,http://www.bath.ac.uk/study/kis/2024-2025/programme/USMA-AFM30,No,No,No,35000
+10007850,University of Bath,UUUMA-L113~USMA-AKM31,Mathematics with study abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/USMA-AKM31,No,No,Yes,35000
+10007850,University of Bath,UUUMA-L114~USMA-AKM30,Mathematics,http://www.bath.ac.uk/study/kis/2024-2025/programme/USMA-AKM30,No,Yes,No,35000
+10007850,University of Bath,UUUMA-L120~USMA-AFB32,Mathematics and Statistics,http://www.bath.ac.uk/study/kis/2024-2025/programme/USMA-AFB32,No,No,No,35000
+10007850,University of Bath,UUUMA-L120~USMA-AFB32,Mathematics and Statistics,http://www.bath.ac.uk/study/kis/2024-2025/programme/USMA-AFB32,No,No,No,35000
+10007850,University of Bath,UUUMA-L121~USMA-AKB32,Mathematics and Statistics with professional placement or study abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/USMA-AKB32,No,Yes,Yes,35000
+10007850,University of Bath,UUUMA-L121~USMA-AKB32,Mathematics and Statistics with professional placement or study abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/USMA-AKB32,No,Yes,Yes,35000
+10007850,University of Bath,UUUMA-L130~USMA-AFB33,"Mathematics, Statistics, and Data Science",http://www.bath.ac.uk/study/kis/2024-2025/programme/USMA-AFB33,No,No,No,35000
+10007850,University of Bath,UUUMA-L130~USMA-AFB33,"Mathematics, Statistics, and Data Science",http://www.bath.ac.uk/study/kis/2024-2025/programme/USMA-AFB33,No,No,No,35000
+10007850,University of Bath,UUUMA-L131~USMA-AKB33,"Mathematics, Statistics, and Data Science with professional placement or study abroad",http://www.bath.ac.uk/study/kis/2024-2025/programme/USMA-AKB33,No,Yes,Yes,35000
+10007850,University of Bath,UUUMA-L131~USMA-AKB33,"Mathematics, Statistics, and Data Science with professional placement or study abroad",http://www.bath.ac.uk/study/kis/2024-2025/programme/USMA-AKB33,No,Yes,Yes,35000
+10007850,University of Bath,UUUME-T100~UEME-AFB50,Aerospace Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEME-AFB50,No,No,No,34000
+10007850,University of Bath,UUUME-T101~UEME-AKB50,Aerospace Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEME-AKB50,No,Yes,No,34000
+10007850,University of Bath,UUUME-T102~UEME-AFM50,Aerospace Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEME-AFM50,No,No,No,34000
+10007850,University of Bath,UUUME-T103~UEME-AKM50,Aerospace Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEME-AKM50,No,Yes,No,34000
+10007850,University of Bath,UUUME-T110~UEME-AFB51,Integrated Design Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEME-AFB51,No,No,No,32000
+10007850,University of Bath,UUUME-T111~UEME-AKB51,Integrated Design Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEME-AKB51,No,Yes,No,32000
+10007850,University of Bath,UUUME-T112~UEME-AFM51,Integrated Design Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEME-AFM51,No,No,No,32000
+10007850,University of Bath,UUUME-T113~UEME-AKM51,Integrated Design Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEME-AKM51,No,Yes,No,32000
+10007850,University of Bath,UUUME-T120~UEME-AFB52,Mechanical Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEME-AFB52,No,No,No,32000
+10007850,University of Bath,UUUME-T121~UEME-AKB52,Mechanical Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEME-AKB52,No,Yes,No,32000
+10007850,University of Bath,UUUME-T122~UEME-AFM52,Mechanical Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEME-AFM52,No,No,No,32000
+10007850,University of Bath,UUUME-T123~UEME-AKM52,Mechanical Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEME-AKM52,No,Yes,No,32000
+10007850,University of Bath,UUUME-T130~UEME-AFB53,Mechanical Engineering with Manufacturing and Management,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEME-AFB53,No,No,No,32000
+10007850,University of Bath,UUUME-T130~UEME-AFB53,Mechanical Engineering with Manufacturing and Management,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEME-AFB53,No,No,No,32000
+10007850,University of Bath,UUUME-T131~UEME-AKB53,Mechanical Engineering with Manufacturing and Management,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEME-AKB53,No,Yes,No,32000
+10007850,University of Bath,UUUME-T131~UEME-AKB53,Mechanical Engineering with Manufacturing and Management,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEME-AKB53,No,Yes,No,32000
+10007850,University of Bath,UUUME-T132~UEME-AFM53,Mechanical Engineering with Manufacturing and Management,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEME-AFM53,No,No,No,32000
+10007850,University of Bath,UUUME-T132~UEME-AFM53,Mechanical Engineering with Manufacturing and Management,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEME-AFM53,No,No,No,32000
+10007850,University of Bath,UUUME-T133~UEME-AKM53,Mechanical Engineering with Manufacturing and Management,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEME-AKM53,No,Yes,No,32000
+10007850,University of Bath,UUUME-T133~UEME-AKM53,Mechanical Engineering with Manufacturing and Management,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEME-AKM53,No,Yes,No,32000
+10007850,University of Bath,UUUME-T140~UEME-AFB54,Mechanical with Automotive Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEME-AFB54,No,No,No,32000
+10007850,University of Bath,UUUME-T140~UEME-AFB54,Mechanical with Automotive Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEME-AFB54,No,No,No,32000
+10007850,University of Bath,UUUME-T141~UEME-AKB54,Mechanical with Automotive Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEME-AKB54,No,Yes,No,32000
+10007850,University of Bath,UUUME-T141~UEME-AKB54,Mechanical with Automotive Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEME-AKB54,No,Yes,No,32000
+10007850,University of Bath,UUUME-T142~UEME-AFM54,Mechanical with Automotive Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEME-AFM54,No,No,No,32000
+10007850,University of Bath,UUUME-T142~UEME-AFM54,Mechanical with Automotive Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEME-AFM54,No,No,No,32000
+10007850,University of Bath,UUUME-T143~UEME-AKM54,Mechanical with Automotive Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEME-AKM54,No,Yes,No,32000
+10007850,University of Bath,UUUME-T143~UEME-AKM54,Mechanical with Automotive Engineering,http://www.bath.ac.uk/study/kis/2024-2025/programme/UEME-AKM54,No,Yes,No,32000
+10007850,University of Bath,UUUMN-C110~UMMN-ANB12,Business,http://www.bath.ac.uk/study/kis/2024-2025/programme/UMMN-ANB12,No,Yes,No,33500
+10007850,University of Bath,UUUMN-C120~UMMN-AFB10,Accounting and Finance,http://www.bath.ac.uk/study/kis/2024-2025/programme/UMMN-AFB10,No,No,No,31000
+10007850,University of Bath,UUUMN-C120~UMMN-AFB10,Accounting and Finance,http://www.bath.ac.uk/study/kis/2024-2025/programme/UMMN-AFB10,No,No,No,31000
+10007850,University of Bath,UUUMN-C121~UMMN-AKB10,Accounting and Finance,http://www.bath.ac.uk/study/kis/2024-2025/programme/UMMN-AKB10,No,Yes,No,31000
+10007850,University of Bath,UUUMN-C121~UMMN-AKB10,Accounting and Finance,http://www.bath.ac.uk/study/kis/2024-2025/programme/UMMN-AKB10,No,Yes,No,31000
+10007850,University of Bath,UUUMN-C140~UMMN-AFB14,Management,http://www.bath.ac.uk/study/kis/2024-2025/programme/UMMN-AFB14,No,No,No,33500
+10007850,University of Bath,UUUMN-C141~UMMN-AKB14,Management,http://www.bath.ac.uk/study/kis/2024-2025/programme/UMMN-AKB14,No,Yes,No,33500
+10007850,University of Bath,UUUMN-C150~UMMN-AKB13,International Management with study or work abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/UMMN-AKB13,No,Yes,Yes,33500
+10007850,University of Bath,UUUMN-C160~UMMN-AKB15,Management with Marketing,http://www.bath.ac.uk/study/kis/2024-2025/programme/UMMN-AKB15,No,Yes,No,33500
+10007850,University of Bath,UUUMN-C170~UMMN-AFB11,Accounting and Management,http://www.bath.ac.uk/study/kis/2024-2025/programme/UMMN-AFB11,No,No,No,33500
+10007850,University of Bath,UUUMN-C170~UMMN-AFB11,Accounting and Management,http://www.bath.ac.uk/study/kis/2024-2025/programme/UMMN-AFB11,No,No,No,31000
+10007850,University of Bath,UUUMN-C171~UMMN-AKB11,Accounting and Management,http://www.bath.ac.uk/study/kis/2024-2025/programme/UMMN-AKB11,No,Yes,No,33500
+10007850,University of Bath,UUUMN-C171~UMMN-AKB11,Accounting and Management,http://www.bath.ac.uk/study/kis/2024-2025/programme/UMMN-AKB11,No,Yes,No,31000
+10007850,University of Bath,UUUPH-N110~USPH-AFB20,Physics,http://www.bath.ac.uk/study/kis/2024-2025/programme/USPH-AFB20,No,No,No,33000
+10007850,University of Bath,UUUPH-N111~USPH-AKB20,Physics with professional placement or study abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/USPH-AKB20,No,Yes,Yes,33000
+10007850,University of Bath,UUUPH-N112~USPH-AFM20,Physics,http://www.bath.ac.uk/study/kis/2024-2025/programme/USPH-AFM20,No,No,No,33000
+10007850,University of Bath,UUUPH-N113~USPH-AFM21,Physics with research placement,http://www.bath.ac.uk/study/kis/2024-2025/programme/USPH-AFM21,No,No,No,33000
+10007850,University of Bath,UUUPH-N114~USPH-AKM21,"Physics with professional placement, research placement or study abroad",http://www.bath.ac.uk/study/kis/2024-2025/programme/USPH-AKM21,No,Yes,Yes,33000
+10007850,University of Bath,UUUPH-N120~USPH-AFB22,Physics with Astrophysics,http://www.bath.ac.uk/study/kis/2024-2025/programme/USPH-AFB22,No,No,No,33000
+10007850,University of Bath,UUUPH-N120~USPH-AFB22,Physics with Astrophysics,http://www.bath.ac.uk/study/kis/2024-2025/programme/USPH-AFB22,No,No,No,33000
+10007850,University of Bath,UUUPH-N121~USPH-AKB22,Physics with Astrophysics with with professional placement or study abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/USPH-AKB22,No,Yes,Yes,33000
+10007850,University of Bath,UUUPH-N121~USPH-AKB22,Physics with Astrophysics with with professional placement or study abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/USPH-AKB22,No,Yes,Yes,33000
+10007850,University of Bath,UUUPH-N122~USPH-AFM22,Physics with Astrophysics,http://www.bath.ac.uk/study/kis/2024-2025/programme/USPH-AFM22,No,No,No,33000
+10007850,University of Bath,UUUPH-N122~USPH-AFM22,Physics with Astrophysics,http://www.bath.ac.uk/study/kis/2024-2025/programme/USPH-AFM22,No,No,No,33000
+10007850,University of Bath,UUUPH-N123~USPH-AFM23,Physics with Astrophysics with research placement,http://www.bath.ac.uk/study/kis/2024-2025/programme/USPH-AFM23,No,No,No,33000
+10007850,University of Bath,UUUPH-N123~USPH-AFM23,Physics with Astrophysics with research placement,http://www.bath.ac.uk/study/kis/2024-2025/programme/USPH-AFM23,No,No,No,33000
+10007850,University of Bath,UUUPH-N124~USPH-AKM23,"Physics with Astrophysics with professional placement, research placement or study abroad",http://www.bath.ac.uk/study/kis/2024-2025/programme/USPH-AKM23,No,Yes,Yes,33000
+10007850,University of Bath,UUUPH-N124~USPH-AKM23,"Physics with Astrophysics with professional placement, research placement or study abroad",http://www.bath.ac.uk/study/kis/2024-2025/programme/USPH-AKM23,No,Yes,Yes,33000
+10007850,University of Bath,UUUPH-N130~USPH-AFB24,Physics with Theoretical Physics,http://www.bath.ac.uk/study/kis/2024-2025/programme/USPH-AFB24,No,No,No,33000
+10007850,University of Bath,UUUPH-N131~USPH-AKB24,Physics with Theoretical Physics with professional placement or study abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/USPH-AKB24,No,Yes,Yes,33000
+10007850,University of Bath,UUUPH-N132~USPH-AFM24,Physics with Theoretical Physics,http://www.bath.ac.uk/study/kis/2024-2025/programme/USPH-AFM24,No,No,No,33000
+10007850,University of Bath,UUUPH-N133~USPH-AFM25,Physics with Theoretical Physics with research placement,http://www.bath.ac.uk/study/kis/2024-2025/programme/USPH-AFM25,No,No,No,33000
+10007850,University of Bath,UUUPH-N134~USPH-AKM25,"Physics with Theoretical Physics with professional placement, research placement or study abroad",http://www.bath.ac.uk/study/kis/2024-2025/programme/USPH-AKM25,No,Yes,Yes,33000
+10007850,University of Bath,UUUPH-N140~USPH-AFB26,Mathematics and Physics,http://www.bath.ac.uk/study/kis/2024-2025/programme/USPH-AFB26,No,No,No,33000
+10007850,University of Bath,UUUPH-N140~USPH-AFB26,Mathematics and Physics,http://www.bath.ac.uk/study/kis/2024-2025/programme/USPH-AFB26,No,No,No,35000
+10007850,University of Bath,UUUPH-N141~USPH-AKB26,Mathematics and Physics with professional placement or study abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/USPH-AKB26,No,Yes,Yes,33000
+10007850,University of Bath,UUUPH-N141~USPH-AKB26,Mathematics and Physics with professional placement or study abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/USPH-AKB26,No,Yes,Yes,35000
+10007850,University of Bath,UUUPH-N142~USPH-AFM26,Mathematics and Physics,http://www.bath.ac.uk/study/kis/2024-2025/programme/USPH-AFM26,No,No,No,33000
+10007850,University of Bath,UUUPH-N142~USPH-AFM26,Mathematics and Physics,http://www.bath.ac.uk/study/kis/2024-2025/programme/USPH-AFM26,No,No,No,35000
+10007850,University of Bath,UUUPH-N143~USPH-AKM26,Mathematics and Physics with professional placement or study abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/USPH-AKM26,No,Yes,Yes,33000
+10007850,University of Bath,UUUPH-N143~USPH-AKM26,Mathematics and Physics with professional placement or study abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/USPH-AKM26,No,Yes,Yes,35000
+10007850,University of Bath,UUUPL-A100~UHPL-AFB54,Politics with Economics,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AFB54,No,No,No,37000
+10007850,University of Bath,UUUPL-A100~UHPL-AFB54,Politics with Economics,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AFB54,No,No,No,31500
+10007850,University of Bath,UUUPL-A101~UHPL-AKB54,Politics with Economics with professional placement or study abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AKB54,No,Yes,Yes,37000
+10007850,University of Bath,UUUPL-A101~UHPL-AKB54,Politics with Economics with professional placement or study abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AKB54,No,Yes,Yes,31500
+10007850,University of Bath,UUUPL-A110~UHPL-AFB53,Politics and International Relations,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AFB53,No,No,No,31500
+10007850,University of Bath,UUUPL-A111~UHPL-AKB53,Politics and International Relations with professional placement or study abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AKB53,No,Yes,Yes,31500
+10007850,University of Bath,UUUPL-B100~UHPL-AKB50,International Management and Modern Languages (French) with study or work abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AKB50,No,Yes,Yes,33500
+10007850,University of Bath,UUUPL-B100~UHPL-AKB50,International Management and Modern Languages (French) with study or work abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AKB50,No,Yes,Yes,30000
+10007850,University of Bath,UUUPL-B110~UHPL-AKB51,International Management and Modern Languages (German) with study or work abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AKB51,No,Yes,Yes,33500
+10007850,University of Bath,UUUPL-B110~UHPL-AKB51,International Management and Modern Languages (German) with study or work abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AKB51,No,Yes,Yes,28500
+10007850,University of Bath,UUUPL-B120~UHPL-AKB52,International Management and Modern Languages (Spanish) with study or work abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AKB52,No,Yes,Yes,33500
+10007850,University of Bath,UUUPL-B120~UHPL-AKB52,International Management and Modern Languages (Spanish) with study or work abroad,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AKB52,No,Yes,Yes,30000
+10007850,University of Bath,UUUPL-O900~UHPL-AKB67,International Politics and Modern Languages (French),http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AKB67,No,Yes,Yes,31500
+10007850,University of Bath,UUUPL-O900~UHPL-AKB67,International Politics and Modern Languages (French),http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AKB67,No,Yes,Yes,30000
+10007850,University of Bath,UUUPL-O900~UHPL-AKB68,International Politics and Modern Languages (German),http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AKB68,No,Yes,Yes,31500
+10007850,University of Bath,UUUPL-O900~UHPL-AKB68,International Politics and Modern Languages (German),http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AKB68,No,Yes,Yes,28500
+10007850,University of Bath,UUUPL-O900~UHPL-AKB69,International Politics and Modern Languages (Spanish),http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AKB69,No,Yes,Yes,31500
+10007850,University of Bath,UUUPL-O900~UHPL-AKB69,International Politics and Modern Languages (Spanish),http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AKB69,No,Yes,Yes,30000
+10007850,University of Bath,UUUPL-O900~UHPL-AKB70,International Politics and Modern Languages (Russian),http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AKB70,No,Yes,Yes,31500
+10007850,University of Bath,UUUPL-O900~UHPL-AKB70,International Politics and Modern Languages (Russian),http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AKB70,No,Yes,Yes,28500
+10007850,University of Bath,UUUPL-O900~UHPL-AKB71,International Politics and Modern Languages (Italian),http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AKB71,No,Yes,Yes,31500
+10007850,University of Bath,UUUPL-O900~UHPL-AKB71,International Politics and Modern Languages (Italian),http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AKB71,No,Yes,Yes,28500
+10007850,University of Bath,UUUPL-O900~UHPL-AKB72,International Politics and Modern Languages (Mandarin),http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AKB72,No,Yes,Yes,31500
+10007850,University of Bath,UUUPL-O900~UHPL-AKB72,International Politics and Modern Languages (Mandarin),http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AKB72,No,Yes,Yes,28500
+10007850,University of Bath,UUUPL-R900~UHPL-AKB55,Modern Languages (French and German),http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AKB55,No,Yes,Yes,28500
+10007850,University of Bath,UUUPL-R900~UHPL-AKB55,Modern Languages (French and German),http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AKB55,No,Yes,Yes,30000
+10007850,University of Bath,UUUPL-R900~UHPL-AKB56,Modern Languages (French and Spanish),http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AKB56,No,Yes,Yes,30000
+10007850,University of Bath,UUUPL-R900~UHPL-AKB56,Modern Languages (French and Spanish),http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AKB56,No,Yes,Yes,30000
+10007850,University of Bath,UUUPL-R900~UHPL-AKB57,Modern Languages (French and Russian),http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AKB57,No,Yes,Yes,28500
+10007850,University of Bath,UUUPL-R900~UHPL-AKB57,Modern Languages (French and Russian),http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AKB57,No,Yes,Yes,30000
+10007850,University of Bath,UUUPL-R900~UHPL-AKB58,Modern Languages (French and Italian),http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AKB58,No,Yes,Yes,28500
+10007850,University of Bath,UUUPL-R900~UHPL-AKB58,Modern Languages (French and Italian),http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AKB58,No,Yes,Yes,30000
+10007850,University of Bath,UUUPL-R900~UHPL-AKB59,Modern Languages (French and Mandarin),http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AKB59,No,Yes,Yes,28500
+10007850,University of Bath,UUUPL-R900~UHPL-AKB59,Modern Languages (French and Mandarin),http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AKB59,No,Yes,Yes,30000
+10007850,University of Bath,UUUPL-R900~UHPL-AKB60,Modern Languages (German and Spanish),http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AKB60,No,Yes,Yes,28500
+10007850,University of Bath,UUUPL-R900~UHPL-AKB60,Modern Languages (German and Spanish),http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AKB60,No,Yes,Yes,30000
+10007850,University of Bath,UUUPL-R900~UHPL-AKB61,Modern Languages (German and Russian),http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AKB61,No,Yes,Yes,28500
+10007850,University of Bath,UUUPL-R900~UHPL-AKB62,Modern Languages (German and Italian),http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AKB62,No,Yes,Yes,28500
+10007850,University of Bath,UUUPL-R900~UHPL-AKB63,Modern Languages (German and Mandarin),http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AKB63,No,Yes,Yes,28500
+10007850,University of Bath,UUUPL-R900~UHPL-AKB64,Modern Languages (Spanish and Russian),http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AKB64,No,Yes,Yes,28500
+10007850,University of Bath,UUUPL-R900~UHPL-AKB64,Modern Languages (Spanish and Russian),http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AKB64,No,Yes,Yes,30000
+10007850,University of Bath,UUUPL-R900~UHPL-AKB65,Modern Languages (Spanish and Italian),http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AKB65,No,Yes,Yes,28500
+10007850,University of Bath,UUUPL-R900~UHPL-AKB65,Modern Languages (Spanish and Italian),http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AKB65,No,Yes,Yes,30000
+10007850,University of Bath,UUUPL-R900~UHPL-AKB66,Modern Languages (Spanish and Mandarin),http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AKB66,No,Yes,Yes,28500
+10007850,University of Bath,UUUPL-R900~UHPL-AKB66,Modern Languages (Spanish and Mandarin),http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPL-AKB66,No,Yes,Yes,30000
+10007850,University of Bath,UUUPS-F110~UHPS-AFB10,Psychology,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPS-AFB10,No,No,No,25500
+10007850,University of Bath,UUUPS-F111~UHPS-AKB10,Psychology,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHPS-AKB10,No,Yes,No,25500
+10007850,University of Bath,UUUSL-G110~USSL-AFB11,Biology,http://www.bath.ac.uk/study/kis/2024-2025/programme/USSL-AFB11,No,No,No,26500
+10007850,University of Bath,UUUSL-G111~USSL-AKB11,Biology,http://www.bath.ac.uk/study/kis/2024-2025/programme/USSL-AKB11,No,Yes,No,26500
+10007850,University of Bath,UUUSL-G112~USSL-AFM11,Biology,http://www.bath.ac.uk/study/kis/2024-2025/programme/USSL-AFM11,No,No,No,26500
+10007850,University of Bath,UUUSL-G113~USSL-AKM11,Biology,http://www.bath.ac.uk/study/kis/2024-2025/programme/USSL-AKM11,No,Yes,No,26500
+10007850,University of Bath,UUUSL-G120~USSL-AFB10,Biochemistry,http://www.bath.ac.uk/study/kis/2024-2025/programme/USSL-AFB10,No,No,No,30000
+10007850,University of Bath,UUUSL-G121~USSL-AKB10,Biochemistry,http://www.bath.ac.uk/study/kis/2024-2025/programme/USSL-AKB10,No,Yes,No,30000
+10007850,University of Bath,UUUSL-G122~USSL-AFM10,Biochemistry,http://www.bath.ac.uk/study/kis/2024-2025/programme/USSL-AFM10,No,No,No,30000
+10007850,University of Bath,UUUSL-G123~USSL-AKM10,Biochemistry,http://www.bath.ac.uk/study/kis/2024-2025/programme/USSL-AKM10,No,Yes,No,30000
+10007850,University of Bath,UUUSL-G130~USSL-AFB12,Biomedical Sciences,http://www.bath.ac.uk/study/kis/2024-2025/programme/USSL-AFB12,No,No,No,30000
+10007850,University of Bath,UUUSL-G131~USSL-AKB12,Biomedical Sciences,http://www.bath.ac.uk/study/kis/2024-2025/programme/USSL-AKB12,No,Yes,No,30000
+10007850,University of Bath,UUUSL-G132~USSL-AFM12,Biomedical Sciences,http://www.bath.ac.uk/study/kis/2024-2025/programme/USSL-AFM12,No,No,No,30000
+10007850,University of Bath,UUUSL-G133~USSL-AKM12,Biomedical Sciences,http://www.bath.ac.uk/study/kis/2024-2025/programme/USSL-AKM12,No,Yes,No,30000
+10007850,University of Bath,UUUSL-M100~USSL-AFM14,Pharmacy,http://www.bath.ac.uk/study/kis/2024-2025/programme/USSL-AFM14,No,No,No,35000
+10007850,University of Bath,UUUSL-M102~USSL-PFM14,Pharmacy (University of Plymouth campus),http://www.bath.ac.uk/study/kis/2024-2025/programme/USSL-PFM14,No,No,No,35000
+10007850,University of Bath,UUUSL-M103~USSL-PFM15,Pharmacy with Preparatory Year (University of Plymouth campus),http://www.bath.ac.uk/study/kis/2024-2025/programme/USSL-PFM15,Yes,No,No,35000
+10007850,University of Bath,UUUSL-M110~USSL-AFB13,Pharmacology,http://www.bath.ac.uk/study/kis/2024-2025/programme/USSL-AFB13,No,No,No,28000
+10007850,University of Bath,UUUSL-M111~USSL-AKB13,Pharmacology,http://www.bath.ac.uk/study/kis/2024-2025/programme/USSL-AKB13,No,Yes,No,28000
+10007850,University of Bath,UUUSL-M112~USSL-AKM13,Pharmacology,http://www.bath.ac.uk/study/kis/2024-2025/programme/USSL-AKM13,No,Yes,No,28000
+10007850,University of Bath,UUUSP-U100~UHSP-AFB32,Social Policy,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHSP-AFB32,No,No,No,28000
+10007850,University of Bath,UUUSP-U101~UHSP-AKB32,Social Policy,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHSP-AKB32,No,Yes,No,28000
+10007850,University of Bath,UUUSP-U110~UHSP-AFB35,Sociology,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHSP-AFB35,No,No,No,27000
+10007850,University of Bath,UUUSP-U111~UHSP-AKB35,Sociology,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHSP-AKB35,No,Yes,No,27000
+10007850,University of Bath,UUUSP-U120~UHSP-AFB36,Sociology and Social Policy,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHSP-AFB36,No,No,No,28000
+10007850,University of Bath,UUUSP-U120~UHSP-AFB36,Sociology and Social Policy,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHSP-AFB36,No,No,No,27000
+10007850,University of Bath,UUUSP-U121~UHSP-AKB36,Sociology and Social Policy,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHSP-AKB36,No,Yes,No,28000
+10007850,University of Bath,UUUSP-U121~UHSP-AKB36,Sociology and Social Policy,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHSP-AKB36,No,Yes,No,27000
+10007850,University of Bath,UUUSP-U130~UHSP-AFB37,Social Sciences,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHSP-AFB37,No,No,No,28000
+10007850,University of Bath,UUUSP-U131~UHSP-AKB37,Social Sciences,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHSP-AKB37,No,Yes,No,28000
+10007850,University of Bath,UUUSP-U140~UHSP-AFB31,International Development with Economics,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHSP-AFB31,No,No,No,28000
+10007850,University of Bath,UUUSP-U140~UHSP-AFB31,International Development with Economics,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHSP-AFB31,No,No,No,37000
+10007850,University of Bath,UUUSP-U141~UHSP-AKB31,International Development with Economics,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHSP-AKB31,No,Yes,No,28000
+10007850,University of Bath,UUUSP-U141~UHSP-AKB31,International Development with Economics,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHSP-AKB31,No,Yes,No,37000
+10007850,University of Bath,UUUSP-U150~UHSP-AFB30,Criminology,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHSP-AFB30,No,No,No,27000
+10007850,University of Bath,UUUSP-U151~UHSP-AKB30,Criminology,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHSP-AKB30,No,Yes,No,27000
+10007850,University of Bath,UUUSP-U160~UHSP-AFB33,Social Work and Applied Social Studies,http://www.bath.ac.uk/study/kis/2024-2025/programme/UHSP-AFB33,No,No,No,33000
